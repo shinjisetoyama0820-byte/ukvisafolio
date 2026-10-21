@@ -23,9 +23,11 @@ content:
         label: 公開状態
         type: select
         options:
-          - label: 下書き
-            value: draft
-          - label: 公開
+          values:
+            - value: draft
+              label: 下書き
+            - value: published
+              label: 公開
             value: published
         default: draft
       - name: description
