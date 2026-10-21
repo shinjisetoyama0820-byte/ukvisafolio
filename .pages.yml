@@ -1,0 +1,34 @@
+
+content:
+  - name: articles
+    label: 英国ビザ記事
+    type: collection
+    path: content/articles
+    format: yaml-frontmatter
+    filename: "{primary}.md"
+    fields:
+      - name: title
+        label: 記事タイトル
+        type: string
+        required: true
+      - name: date
+        label: 公開日
+        type: date
+        required: true
+      - name: status
+        label: 公開状態
+        type: select
+        options:
+          - name: draft
+            label: 下書き
+          - name: published
+            label: 公開
+      - name: description
+        label: 記事の説明
+        type: text
+      - name: source_url
+        label: 英国政府公式URL
+        type: string
+      - name: body
+        label: 記事本文
+        type: rich-text
