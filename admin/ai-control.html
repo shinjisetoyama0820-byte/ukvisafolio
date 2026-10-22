@@ -58,4 +58,33 @@ footer{text-align:center;color:#738095;padding:30px;font-size:12px}
 </main>
 <footer>STRATOVISA AI CONTROL CENTER — Development</footer>
 </body>
+<section id="server-control" style="max-width:1100px;margin:24px auto;padding:24px;background:white;border-radius:12px">
+  <h2>サーバー接続テスト</h2>
+  <p>AI実行基盤との通信状態を確認します。</p>
+  <label for="instruction">指示メモ（まだサーバーには送信されません）</label>
+  <textarea id="instruction" rows="4" style="display:block;width:100%;padding:12px;margin:12px 0" placeholder="例：英国の配偶者ビザの最新情報を調査"></textarea>
+  <button id="test-connection" type="button" style="background:#142b45;color:white;border:0;padding:12px 20px;border-radius:8px;cursor:pointer">サーバー接続を確認</button>
+  <p id="server-result" role="status">未確認</p>
+</section>
+
+<script>
+document.getElementById("test-connection").addEventListener("click", async () => {
+  const output = document.getElementById("server-result");
+  output.textContent = "接続確認中...";
+  try {
+    const response = await fetch("/.netlify/functions/health", {
+      method: "GET",
+      cache: "no-store"
+    });
+    if (!response.ok) throw new Error("HTTP " + response.status);
+    const data = await response.json();
+    output.textContent = data.status === "ok"
+      ? "接続成功：サーバー稼働中（AIは未接続）"
+      : "サーバーから予期しない応答がありました";
+  } catch (error) {
+    output.textContent = "接続失敗：" + error.message;
+  }
+});
+</script>
+
 </html>
