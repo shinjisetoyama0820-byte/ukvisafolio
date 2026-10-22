@@ -1,19 +1,38 @@
 
+import { timingSafeEqual } from "node:crypto";
+
 export default async function handler(request) {
-  if (request.method !== "GET") {
+  if (request.method !== "POST") {
     return Response.json(
       { error: "Method not allowed" },
       { status: 405 }
     );
   }
 
-  const configuredToken = process.env.ADMIN_API_TOKEN;
+  const expected = process.env.ADMIN_API_TOKEN;
+  const authorization = request.headers.get("Authorization") || "";
+  const prefix = "Bearer ";
 
-  return Response.json({
-    status: "ok",
-    token_configured: Boolean(configuredToken),
-    message: configuredToken
-      ? "認証設定を確認しました"
-      : "認証トークンが未設定です"
-  });
+  if (!expected || !authorization.startsWith(prefix)) {
+    return Response.json(
+      { authenticated: false },
+      { status: 401 }
+    );
+  }
+
+  const received = authorization.slice(prefix.length);
+  const a = Buffer.from(received);
+  const b = Buffer.from(expected);
+
+  const valid =
+    a.length === b.length &&
+    timingSafeEqual(a, b);
+
+  return Response.json(
+    { authenticated: valid },
+    {
+      status: valid ? 200 : 401,
+      headers: { "Cache-Control": "no-store" }
+    }
+  );
 }
