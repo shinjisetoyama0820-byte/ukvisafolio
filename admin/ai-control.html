@@ -1,0 +1,61 @@
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>STRATOVISA AI CONTROL CENTER</title>
+<style>
+:root{font-family:system-ui,-apple-system,sans-serif;color:#142b45;background:#f3f6fa}
+*{box-sizing:border-box}
+body{margin:0}
+header{background:#142b45;color:white;padding:24px}
+header h1{font-size:22px;margin:0}
+header p{color:#cad5e2;margin:8px 0 0}
+main{max-width:1100px;margin:auto;padding:24px}
+h2{font-size:19px;margin:28px 0 14px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:14px}
+.card{background:white;border:1px solid #e1e7ee;border-radius:12px;padding:20px}
+.card h3{margin:0 0 10px;font-size:16px}
+.status{font-size:13px;color:#69788a}
+.dot{display:inline-block;width:9px;height:9px;background:#9ca3af;border-radius:50%;margin-right:6px}
+a.button{display:inline-block;background:#142b45;color:white;text-decoration:none;padding:12px 18px;border-radius:8px}
+.notice{background:#fff7e8;border-left:4px solid #c59a50;padding:16px;border-radius:6px}
+footer{text-align:center;color:#738095;padding:30px;font-size:12px}
+</style>
+</head>
+<body>
+<header>
+<h1>STRATOVISA AI CONTROL CENTER</h1>
+<p>記事制作・AIエージェント統合管理</p>
+</header>
+<main>
+<div class="notice">
+<strong>現在の状態：初期構築中</strong>
+<p>AIの自動実行機能は未接続です。以下は実際の接続状況を示しています。</p>
+</div>
+
+<h2>AIエージェント</h2>
+<div class="grid">
+<div class="card"><h3>司令塔AI</h3><div class="status"><span class="dot"></span>未接続</div><p>タスクの割り当て・実行管理</p></div>
+<div class="card"><h3>リサーチAI</h3><div class="status"><span class="dot"></span>未接続</div><p>英国政府の公式情報を調査</p></div>
+<div class="card"><h3>SEO・GEO AI</h3><div class="status"><span class="dot"></span>未接続</div><p>検索流入・記事改善の分析</p></div>
+<div class="card"><h3>ライターAI</h3><div class="status"><span class="dot"></span>未接続</div><p>記事の下書きを作成</p></div>
+<div class="card"><h3>品質管理AI</h3><div class="status"><span class="dot"></span>未接続</div><p>記事の根拠・正確性を確認</p></div>
+</div>
+
+<h2>記事管理</h2>
+<div class="card">
+<p>現在利用できる記事管理機能はこちら。</p>
+<a class="button" href="https://pagescms.org/" target="_blank" rel="noopener noreferrer">Pages CMSを開く →</a>
+</div>
+
+<h2>今後追加する機能</h2>
+<div class="card">
+<p>AIへの指示入力・タスク進捗・記事承認・実行履歴・API費用・エラー時の再実行</p>
+<p class="status">現在は未実装。AIの実行基盤と接続した後に利用可能になります。</p>
+</div>
+</main>
+<footer>STRATOVISA AI CONTROL CENTER — Development</footer>
+</body>
+</html>
