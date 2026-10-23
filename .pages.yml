@@ -5,7 +5,6 @@ content:
     type: collection
     path: content/articles
     format: yaml-frontmatter
-    filename: "{primary}.md"
     view:
       fields: [title, date, status]
       primary: title
