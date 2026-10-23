@@ -4,8 +4,11 @@ content:
     label: 英国ビザ記事
     type: collection
     path: content/articles
-    format: yaml-frontmatter
-    filename: "{primary}.md"
+ 　 format: yaml-frontmatter
+　　extension: md
+　　filename:
+　  template: "{primary}.md"
+ 　 field: create
     view:
       fields: [title, date, status]
       primary: title
