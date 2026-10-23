@@ -19,14 +19,15 @@ content:
         label: 公開日
         type: date
         required: true
-      - name: status
+          - name: status
         label: 公開状態
         type: select
-                options:
-          - value: draft
-            label: 下書き
-          - value: published
-            label: 公開
+        options:
+          values:
+            - name: draft
+              label: 下書き
+            - name: published
+              label: 公開
         default: draft
       - name: description
         label: 記事の説明
