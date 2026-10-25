@@ -42,6 +42,55 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 </script>'''
 
+# Opt-in currency converter: inserted only where the article contains the shortcode.
+GBP_JPY_SHORTCODE = '[GBP_JPY_CONVERTER]'
+GBP_JPY_WIDGET = r'''<section class="gbp-jpy-widget" aria-label="ポンド円換算ツール">
+<style>
+.gbp-jpy-widget{border:1px solid #cbdde3;border-radius:12px;padding:20px;margin:24px 0;background:#f6fafb}
+.gbp-jpy-widget label{display:block;font-weight:700;margin-bottom:7px}
+.gbp-jpy-widget input{box-sizing:border-box;width:100%;max-width:340px;padding:12px;border:1px solid #8b9ba6;border-radius:7px;font:inherit;background:#fff;color:#203447}
+.gbp-jpy-widget output{display:block;font-size:1.45rem;font-weight:750;margin-top:12px;overflow-wrap:anywhere}
+.gbp-jpy-widget .fx-meta{font-size:.85rem;color:#586777;margin-top:6px;line-height:1.6}
+</style>
+<label for="gbp-jpy-amount">換算したい金額（GBP・ポンド）</label>
+<input id="gbp-jpy-amount" type="number" min="0" step="any" value="5169" inputmode="decimal">
+<output id="gbp-jpy-result" aria-live="polite">為替レートを取得しています…</output>
+<p id="gbp-jpy-meta" class="fx-meta">参考レートを取得中</p>
+<p class="fx-meta">参考値です。為替レートは提供元の最新公表値を使用し、通常は営業日に更新されます。実際の支払額はカード会社等の為替レートや手数料で変わります。</p>
+<script>
+(function(){
+  const input=document.getElementById('gbp-jpy-amount');
+  const output=document.getElementById('gbp-jpy-result');
+  const meta=document.getElementById('gbp-jpy-meta');
+  if(!input||!output||!meta)return;
+  let rate=null;
+  function render(){
+    const amount=Number(input.value);
+    if(input.value.trim()===''||!Number.isFinite(amount)||amount<0){output.textContent='0以上の金額を入力してください';return;}
+    if(rate===null){output.textContent='為替レートを取得しています…';return;}
+    output.textContent='約 '+new Intl.NumberFormat('ja-JP',{style:'currency',currency:'JPY',maximumFractionDigits:0}).format(amount*rate);
+  }
+  input.addEventListener('input',render);
+  // Frankfurter serves the latest published reference rate (business days).
+  fetch('https://api.frankfurter.dev/v1/latest?base=GBP&symbols=JPY',{cache:'no-store'})
+    .then(function(response){if(!response.ok)throw new Error('HTTP '+response.status);return response.json();})
+    .then(function(data){
+      const next=Number(data&&data.rates&&data.rates.JPY);
+      if(!Number.isFinite(next)||next<=0||!/^\d{4}-\d{2}-\d{2}$/.test(data.date||''))throw new Error('Invalid rate');
+      rate=next;
+      meta.textContent='参考レート：1 GBP = '+next.toLocaleString('ja-JP',{maximumFractionDigits:4})+' JPY ／ レート公表日：'+data.date+'（Frankfurter）';
+      render();
+    })
+    .catch(function(){output.textContent='現在、換算できません';meta.textContent='為替レートを取得できませんでした。時間をおいて再度お試しください。';});
+  render();
+})();
+</script>
+</section>'''
+
+def add_currency_converter(markdown_html):
+    # The Markdown content is escaped before conversion; only this exact shortcode is trusted.
+    return markdown_html.replace('<p>'+GBP_JPY_SHORTCODE+'</p>', GBP_JPY_WIDGET)
+
 def new_badge(date):
     return f'<span class="new-badge" data-published="{esc(date)}" aria-label="新着記事">NEW</span>'
 
@@ -68,7 +117,7 @@ for f in sorted(CONT.glob('*.md')):
     desc = str(meta.get('description') or '')
     source = safe_url(meta.get('source_url'))
     # Markdown HTML is escaped before conversion; embedded raw HTML and script cannot execute.
-    safe_body = mistune.html(html.escape(body))
+    safe_body = add_currency_converter(mistune.html(html.escape(body)))
     citation = f'<p><strong>一次情報：</strong><a rel="noopener noreferrer" href="{esc(source)}">英国政府公式ページ</a></p>' if source else '<p class="notice">公式情報へのリンクは未設定です。公開前に一次情報を確認してください。</p>'
     page = layout(title, desc, f'<p class="muted">公開日：{esc(date)} {new_badge(date)}</p><h1>{esc(title)}</h1>{safe_body}{citation}<p class="notice">ビザ制度は変更される場合があります。申請前に英国政府の最新情報を確認してください。</p>', f'https://ukvisafolio.com/articles/{f.stem}.html')
     (OUT / (f.stem + '.html')).write_text(page, encoding='utf-8')
