@@ -114,8 +114,42 @@ def add_currency_converter(markdown_html):
 def new_badge(timestamp):
     return f'<span class="new-badge" data-new-since="{esc(timestamp)}" aria-label="新着記事">NEW</span>' if timestamp else ''
 
-def layout(title, desc, body, canonical):
-    return f'''<!doctype html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{esc(title)} | UK VISA FOLIO</title><meta name="description" content="{esc(desc)}"><link rel="canonical" href="{esc(canonical)}"><style>:root{{color-scheme:light}}body{{margin:0;font:16px/1.9 system-ui,-apple-system,sans-serif;background:#f4f7fa;color:#203447}}main{{max-width:820px;margin:36px auto;padding:32px;background:white;border-radius:14px;box-shadow:0 2px 16px #0000000a}}h1{{line-height:1.35}}a{{color:#086d79}}.muted{{color:#586777}}.notice{{background:#eff7f7;padding:14px;border-left:3px solid #086d79}}ul{{padding-left:1.5em}}li{{margin:16px 0}}@media(max-width:680px){{main{{margin:0;padding:22px;border-radius:0}}}}</style>{NEW_ASSETS}</head><body><main><nav><a href="/">トップ</a> / <a href="/articles.html">英国ビザ記事一覧</a></nav>{body}</main></body></html>'''
+SITE_STYLE = r"""
+:root{color-scheme:light;--navy:#102b47;--ink:#233448;--gold:#b18a4c;--line:#dce4ea;--muted:#5c6b7a}
+*{box-sizing:border-box}body{margin:0;font:16px/1.85 system-ui,-apple-system,"Hiragino Kaku Gothic ProN","Noto Sans JP",sans-serif;background:#f5f7fa;color:var(--ink)}
+a{color:#12617d;text-underline-offset:3px}a:hover{color:#0b4055}
+.site-header{background:var(--navy);color:white;border-bottom:3px solid var(--gold)}
+.site-header-inner{max-width:1040px;margin:auto;padding:20px 24px;display:flex;align-items:center;justify-content:space-between;gap:20px;flex-wrap:wrap}
+.brand{color:white;text-decoration:none;font-weight:800;letter-spacing:.09em;font-size:1.05rem}.brand:hover{color:#fff}
+.site-nav{display:flex;flex-wrap:wrap;gap:22px}.site-nav a{color:#eaf1f7;text-decoration:none;font-size:.92rem;font-weight:650}.site-nav a:hover{text-decoration:underline}
+.page-wrap{max-width:1040px;margin:38px auto 64px;padding:0 20px}.page-surface{background:#fff;border:1px solid var(--line);border-radius:16px;box-shadow:0 8px 32px #102b470a;padding:clamp(24px,4.5vw,54px)}
+.breadcrumb{font-size:.83rem;color:var(--muted);margin-bottom:24px}.breadcrumb a{color:var(--muted)}
+h1{font-size:clamp(1.65rem,3.4vw,2.35rem);line-height:1.45;color:var(--navy);margin:10px 0 18px}h2{color:var(--navy);line-height:1.5;margin-top:2.2em;border-bottom:1px solid var(--line);padding-bottom:.35em}h3{color:var(--navy);line-height:1.5}
+p,li{overflow-wrap:anywhere}ul,ol{padding-left:1.5em}li{margin:9px 0}.muted{color:var(--muted)}
+.eyebrow{font-size:.75rem;letter-spacing:.16em;color:#8b6937;font-weight:800;text-transform:uppercase;margin:0 0 8px}
+.lead{font-size:1.02rem;color:#4a5d70;max-width:750px;margin-bottom:26px}
+.section-rule{width:54px;height:3px;background:var(--gold);margin:22px 0 28px}
+.article-grid{list-style:none;padding:0;margin:0;display:grid;gap:14px}
+.article-card{margin:0;border:1px solid var(--line);border-radius:12px;background:#fff;transition:border-color .2s,box-shadow .2s}
+.article-card:hover{border-color:#b5c5d2;box-shadow:0 5px 20px #102b4712}
+.article-card>a{display:block;padding:24px;text-decoration:none;color:inherit}
+.article-meta{font-size:.8rem;color:var(--muted);display:flex;align-items:center;flex-wrap:wrap;gap:10px;margin-bottom:8px}
+.article-kind{display:inline-block;background:#eaf0f5;color:#25425d;padding:2px 10px;border-radius:4px;font-weight:700}
+.article-card h2{border:0;padding:0;margin:0 0 10px;font-size:1.12rem;line-height:1.6;color:var(--navy)}
+.article-card p{font-size:.9rem;color:#526273;margin:0;line-height:1.75}
+.article-more{display:inline-block;color:#14677a;font-size:.86rem;font-weight:750;margin-top:12px}
+.info-panel{margin-top:32px;background:#f6f8fa;border:1px solid var(--line);border-left:3px solid var(--gold);border-radius:7px;padding:20px 24px;font-size:.9rem}
+.info-panel strong{color:var(--navy)}.info-panel p{margin:7px 0 0}
+.empty-state{padding:40px 24px;border:1px dashed #becbd5;border-radius:12px;text-align:center;background:#fafbfd;color:var(--muted)}
+.article-detail{max-width:820px;margin:auto}.article-detail h1{font-size:clamp(1.55rem,3vw,2.15rem)}
+.article-detail p{margin:1.1em 0}.article-detail img{max-width:100%;height:auto}
+.notice{background:#f2f7f8;padding:16px 20px;border-left:3px solid #28788a;border-radius:4px}
+.site-footer{text-align:center;color:#667586;font-size:.8rem;padding:0 20px 36px}
+@media(max-width:640px){.site-header-inner{padding:16px 20px}.site-nav{gap:15px}.page-wrap{margin:20px auto 36px;padding:0 12px}.page-surface{border-radius:12px;padding:24px 18px}.article-card>a{padding:18px}.article-card h2{font-size:1.04rem}}
+"""
+
+def layout(title, desc, body, canonical, page_class='article-detail'):
+    return f'''<!doctype html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{esc(title)} | UK VISA FOLIO</title><meta name="description" content="{esc(desc)}"><link rel="canonical" href="{esc(canonical)}"><style>{SITE_STYLE}</style>{NEW_ASSETS}</head><body><header class="site-header"><div class="site-header-inner"><a class="brand" href="/">UK VISA FOLIO</a><nav class="site-nav" aria-label="メインナビゲーション"><a href="/">トップ</a><a href="/visa-news.html">NEWS</a><a href="/articles.html">解説記事</a></nav></div></header><div class="page-wrap"><main class="page-surface {esc(page_class)}"><nav class="breadcrumb" aria-label="現在位置"><a href="/">トップ</a> / <a href="/articles.html">解説記事</a></nav>{body}</main></div><footer class="site-footer">UK VISA FOLIO — 英国ビザ申請に役立つ情報を分かりやすく。</footer></body></html>'''
 
 for f in sorted(CONT.glob('*.md')):
     if not re.fullmatch(r'[a-z0-9][a-z0-9-]*', f.stem):
@@ -147,10 +181,30 @@ for f in sorted(CONT.glob('*.md')):
 
 entries.sort(key=lambda x: (x['date'], x['slug']), reverse=True)
 def listing(group, heading, intro, canonical):
-    subset=[x for x in entries if x['category']==group]
-    items=''.join(f'<li><a href="/articles/{esc(x["slug"])}.html"><strong>{esc(x["title"])}</strong></a> {new_badge(x["timestamp"])}<div class="muted">{esc(x["date"])} — {esc(x["description"])}</div></li>' for x in subset)
-    body=f'<h1>{heading}</h1><p>{intro}</p><ul>'+(items or '<li>記事を準備しています。</li>')+'</ul>'
-    (ROOT / ('visa-news.html' if group=='news' else 'articles.html')).write_text(layout(heading, intro, body, canonical),encoding='utf-8')
+    subset = [x for x in entries if x['category'] == group]
+    kind = '制度変更・最新情報' if group == 'news' else '申請ガイド'
+    cards = ''.join(
+        '<li class="article-card"><a href="/articles/' + esc(x['slug']) + '.html">'
+        + '<div class="article-meta"><span class="article-kind">' + esc(kind) + '</span>'
+        + '<time datetime="' + esc(x['date']) + '">' + esc(x['date']) + '</time>'
+        + new_badge(x['timestamp']) + '</div>'
+        + '<h2>' + esc(x['title']) + '</h2>'
+        + '<p>' + esc(x['description']) + '</p><span class="article-more">記事を読む →</span>'
+        + '</a></li>' for x in subset
+    )
+    content = '<ul class="article-grid">' + cards + '</ul>' if cards else '<div class="empty-state">現在、記事を準備しています。</div>'
+    intro_panel = ('英国政府の公式情報を確認し、制度の発表日・施行日・対象者を区別してお伝えします。'
+                   if group == 'news' else '申請条件や必要書類は個人の状況によって異なります。申請前に必ず最新の公式情報をご確認ください。')
+    body = ('<p class="eyebrow">UK VISA FOLIO / ' + ('NEWS' if group == 'news' else 'GUIDES') + '</p>'
+            + '<h1>' + esc(heading) + '</h1><p class="lead">' + esc(intro) + '</p>'
+            + '<div class="section-rule" aria-hidden="true"></div>' + content
+            + '<aside class="info-panel"><strong>情報の確認について</strong><p>' + esc(intro_panel)
+            + ' <a href="https://www.gov.uk/browse/visas-immigration" rel="noopener noreferrer">英国政府の公式情報を見る</a></p>'
+            + '<p>UK VISA FOLIOは英国政府の公式サイトではありません。</p></aside>')
+    page = layout(heading, intro, body, canonical, 'article-listing')
+    if group == 'news':
+        page = page.replace('<nav class="breadcrumb" aria-label="現在位置"><a href="/">トップ</a> / <a href="/articles.html">解説記事</a></nav>', '<nav class="breadcrumb" aria-label="現在位置"><a href="/">トップ</a> / NEWS</nav>')
+    (ROOT / ('visa-news.html' if group == 'news' else 'articles.html')).write_text(page, encoding='utf-8')
 
 listing('guide','英国ビザの解説記事','英国ビザの書類や手続きを分かりやすく説明します。','https://ukvisafolio.com/articles.html')
 listing('news','英国ビザNEWS','英国ビザ制度の変更情報を掲載します。','https://ukvisafolio.com/visa-news.html')
