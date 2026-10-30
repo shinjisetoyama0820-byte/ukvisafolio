@@ -126,3 +126,40 @@ for f in sorted(CONT.glob('*.md')):
     try:
         front, body = raw[4:].split('\n---\n', 1)
         meta = yaml.safe_load(front) or {}
+    except (ValueError, yaml.YAMLError):
+        continue
+    if meta.get('status') != 'published':
+        continue
+    title = str(meta.get('title') or '').strip()
+    if not title:
+        continue
+    date = str(meta.get('date') or '')
+    category = 'news' if meta.get('category') == 'news' else 'guide'
+    timestamp = badge_time(meta)
+    desc = str(meta.get('description') or '')
+    source = safe_url(meta.get('source_url'))
+    # Markdown HTML is escaped before conversion; embedded raw HTML and script cannot execute.
+    safe_body = add_currency_converter(mistune.html(html.escape(body)))
+    citation = f'<p><strong>一次情報：</strong><a rel="noopener noreferrer" href="{esc(source)}">英国政府公式ページ</a></p>' if source else '<p class="notice">公式情報へのリンクは未設定です。公開前に一次情報を確認してください。</p>'
+    page = layout(title, desc, f'<p class="muted">公開日：{esc(date)} {new_badge(timestamp)}</p><h1>{esc(title)}</h1>{safe_body}{citation}<p class="notice">ビザ制度は変更される場合があります。申請前に英国政府の最新情報を確認してください。</p>', f'https://ukvisafolio.com/articles/{f.stem}.html')
+    (OUT / (f.stem + '.html')).write_text(page, encoding='utf-8')
+    entries.append({'date': date, 'title': title, 'description': desc, 'slug': f.stem, 'category':category, 'timestamp':timestamp})
+
+entries.sort(key=lambda x: (x['date'], x['slug']), reverse=True)
+def listing(group, heading, intro, canonical):
+    subset=[x for x in entries if x['category']==group]
+    items=''.join(f'<li><a href="/articles/{esc(x["slug"])}.html"><strong>{esc(x["title"])}</strong></a> {new_badge(x["timestamp"])}<div class="muted">{esc(x["date"])} — {esc(x["description"])}</div></li>' for x in subset)
+    body=f'<h1>{heading}</h1><p>{intro}</p><ul>'+(items or '<li>記事を準備しています。</li>')+'</ul>'
+    (ROOT / ('visa-news.html' if group=='news' else 'articles.html')).write_text(layout(heading, intro, body, canonical),encoding='utf-8')
+
+listing('guide','英国ビザの解説記事','英国ビザの書類や手続きを分かりやすく説明します。','https://ukvisafolio.com/articles.html')
+listing('news','英国ビザNEWS','英国ビザ制度の変更情報を掲載します。','https://ukvisafolio.com/visa-news.html')
+# Public metadata consumed by the homepage. No drafts are included.
+import json
+(ROOT / 'article-updates.json').write_text(json.dumps({
+    'news':max((x['timestamp'] for x in entries if x['category']=='news' and x['timestamp']),default=''),
+    'guide':max((x['timestamp'] for x in entries if x['category']=='guide' and x['timestamp']),default='')
+},ensure_ascii=False),encoding='utf-8')
+(ROOT / 'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + ''.join(f'<url><loc>https://ukvisafolio.com/{esc(p)}</loc></url>\n' for p in ['','articles.html','visa-news.html'] + [f'articles/{x["slug"]}.html' for x in entries]) + '</urlset>\n', encoding='utf-8')
+(ROOT / 'robots.txt').write_text('User-agent: *\nAllow: /\nSitemap: https://ukvisafolio.com/sitemap.xml\n', encoding='utf-8')
+print(f'Generated {len(entries)} published articles; drafts excluded.')
