@@ -6,6 +6,10 @@ content:
     path: content/articles
     format: yaml-frontmatter
     filename: "{primary}.md"
+    view:
+      fields: [title, date, status, category]
+      primary: title
+      sort: [date]
     fields:
       - name: title
         label: 記事タイトル
@@ -19,10 +23,26 @@ content:
         label: 公開状態
         type: select
         options:
-          - name: draft
-            label: 下書き
-          - name: published
-            label: 公開
+          values:
+            - name: draft
+              label: 下書き
+            - name: published
+              label: 公開
+        default: draft
+      - name: category
+        label: 記事の分類
+        type: select
+        options:
+          values:
+            - name: guide
+              label: 解説記事
+            - name: news
+              label: NEWS
+        default: guide
+      - name: significant_update_at
+        label: 重要更新日（通常の修正では空欄）
+        type: date
+        required: false
       - name: description
         label: 記事の説明
         type: text

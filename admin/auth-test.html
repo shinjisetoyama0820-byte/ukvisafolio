@@ -1,0 +1,105 @@
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>管理者認証テスト | STRATOVISA</title>
+  <style>
+    body {
+      font-family: system-ui, sans-serif;
+      background: #f3f6fa;
+      color: #142b45;
+      max-width: 620px;
+      margin: 60px auto;
+      padding: 20px;
+    }
+    .card {
+      background: white;
+      padding: 28px;
+      border-radius: 12px;
+      border: 1px solid #e1e7ee;
+    }
+    input, button {
+      box-sizing: border-box;
+      width: 100%;
+      padding: 14px;
+      margin-top: 12px;
+      border-radius: 8px;
+      font-size: 16px;
+    }
+    input { border: 1px solid #cbd5e1; }
+    button {
+      background: #142b45;
+      color: white;
+      border: 0;
+      cursor: pointer;
+    }
+    #result { margin-top: 18px; }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>管理者認証テスト</h1>
+    <p>Netlifyに設定した管理者トークンを入力してください。</p>
+
+    <form id="auth-form">
+      <label for="token">管理者トークン</label>
+      <input
+        id="token"
+        type="password"
+        autocomplete="off"
+        required
+      >
+      <button type="submit">認証を確認</button>
+    </form>
+
+    <p id="result" role="status">未確認</p>
+  </div>
+
+  <script>
+    document.getElementById("auth-form")
+      .addEventListener("submit", async (event) => {
+        event.preventDefault();
+
+        const input = document.getElementById("token");
+        const result = document.getElementById("result");
+        const token = input.value;
+        input.value = "";
+
+        result.textContent = "認証確認中...";
+
+        try {
+          const response = await fetch(
+            "/.netlify/functions/auth-check",
+            {
+              method: "POST",
+              headers: {
+                "Authorization": "Bearer " + token
+              },
+              cache: "no-store"
+            }
+          );
+
+          if (response.status === 401) {
+            result.textContent = "認証失敗：トークンが違います";
+            return;
+          }
+
+          if (!response.ok) {
+            throw new Error("HTTP " + response.status);
+          }
+
+          const data = await response.json();
+
+          result.textContent = data.authenticated === true
+            ? "認証成功：管理者トークンが一致しました"
+            : "認証失敗";
+        } catch (error) {
+          result.textContent = "通信エラー：" + error.message;
+        }
+      });
+  </script>
+</body>
+</html>
+
