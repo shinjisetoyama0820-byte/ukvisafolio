@@ -23,24 +23,44 @@ def safe_url(s):
 
 # Calculate NEW visibility in the visitor's browser, so it disappears automatically
 # even when Cloudflare Pages has not performed another build.
-NEW_ASSETS = '''<style>
-.new-badge{display:none;vertical-align:middle;margin-left:.5em;padding:1px 7px;border-radius:4px;background:#c93636;color:#fff;font-size:.72em;font-weight:750;line-height:1.6;letter-spacing:.035em}
-.new-badge.is-new{display:inline-block}
+NEW_ASSETS = r'''<style>
+.new-badge{display:none;color:#c62828;font-size:.72em;font-weight:800;letter-spacing:.04em;margin-left:.35em}
+.new-badge.is-new{display:inline-block;animation:new-pulse 1.3s ease-in-out infinite}
+@keyframes new-pulse{50%{opacity:.15}}
+@media(prefers-reduced-motion:reduce){.new-badge.is-new{animation:none}}
 </style>
 <script>
-document.addEventListener('DOMContentLoaded', function () {
-  const now = new Date();
-  const today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
-  document.querySelectorAll('.new-badge[data-published]').forEach(function (badge) {
-    const match = /^(\\d{4})-(\\d{2})-(\\d{2})$/.exec(badge.dataset.published || '');
-    if (!match) return;
-    const published = new Date(Number(match[1]), Number(match[2]) - 1, Number(match[3]));
-    if (published.getFullYear() !== Number(match[1]) || published.getMonth() !== Number(match[2]) - 1 || published.getDate() !== Number(match[3])) return;
-    const days = Math.round((Date.UTC(today.getFullYear(), today.getMonth(), today.getDate()) - Date.UTC(published.getFullYear(), published.getMonth(), published.getDate())) / 86400000);
-    if (days >= 0 && days < 7) badge.classList.add('is-new');
-  });
+document.addEventListener('DOMContentLoaded',function(){
+ const now=Date.now(),week=7*24*60*60*1000;
+ document.querySelectorAll('[data-new-since]').forEach(function(el){
+  const ts=Date.parse(el.getAttribute('data-new-since'));
+  if(Number.isFinite(ts)&&ts<=now&&now-ts<week)el.classList.add('is-new');
+ });
 });
-</script>'''
+</script>''' 
+
+# CMS date-only values have no time. Interpret them as midnight Japan time.
+def iso_date(value):
+    raw=str(value or '').strip()
+    if not re.fullmatch(r'\d{4}-\d{2}-\d{2}',raw): return ''
+    try: datetime.date.fromisoformat(raw)
+    except ValueError: return ''
+    return raw
+
+def badge_time(meta):
+    published=iso_date(meta.get('date'))
+    if not published: return ''
+    base=published+'T00:00:00+09:00'
+    update=str(meta.get('significant_update_at') or '').strip()
+    # Explicit significant updates only; never treat ordinary edits as new.
+    if re.fullmatch(r'\d{4}-\d{2}-\d{2}',update):
+        update=iso_date(update)+'T00:00:00+09:00' if iso_date(update) else ''
+    if update:
+        try:
+            dt=datetime.datetime.fromisoformat(update.replace('Z','+00:00'))
+            if dt.tzinfo and dt.timestamp()>=datetime.datetime.fromisoformat(base).timestamp():return dt.isoformat()
+        except ValueError: pass
+    return base
 
 # Opt-in currency converter: inserted only where the article contains the shortcode.
 GBP_JPY_SHORTCODE = '[GBP_JPY_CONVERTER]'
@@ -91,8 +111,8 @@ def add_currency_converter(markdown_html):
     # The Markdown content is escaped before conversion; only this exact shortcode is trusted.
     return markdown_html.replace('<p>'+GBP_JPY_SHORTCODE+'</p>', GBP_JPY_WIDGET)
 
-def new_badge(date):
-    return f'<span class="new-badge" data-published="{esc(date)}" aria-label="新着記事">NEW</span>'
+def new_badge(timestamp):
+    return f'<span class="new-badge" data-new-since="{esc(timestamp)}" aria-label="新着記事">NEW</span>' if timestamp else ''
 
 def layout(title, desc, body, canonical):
     return f'''<!doctype html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{esc(title)} | UK VISA FOLIO</title><meta name="description" content="{esc(desc)}"><link rel="canonical" href="{esc(canonical)}"><style>:root{{color-scheme:light}}body{{margin:0;font:16px/1.9 system-ui,-apple-system,sans-serif;background:#f4f7fa;color:#203447}}main{{max-width:820px;margin:36px auto;padding:32px;background:white;border-radius:14px;box-shadow:0 2px 16px #0000000a}}h1{{line-height:1.35}}a{{color:#086d79}}.muted{{color:#586777}}.notice{{background:#eff7f7;padding:14px;border-left:3px solid #086d79}}ul{{padding-left:1.5em}}li{{margin:16px 0}}@media(max-width:680px){{main{{margin:0;padding:22px;border-radius:0}}}}</style>{NEW_ASSETS}</head><body><main><nav><a href="/">トップ</a> / <a href="/articles.html">英国ビザ記事一覧</a></nav>{body}</main></body></html>'''
@@ -106,27 +126,3 @@ for f in sorted(CONT.glob('*.md')):
     try:
         front, body = raw[4:].split('\n---\n', 1)
         meta = yaml.safe_load(front) or {}
-    except (ValueError, yaml.YAMLError):
-        continue
-    if meta.get('status') != 'published':
-        continue
-    title = str(meta.get('title') or '').strip()
-    if not title:
-        continue
-    date = str(meta.get('date') or '')
-    desc = str(meta.get('description') or '')
-    source = safe_url(meta.get('source_url'))
-    # Markdown HTML is escaped before conversion; embedded raw HTML and script cannot execute.
-    safe_body = add_currency_converter(mistune.html(html.escape(body)))
-    citation = f'<p><strong>一次情報：</strong><a rel="noopener noreferrer" href="{esc(source)}">英国政府公式ページ</a></p>' if source else '<p class="notice">公式情報へのリンクは未設定です。公開前に一次情報を確認してください。</p>'
-    page = layout(title, desc, f'<p class="muted">公開日：{esc(date)} {new_badge(date)}</p><h1>{esc(title)}</h1>{safe_body}{citation}<p class="notice">ビザ制度は変更される場合があります。申請前に英国政府の最新情報を確認してください。</p>', f'https://ukvisafolio.com/articles/{f.stem}.html')
-    (OUT / (f.stem + '.html')).write_text(page, encoding='utf-8')
-    entries.append({'date': date, 'title': title, 'description': desc, 'slug': f.stem})
-
-entries.sort(key=lambda x: (x['date'], x['slug']), reverse=True)
-items = ''.join(f'<li><a href="/articles/{esc(x["slug"])}.html"><strong>{esc(x["title"])}</strong></a> {new_badge(x["date"])}<div class="muted">{esc(x["date"])} — {esc(x["description"])}</div></li>' for x in entries)
-body = '<h1>英国ビザの記事一覧</h1><p>必要な書類や手続き、制度変更を分かりやすく説明します。</p><ul>' + (items or '<li>記事を準備しています。</li>') + '</ul>'
-(ROOT / 'articles.html').write_text(layout('英国ビザの記事一覧', '英国ビザ申請の解説と最新情報', body, 'https://ukvisafolio.com/articles.html'), encoding='utf-8')
-(ROOT / 'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + ''.join(f'<url><loc>https://ukvisafolio.com/{esc(p)}</loc></url>\n' for p in ['','articles.html'] + [f'articles/{x["slug"]}.html' for x in entries]) + '</urlset>\n', encoding='utf-8')
-(ROOT / 'robots.txt').write_text('User-agent: *\nAllow: /\nSitemap: https://ukvisafolio.com/sitemap.xml\n', encoding='utf-8')
-print(f'Generated {len(entries)} published articles; drafts excluded.')
