@@ -9,8 +9,9 @@ OUT = ROOT / 'articles'
 OUT.mkdir(exist_ok=True)
 
 # Remove generated HTML from previous builds to prevent withdrawn posts remaining public.
-for old in OUT.glob('*.html'):
-    old.unlink()
+for pattern in ('*.html', '*.md'):
+    for old in OUT.glob(pattern):
+        old.unlink()
 
 entries = []
 
@@ -176,7 +177,22 @@ for f in sorted(CONT.glob('*.md')):
     safe_body = add_currency_converter(mistune.html(html.escape(body)))
     citation = f'<p><strong>一次情報：</strong><a rel="noopener noreferrer" href="{esc(source)}">英国政府公式ページ</a></p>' if source else '<p class="notice">公式情報へのリンクは未設定です。公開前に一次情報を確認してください。</p>'
     page = layout(title, desc, f'<p class="muted">公開日：{esc(date)} {new_badge(timestamp)}</p><h1>{esc(title)}</h1>{safe_body}{citation}<p class="notice">ビザ制度は変更される場合があります。申請前に英国政府の最新情報を確認してください。</p>', f'https://ukvisafolio.com/articles/{f.stem}.html')
+    page = page.replace('</head>', f'<link rel="alternate" type="text/markdown" href="/articles/{f.stem}.md"></head>')
     (OUT / (f.stem + '.html')).write_text(page, encoding='utf-8')
+    # Public, human-accessible Markdown companion generated from the same CMS source.
+    # Preserve the original article text; do not add unsupported AI-targeted claims.
+    canonical = f'https://ukvisafolio.com/articles/{f.stem}.html'
+    markdown_url = f'https://ukvisafolio.com/articles/{f.stem}.md'
+    md_header = (f'# {title}\n\n'
+                 f'> 出典: UK VISA FOLIO | 正規記事: {canonical}\n'
+                 f'> 公開日: {date}\n'
+                 f'> 記事の説明: {desc}\n\n')
+    md_footer = (f'\n\n---\n英国ビザ制度は変更される場合があります。申請前に英国政府の最新情報を確認してください。\n'
+                 + (f'英国政府公式情報: {source}\n' if source else '')
+                 + f'HTML版: {canonical}\n')
+    # CMS shortcodes must not appear as unresolved widget placeholders in Markdown.
+    md_body = body.replace(GBP_JPY_SHORTCODE, '為替換算はHTML版の記事をご利用ください。')
+    (OUT / (f.stem + '.md')).write_text(md_header + md_body.strip() + md_footer, encoding='utf-8')
     entries.append({'date': date, 'title': title, 'description': desc, 'slug': f.stem, 'category':category, 'timestamp':timestamp})
 
 entries.sort(key=lambda x: (x['date'], x['slug']), reverse=True)
