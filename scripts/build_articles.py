@@ -192,6 +192,7 @@ p,li{overflow-wrap:anywhere}ul,ol{padding-left:1.5em}li{margin:9px 0}.muted{colo
 .article-detail p{margin:1.1em 0}.article-detail img{max-width:100%;height:auto}
 .notice{background:#f2f7f8;padding:16px 20px;border-left:3px solid #28788a;border-radius:4px}
 .site-footer{text-align:center;color:#667586;font-size:.8rem;padding:0 20px 36px}
+.lang-select{appearance:none;-webkit-appearance:none;-moz-appearance:none;background-color:transparent;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='14' height='14' viewBox='0 0 14 14'%3E%3Cg fill='none' stroke='%23eaf1f7' stroke-width='1'%3E%3Ccircle cx='7' cy='7' r='6'/%3E%3Cellipse cx='7' cy='7' rx='2.6' ry='6'/%3E%3Cline x1='1' y1='7' x2='13' y2='7'/%3E%3C/g%3E%3C/svg%3E"),url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'%3E%3Cpath fill='none' stroke='%23eaf1f7' stroke-width='1.5' d='M1 1l4 4 4-4'/%3E%3C/svg%3E");background-repeat:no-repeat,no-repeat;background-position:left 6px center,right 6px center;border:1px solid #ffffff66;border-radius:8px;padding:3px 20px 3px 24px;font-size:12px;font-weight:500;color:#eaf1f7;cursor:pointer;font-family:inherit;line-height:1.4;flex-shrink:0}
 @media(max-width:640px){.site-header-inner{padding:16px 20px}.site-nav{gap:15px}.page-wrap{margin:20px auto 36px;padding:0 12px}.page-surface{border-radius:12px;padding:24px 18px}.article-card>a{padding:18px}.article-card h2{font-size:1.04rem}}
 """
 
@@ -305,8 +306,6 @@ LANGS = {
     },
 }
 
-SWITCH = '<div class="lang-switch" data-lang-switch><a href="/" data-lang="ja">日本語</a><a href="/en/" data-lang="en">English</a><a href="/hi/" data-lang="hi">हिन्दी</a></div>'
-
 def href(lang, leaf):
     if lang == 'ja':
         return '/' + leaf if leaf else '/'
@@ -322,9 +321,26 @@ def alt_links(pairs):
         links += f'<link rel="alternate" hreflang="x-default" href="{esc(default)}">'
     return links
 
+def switch_markup(lang, canonical):
+    path = canonical.split('ukvisafolio.com', 1)[-1].strip('/')
+    prefix = '' if lang == 'ja' else lang
+    if prefix and (path == prefix or path.startswith(prefix + '/')):
+        path = path[len(prefix):].strip('/')
+    if path.endswith('.html'):
+        path = path[:-5]
+    labels = (('ja', '日本語'), ('en', 'English'), ('hi', 'हिन्दी'))
+    options = []
+    for code, label in labels:
+        leaf = path
+        if path.startswith('articles/') and '/' in path and code not in by_slug.get(path.split('/', 1)[1], {}):
+            leaf = 'articles'
+        selected = ' selected' if code == lang else ''
+        options.append(f'<option value="{esc(href(code, leaf))}"{selected}>{label}</option>')
+    return '<select class="lang-select" data-lang-select aria-label="Change language" onchange="if(this.value)location.href=this.value">' + ''.join(options) + '</select>'
+
 def layout(lang, title, desc, body, canonical, page_class, alt_html, crumb):
     ui = LANGS[lang]
-    return f'''<!doctype html><html lang="{lang}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{esc(title)} | UK VISA FOLIO</title><meta name="description" content="{esc(desc)}"><link rel="canonical" href="{esc(canonical)}">{alt_html}<script src="/assets/site.js" defer></script><style>{SITE_STYLE}</style>{NEW_ASSETS}</head><body><header class="site-header"><div class="site-header-inner"><a class="brand" href="{href(lang, '')}">UK VISA FOLIO</a><nav class="site-nav" aria-label="{esc(ui['nav_label'])}"><a href="{href(lang, '')}">{esc(ui['nav_home'])}</a><a href="{href(lang, 'visa-news.html')}">NEWS</a><a href="{href(lang, 'articles.html')}">{esc(ui['nav_guides'])}</a></nav>{SWITCH}</div></header><div class="page-wrap"><main class="page-surface {esc(page_class)}"><nav class="breadcrumb" aria-label="{esc(ui['crumb'])}">{crumb}</nav>{body}</main></div><footer class="site-footer">{esc(ui['footer'])}<br>{esc(ui['disclaimer'])}</footer></body></html>'''
+    return f'''<!doctype html><html lang="{lang}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{esc(title)} | UK VISA FOLIO</title><meta name="description" content="{esc(desc)}"><link rel="canonical" href="{esc(canonical)}">{alt_html}<script src="/assets/site.js" defer></script><style>{SITE_STYLE}</style>{NEW_ASSETS}</head><body><header class="site-header"><div class="site-header-inner"><a class="brand" href="{href(lang, '')}">UK VISA FOLIO</a><nav class="site-nav" aria-label="{esc(ui['nav_label'])}"><a href="{href(lang, '')}">{esc(ui['nav_home'])}</a><a href="{href(lang, 'visa-news.html')}">NEWS</a><a href="{href(lang, 'articles.html')}">{esc(ui['nav_guides'])}</a></nav>{switch_markup(lang, canonical)}</div></header><div class="page-wrap"><main class="page-surface {esc(page_class)}"><nav class="breadcrumb" aria-label="{esc(ui['crumb'])}">{crumb}</nav>{body}</main></div><footer class="site-footer">{esc(ui['footer'])}<br>{esc(ui['disclaimer'])}</footer></body></html>'''
 
 def clean_output(path):
     path.mkdir(parents=True, exist_ok=True)

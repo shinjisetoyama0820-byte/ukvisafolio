@@ -263,7 +263,13 @@ EN_COUPON = '''<div style="background:#fff;color:#172f51;border-radius:12px;padd
 
 HI_COUPON = '''<div style="background:#fff;color:#172f51;border-radius:12px;padding:22px;max-width:520px;margin:24px 0"><div style="font-weight:700">UK VISA FOLIO ऑफ़र</div><div style="font-size:clamp(36px,5vw,58px);font-weight:900;line-height:1.4">35% OFF</div><p style="font-size:13px;margin:0 0 12px">35% की छूट Stratovisa के सेवा शुल्क पर है। यूके सरकार का आवेदन शुल्क अलग है।</p><div style="margin-bottom:16px"><div style="font-weight:700;margin-bottom:5px">भारत में रहने वाले</div><div style="display:flex;align-items:center;gap:8px"><code style="flex:1;min-width:0;background:#f0f3f7;padding:12px;border-radius:6px;font-size:15px">SHUBHARAMBH</code><button type="button" onclick="copyStratovisaCoupon('SHUBHARAMBH',this)" aria-label="SHUBHARAMBH कॉपी करें" style="border:1px solid #d7dfe9;border-radius:6px;padding:10px 13px;background:#f0f3f7;color:#172f51;cursor:pointer;font-size:18px">⧉</button></div><a href="https://stratovisa.com/hi/signup?ref=SHUBHARAMBH" target="_blank" rel="noopener noreferrer" style="display:inline-block;margin-top:7px;color:#1c5796;text-decoration:underline;font-size:13px">भारत में रहने वालों का साइनअप →</a></div><div><div style="font-weight:700;margin-bottom:5px">यूके में रहने वाले</div><div style="display:flex;align-items:center;gap:8px"><code style="flex:1;min-width:0;background:#f0f3f7;padding:12px;border-radius:6px;font-size:15px">NAYAADHYAY</code><button type="button" onclick="copyStratovisaCoupon('NAYAADHYAY',this)" aria-label="NAYAADHYAY कॉपी करें" style="border:1px solid #d7dfe9;border-radius:6px;padding:10px 13px;background:#f0f3f7;color:#172f51;cursor:pointer;font-size:18px">⧉</button></div><a href="https://stratovisa.com/hi/signup?ref=NAYAADHYAY" target="_blank" rel="noopener noreferrer" style="display:inline-block;margin-top:7px;color:#1c5796;text-decoration:underline;font-size:13px">यूके में रहने वालों का साइनअप →</a></div></div>'''
 
-SWITCH = '<div class="lang-switch" data-lang-switch><a href="/" data-lang="ja" hrefLang="ja">日本語</a><a href="/en/" data-lang="en" hrefLang="en">English</a><a href="/hi/" data-lang="hi" hrefLang="hi">हिन्दी</a></div>'
+def switch_for(lang, filename):
+    labels = (("ja", "日本語"), ("en", "English"), ("hi", "हिन्दी"))
+    options = []
+    for code, label in labels:
+        selected = " selected" if code == lang else ""
+        options.append(f'<option value="{public_path(code, filename)}"{selected}>{label}</option>')
+    return '<select class="lang-select" data-lang-select aria-label="Change language" onchange="if(this.value)location.href=this.value">' + "".join(options) + "</select>"
 JP = re.compile(r"[\u3040-\u30ff\u4e00-\u9fff]")
 
 
@@ -310,8 +316,8 @@ def swap_coupon(html, lang):
 
 def decorate(html, lang, filename):
     html = html.replace('lang="ja"', f'lang="{lang}"', 1)
-    if 'data-lang-switch' not in html:
-        html = html.replace("</nav>", "</nav>" + SWITCH, 1)
+    if "data-lang-select" not in html and "data-lang-switch" not in html:
+        html = html.replace("</nav>", "</nav>" + switch_for(lang, filename), 1)
     links = []
     for code in ("ja", "en", "hi"):
         href = "https://ukvisafolio.com" + public_path(code, filename)
