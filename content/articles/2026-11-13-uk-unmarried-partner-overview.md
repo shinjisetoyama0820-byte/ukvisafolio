@@ -1,26 +1,21 @@
 ---
-title: "【英国未婚パートナービザ】【2026年版】イギリス未婚パートナービザとは？日本人カップルの申請条件と必要書類"
+title: 【英国未婚パートナービザ】2026年版 イギリス未婚パートナービザとは？日本人カップルの申請条件と必要書類
 date: 2026-11-13
 status: draft
 category: guide
-description: "結婚していない日本人と、資格のある英国在住パートナーが使うのは、独立したビザ名ではなくFamily visaのパートナー申請。2年の関係要件と、配偶者と同じ収入・英語の位置づけ。確認日2026-11-12。"
-source_url: "https://www.gov.uk/uk-family-visa/partner-spouse"
-country: "日本"
-visa_type: "UK family visa - unmarried partner"
-verified_at: "2026-11-12"
-main_keyword: "イギリス 未婚パートナービザ"
-search_intent: "制度の入口。同居していない場合の証明方法は次の記事に譲る。"
+lang: ja
+significant_update_at: 2026-11-14
+description: 結婚していない日本人と、英国在住パートナーが使うのは、独立したビザ名ではなくFamily
+  visaのパートナー申請。2年の関係要件と、配偶者と同じ収入・英語の位置づけ。
+source_url: https://www.gov.uk/uk-family-visa/partner-spouse
 ---
-
-# 【英国未婚パートナービザ】【2026年版】イギリス未婚パートナービザとは？日本人カップルの申請条件と必要書類
-
-> 編集用下書き。一次情報の確認と品質審査が終わるまで公開しない。
+# 【英国未婚パートナービザ】2026年版 イギリス未婚パートナービザとは？日本人カップルの申請条件と必要書類
 
 ## 結論
 
-GOV.UKに “Unmarried Partner Visa” という独立したビザの名前はない。結婚していない相手と英国で暮らす申請は、Family visa の「partner or spouse」のうち、婚姻証明書の代わりに関係の期間で資格を示す申請である。2026年11月12日の公式ページは、申請時点で2年以上一緒に住んでいる関係か、2年以上の関係はあるが仕事・学業・文化的な理由で一緒に住めない場合、のいずれかを証明するよう書いている。「2年間同じ家に住んでいないと絶対に申請できない」は、このページの説明とは違う。
+GOV.UKに “Unmarried Partner Visa” という独立したビザの名前はない。結婚していない相手と英国で暮らす申請は、Family visa の「partner or spouse」のうち、婚姻証明書の代わりに関係の期間で資格を示す申請である。2026年11月12日現在の公式ページは、申請時点で2年以上一緒に住んでいる関係か、2年以上の関係はあるが仕事・学業・文化的な理由で一緒に住めない場合、のいずれかを証明するよう書いている。「2年間同じ家に住んでいないと絶対に申請できない」というわけではない。
 
-年齢、相手の在留資格、英国で恒常的に一緒に住む意思、英語、収入は、結婚している申請と同じページに載っている。英国外からの申請料も、パートナーに合流する申請として1人 £2,064、初回の滞在は最長2年9か月、その場合の大人1人の IHS は £3,105 である。
+年齢、相手の在留資格、英国に一緒に住む意思、英語力や収入は、結婚している申請と同じページに載っている。英国外からの申請料も、パートナーと一緒にする申請として1人 £2,064、初回の滞在は最長2年9か月、その場合の大人1人の IHS は £3,105 である。
 
 確認日：2026年11月12日。対象は、日本に住み、結婚しておらず、相手と英国で暮らすことを検討している人。
 
@@ -117,11 +112,11 @@ Stratovisa は書類整理ツールであり、移民アドバイザーではあ
 
 ## 公式情報
 
-- パートナーとしての証明（同居2年、または同居できない2年の関係）：https://www.gov.uk/uk-family-visa/partner-spouse （確認日：2026-11-12）
-- 提出情報と関係証拠：https://www.gov.uk/uk-family-visa/provide-information （確認日：2026-11-12）
-- 収入：https://www.gov.uk/uk-family-visa/proof-income-partner （確認日：2026-11-12）
-- 英語：https://www.gov.uk/uk-family-visa/knowledge-of-english （確認日：2026-11-12）
-- 料金と IHS：https://www.gov.uk/uk-family-visa （確認日：2026-11-12）
+- パートナーとしての証明（同居2年、または同居できない2年の関係）：[https://www.gov.uk/uk-family-visa/partner-spouse](https://www.gov.uk/uk-family-visa/partner-spouse) （確認日：2026-11-12）
+- 提出情報と関係証拠：[https://www.gov.uk/uk-family-visa/provide-information](https://www.gov.uk/uk-family-visa/provide-information) （確認日：2026-11-12）
+- 収入：[https://www.gov.uk/uk-family-visa/proof-income-partner](https://www.gov.uk/uk-family-visa/proof-income-partner) （確認日：2026-11-12）
+- 英語：[https://www.gov.uk/uk-family-visa/knowledge-of-english](https://www.gov.uk/uk-family-visa/knowledge-of-english) （確認日：2026-11-12）
+- 料金と IHS：[https://www.gov.uk/uk-family-visa](https://www.gov.uk/uk-family-visa) （確認日：2026-11-12）
 
 ## 編集者向け確認事項
 
@@ -132,3 +127,4 @@ Stratovisa は書類整理ツールであり、移民アドバイザーではあ
 - 人間の最終承認: 未実施
 - 公開しない。ビザの通称を、GOV.UKに存在しない独立制度として書かない。
 - 結婚後の切替手順は未確認。公開前に extend or switch の該当節を追加で開く。
+
