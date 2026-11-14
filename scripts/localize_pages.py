@@ -337,7 +337,7 @@ def decorate(html, lang, filename):
     links.append(f'<link rel="alternate" hreflang="x-default" href="https://ukvisafolio.com{public_path("ja", filename)}">')
     current = "https://ukvisafolio.com" + public_path(lang, filename)
     links.append(f'<link rel="canonical" href="{current}">')
-    html = html.replace("</head>", "".join(links) + '<script src="/assets/site.js" defer></script></head>', 1)
+    html = html.replace("</head>", "".join(links) + '<script src="/assets/site.js?v=20261115" defer></script></head>', 1)
     if "data-folio-note" not in html:
         note = f'<p data-folio-note style="margin:10px 0 0">{DISCLAIMER[lang]}</p>'
         if lang == "ja":
