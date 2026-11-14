@@ -1,0 +1,43 @@
+<!doctype html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex"><title>アクセス状況 | UK VISA FOLIO</title><style>
+*{box-sizing:border-box}body{margin:0;font:16px/1.7 system-ui,sans-serif;background:#f7f9fc;color:#152844}main{max-width:980px;margin:32px auto;padding:0 20px 48px}h1{font-size:32px;margin:0 0 8px}a{color:#1c5796}.cards{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin:20px 0}.card{background:#fff;border:1px solid #e5eaf0;border-radius:12px;padding:16px}.card b{display:block;font-size:28px}table{width:100%;border-collapse:collapse;background:#fff;margin:8px 0 28px}th,td{padding:10px 12px;border-bottom:1px solid #e5eaf0;text-align:left}th{font-size:13px;color:#65758a}.note{background:#fff;border-left:4px solid #c69b54;padding:14px 16px}@media(max-width:720px){.cards{grid-template-columns:1fr}}
+</style></head><body><main>
+<p><a href="/">UK VISA FOLIO</a></p>
+<h1>アクセス状況</h1>
+<p id="range">過去14日。日付は日本時間です。</p>
+<div class="cards"><div class="card">今日の訪問<b id="today-users">-</b></div><div class="card">今日のページ表示<b id="today-views">-</b></div><div class="card">14日の訪問<b id="span-users">-</b></div></div>
+<h2>日ごとの数</h2><table id="days"><tr><th>日付</th><th>訪問</th><th>ページ表示</th></tr></table>
+<h2>国</h2><table id="countries"><tr><th>国</th><th>訪問</th></tr></table>
+<h2>言語</h2><table id="languages"><tr><th>言語</th><th>ページ表示</th></tr></table>
+<h2>ページ</h2><table id="pages"><tr><th>ページ</th><th>ページ表示</th></tr></table>
+<h2>クリック</h2><table id="clicks"><tr><th>クリック先</th><th>回数</th></tr></table>
+<p class="note" id="status" hidden></p>
+</main><script>
+var names={JP:"日本",GB:"英国",IN:"インド",NG:"ナイジェリア",PK:"パキスタン",US:"アメリカ",PH:"フィリピン",CN:"中国",KR:"韓国",AU:"オーストラリア",CA:"カナダ",DE:"ドイツ",FR:"フランス",IE:"アイルランド",AE:"アラブ首長国連邦",SG:"シンガポール",HK:"香港",TW:"台湾",NP:"ネパール",BD:"バングラデシュ",ZZ:"不明"};
+var langNames={ja:"日本語",en:"English",hi:"ヒンディー語"};
+function cell(text){var td=document.createElement("td");td.textContent=text;return td}
+function addRow(table,values){var tr=document.createElement("tr");values.forEach(function(v){tr.appendChild(cell(String(v)))});table.appendChild(tr)}
+function sum(rows,key){return (rows||[]).reduce(function(n,row){return n+Number(row[key]||0)},0)}
+fetch("/api/summary",{cache:"no-store"}).then(function(r){return r.json()}).then(function(data){
+  if(!data.ready){
+    document.getElementById("status").hidden=false;
+    document.getElementById("status").textContent="計測タグは入っています。数字の保存先がまだ接続されていないため、ここには出ません。Cloudflare Pages のこのプロジェクトで、D1 の紐付け名を METRICS_DB にして再デプロイすると表示されます。";
+    return;
+  }
+  var todayUsers=(data.visitors||[]).find(function(row){return row.day===data.today});
+  var todayViews=(data.days||[]).find(function(row){return row.day===data.today});
+  document.getElementById("today-users").textContent=todayUsers?todayUsers.visitors:0;
+  document.getElementById("today-views").textContent=todayViews?todayViews.pageviews:0;
+  document.getElementById("span-users").textContent=sum(data.visitors,"visitors");
+  var byDay={};
+  (data.days||[]).forEach(function(row){byDay[row.day]=byDay[row.day]||{views:0,users:0};byDay[row.day].views=row.pageviews});
+  (data.visitors||[]).forEach(function(row){byDay[row.day]=byDay[row.day]||{views:0,users:0};byDay[row.day].users=row.visitors});
+  Object.keys(byDay).sort().forEach(function(day){addRow(document.getElementById("days"),[day,byDay[day].users,byDay[day].views])});
+  (data.countries||[]).forEach(function(row){addRow(document.getElementById("countries"),[(names[row.country]||row.country),row.visitors])});
+  (data.languages||[]).forEach(function(row){addRow(document.getElementById("languages"),[langNames[row.lang]||row.lang,row.pageviews])});
+  (data.pages||[]).forEach(function(row){addRow(document.getElementById("pages"),[row.path,row.pageviews])});
+  (data.clicks||[]).forEach(function(row){addRow(document.getElementById("clicks"),[row.target||"(名称なし)",row.clicks])});
+}).catch(function(){
+  document.getElementById("status").hidden=false;
+  document.getElementById("status").textContent="数字を読み込めませんでした。時間をおいて、もう一度開いてください。";
+});
+</script></body></html>

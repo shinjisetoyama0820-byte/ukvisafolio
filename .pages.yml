@@ -6,7 +6,7 @@ content:
     path: content/articles
     format: yaml-frontmatter
     view:
-      fields: [title, date, status, category]
+      fields: [title, date, status, category, lang]
       primary: title
       sort: [date]
     fields:
@@ -38,6 +38,18 @@ content:
             - name: news
               label: NEWS
         default: guide
+      - name: lang
+        label: 言語
+        type: select
+        options:
+          values:
+            - name: ja
+              label: 日本語
+            - name: en
+              label: English
+            - name: hi
+              label: हिन्दी
+        default: ja
       - name: significant_update_at
         label: 重要更新日（通常の修正では空欄）
         type: date
