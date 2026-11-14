@@ -304,6 +304,41 @@ LANGS = {
         'md_html': 'HTML संस्करण',
         'md_change': 'वीज़ा के नियम बदल सकते हैं। आवेदन से पहले यूके सरकार की ताज़ा जानकारी देखें।',
     },
+    'zh-tw': {
+        'nav_label': '主要選單',
+        'nav_home': '首頁',
+        'nav_guides': '解說文章',
+        'crumb': '目前位置',
+        'published': '公開日',
+        'source_label': '一次來源：',
+        'source_link': '英國政府頁面',
+        'source_missing': '尚未加上官方頁面的連結。',
+        'change_notice': '簽證規定可能改變。申請前請看英國政府的最新說明。',
+        'footer': 'UK VISA FOLIO。用淺白的話說明英國簽證的準備。',
+        'disclaimer': 'Stratovisa 是文件整理工具，不是移民顧問。不判斷申請資格，也不提供移民建議。文件要求全部依據 GOV.UK 公開指引。',
+        'kind_news': '規定變更與最新消息',
+        'kind_guide': '申請指南',
+        'read': '閱讀文章 →',
+        'empty': '繁體中文的文章正在準備。',
+        'news_panel': '我們依照英國政府頁面，把公布日、生效日和適用對象分開說明。',
+        'guide_panel': '條件和文件會因個人情況而不同。申請前請看 GOV.UK 的最新說明。',
+        'panel_title': '關於資訊的確認',
+        'gov_link': '看英國政府的說明',
+        'not_gov': 'UK VISA FOLIO 不是英國政府的網站。',
+        'guide_heading': '英國簽證解說',
+        'guide_intro': '用淺白的話說明英國簽證的文件和步驟。',
+        'news_heading': '英國簽證 NEWS',
+        'news_intro': '英國簽證規定的變更。',
+        'new_label': '新文章',
+        'md_source': '出處',
+        'md_canonical': '文章',
+        'md_date': '公開日',
+        'md_desc': '說明',
+        'fx': '匯率換算請使用這篇文章的 HTML 版。',
+        'md_gov': '英國政府說明',
+        'md_html': 'HTML 版',
+        'md_change': '簽證規定可能改變。申請前請看英國政府的最新說明。',
+    },
 }
 
 def href(lang, leaf):
@@ -315,7 +350,9 @@ def absolute(lang, leaf):
     return 'https://ukvisafolio.com' + href(lang, leaf)
 
 def alt_links(pairs):
-    links = ''.join(f'<link rel="alternate" hreflang="{esc(code)}" href="{esc(url)}">' for code, url in pairs)
+    def hreflang(code):
+        return 'zh-Hant' if code == 'zh-tw' else code
+    links = ''.join(f'<link rel="alternate" hreflang="{esc(hreflang(code))}" href="{esc(url)}">' for code, url in pairs)
     default = next((url for code, url in pairs if code == 'ja'), pairs[0][1] if pairs else '')
     if default:
         links += f'<link rel="alternate" hreflang="x-default" href="{esc(default)}">'
@@ -328,7 +365,7 @@ def switch_markup(lang, canonical):
         path = path[len(prefix):].strip('/')
     if path.endswith('.html'):
         path = path[:-5]
-    labels = (('ja', '日本語'), ('en', 'English'), ('hi', 'हिन्दी'))
+    labels = (('ja', '日本語'), ('en', 'English'), ('hi', 'हिन्दी'), ('zh-tw', '繁體中文'))
     options = []
     for code, label in labels:
         leaf = path
@@ -340,7 +377,8 @@ def switch_markup(lang, canonical):
 
 def layout(lang, title, desc, body, canonical, page_class, alt_html, crumb):
     ui = LANGS[lang]
-    return f'''<!doctype html><html lang="{lang}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{esc(title)} | UK VISA FOLIO</title><meta name="description" content="{esc(desc)}"><link rel="canonical" href="{esc(canonical)}">{alt_html}<script src="/assets/site.js" defer></script><style>{SITE_STYLE}</style>{NEW_ASSETS}</head><body><header class="site-header"><div class="site-header-inner"><a class="brand" href="{href(lang, '')}">UK VISA FOLIO</a><nav class="site-nav" aria-label="{esc(ui['nav_label'])}"><a href="{href(lang, '')}">{esc(ui['nav_home'])}</a><a href="{href(lang, 'visa-news.html')}">NEWS</a><a href="{href(lang, 'articles.html')}">{esc(ui['nav_guides'])}</a></nav>{switch_markup(lang, canonical)}</div></header><div class="page-wrap"><main class="page-surface {esc(page_class)}"><nav class="breadcrumb" aria-label="{esc(ui['crumb'])}">{crumb}</nav>{body}</main></div><footer class="site-footer">{esc(ui['footer'])}<br>{esc(ui['disclaimer'])}</footer></body></html>'''
+    html_lang = 'zh-Hant' if lang == 'zh-tw' else lang
+    return f'''<!doctype html><html lang="{html_lang}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{esc(title)} | UK VISA FOLIO</title><meta name="description" content="{esc(desc)}"><link rel="canonical" href="{esc(canonical)}">{alt_html}<script src="/assets/site.js" defer></script><style>{SITE_STYLE}</style>{NEW_ASSETS}</head><body><header class="site-header"><div class="site-header-inner"><a class="brand" href="{href(lang, '')}">UK VISA FOLIO</a><nav class="site-nav" aria-label="{esc(ui['nav_label'])}"><a href="{href(lang, '')}">{esc(ui['nav_home'])}</a><a href="{href(lang, 'visa-news.html')}">NEWS</a><a href="{href(lang, 'articles.html')}">{esc(ui['nav_guides'])}</a></nav>{switch_markup(lang, canonical)}</div></header><div class="page-wrap"><main class="page-surface {esc(page_class)}"><nav class="breadcrumb" aria-label="{esc(ui['crumb'])}">{crumb}</nav>{body}</main></div><footer class="site-footer">{esc(ui['footer'])}<br>{esc(ui['disclaimer'])}</footer></body></html>'''
 
 def clean_output(path):
     path.mkdir(parents=True, exist_ok=True)
@@ -348,7 +386,7 @@ def clean_output(path):
         for old in path.glob(pattern):
             old.unlink()
 
-for code in ('ja', 'en', 'hi'):
+for code in ('ja', 'en', 'hi', 'zh-tw'):
     clean_output(ROOT / 'articles' if code == 'ja' else ROOT / code / 'articles')
 
 def source_files():

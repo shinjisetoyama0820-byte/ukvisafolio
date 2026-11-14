@@ -49,6 +49,8 @@ content:
               label: English
             - name: hi
               label: हिन्दी
+            - name: zh-tw
+              label: 繁體中文（台灣）
         default: ja
       - name: significant_update_at
         label: 重要更新日（通常の修正では空欄）

@@ -66,7 +66,7 @@ export async function onRequestPost(context) {
   if (!EVENTS.has(event)) return new Response(null, { status: 204 });
   let path = String(payload.path || "/").split("?")[0].slice(0, 180);
   if (!path.startsWith("/")) path = "/";
-  const lang = ["ja", "en", "hi"].includes(payload.lang) ? payload.lang : "ja";
+  const lang = ["ja", "en", "hi", "zh-tw"].includes(payload.lang) ? payload.lang : "ja";
   const target = event === "click" ? cleanTarget(payload.target) : String(payload.ref_host || "").slice(0, 80);
   const country = (request.headers.get("CF-IPCountry") || "ZZ").replace(/[^A-Za-z]/g, "").slice(0, 2) || "ZZ";
   const day = tokyoDay();

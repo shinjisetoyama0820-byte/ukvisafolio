@@ -8,13 +8,13 @@
   document.head.appendChild(style);
 
   var parts = location.pathname.split("/").filter(Boolean);
-  var lang = parts[0] === "en" || parts[0] === "hi" ? parts.shift() : "ja";
+  var lang = parts[0] === "en" || parts[0] === "hi" || parts[0] === "zh-tw" ? parts.shift() : "ja";
   if (parts[parts.length - 1] === "index.html") parts.pop();
   if (parts.length && /\.html$/.test(parts[parts.length - 1])) {
     parts[parts.length - 1] = parts[parts.length - 1].replace(/\.html$/, "");
   }
   var rest = parts.join("/");
-  var labels = [["ja", "日本語"], ["en", "English"], ["hi", "हिन्दी"]];
+  var labels = [["ja", "日本語"], ["en", "English"], ["hi", "हिन्दी"], ["zh-tw", "繁體中文"]];
 
   function hrefFor(target, pathRest) {
     var prefix = target === "ja" ? "" : "/" + target;
@@ -25,7 +25,8 @@
   }
 
   function destination(target) {
-    var alt = document.querySelector('link[rel="alternate"][hreflang="' + target + '"]');
+    var hreflang = target === "zh-tw" ? "zh-Hant" : target;
+    var alt = document.querySelector('link[rel="alternate"][hreflang="' + hreflang + '"]');
     if (alt) return alt.getAttribute("href");
     if (rest.indexOf("articles/") === 0) return hrefFor(target, "articles");
     return hrefFor(target, rest);

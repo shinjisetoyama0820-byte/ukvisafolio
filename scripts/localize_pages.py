@@ -1,7 +1,9 @@
 # -*- coding: utf-8 -*-
-"""Build English and Hindi copies of the static pages, and add the language switch."""
+"""Build English, Hindi and Traditional Chinese copies of the static pages, and add the language switch."""
 import re
 from pathlib import Path
+
+from zh_tw_text import ZH
 
 ROOT = Path(__file__).resolve().parents[1]
 PAGES = [
@@ -257,14 +259,17 @@ DISCLAIMER = {
 "ja": "Stratovisa は書類整理ツールであり、移民アドバイザーではありません。申請資格の判断や移民に関する助言は行いません。書類の要件はすべて GOV.UK の公開ガイダンスに基づいています。",
 "en": "Stratovisa is a document-organisation tool and is not an immigration adviser. It does not decide whether you qualify, and it does not give immigration advice. Document requirements follow published GOV.UK guidance.",
 "hi": "Stratovisa दस्तावेज़ व्यवस्थित करने का टूल है। यह आप्रवासन सलाहकार नहीं है। यह पात्रता तय नहीं करता और आप्रवासन सलाह नहीं देता। दस्तावेज़ों की शर्तें GOV.UK की सार्वजनिक गाइड पर आधारित हैं।",
+"zh-tw": "Stratovisa 是文件整理工具，不是移民顧問。不判斷申請資格，也不提供移民建議。文件要求全部依據 GOV.UK 公開指引。",
 }
+
+TW_COUPON = '''<div style="background:#fff;color:#172f51;border-radius:12px;padding:22px;max-width:520px;margin:24px 0"><div style="font-weight:700">UK VISA FOLIO</div><div style="font-size:clamp(36px,5vw,58px);font-weight:900;line-height:1.4">35% OFF</div><p style="font-size:13px;margin:0">35% 折扣只適用於 Stratovisa 的服務費。英國政府的申請費另計。台灣目前沒有介紹代碼，代碼確定後才會放在這裡。</p></div>'''
 
 EN_COUPON = '''<div style="background:#fff;color:#172f51;border-radius:12px;padding:22px;max-width:520px;margin:24px 0"><div style="font-weight:700">UK VISA FOLIO offer</div><div style="font-size:clamp(36px,5vw,58px);font-weight:900;line-height:1.4">35% OFF</div><p style="font-size:13px;margin:0 0 12px">The 35% discount applies to the Stratovisa service fee. UK government application fees are separate. Choose where you live, and one code is shown.</p><label for="folio-place" style="font-weight:700;font-size:13px">Where do you live?</label><select id="folio-place" style="display:block;width:100%;margin:6px 0 12px;padding:10px;border-radius:6px;border:1px solid #d7dfe9;font:inherit"><option value="">Select a country</option><option value="ng">Nigeria</option><option value="pk">Pakistan</option><option value="uk-ng">United Kingdom, Nigeria code</option><option value="uk-pk">United Kingdom, Pakistan code</option></select><div id="folio-coupon" hidden><div style="display:flex;align-items:center;gap:8px"><code id="folio-code" style="flex:1;background:#f0f3f7;padding:12px;border-radius:6px;font-size:15px"></code><button type="button" id="folio-copy" aria-label="Copy the code" style="border:1px solid #d7dfe9;border-radius:6px;padding:10px 13px;background:#f0f3f7;cursor:pointer">⧉</button></div><a id="folio-signup" href="https://stratovisa.com/en/signup" target="_blank" rel="noopener noreferrer" style="display:inline-block;margin-top:7px;color:#1c5796;text-decoration:underline;font-size:13px">Open the signup page →</a></div></div><script>(function(){var codes={ng:["JAPA","https://stratovisa.com/en/signup?ref=JAPA"],pk:["MUBARAK","https://stratovisa.com/en/signup?ref=MUBARAK"],"uk-ng":["WEDEYHERE","https://stratovisa.com/en/signup?ref=WEDEYHERE"],"uk-pk":["KHUSHAAMDEED","https://stratovisa.com/en/signup?ref=KHUSHAAMDEED"]};var sel=document.getElementById("folio-place"),box=document.getElementById("folio-coupon"),codeEl=document.getElementById("folio-code"),link=document.getElementById("folio-signup"),btn=document.getElementById("folio-copy");if(!sel)return;sel.addEventListener("change",function(){var row=codes[sel.value];if(!row){box.hidden=true;return;}codeEl.textContent=row[0];link.href=row[1];box.hidden=false});btn.addEventListener("click",function(){if(window.copyStratovisaCoupon)copyStratovisaCoupon(codeEl.textContent,btn)})})();</script>'''
 
 HI_COUPON = '''<div style="background:#fff;color:#172f51;border-radius:12px;padding:22px;max-width:520px;margin:24px 0"><div style="font-weight:700">UK VISA FOLIO ऑफ़र</div><div style="font-size:clamp(36px,5vw,58px);font-weight:900;line-height:1.4">35% OFF</div><p style="font-size:13px;margin:0 0 12px">35% की छूट Stratovisa के सेवा शुल्क पर है। यूके सरकार का आवेदन शुल्क अलग है।</p><div style="margin-bottom:16px"><div style="font-weight:700;margin-bottom:5px">भारत में रहने वाले</div><div style="display:flex;align-items:center;gap:8px"><code style="flex:1;min-width:0;background:#f0f3f7;padding:12px;border-radius:6px;font-size:15px">SHUBHARAMBH</code><button type="button" onclick="copyStratovisaCoupon('SHUBHARAMBH',this)" aria-label="SHUBHARAMBH कॉपी करें" style="border:1px solid #d7dfe9;border-radius:6px;padding:10px 13px;background:#f0f3f7;color:#172f51;cursor:pointer;font-size:18px">⧉</button></div><a href="https://stratovisa.com/hi/signup?ref=SHUBHARAMBH" target="_blank" rel="noopener noreferrer" style="display:inline-block;margin-top:7px;color:#1c5796;text-decoration:underline;font-size:13px">भारत में रहने वालों का साइनअप →</a></div><div><div style="font-weight:700;margin-bottom:5px">यूके में रहने वाले</div><div style="display:flex;align-items:center;gap:8px"><code style="flex:1;min-width:0;background:#f0f3f7;padding:12px;border-radius:6px;font-size:15px">NAYAADHYAY</code><button type="button" onclick="copyStratovisaCoupon('NAYAADHYAY',this)" aria-label="NAYAADHYAY कॉपी करें" style="border:1px solid #d7dfe9;border-radius:6px;padding:10px 13px;background:#f0f3f7;color:#172f51;cursor:pointer;font-size:18px">⧉</button></div><a href="https://stratovisa.com/hi/signup?ref=NAYAADHYAY" target="_blank" rel="noopener noreferrer" style="display:inline-block;margin-top:7px;color:#1c5796;text-decoration:underline;font-size:13px">यूके में रहने वालों का साइनअप →</a></div></div>'''
 
 def switch_for(lang, filename):
-    labels = (("ja", "日本語"), ("en", "English"), ("hi", "हिन्दी"))
+    labels = (("ja", "日本語"), ("en", "English"), ("hi", "हिन्दी"), ("zh-tw", "繁體中文"))
     options = []
     for code, label in labels:
         selected = " selected" if code == lang else ""
@@ -281,27 +286,32 @@ def public_path(lang, filename):
     return f"/{lang}/" + rest if rest else f"/{lang}/"
 
 
+def lookup(value, lang):
+    if lang == "zh-tw":
+        return ZH[value]
+    return TEXT[value][0 if lang == "en" else 1]
+
+
 def apply_text(html, lang):
-    idx = 0 if lang == "en" else 1
     parts = re.split(r"(<[^>]+>)", html)
     out = []
     for part in parts:
         if part.startswith("<"):
-            def repl(match, idx=idx):
+            def repl(match, lang=lang):
                 value = match.group(2)
-                if value in TEXT:
-                    value = TEXT[value][idx]
+                if value in TEXT or value in ZH:
+                    value = lookup(value, lang)
                 return match.group(1) + value + match.group(3)
             out.append(re.sub(r'(=\s*")([^"]*)(")', repl, part))
         else:
             stripped = part.strip()
-            if stripped in TEXT:
-                out.append(part.replace(stripped, TEXT[stripped][idx], 1))
+            if stripped in TEXT or stripped in ZH:
+                out.append(part.replace(stripped, lookup(stripped, lang), 1))
             else:
                 out.append(part)
     html = "".join(out)
     for key in ("コピーしました", "クーポンをコピー", "TABIDACHIをコピー", "ISSHONIをコピー"):
-        html = html.replace(key, TEXT[key][idx])
+        html = html.replace(key, lookup(key, lang))
     return html
 
 
@@ -310,18 +320,20 @@ def swap_coupon(html, lang):
     end = html.find('<a class="btn" href="stratovisa.html">')
     if start == -1 or end == -1 or end < start:
         return html
-    block = EN_COUPON if lang == "en" else HI_COUPON
+    block = {"en": EN_COUPON, "hi": HI_COUPON, "zh-tw": TW_COUPON}[lang]
     return html[:start] + block + html[end:]
 
 
 def decorate(html, lang, filename):
-    html = html.replace('lang="ja"', f'lang="{lang}"', 1)
+    html_lang = "zh-Hant" if lang == "zh-tw" else lang
+    html = html.replace('lang="ja"', f'lang="{html_lang}"', 1)
     if "data-lang-select" not in html and "data-lang-switch" not in html:
         html = html.replace("</nav>", "</nav>" + switch_for(lang, filename), 1)
     links = []
-    for code in ("ja", "en", "hi"):
+    for code in ("ja", "en", "hi", "zh-tw"):
         href = "https://ukvisafolio.com" + public_path(code, filename)
-        links.append(f'<link rel="alternate" hreflang="{code}" href="{href}">')
+        hreflang = "zh-Hant" if code == "zh-tw" else code
+        links.append(f'<link rel="alternate" hreflang="{hreflang}" href="{href}">')
     links.append(f'<link rel="alternate" hreflang="x-default" href="https://ukvisafolio.com{public_path("ja", filename)}">')
     current = "https://ukvisafolio.com" + public_path(lang, filename)
     links.append(f'<link rel="canonical" href="{current}">')
@@ -345,27 +357,48 @@ def decorate(html, lang, filename):
             'font-family:system-ui,-apple-system,"Noto Sans JP",sans-serif',
             'font-family:system-ui,"Nirmala UI","Noto Sans Devanagari","Noto Sans JP",sans-serif',
         )
+    if lang == "zh-tw":
+        html = html.replace(
+            "https://stratovisa.com/en?utm_source=ukvisafolio&utm_medium=referral&utm_campaign=jp_content",
+            "https://stratovisa.com/?utm_source=ukvisafolio&utm_medium=referral&utm_campaign=zh_tw_folio",
+        )
+        html = html.replace(
+            'font-family:system-ui,-apple-system,"Noto Sans JP",sans-serif',
+            'font-family:system-ui,"Noto Sans TC","PingFang TC","Microsoft JhengHei",sans-serif',
+        )
     return html
 
 
-def leftover(html):
+KANA = re.compile(r"[\u3040-\u30ff]")
+
+
+def leftover(html, lang):
     html = re.sub(r'<div class="lang-switch"[\s\S]*?</div>', "", html)
+    html = re.sub(r'<select class="lang-select"[\s\S]*?</select>', "", html)
+    needle = KANA if lang == "zh-tw" else JP
     found = []
     for part in re.split(r"<[^>]+>", html):
-        if JP.search(part):
+        if needle.search(part):
             found.append(part.strip()[:180])
     return found
 
 
+def strip_injected(html):
+    html = re.sub(r'<select class="lang-select"[\s\S]*?</select>', "", html)
+    html = re.sub(r'<p data-folio-note[\s\S]*?</p>', "", html)
+    html = html.replace('<p style="margin:8px 0 0"><a href="/insights">アクセス状況</a></p>', "")
+    return html
+
+
 def main():
-    originals = {name: (ROOT / name).read_text(encoding="utf-8") for name in PAGES}
+    originals = {name: strip_injected((ROOT / name).read_text(encoding="utf-8")) for name in PAGES}
     problems = []
     for name, source in originals.items():
-        for lang in ("en", "hi"):
+        for lang in ("en", "hi", "zh-tw"):
             html = swap_coupon(source, lang) if name == "index.html" else source
             html = apply_text(html, lang)
             html = decorate(html, lang, name)
-            left = leftover(html)
+            left = leftover(html, lang)
             if left:
                 problems.append((lang, name, left))
             folder = ROOT / lang
