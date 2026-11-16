@@ -9,7 +9,7 @@ country: "日本"
 visa_type: "UK family visa - partner or spouse"
 verified_at: "2026-11-12"
 main_keyword: "イギリス 配偶者ビザ 申請方法"
-search_intent: "申請全体の入口。必要書類の中身、収入の計算、更新、永住は別記事に譲る。"
+search_intent: "申請全体の入口。書類の中身、収入の計算、更新、永住は別記事に譲る。"
 ---
 
 # 【英国配偶者ビザ】イギリス配偶者ビザの申請方法｜日本から準備する書類・費用・手順
