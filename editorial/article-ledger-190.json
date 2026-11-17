@@ -1656,71 +1656,76 @@
       "id": "6-11",
       "category": "英国ヘルスケアワークビザ",
       "title": "【英国ヘルスケアワークビザ】英国医療職の資格証明はどう英訳する？免許証・卒業証明・職歴証明",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-health-qualification-certified-translations-draft.md"
     },
     {
       "id": "6-12",
       "category": "英国ヘルスケアワークビザ",
       "title": "【英国ヘルスケアワークビザ】英国ヘルスケアワーカービザのCoSとは？雇用主の確認と申請前の注意点",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-health-cos-sponsor-record-checklist-draft.md"
     },
     {
       "id": "6-13",
       "category": "英国ヘルスケアワークビザ",
       "title": "【英国ヘルスケアワークビザ】英国ヘルスケアワーカービザの審査期間｜内定から渡英までのスケジュール",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-health-processing-timeline-offer-to-arrival-draft.md"
     },
     {
       "id": "6-14",
       "category": "英国ヘルスケアワークビザ",
       "title": "【英国ヘルスケアワークビザ】英国医療職の採用詐欺を見抜く方法｜スポンサー企業・紹介料・偽CoSの確認",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-health-recruitment-scam-sponsor-cos-check-draft.md"
     },
     {
       "id": "6-15",
       "category": "英国ヘルスケアワークビザ",
       "title": "【英国ヘルスケアワークビザ】英国ヘルスケアワーカービザで家族帯同はできる？職種による制限の違い",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-health-dependants-occupation-restrictions-draft.md"
     },
     {
       "id": "6-16",
@@ -2775,11 +2780,11 @@
   ],
   "existing_drafts_to_reconcile": [],
   "summary": {
-    "written_articles": 110,
-    "saved_drafts": 109,
+    "written_articles": 115,
+    "saved_drafts": 114,
     "published_observed": 1,
     "total": 190,
-    "remaining": 80,
+    "remaining": 75,
     "qa": "No publication PASS claimed. Technical SEO/schema, SERP, similarity and human review remain pending.",
     "blocker": "",
     "campaign_note": "Drive campaign PDF verified: Japan TABIDACHI, UK ISSHONI, 35%, country/IP conditions. PDF lists no visa-specific codes. No route-specific code invented."
