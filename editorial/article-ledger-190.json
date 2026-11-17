@@ -306,71 +306,76 @@
       "id": "2-01",
       "category": "英国婚約者ビザ",
       "title": "【英国婚約者ビザ】2026年版｜イギリス婚約者ビザとは？日本人が英国で結婚するための申請ガイド",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-17-fiance-application-guide-draft.md"
     },
     {
       "id": "2-02",
       "category": "英国婚約者ビザ",
       "title": "【英国婚約者ビザ】英国婚約者ビザの必要書類一覧｜日本から準備する証明書と翻訳書類",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-17-fiance-required-documents-draft.md"
     },
     {
       "id": "2-03",
       "category": "英国婚約者ビザ",
       "title": "【英国婚約者ビザ】英国婚約者ビザとMarriage Visitor Visaの違い｜結婚後も英国に住むならどっち？",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-17-fiance-marriage-visitor-comparison-draft.md"
     },
     {
       "id": "2-04",
       "category": "英国婚約者ビザ",
       "title": "【英国婚約者ビザ】英国婚約者ビザの申請費用はいくら？結婚後の配偶者ビザ切替費用も比較",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-17-fiance-fees-and-spouse-switch-draft.md"
     },
     {
       "id": "2-05",
       "category": "英国婚約者ビザ",
       "title": "【英国婚約者ビザ】英国婚約者ビザの6か月ルール｜入国から結婚・ビザ切替までのスケジュール",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-17-fiance-six-month-timeline-draft.md"
     },
     {
       "id": "2-06",
@@ -2685,13 +2690,14 @@
   ],
   "existing_drafts_to_reconcile": [],
   "summary": {
-    "written_articles": 20,
-    "saved_drafts": 19,
+    "written_articles": 25,
+    "saved_drafts": 24,
     "published_observed": 1,
     "total": 190,
-    "remaining": 170,
+    "remaining": 165,
     "qa": "No publication PASS claimed. Technical SEO/schema, SERP, similarity and human review remain pending.",
-    "blocker": "Visa-specific referral codes unavailable: Google Drive sign-in required; supplied archives contain no student/work referral codes."
+    "blocker": "",
+    "campaign_note": "Drive campaign PDF verified: Japan TABIDACHI, UK ISSHONI, 35%, country/IP conditions. PDF lists no visa-specific codes. No route-specific code invented."
   },
   "publication_overlap": {
     "1-02": "content/articles/2026.md",
