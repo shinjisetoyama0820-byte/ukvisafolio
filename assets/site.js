@@ -60,6 +60,7 @@
   });
 
   function send(eventName, extra) {
+    try { if (localStorage.getItem("ukvf-nocount") === "1") return; } catch (e) { return; }
     var body = JSON.stringify(Object.assign({ event: eventName, path: location.pathname, lang: lang }, extra || {}));
     var blob = new Blob([body], { type: "text/plain;charset=UTF-8" });
     if (navigator.sendBeacon) navigator.sendBeacon("/api/collect", blob);

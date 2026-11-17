@@ -54,6 +54,10 @@ export async function onRequestPost(context) {
   if (/bot|spider|crawler|preview|headless|facebookexternalhit|slackbot|whatsapp|curl\//i.test(ua)) {
     return new Response(null, { status: 204 });
   }
+  const cookie = request.headers.get("cookie") || "";
+  if (/(?:^|;\s*)ukvf_nocount=1(?:;|$)/.test(cookie)) {
+    return new Response(null, { status: 204 });
+  }
   let payload = {};
   try {
     const text = await request.text();

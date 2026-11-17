@@ -3,7 +3,7 @@
 </style></head><body><main>
 <p><a href="/">UK VISA FOLIO</a></p>
 <h1>アクセス状況</h1>
-<p id="range">過去14日。日付は日本時間です。</p>
+<p id="range">過去14日。日付は日本時間です。このブラウザの訪問は数えません。</p>
 <div class="cards"><div class="card">今日の訪問<b id="today-users">-</b></div><div class="card">今日のページ表示<b id="today-views">-</b></div><div class="card">14日の訪問<b id="span-users">-</b></div></div>
 <h2>日ごとの数</h2><table id="days"><tr><th>日付</th><th>訪問</th><th>ページ表示</th></tr></table>
 <h2>国</h2><table id="countries"><tr><th>国</th><th>訪問</th></tr></table>
@@ -12,6 +12,8 @@
 <h2>クリック</h2><table id="clicks"><tr><th>クリック先</th><th>回数</th></tr></table>
 <p class="note" id="status" hidden></p>
 </main><script>
+try { localStorage.setItem("ukvf-nocount", "1"); } catch (e) {}
+document.cookie = "ukvf_nocount=1; Path=/; Max-Age=31536000; SameSite=Lax";
 var names={JP:"日本",GB:"英国",IN:"インド",NG:"ナイジェリア",PK:"パキスタン",US:"アメリカ",PH:"フィリピン",CN:"中国",KR:"韓国",AU:"オーストラリア",CA:"カナダ",DE:"ドイツ",FR:"フランス",IE:"アイルランド",AE:"アラブ首長国連邦",SG:"シンガポール",HK:"香港",TW:"台湾",NP:"ネパール",BD:"バングラデシュ",ZZ:"不明"};
 var langNames={ja:"日本語",en:"English",hi:"ヒンディー語"};
 function cell(text){var td=document.createElement("td");td.textContent=text;return td}
