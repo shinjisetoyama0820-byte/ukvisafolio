@@ -906,141 +906,151 @@
       "id": "4-01",
       "category": "英国技能労働者ビザ",
       "title": "【英国技能労働者ビザ】2026年版｜英国Skilled Workerビザの取得方法｜日本人向け就職・申請ガイド",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-skilled-application-guide-draft.md"
     },
     {
       "id": "4-02",
       "category": "英国技能労働者ビザ",
       "title": "【英国技能労働者ビザ】英国就労ビザの必要書類一覧｜日本人が用意する証明書と申請の流れ",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-skilled-required-documents-draft.md"
     },
     {
       "id": "4-03",
       "category": "英国技能労働者ビザ",
       "title": "【英国技能労働者ビザ】英国就労ビザを取得できる職種は？Skilled Workerの対象職業と確認方法",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-skilled-eligible-occupations-draft.md"
     },
     {
       "id": "4-04",
       "category": "英国技能労働者ビザ",
       "title": "【英国技能労働者ビザ】英国でビザスポンサー企業を探す方法｜求人票の見方と公式企業リスト",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-skilled-find-sponsor-employers-draft.md"
     },
     {
       "id": "4-05",
       "category": "英国技能労働者ビザ",
       "title": "【英国技能労働者ビザ】英国就労ビザの最低年収はいくら？職種別給与基準と例外条件",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-skilled-salary-going-rate-exceptions-draft.md"
     },
     {
       "id": "4-06",
       "category": "英国技能労働者ビザ",
       "title": "【英国技能労働者ビザ】英国就労ビザに大学卒業資格は必要？学歴・職歴・専門資格の考え方",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-skilled-degree-experience-professional-registration-draft.md"
     },
     {
       "id": "4-07",
       "category": "英国技能労働者ビザ",
       "title": "【英国技能労働者ビザ】英国就労ビザの英語要件｜必要な試験・学位証明・英語力の確認方法",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-skilled-english-language-evidence-draft.md"
     },
     {
       "id": "4-08",
       "category": "英国技能労働者ビザ",
       "title": "【英国技能労働者ビザ】英国就労ビザのCoSとは？スポンサー証明書の発行から申請まで",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-skilled-certificate-of-sponsorship-draft.md"
     },
     {
       "id": "4-09",
       "category": "英国技能労働者ビザ",
       "title": "【英国技能労働者ビザ】英国就労ビザの費用はいくら？申請料・IHS・渡航費用を整理",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-skilled-application-fees-ihs-budget-draft.md"
     },
     {
       "id": "4-10",
       "category": "英国技能労働者ビザ",
       "title": "【英国技能労働者ビザ】英国就労ビザの銀行残高証明は必要？生活資金の要件と免除条件",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-skilled-maintenance-funds-bank-evidence-draft.md"
     },
     {
       "id": "4-11",
@@ -2725,11 +2735,11 @@
   ],
   "existing_drafts_to_reconcile": [],
   "summary": {
-    "written_articles": 60,
-    "saved_drafts": 59,
+    "written_articles": 70,
+    "saved_drafts": 69,
     "published_observed": 1,
     "total": 190,
-    "remaining": 130,
+    "remaining": 120,
     "qa": "No publication PASS claimed. Technical SEO/schema, SERP, similarity and human review remain pending.",
     "blocker": "",
     "campaign_note": "Drive campaign PDF verified: Japan TABIDACHI, UK ISSHONI, 35%, country/IP conditions. PDF lists no visa-specific codes. No route-specific code invented."
