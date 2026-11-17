@@ -1281,71 +1281,76 @@
       "id": "5-06",
       "category": "英国学生ビザ",
       "title": "【英国学生ビザ】イギリス学生ビザの28日ルールとは？預金の保有期間と証明方法",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-student-funds-28-day-rule-draft.md"
     },
     {
       "id": "5-07",
       "category": "英国学生ビザ",
       "title": "【英国学生ビザ】イギリス学生ビザの英語要件｜IELTS・大学の英語評価・免除条件",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-student-english-test-university-assessment-draft.md"
     },
     {
       "id": "5-08",
       "category": "英国学生ビザ",
       "title": "【英国学生ビザ】イギリス学生ビザはいつから申請できる？入学日から逆算する準備日程",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-student-application-window-timeline-draft.md"
     },
     {
       "id": "5-09",
       "category": "英国学生ビザ",
       "title": "【英国学生ビザ】イギリス学生ビザの申請フォーム入力方法｜日本人が間違えやすい項目",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-student-application-form-japanese-checklist-draft.md"
     },
     {
       "id": "5-10",
       "category": "英国学生ビザ",
       "title": "【英国学生ビザ】イギリス学生ビザの審査期間｜渡航までに結果が出ない場合の対処法",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-student-processing-delay-before-travel-draft.md"
     },
     {
       "id": "5-11",
@@ -2750,11 +2755,11 @@
   ],
   "existing_drafts_to_reconcile": [],
   "summary": {
-    "written_articles": 85,
-    "saved_drafts": 84,
+    "written_articles": 90,
+    "saved_drafts": 89,
     "published_observed": 1,
     "total": 190,
-    "remaining": 105,
+    "remaining": 100,
     "qa": "No publication PASS claimed. Technical SEO/schema, SERP, similarity and human review remain pending.",
     "blocker": "",
     "campaign_note": "Drive campaign PDF verified: Japan TABIDACHI, UK ISSHONI, 35%, country/IP conditions. PDF lists no visa-specific codes. No route-specific code invented."
