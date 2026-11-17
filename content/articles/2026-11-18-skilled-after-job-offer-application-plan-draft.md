@@ -1,0 +1,92 @@
+---
+title: "【英国技能労働者ビザ】英国企業から内定をもらった後にやること｜CoS・ビザ申請・退職準備"
+date: "2026-11-18"
+status: "draft"
+category: "guide"
+lang: "ja"
+description: "内定後のCoS・給与・英語・資金・本人確認を時系列で整理。退職・渡航・住居の予定とビザ結果を区別し、雇用主と本人の分担を説明します。"
+source_url: "https://www.gov.uk/skilled-worker-visa"
+editorial_id: "4-12"
+last_verified_at: "2026-11-18"
+qa_native: "BLOCKED"
+qa_citation: "BLOCKED"
+qa_similarity: "BLOCKED"
+qa_compliance: "BLOCKED"
+---
+
+**英国企業の内定後は、CoSを受け取り、職務・給与・英語等の条件と必要資料を照合してからビザ申請へ進みます。** 内定、CoS割当、申請、承認、入社は別の段階です。日本での退職や渡航の確定予定も、それぞれ分けて管理します。[公式：申請の概要](https://www.gov.uk/skilled-worker-visa)
+
+対象は、日本で働きながら英国への転職を準備する人です。退職すべき日や個別の雇用契約の判断をこの記事が決めるものではありません。
+
+## 1. 内定の条件と実際の雇用主を確認する
+
+職名、業務、勤務地、給与、勤務時間、開始予定日、スポンサー対応を確認します。採用条件に資格登録や経歴確認が残る場合は、何が未完了かを書き出します。企業のブランド名とCoSに記載するスポンサーの法人名も照合します。[仕事と雇用主](https://www.gov.uk/skilled-worker-visa/your-job)
+
+本人の管理表では、条件付き内定、確認済み、CoS待ち等を別の状態にします。内定の通知を、英国政府の就労許可の通知と混同しないようにします。
+
+## 2. 雇用主と本人の分担
+
+| 分野 | 主な担当・発行元 | 準備するもの | 日付 | 翻訳 | 根拠 |
+| --- | --- | --- | --- | --- | --- |
+| CoS・職務 | スポンサー | 参照番号、コード、給与等 | 割当・開始日 | 情報を照合 | [必要情報](https://www.gov.uk/skilled-worker-visa/documents-you-must-provide) |
+| 旅券・本人情報 | 本人・旅券発行機関 | 有効な旅券等 | 有効期限 | 指示に従う | [同上](https://www.gov.uk/skilled-worker-visa/documents-you-must-provide) |
+| 英語 | 本人・試験機関等 | 利用する証明 | 受験・評価の時期 | 所定の条件 | [英語](https://www.gov.uk/skilled-worker-visa/knowledge-of-english) |
+| 生活資金 | 本人・金融機関、スポンサー | 銀行資料またはmaintenance等 | 28日・31日等 | 非英語資料は認証翻訳 | [資金](https://www.gov.uk/skilled-worker-visa/how-much-it-costs) |
+| 条件付き資料 | 本人・当局等 | TB、犯罪経歴等の該当分 | 発行・有効条件 | 指定に従う | [必要書類](https://www.gov.uk/skilled-worker-visa/documents-you-must-provide) |
+
+## 3. CoSの二つの日付から逆算する
+
+CoSは割当後3か月以内に申請へ使い、勤務開始日の3か月より前にはビザ申請しない条件を確認します。[公式：CoS](https://www.gov.uk/uk-visa-sponsorship-employers/certificates-of-sponsorship)
+
+CoSの発行待ち、英語試験、翻訳、本人確認の予約は、審査とは別の時間です。開始予定日だけを決めて、資料がそろう日を考慮しない予定にしないようにします。
+
+## 4. 退職と渡航は確定・未確定を分ける
+
+日本の勤務先の退職手続き、住居の解約、引越し、航空券、英国の入社は、それぞれ相手と条件が違います。本人の予定表には、必要な通知期間、変更・取消の条件、未確定のビザ結果を別欄にします。
+
+GOV.UKは国外のビザ審査案内で、結果が出るまで旅行を予約しないよう案内しています。審査目安を承認保証と同じにしないようにします。[公式：国外審査](https://www.gov.uk/guidance/visa-processing-times-applications-outside-the-uk)
+
+## 5. 提出・本人確認・結果を別々に保存する
+
+国外申請の画面から進み、ID Checkアプリや申請センター等、本人確認は表示された案内に従います。[国外申請](https://www.gov.uk/skilled-worker-visa/apply-from-outside-the-uk)
+
+申請番号、支払い、提出版、本人確認日、追加依頼、結果を保管します。結果後はeVisaの本人情報、資格、期限、旅券の対応を確認し、雇用主のright to work確認と入社日程を調整します。[eVisa](https://www.gov.uk/evisa)、[就労資格](https://www.gov.uk/prove-right-to-work)
+
+## よくある質問
+
+### 内定の翌日に申請できますか？
+
+CoSと必要資料、申請時期の条件がそろっているかを確認します。内定だけで申請準備が完了するわけではありません。
+
+### 会社が予定した開始日に必ず渡英できますか？
+
+審査や本人確認、許可内容等によります。希望日での結果・入国は保証されません。
+
+### 退職日はいつにすべきですか？
+
+現在の雇用契約、本人の資金・生活、英国側の条件を分けて確認します。この記事では一律の日付を勧めません。
+
+## 就労ビザの書類をまとめて管理する
+
+就労ビザでは、雇用主から届くCoSの情報と、自分で用意する旅券・英語・資金等の証拠を対応させておくと、必要な情報を探しやすくなります。
+
+技能労働者ビザの書類準備には、英国ビザの書類整理ツール「Stratovisa（ストラビ）」を利用する方法もあります。質問への回答に応じたチェックリストの確認、書類のアップロード、準備状況の管理、整理した書類一式のダウンロードなどに対応しています。利用時には、自分が準備するビザの種類に対応していることを画面で確認してください。
+
+### Stratovisa 35％OFF紹介コード
+
+- **日本から利用する方：TABIDACHI（旅立ち）**。[35％OFFの紹介リンクで登録する](https://stratovisa.com/ja/signup?ref=TABIDACHI)
+- **英国から利用する方：ISSHONI（一緒に）**。[35％OFFの紹介リンクで登録する](https://stratovisa.com/ja/signup?ref=ISSHONI)
+
+専用リンクから登録するか、登録画面・支払い画面の紹介コード欄に入力してください。コードの適用地域はアクセス元の国で判定されます。登録後でも支払い前なら追加できますが、支払い後には追加できません。一つのアカウントに適用できるコードは一つで、適用後の変更や他の割引との併用はできません。決済前に35％OFFが表示されていることを確認してください。割引対象はStratovisaのサービス料金であり、英国政府のビザ申請料やIHSではありません。
+
+※Stratovisaは書類整理のためのサービスです。ビザの申請資格の判断や移民法上の助言は行わず、英国政府・UKVIとも提携していません。
+
+## 関連する準備ガイド・公式情報
+
+- [申請ガイド一覧](/guides.html)
+- [必要書類の整理](/documents.html)
+- [GOV.UK：Skilled Worker](https://www.gov.uk/skilled-worker-visa)
+- [GOV.UK：仕事と給与の条件](https://www.gov.uk/skilled-worker-visa/your-job)
+- [GOV.UK：提出する書類](https://www.gov.uk/skilled-worker-visa/documents-you-must-provide)
+
+編集：UK VISA FOLIO。一般的な制度と書類整理の説明であり、個別の申請資格や審査結果を判断するものではありません。
