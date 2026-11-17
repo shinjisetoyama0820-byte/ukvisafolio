@@ -1506,71 +1506,76 @@
       "id": "6-01",
       "category": "英国ヘルスケアワークビザ",
       "title": "【英国ヘルスケアワークビザ】2026年版｜英国Health and Care Workerビザとは？日本人向け対象職種・条件・申請方法",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-health-application-guide-draft.md"
     },
     {
       "id": "6-02",
       "category": "英国ヘルスケアワークビザ",
       "title": "【英国ヘルスケアワークビザ】英国ヘルスケアワーカービザの必要書類一覧｜日本の資格証明・英語証明・CoS",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-health-required-documents-draft.md"
     },
     {
       "id": "6-03",
       "category": "英国ヘルスケアワークビザ",
       "title": "【英国ヘルスケアワークビザ】日本の看護師免許でイギリスで働ける？NMC登録とビザ取得までの流れ",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-health-japanese-nurse-nmc-registration-draft.md"
     },
     {
       "id": "6-04",
       "category": "英国ヘルスケアワークビザ",
       "title": "【英国ヘルスケアワークビザ】日本の医師免許で英国勤務は可能？GMC登録・英語要件・就職手順",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-health-japanese-doctor-gmc-registration-draft.md"
     },
     {
       "id": "6-05",
       "category": "英国ヘルスケアワークビザ",
       "title": "【英国ヘルスケアワークビザ】日本の介護福祉士はイギリスで働ける？介護職の海外採用制限と代替ルート",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-health-japanese-care-worker-overseas-restrictions-draft.md"
     },
     {
       "id": "6-06",
@@ -2765,11 +2770,11 @@
   ],
   "existing_drafts_to_reconcile": [],
   "summary": {
-    "written_articles": 100,
-    "saved_drafts": 99,
+    "written_articles": 105,
+    "saved_drafts": 104,
     "published_observed": 1,
     "total": 190,
-    "remaining": 90,
+    "remaining": 85,
     "qa": "No publication PASS claimed. Technical SEO/schema, SERP, similarity and human review remain pending.",
     "blocker": "",
     "campaign_note": "Drive campaign PDF verified: Japan TABIDACHI, UK ISSHONI, 35%, country/IP conditions. PDF lists no visa-specific codes. No route-specific code invented."
