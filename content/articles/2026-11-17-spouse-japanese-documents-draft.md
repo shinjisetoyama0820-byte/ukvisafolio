@@ -92,4 +92,4 @@ GOV.UKは、英語またはウェールズ語ではない書類について認�
 - [GOV.UK：Partner or spouse](https://www.gov.uk/uk-family-visa/partner-spouse)
 - [GOV.UK：Financial requirements](https://www.gov.uk/uk-family-visa/proof-income-partner)
 
-*資料確認日：2026年11月17日。公開前に最新のGOV.UKと既存記事との重複を再確認してください。*
+最終確認日：2026年11月17日。
