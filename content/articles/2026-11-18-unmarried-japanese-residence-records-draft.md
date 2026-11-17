@@ -1,0 +1,89 @@
+---
+title: "【英国未婚パートナービザ】英国未婚パートナービザで住民票は役立つ？同居・別居を証明する日本の書類"
+date: "2026-11-18"
+status: "draft"
+category: "guide"
+lang: "ja"
+description: "住民票を同居・住所の資料として使う場合の限界を解説。現在住所と過去の期間、世帯、賃貸・公共料金との対応、原本と英訳を整理します。"
+source_url: "https://www.gov.uk/uk-family-visa/partner-spouse"
+editorial_id: "3-09"
+last_verified_at: "2026-11-18"
+qa_native: "BLOCKED"
+qa_citation: "BLOCKED"
+qa_similarity: "BLOCKED"
+qa_compliance: "BLOCKED"
+---
+
+**住民票は日本での住所等を整理する資料になり得ますが、それだけで未婚パートナーの2年以上の関係が証明されるとは限りません。** 記載されている人、住所、日付、世帯等を確認し、関係の実態を示す他の記録と分けて整理します。[公式：関係の証拠](https://www.gov.uk/uk-family-visa/partner-spouse)、[未婚の関係の期間](https://www.gov.uk/government/publications/family-life-as-a-partner-or-parent-private-life-and-exceptional-circumstance/family-life-as-a-partner-or-parent-and-exceptional-circumstances-accessible)
+
+対象は、日本で同居していた人や、日英で住所が異なる二人です。英国向けに全員が同じ住民票を必ず提出するという案内ではありません。
+
+## 1. 書類が実際に示す範囲を確認する
+
+現在の住所が載ることと、過去の同居期間全体が分かることは別です。発行日、住所の履歴、記載の対象者等を原本で読み、どの出来事と期間を説明できるかを整理します。
+
+二人が別の世帯になっている、片方の氏名しかない、住所の表記が異なるなどの場合も、記載を都合よく変更せず、実際の生活の状況と他の資料を確認します。
+
+## 2. 住所の資料を組み合わせる
+
+| 資料例 | 発行元 | 何を整理するか | 日付 | 翻訳 | 根拠 |
+| --- | --- | --- | --- | --- | --- |
+| 住民票等 | 日本の自治体 | 記載された住所・本人情報 | 発行日・記載の履歴 | 非英語資料は認証翻訳 | [提出情報](https://www.gov.uk/uk-family-visa/provide-information) |
+| 賃貸契約 | 家主・管理会社 | 契約と住居の関係 | 契約日・対象期間 | 同上 | [関係の例](https://www.gov.uk/uk-family-visa/partner-spouse) |
+| 公共料金等 | 供給事業者 | 名義と住所・対象期間 | 請求・利用期間 | 同上 | [同上](https://www.gov.uk/uk-family-visa/partner-spouse) |
+| 銀行等の住所記録 | 金融機関等 | 本人と住所の対応 | 対象時点 | 同上 | [同上](https://www.gov.uk/uk-family-visa/partner-spouse) |
+
+表は資料の例であり、英国政府が日本の書類をすべて同じ名前で必須指定している意味ではありません。
+
+## 3. 契約日と入居日を混同しない
+
+賃貸契約を結んだ日、入居した日、住民票の手続きをした日、請求書の対象月は違うことがあります。自分用に各日付を並べると、不一致に見える事情を整理しやすくなります。
+
+申請フォームでは、原本と実際の履歴に沿った情報を回答します。資料の日付をそろえる目的で事実を変えず、違いの理由を確認します。[提出情報](https://www.gov.uk/uk-family-visa/provide-information)
+
+## 4. 同じ住所でないことだけで結論を出さない
+
+未婚パートナーは2年全期間の同居証拠が一律の必須条件ではありません。別居なら、その事情と関係の継続を整理します。一方、同じ住所に住んでいたことだけで、婚姻等に類する関係や他のビザ要件が自動で満たされるわけでもありません。[Family life](https://www.gov.uk/government/publications/family-life-as-a-partner-or-parent-private-life-and-exceptional-circumstance/family-life-as-a-partner-or-parent-and-exceptional-circumstances-accessible)
+
+## 5. 翻訳を依頼する前に必要な原本を決める
+
+提出目的と必要な情報を確認してから、自治体へ発行できる書類を問い合わせます。原本の版が決まった後に訳文を対応させ、氏名は旅券表記と照合します。原本と訳文は同じ資料番号で管理すると、別の発行日の組合せを避けやすくなります。[翻訳の案内](https://www.gov.uk/uk-family-visa/provide-information)
+
+## よくある質問
+
+### 世帯主が一人なら使えませんか？
+
+一つの欄だけで関係全体を判断せず、資料の内容と他の記録を整理します。
+
+### 住民票を取ればLINEや面会記録はいりませんか？
+
+住所と関係の継続は同じ論点ではありません。資料が何を示せるかを分けます。
+
+### 発行されたばかりなら過去2年の証明になりますか？
+
+発行日が新しいことと、記載内容が過去2年を示すことは別です。原本の対象情報を確認します。
+
+## 二人の関係資料をまとめて管理する
+
+未婚パートナービザの準備では、日本と英国で集めた資料、交際の記録、原本と訳文を対応させておくと、必要なファイルを探しやすくなります。
+
+配偶者・パートナールートの書類準備には、英国ビザの書類整理ツール「Stratovisa（ストラビ）」を利用する方法もあります。質問への回答に応じたチェックリストの確認、書類のアップロード、準備状況の管理、整理した書類一式のダウンロードなどに対応しています。利用時には、自分が準備するビザの種類に対応していることを画面で確認してください。
+
+### Stratovisa 35％OFF紹介コード
+
+- **日本から利用する方：TABIDACHI（旅立ち）**。[35％OFFの紹介リンクで登録する](https://stratovisa.com/ja/signup?ref=TABIDACHI)
+- **英国から利用する方：ISSHONI（一緒に）**。[35％OFFの紹介リンクで登録する](https://stratovisa.com/ja/signup?ref=ISSHONI)
+
+専用リンクから登録するか、登録画面・支払い画面の紹介コード欄に入力してください。コードの適用地域はアクセス元の国で判定されます。登録後でも支払い前なら追加できますが、支払い後には追加できません。一つのアカウントに適用できるコードは一つで、適用後の変更や他の割引との併用はできません。決済前に35％OFFが表示されていることを確認してください。割引対象はStratovisaのサービス料金であり、英国政府のビザ申請料やIHSではありません。
+
+※Stratovisaは書類整理のためのサービスです。ビザの申請資格の判断や移民法上の助言は行わず、英国政府・UKVIとも提携していません。
+
+## 関連する準備ガイド・公式情報
+
+- [ファミリービザの全体像](/family.html)
+- [書類の取得・整理](/documents.html)
+- [GOV.UK：パートナー・配偶者](https://www.gov.uk/uk-family-visa/partner-spouse)
+- [Home Office：Family lifeガイダンス](https://www.gov.uk/government/publications/family-life-as-a-partner-or-parent-private-life-and-exceptional-circumstance/family-life-as-a-partner-or-parent-and-exceptional-circumstances-accessible)
+- [GOV.UK：提出する情報](https://www.gov.uk/uk-family-visa/provide-information)
+
+編集：UK VISA FOLIO。一般的な情報と資料整理の説明であり、個別の申請資格や審査結果を判断するものではありません。

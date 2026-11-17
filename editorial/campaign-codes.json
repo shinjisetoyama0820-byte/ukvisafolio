@@ -1,0 +1,34 @@
+{
+  "source_title": "キャンペーンコードの出し方 How to share campaign codes.pdf",
+  "source_document_date": "2026-10-25",
+  "source_location": "https://drive.google.com/drive/folders/18KLzg2xQYO7oqb1G_Dy7Ua3pWP5bn26f",
+  "verified_by": "Authenticated Drive PDF preview, all 3 pages read",
+  "campaigns": [
+    {
+      "country": "JP",
+      "code": "TABIDACHI",
+      "discount_percent": 35,
+      "url": "https://stratovisa.com/ja/signup?ref=TABIDACHI"
+    },
+    {
+      "country": "GB",
+      "code": "ISSHONI",
+      "discount_percent": 35,
+      "url": "https://stratovisa.com/ja/signup?ref=ISSHONI"
+    },
+    {
+      "country": "all",
+      "code": "SPECIALOFFER",
+      "discount_percent": 35
+    }
+  ],
+  "conditions": [
+    "Access country is checked by IP",
+    "Use before payment",
+    "Cannot add code after payment",
+    "One code per account; cannot change once applied",
+    "Do not stack codes",
+    "Discount applies to Stratovisa service fees, not government fees or IHS"
+  ],
+  "visa_specific_codes": "No visa-specific code listed in this document. No visa-specific code invented."
+}
