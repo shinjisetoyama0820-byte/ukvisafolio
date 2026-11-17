@@ -1581,71 +1581,76 @@
       "id": "6-06",
       "category": "英国ヘルスケアワークビザ",
       "title": "【英国ヘルスケアワークビザ】英国ヘルスケアワーカービザの対象職種｜看護師・医師・医療専門職の確認方法",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-health-eligible-occupations-code-check-draft.md"
     },
     {
       "id": "6-07",
       "category": "英国ヘルスケアワークビザ",
       "title": "【英国ヘルスケアワークビザ】英国NHSで日本人が働くには？求人探しからビザ申請まで",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-health-nhs-jobs-japanese-applicants-draft.md"
     },
     {
       "id": "6-08",
       "category": "英国ヘルスケアワークビザ",
       "title": "【英国ヘルスケアワークビザ】英国の医療職に必要な英語力｜IELTS・OET・ビザ要件と資格登録の違い",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-health-english-ielts-oet-registration-visa-draft.md"
     },
     {
       "id": "6-09",
       "category": "英国ヘルスケアワークビザ",
       "title": "【英国ヘルスケアワークビザ】英国ヘルスケアワーカービザの給与要件｜NHSの給与体系と職種別基準",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-health-salary-national-pay-scales-draft.md"
     },
     {
       "id": "6-10",
       "category": "英国ヘルスケアワークビザ",
       "title": "【英国ヘルスケアワークビザ】英国ヘルスケアワーカービザの費用｜申請料・IHS免除・生活資金を解説",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-health-fees-ihs-maintenance-budget-draft.md"
     },
     {
       "id": "6-11",
@@ -2770,11 +2775,11 @@
   ],
   "existing_drafts_to_reconcile": [],
   "summary": {
-    "written_articles": 105,
-    "saved_drafts": 104,
+    "written_articles": 110,
+    "saved_drafts": 109,
     "published_observed": 1,
     "total": 190,
-    "remaining": 85,
+    "remaining": 80,
     "qa": "No publication PASS claimed. Technical SEO/schema, SERP, similarity and human review remain pending.",
     "blocker": "",
     "campaign_note": "Drive campaign PDF verified: Japan TABIDACHI, UK ISSHONI, 35%, country/IP conditions. PDF lists no visa-specific codes. No route-specific code invented."
