@@ -7,7 +7,7 @@
       "category": "英国配偶者ビザ",
       "title": "【英国配偶者ビザ】2026年版｜イギリス配偶者ビザの申請方法｜日本人が準備する書類・費用・手順を完全解説",
       "status": "draft_written",
-      "cms_status": "saved_draft",
+      "cms_status": "published_observed_external_change",
       "coupon_status": "user_supplied",
       "qa": {
         "Native": "BLOCKED",
@@ -2685,10 +2685,12 @@
   ],
   "existing_drafts_to_reconcile": [],
   "summary": {
-    "saved_drafts": 20,
+    "written_articles": 20,
+    "saved_drafts": 19,
+    "published_observed": 1,
     "total": 190,
     "remaining": 170,
-    "qa": "Draft storage only. No publication PASS claimed. Technical SEO/schema, SERP, similarity and human review remain pending.",
+    "qa": "No publication PASS claimed. Technical SEO/schema, SERP, similarity and human review remain pending.",
     "blocker": "Visa-specific referral codes unavailable: Google Drive sign-in required; supplied archives contain no student/work referral codes."
   },
   "publication_overlap": {
