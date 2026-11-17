@@ -1206,71 +1206,76 @@
       "id": "5-01",
       "category": "英国学生ビザ",
       "title": "【英国学生ビザ】2026年版｜イギリス学生ビザの申請方法｜日本人向け必要書類・費用・手順",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-student-application-guide-draft.md"
     },
     {
       "id": "5-02",
       "category": "英国学生ビザ",
       "title": "【英国学生ビザ】イギリス学生ビザの必要書類一覧｜CAS・パスポート・英語力証明を解説",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-student-required-documents-draft.md"
     },
     {
       "id": "5-03",
       "category": "英国学生ビザ",
       "title": "【英国学生ビザ】イギリス学生ビザのCASとは？大学から届いた後に確認すべき項目",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-student-cas-checklist-draft.md"
     },
     {
       "id": "5-04",
       "category": "英国学生ビザ",
       "title": "【英国学生ビザ】イギリス学生ビザの申請費用はいくら？IHS・学費・生活費まで整理",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-student-fees-ihs-study-budget-draft.md"
     },
     {
       "id": "5-05",
       "category": "英国学生ビザ",
       "title": "【英国学生ビザ】イギリス学生ビザの資金証明は日本人なら不要？例外と追加提出への備え",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-student-japanese-differential-financial-evidence-draft.md"
     },
     {
       "id": "5-06",
@@ -2745,11 +2750,11 @@
   ],
   "existing_drafts_to_reconcile": [],
   "summary": {
-    "written_articles": 80,
-    "saved_drafts": 79,
+    "written_articles": 85,
+    "saved_drafts": 84,
     "published_observed": 1,
     "total": 190,
-    "remaining": 110,
+    "remaining": 105,
     "qa": "No publication PASS claimed. Technical SEO/schema, SERP, similarity and human review remain pending.",
     "blocker": "",
     "campaign_note": "Drive campaign PDF verified: Japan TABIDACHI, UK ISSHONI, 35%, country/IP conditions. PDF lists no visa-specific codes. No route-specific code invented."
