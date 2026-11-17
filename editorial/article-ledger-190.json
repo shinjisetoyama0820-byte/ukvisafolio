@@ -1356,71 +1356,76 @@
       "id": "5-11",
       "category": "英国学生ビザ",
       "title": "【英国学生ビザ】イギリス語学留学に学生ビザは必要？6か月・11か月・長期留学の違い",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-student-language-study-route-comparison-draft.md"
     },
     {
       "id": "5-12",
       "category": "英国学生ビザ",
       "title": "【英国学生ビザ】イギリス学生ビザで親名義の預金は使える？保護者同意と資金証明",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-student-parent-bank-funds-consent-draft.md"
     },
     {
       "id": "5-13",
       "category": "英国学生ビザ",
       "title": "【英国学生ビザ】イギリス学生ビザが不許可になる理由｜CAS・資金・入力ミスを防ぐ方法",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-student-refusal-prevention-cas-funds-form-draft.md"
     },
     {
       "id": "5-14",
       "category": "英国学生ビザ",
       "title": "【英国学生ビザ】イギリス学生ビザでアルバイトはできる？週の就労時間と禁止される仕事",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-student-part-time-work-hours-restrictions-draft.md"
     },
     {
       "id": "5-15",
       "category": "英国学生ビザ",
       "title": "【英国学生ビザ】イギリス留学中にフリーランス・副業はできる？学生ビザの就労制限",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-student-freelance-side-business-restrictions-draft.md"
     },
     {
       "id": "5-16",
@@ -2755,11 +2760,11 @@
   ],
   "existing_drafts_to_reconcile": [],
   "summary": {
-    "written_articles": 90,
-    "saved_drafts": 89,
+    "written_articles": 95,
+    "saved_drafts": 94,
     "published_observed": 1,
     "total": 190,
-    "remaining": 100,
+    "remaining": 95,
     "qa": "No publication PASS claimed. Technical SEO/schema, SERP, similarity and human review remain pending.",
     "blocker": "",
     "campaign_note": "Drive campaign PDF verified: Japan TABIDACHI, UK ISSHONI, 35%, country/IP conditions. PDF lists no visa-specific codes. No route-specific code invented."
