@@ -1431,71 +1431,76 @@
       "id": "5-16",
       "category": "英国学生ビザ",
       "title": "【英国学生ビザ】イギリス学生ビザで家族を連れて行ける？大学院生・研究留学生の帯同条件",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-student-dependants-research-postgraduate-draft.md"
     },
     {
       "id": "5-17",
       "category": "英国学生ビザ",
       "title": "【英国学生ビザ】イギリス留学中に大学を変更したら？CASと学生ビザの変更手続き",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-student-changing-university-cas-permission-draft.md"
     },
     {
       "id": "5-18",
       "category": "英国学生ビザ",
       "title": "【英国学生ビザ】イギリス学生ビザの期限が切れる前にやること｜延長・帰国・別ビザへの変更",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-student-expiry-extension-return-switch-draft.md"
     },
     {
       "id": "5-19",
       "category": "英国学生ビザ",
       "title": "【英国学生ビザ】イギリス卒業後は何年働ける？Graduate Visaの期間と就労ビザへの切替",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-student-graduate-duration-skilled-worker-transition-draft.md"
     },
     {
       "id": "5-20",
       "category": "英国学生ビザ",
       "title": "【英国学生ビザ】イギリス学生ビザを自分で申請する方法｜Stratovisaを使った書類準備ガイド",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-student-self-application-stratovisa-document-workflow-draft.md"
     },
     {
       "id": "6-01",
@@ -2760,11 +2765,11 @@
   ],
   "existing_drafts_to_reconcile": [],
   "summary": {
-    "written_articles": 95,
-    "saved_drafts": 94,
+    "written_articles": 100,
+    "saved_drafts": 99,
     "published_observed": 1,
     "total": 190,
-    "remaining": 95,
+    "remaining": 90,
     "qa": "No publication PASS claimed. Technical SEO/schema, SERP, similarity and human review remain pending.",
     "blocker": "",
     "campaign_note": "Drive campaign PDF verified: Japan TABIDACHI, UK ISSHONI, 35%, country/IP conditions. PDF lists no visa-specific codes. No route-specific code invented."
