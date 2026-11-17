@@ -156,29 +156,31 @@
       "id": "1-11",
       "category": "英国配偶者ビザ",
       "title": "【英国配偶者ビザ】英国配偶者ビザで日本の収入は使える？海外勤務・転職・帰国予定の注意点",
-      "status": "not_written",
-      "cms_status": "not_saved",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
       "coupon_status": "user_supplied",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-17-spouse-japan-income-draft.md"
     },
     {
       "id": "1-12",
       "category": "英国配偶者ビザ",
       "title": "【英国配偶者ビザ】英国配偶者ビザの住居要件｜実家・賃貸・同居予定でも申請できる？",
-      "status": "not_written",
-      "cms_status": "not_saved",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
       "coupon_status": "user_supplied",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-17-spouse-accommodation-draft.md"
     },
     {
       "id": "1-13",
@@ -199,99 +201,106 @@
       "id": "1-14",
       "category": "英国配偶者ビザ",
       "title": "【英国配偶者ビザ】英国配偶者ビザの申請中にイギリスへ旅行できる？渡航時の注意点",
-      "status": "not_written",
-      "cms_status": "not_saved",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
       "coupon_status": "user_supplied",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-17-spouse-travel-pending-draft.md"
     },
     {
       "id": "1-15",
       "category": "英国配偶者ビザ",
       "title": "【英国配偶者ビザ】英国配偶者ビザが拒否される主な理由｜書類不足・収入証明・説明の不一致",
-      "status": "not_written",
-      "cms_status": "not_saved",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
       "coupon_status": "user_supplied",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-17-spouse-refusal-documents-draft.md"
     },
     {
       "id": "1-16",
       "category": "英国配偶者ビザ",
       "title": "【英国配偶者ビザ】英国配偶者ビザの申請フォームで間違えやすい項目｜日本人向け入力チェック",
-      "status": "not_written",
-      "cms_status": "not_saved",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
       "coupon_status": "user_supplied",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-17-spouse-form-check-draft.md"
     },
     {
       "id": "1-17",
       "category": "英国配偶者ビザ",
       "title": "【英国配偶者ビザ】英国配偶者ビザ取得後はいつから働ける？就職・副業・自営業の基本",
-      "status": "not_written",
-      "cms_status": "not_saved",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
       "coupon_status": "user_supplied",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-17-spouse-working-after-grant-draft.md"
     },
     {
       "id": "1-18",
       "category": "英国配偶者ビザ",
       "title": "【英国配偶者ビザ】英国配偶者ビザの更新方法｜期限・必要書類・再申請との違い",
-      "status": "not_written",
-      "cms_status": "not_saved",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
       "coupon_status": "user_supplied",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-17-spouse-renewal-draft.md"
     },
     {
       "id": "1-19",
       "category": "英国配偶者ビザ",
       "title": "【英国配偶者ビザ】英国配偶者ビザから永住権を目指すには？滞在年数・更新・準備の流れ",
-      "status": "not_written",
-      "cms_status": "not_saved",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
       "coupon_status": "user_supplied",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-17-spouse-ilr-roadmap-draft.md"
     },
     {
       "id": "1-20",
       "category": "英国配偶者ビザ",
       "title": "【英国配偶者ビザ】英国配偶者ビザ申請を自分で進める方法｜Stratovisaで書類準備を整理するには？",
-      "status": "not_written",
-      "cms_status": "not_saved",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
       "coupon_status": "user_supplied",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-17-spouse-diy-preparation-draft.md"
     },
     {
       "id": "2-01",
@@ -2676,10 +2685,11 @@
   ],
   "existing_drafts_to_reconcile": [],
   "summary": {
-    "saved_drafts": 11,
+    "saved_drafts": 20,
     "total": 190,
-    "remaining": 179,
-    "qa": "No publication PASS claimed. Technical schema, link mapping, SERP and human review remain pending."
+    "remaining": 170,
+    "qa": "Draft storage only. No publication PASS claimed. Technical SEO/schema, SERP, similarity and human review remain pending.",
+    "blocker": "Visa-specific referral codes unavailable: Google Drive sign-in required; supplied archives contain no student/work referral codes."
   },
   "publication_overlap": {
     "1-02": "content/articles/2026.md",
