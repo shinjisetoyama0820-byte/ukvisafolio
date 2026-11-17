@@ -92,4 +92,4 @@ GOV.UKは、英語またはウェールズ語以外の書類について認証�
 - [GOV.UK：Knowledge of English](https://www.gov.uk/uk-family-visa/knowledge-of-english)
 - [GOV.UK：Financial requirements](https://www.gov.uk/uk-family-visa/proof-income-partner)
 
-*資料確認日：2026年11月17日。公開前に制度、翻訳要件、紹介コードの適用条件を再確認してください。*
+最終確認日：2026年11月17日。
