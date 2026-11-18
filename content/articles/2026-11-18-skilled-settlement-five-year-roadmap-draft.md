@@ -34,7 +34,7 @@ Skilled Worker以外の一部の対象資格と合わせて期間を計算でき
 
 通常は£41,700と職種別standard going rateの高い方等を確認し、医療・教育、一定の過去からの継続等は異なる基準が案内されています。新規申請時の例外が、同じまま永住にも自動で使えるとは考えないようにします。[公式：永住の給与](https://www.gov.uk/indefinite-leave-to-remain-tier-2-t2-skilled-worker-visa/salary-requirements)
 
-雇用主が、永住後もその仕事に必要とされ、必要な給与条件を満たすことを確認する文書が求められます。給与明細を保存しただけで、雇用継続の証明まで完了とはしません。[公式：概要](https://www.gov.uk/indefinite-leave-to-remain-tier-2-t2-skilled-worker-visa)
+雇用主が、申請者を永住後もその仕事で必要としており、必要な給与条件を満たすと確認する文書が求められます。給与明細を保存しただけで、雇用継続の証明まで完了するわけではありません。[公式：概要](https://www.gov.uk/indefinite-leave-to-remain-tier-2-t2-skilled-worker-visa)
 
 ## 4. 整理する資料・情報
 

@@ -50,7 +50,7 @@ CoSの情報を持っていない場合は雇用主へ写し等を依頼しま�
 
 ## 5. 発行費用と本人の申請費用を区別
 
-政府の海外採用案内では、CoS費用等、雇用主が負担すべき費用があります。CoSの販売や保証料という説明を、通常の本人のビザ申請料と一括に扱わないようにします。[政府：費用負担](https://www.gov.uk/government/publications/applying-for-health-and-social-care-jobs-in-the-uk-from-abroad/part-1-applying-for-health-and-social-care-jobs-in-the-uk-from-abroad)
+政府の海外採用案内では、CoS費用など、雇用主が負担すべき費用が示されています。CoSの販売や保証料という説明を、通常の本人のビザ申請料と一括りにして扱わないようにします。[政府：費用負担](https://www.gov.uk/government/publications/applying-for-health-and-social-care-jobs-in-the-uk-from-abroad/part-1-applying-for-health-and-social-care-jobs-in-the-uk-from-abroad)
 
 職業紹介、翻訳、試験、本人の政府申請料など、請求される費用の目的と支払先を明細で確認します。登録されたスポンサーの名前を使った説明でも、連絡している相手が本当にその法人の担当者かを独立した公式窓口で確認します。
 

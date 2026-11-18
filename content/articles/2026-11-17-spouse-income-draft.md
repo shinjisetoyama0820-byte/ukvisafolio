@@ -85,4 +85,3 @@ Stratovisaのサービス料金について35％OFFの紹介コードとして�
 - [GOV.UK：Information and evidence](https://www.gov.uk/uk-family-visa/provide-information)
 - [GOV.UK：Appendix FM-SE](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-fm-se-family-members-specified-evidence)
 
-最終確認日：2026年11月17日。

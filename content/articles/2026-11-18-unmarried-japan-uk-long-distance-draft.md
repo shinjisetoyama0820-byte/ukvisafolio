@@ -14,7 +14,7 @@ qa_similarity: "BLOCKED"
 qa_compliance: "BLOCKED"
 ---
 
-**日本と英国で離れて住んでいても、未婚パートナーの要件を確認する余地があります。** 重要なのは申請前2年以上の婚姻等に類する関係とその継続で、2年全期間の同居証拠が一律必須ということではありません。[公式：Family life](https://www.gov.uk/government/publications/family-life-as-a-partner-or-parent-private-life-and-exceptional-circumstance/family-life-as-a-partner-or-parent-and-exceptional-circumstances-accessible)
+**日本と英国で離れて住んでいても、未婚パートナービザの対象となる可能性があります。** 重要なのは申請前2年以上の婚姻等に類する関係とその継続で、2年全期間の同居証拠が一律で必須ということではありません。[公式：Family life](https://www.gov.uk/government/publications/family-life-as-a-partner-or-parent-private-life-and-exceptional-circumstance/family-life-as-a-partner-or-parent-and-exceptional-circumstances-accessible)
 
 対象は、一方が日本、もう一方が英国に住むカップルです。遠距離なら認められるという結論ではなく、別居の理由と関係の実態を別々に整理します。
 

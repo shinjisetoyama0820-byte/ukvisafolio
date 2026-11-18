@@ -28,16 +28,16 @@ qa_compliance: "BLOCKED"
 
 | 分野 | 資料の発行元・例 | 対象・用途 | 日付 | 翻訳 | 根拠 |
 | --- | --- | --- | --- | --- | --- |
-| 関係・生活 | 家主・銀行・二人等 | 二人の関係と期間 | 2年と現在を対応 | 非英語資料は認証翻訳 | [関係](https://www.gov.uk/uk-family-visa/partner-spouse) |
+| 関係・生活 | 家主・銀行・二人等 | 二人の関係と期間 | 2年間の経緯と現在の状況を確認 | 非英語資料は認証翻訳 | [関係](https://www.gov.uk/uk-family-visa/partner-spouse) |
 | 本人・履歴 | 本人・当局等 | 氏名、旅券、過去の申請等 | 実際の履歴 | 指定に従う | [提出情報](https://www.gov.uk/uk-family-visa/provide-information) |
 | 経済面 | 雇用主・金融機関等 | 該当する収入等 | 指定期間 | 原本と全文訳等 | [FM-SE](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-fm-se-family-members-specified-evidence) |
 | 英語 | 試験機関・大学等 | 所定の証明方法 | 利用条件 | 指定に従う | [英語](https://www.gov.uk/uk-family-visa/knowledge-of-english) |
 
-ツールに項目があることだけで全員必須と考えず、自分の状況に該当する資料を確認します。公式の案内と、現在のアプリの対応種類・提供機能も確認してください。
+ツールに項目があることだけで全員に必須と考えず、自分の状況に該当する資料を確認します。公式の案内と、現在のアプリの対応種類・提供機能も確認してください。
 
 ## 3. LINE等を取り込むときの確認
 
-Stratovisaには、Family向けにLINEやWhatsApp等の関係履歴を整理する機能があります。利用する場合も、相手の表示名、対象期間、原本の内容、説明の対応を本人で確認します。取り込みや生成の結果が、関係の証拠の法的な妥当性を認定するわけではありません。
+Stratovisaには、Family向けにLINEやWhatsApp等の関係履歴を整理する機能があります。利用する場合も、相手の表示名、対象期間、原本の内容、説明の対応を本人が確認します。取り込みや生成の結果が、関係の証拠の法的な妥当性を認定するわけではありません。
 
 写真やメッセージと、第三者発行の生活資料は同じ役割ではありません。Family lifeガイダンスも証拠の種類を区別しているため、連絡履歴の量だけで全体を完成させないようにします。[公式：証拠の位置付け](https://www.gov.uk/government/publications/family-life-as-a-partner-or-parent-private-life-and-exceptional-circumstance/family-life-as-a-partner-or-parent-and-exceptional-circumstances-accessible)
 

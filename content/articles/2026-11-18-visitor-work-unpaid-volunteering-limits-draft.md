@@ -40,7 +40,7 @@ Standard Visitorでは、登録された慈善団体で最長30日間のvoluntee
 
 ## 3. 例外を一般のアルバイト許可にしない
 
-特定の専門家の有償活動やCreative Workerの特則等は、対象者・活動・時期等の条件があります。例外があることを根拠に、観光客全員が好きな仕事をできる説明にはしません。[ETAの対象活動](https://www.gov.uk/eta/what-you-can-cannot-do)
+特定の専門家の有償活動やCreative Workerの特則等は、対象者・活動・時期等の条件があります。例外があることを根拠に、観光客が誰でも自由に働けると考えるのは避けましょう。[ETAの対象活動](https://www.gov.uk/eta/what-you-can-cannot-do)
 
 短期学習で認められる特定の臨床見学・試験等も、一般の病院勤務と同じではありません。[学習の訪問](https://www.gov.uk/standard-visitor/visit-to-study)
 

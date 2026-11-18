@@ -43,7 +43,7 @@ GMCではPLAB受験と登録で証拠の確認が異なる場合もあります�
 
 ## 4. ビザは通常B2と、別の証明方法を確認
 
-Health and Care Workerの新規申請等では通常CEFR B2を確認します。試験で証明する場合は承認されたSELTが必要です。英語で教えられた対象の学位等を使う方法もあり、英国外の学位にはEcctis評価の案内があります。[ビザ英語](https://www.gov.uk/health-care-worker-visa/knowledge-of-english)
+Health and Care Workerの新規申請等では通常CEFR B2を確認します。試験で証明する場合は承認されたSELTが必要です。英語で授業を受けて取得した対象の学位等を使う方法もあり、英国外の学位にはEcctis評価の案内があります。[ビザ英語](https://www.gov.uk/health-care-worker-visa/knowledge-of-english)
 
 2026年1月8日より前からの対象許可の延長・更新等にはB1等の扱いがあります。別の資格から切り替える場合と同じとは限りません。過去の申請で何を証明し、どの許可を得たかを確認します。
 

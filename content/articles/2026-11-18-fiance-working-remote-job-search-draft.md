@@ -49,7 +49,7 @@ qa_compliance: "BLOCKED"
 | 現在の許可内容 | 英国当局 | 婚約者の条件・期限 | 現在有効な許可 | 通知に応じる | [Family](https://www.gov.uk/uk-family-visa/partner-spouse) |
 | 結婚後の申請・結果 | 英国当局・本人 | 承認された資格 | 申請日と承認日を区別 | 同上 | [同上](https://www.gov.uk/uk-family-visa/partner-spouse) |
 | 就労資格の証明情報 | UKVI等 | 雇用主への証明 | 実際の確認時点 | 指定の方法に従う | [right to work](https://www.gov.uk/prove-right-to-work) |
-| 雇用の開始予定 | 雇用主・本人 | 権利に合う日程 | 契約と許可を対応 | 本人管理用 | [同上](https://www.gov.uk/prove-right-to-work) |
+| 雇用の開始予定 | 雇用主・本人 | 権利に合う日程 | 契約と許可の条件を照合 | 本人管理用 | [同上](https://www.gov.uk/prove-right-to-work) |
 
 ## 6. 働けない期間の予算を準備する
 

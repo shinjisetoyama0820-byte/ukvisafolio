@@ -44,7 +44,7 @@ GOV.UKは、仕事・勉強・文化的事情等により同居できない場�
 | 経済的・家庭的な結び付き | 金融機関・本人等 | 該当する二人 | 関係の期間を通じて整理 | 同上 | [同上](https://www.gov.uk/uk-family-visa/partner-spouse) |
 | 別居事情の資料 | 雇用主・学校等 | その事情のある人 | 別居期間と対応 | 同上 | [Family life](https://www.gov.uk/government/publications/family-life-as-a-partner-or-parent-private-life-and-exceptional-circumstance/family-life-as-a-partner-or-parent-and-exceptional-circumstances-accessible) |
 
-この一覧は例であり、すべてが全員必須ではありません。二人の実際の記録から整理します。提出する翻訳は[公式の提出情報](https://www.gov.uk/uk-family-visa/provide-information)を確認します。
+この一覧は例であり、すべてが全員に必須ではありません。二人の実際の記録から整理します。提出する翻訳は[公式の提出情報](https://www.gov.uk/uk-family-visa/provide-information)を確認します。
 
 ## 4. 一時的な同居だけを長く見せない
 

@@ -14,7 +14,7 @@ qa_similarity: "BLOCKED"
 qa_compliance: "BLOCKED"
 ---
 
-**英国で家族・友人宅へ泊まる場合は、誰の家にいつ泊まり、誰が何を負担するかを整理します。** 招待状や住所資料の一通だけで入国が保証されるわけではなく、全員に同じ書式の招待状が必須という説明にもしません。[Visitor条件](https://www.gov.uk/standard-visitor)、[支援資料の案内](https://www.gov.uk/government/publications/visitor-visa-guide-to-supporting-documents/guide-to-supporting-documents-visiting-the-uk)
+**英国で家族・友人宅へ泊まる場合は、誰の家にいつ泊まり、誰が何を負担するかを整理します。** 招待状や住所資料の一通だけで入国が保証されるわけではなく、全員に同じ書式の招待状が求められるわけでもありません。[Visitor条件](https://www.gov.uk/standard-visitor)、[支援資料の案内](https://www.gov.uk/government/publications/visitor-visa-guide-to-supporting-documents/guide-to-supporting-documents-visiting-the-uk)
 
 対象は、日本から知人宅を訪ねる方です。事前のVisitorビザ申請に提出する資料と、旅行中に宿泊先を確認できる情報を分けて準備します。
 
@@ -46,7 +46,7 @@ qa_compliance: "BLOCKED"
 
 18歳未満の一人旅や親以外との渡航には、同意や養育・受入先等の条件があります。友人宅に泊まるという理由だけで通常の大人の招待状と同じ準備にしません。年齢と滞在先との関係、期間等を確認します。[未成年の訪問](https://www.gov.uk/standard-visitor/if-youre-under-18)
 
-家族旅行でも、親・子の氏名や関係、同行する大人を確認し、各人の旅券・必要なETA等を人別に管理します。
+家族旅行でも、親・子の氏名や関係、同行する大人を確認し、各人の旅券・必要なETA等を一人ずつ管理します。
 
 ## 5. まとめて保存する情報
 
@@ -54,7 +54,7 @@ qa_compliance: "BLOCKED"
 | --- | --- | --- | --- | --- | --- |
 | 招待・支援の説明 | 受入先 | 内容と関係 | 今回の滞在 | ビザ提出は所定の訳文 | [資料](https://www.gov.uk/government/publications/visitor-visa-guide-to-supporting-documents/guide-to-supporting-documents-visiting-the-uk) |
 | 資金・在留情報 | 支援者・当局等 | 支援の裏付け | 現在の状態 | 指示に従う | [同上](https://www.gov.uk/government/publications/visitor-visa-guide-to-supporting-documents/guide-to-supporting-documents-visiting-the-uk) |
-| 旅程・本人資金 | 本人・銀行等 | 訪問全体の費用 | 旅行期間 | 内容を対応 | [Visitor](https://www.gov.uk/standard-visitor) |
+| 旅程・本人資金 | 本人・銀行等 | 訪問全体の費用 | 旅行期間 | 記載内容を照合 | [Visitor](https://www.gov.uk/standard-visitor) |
 | 同意・関係資料 | 親・登録当局等 | 未成年の条件 | 今回の渡航 | 必要な翻訳 | [未成年](https://www.gov.uk/standard-visitor/if-youre-under-18) |
 
 ## よくある質問

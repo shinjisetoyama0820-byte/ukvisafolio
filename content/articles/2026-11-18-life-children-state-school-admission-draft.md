@@ -24,7 +24,7 @@ Receptionやsecondary等の通常の時期の申込みと、移住後のin-year�
 
 ## 外国籍と在留条件を照合
 
-入学当局が国籍・移民資格を事前条件として確認することと、保護者が子の在留上の就学可否を確認することは別です。Visitorの短期訪問を通常の公立学校の通学へ自由に使えるとは考えません。[海外からの申込み](https://www.gov.uk/guidance/schools-admissions-applications-from-overseas-children)で予定する資格と活動を確認します。
+入学手続きを担当する機関が国籍・移民資格を事前条件として確認することと、保護者が子の在留上の就学可否を確認することは別です。Visitorの短期訪問を通常の公立学校の通学へ自由に使えるとは考えません。[海外からの申込み](https://www.gov.uk/guidance/schools-admissions-applications-from-overseas-children)で予定する資格と活動を確認します。
 
 ## 学校へ伝える情報と生活の準備
 

@@ -26,7 +26,7 @@ qa_compliance: "BLOCKED"
 
 ## 2. 労働時間の原則と例外を読む
 
-一般の週労働時間には平均48時間等の基準があり、合意によるopt-outや職種・働き方による別の扱いがあります。毎週必ず48時間以内という一律の説明にも、医療職なら無制限という説明にもしません。[最大労働時間](https://www.gov.uk/maximum-weekly-working-hours)
+一般の週労働時間には平均48時間等の基準があり、合意によるopt-outや職種・働き方による別の扱いがあります。毎週必ず48時間以内でなければならないとも、医療職なら無制限に働けるとも限りません。[最大労働時間](https://www.gov.uk/maximum-weekly-working-hours)
 
 夜間労働には別の時間・健康評価等のルールがあるため、通常の週の上限だけで判断しないようにします。休憩・勤務間の休息も、対象と例外や代償休息等を確認します。[夜間労働](https://www.gov.uk/night-working-hours)、[休憩・休息](https://www.gov.uk/rest-breaks-work)
 
@@ -38,7 +38,7 @@ qa_compliance: "BLOCKED"
 
 ## 4. 法定休暇と契約上の休暇を分ける
 
-一般に多くのworkersには年5.6週の法定有給休暇があり、週5日勤務なら28日が目安です。祝日をその中に含めることも可能で、全員に28日と祝日を別枠で加算する意味ではありません。[法定休暇](https://www.gov.uk/holiday-entitlement-rights)
+一般に多くの労働者（workers）には年5.6週の法定有給休暇があり、週5日勤務なら28日が目安です。祝日をその中に含めることも可能で、全員に28日と祝日を別枠で加算する意味ではありません。[法定休暇](https://www.gov.uk/holiday-entitlement-rights)
 
 契約による上乗せ、勤務日数や時間に応じた扱い、休暇年度、取得方法を確認します。シフト制では休暇を日ではなく時間で管理する場合の説明も聞き、帰国の航空券を買う前に承認手続きを確認します。
 
@@ -49,7 +49,7 @@ qa_compliance: "BLOCKED"
 | 資料 | 発行元 | 用途 | 日付・期間 | 翻訳 | 根拠 |
 | --- | --- | --- | --- | --- | --- |
 | 雇用契約・勤務案内 | 雇用主 | 時間・休暇・手当 | 適用開始 | 英文内容を確認 | [労働時間](https://www.gov.uk/maximum-weekly-working-hours) |
-| シフト・給与明細 | 雇用主 | 実際の勤務と支払い | 各期間 | 内訳を対応 | [給与](https://www.gov.uk/health-care-worker-visa/your-job) |
+| シフト・給与明細 | 雇用主 | 実際の勤務と支払い | 各期間 | 内訳を照合 | [給与](https://www.gov.uk/health-care-worker-visa/your-job) |
 | 許可・CoS | 英国政府・スポンサー | 主職と条件 | 許可・契約期間 | 原文を保存 | [追加勤務](https://www.gov.uk/health-care-worker-visa/taking-a-second-job) |
 
 ## よくある質問

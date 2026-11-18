@@ -15,7 +15,7 @@ qa_compliance: BLOCKED
 
 **英国配偶者ビザで、LINE・写真・航空券を集めるだけで関係証明が完成するとは限りません。** Home Officeの審査官向けガイダンスは、メッセージや写真、渡航記録を証拠の例に含めていますが、婚姻や同居を示す資料とは位置づけが異なります。この記事では、枚数で判断せず、記録の日付・人物・出来事を対応させる整理方法を説明します。
 
-根拠：[Home Office：関係証明の資料区分](https://www.gov.uk/government/publications/family-life-as-a-partner-or-parent-private-life-and-exceptional-circumstance/family-life-as-a-partner-or-parent-and-exceptional-circumstances-accessible#supporting-document-tiers)。公式情報確認日：2026年11月17日。
+根拠：[Home Office：関係証明の資料区分](https://www.gov.uk/government/publications/family-life-as-a-partner-or-parent-private-life-and-exceptional-circumstance/family-life-as-a-partner-or-parent-and-exceptional-circumstances-accessible#supporting-document-tiers)。
 
 対象は、日本で結婚した場合などを含め、配偶者としてFamily visaを準備する日本人です。日本からの初回申請を中心に扱います。英国国内の更新や未婚パートナーの関係要件は、それぞれの申請区分で確認してください。
 
@@ -25,7 +25,7 @@ GOV.UKは関係を示す資料として、婚姻証明書、同じ住所の賃�
 
 この違いを整理すると、書類の役割が分かります。婚姻の事実を示す資料と、結婚後も連絡を続けていることを示す記録は、同じことを説明していません。写真が多くても、その写真だけで婚姻日や住所まで説明できるとは限りません。
 
-以下は、資料を棚卸しするための編集上の分類です。英国政府が指定する提出順ではありません。
+以下は、資料を棚卸しするための資料整理のための分類です。英国政府が指定する提出順ではありません。
 
 | 区分 | 確認すること | この分類で扱う資料の例 |
 | --- | --- | --- |
@@ -106,7 +106,7 @@ GOV.UKは認証翻訳を案内しています。自動翻訳の出力だけで�
 
 連絡記録と婚姻・収入資料を別々に管理していると、原本、翻訳、提出用ファイルの区別がつきにくくなることがあります。Stratovisaは、GOV.UKに基づく書類リストとアップロード欄を使って、こうした準備を整理するツールです。
 
-Family向けのチャットインポートでは、LINEやWhatsAppから書き出した履歴を交際記録の整理に使えます。チェックリスト、質問への回答、アップロード等の作業は無料・カード不要です。カバーレターと整理済みZIP等の完成パッケージは、ビザ種類ごとの一回払いで利用します。価格は国によって異なります。
+Family向けのチャットインポートでは、LINEやWhatsAppから書き出した履歴を交際記録の整理に使えます。チェックリスト、質問への回答、アップロード等の作業は無料・カード不要です。カバーレターと整理済みZIP等の完成パッケージは、ビザの種類ごとの一回払いで利用します。価格は国によって異なります。
 
 ### Stratovisa 35％OFF紹介コード
 
@@ -129,7 +129,6 @@ Family向けのチャットインポートでは、LINEやWhatsAppから書き�
 - [GOV.UK：提出する情報と証拠](https://www.gov.uk/uk-family-visa/provide-information)
 - [Home Office：Supporting document tiers](https://www.gov.uk/government/publications/family-life-as-a-partner-or-parent-private-life-and-exceptional-circumstance/family-life-as-a-partner-or-parent-and-exceptional-circumstances-accessible#supporting-document-tiers)
 
-最終公式確認日：2026年11月17日。
 
 変更履歴：2026年11月17日、初稿作成。LINE・写真・渡航記録の役割と、日本語資料の整理表を追加。
 

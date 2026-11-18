@@ -42,7 +42,7 @@ qa_compliance: "BLOCKED"
 | 写真の原本 | 本人等 | 面会・生活の出来事 | 実際の時期 | 説明の提出言語を確認 | [関係](https://www.gov.uk/uk-family-visa/partner-spouse) |
 | 渡航・滞在の記録 | 交通機関・本人等 | 旅行の経緯 | 予約と実施を区別 | 非英語資料は認証翻訳 | [同上](https://www.gov.uk/uk-family-visa/partner-spouse) |
 | 住所・生活の資料 | 家主・金融機関等 | 共同生活の状況 | 対象期間 | 同上 | [同上](https://www.gov.uk/uk-family-visa/partner-spouse) |
-| 時系列の一覧 | 二人 | 上の資料を対応 | 出来事の日 | 提出する場合は言語確認 | [提出情報](https://www.gov.uk/uk-family-visa/provide-information) |
+| 時系列の一覧 | 二人 | 上記の資料をひも付ける | 出来事の日 | 提出する場合は言語確認 | [提出情報](https://www.gov.uk/uk-family-visa/provide-information) |
 
 客観的な生活資料がある人は、それらと写真を同じ役割として数えないようにします。GOV.UKは銀行、家主、公的機関等の関係資料を案内しています。[公式](https://www.gov.uk/uk-family-visa/partner-spouse)
 
@@ -50,11 +50,11 @@ qa_compliance: "BLOCKED"
 
 写真を撮る習慣がない時期や、別居中の時期があっても、存在しない写真を作る理由にはなりません。実際に残る記録と、関係の期間のどこを説明できるかを整理します。
 
-婚姻等に類する2年以上の関係の条件は、画像を増やすだけで短縮できるものではありません。また、2年全期間の同居が一律必須という説明とも分けます。[定義と2年](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-fm-family-members)、[Family life](https://www.gov.uk/government/publications/family-life-as-a-partner-or-parent-private-life-and-exceptional-circumstance/family-life-as-a-partner-or-parent-and-exceptional-circumstances-accessible)
+婚姻等に類する2年以上の関係の条件は、画像を増やすだけで短縮できるものではありません。また、2年全期間の同居が一律で必須という説明とも分けます。[定義と2年](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-fm-family-members)、[Family life](https://www.gov.uk/government/publications/family-life-as-a-partner-or-parent-private-life-and-exceptional-circumstance/family-life-as-a-partner-or-parent-and-exceptional-circumstances-accessible)
 
 ## 5. 提出用の版を管理する
 
-原本、説明を付けた資料、必要な訳文を対応させます。画像が読めるか、人物や日付の説明がタイムラインと矛盾しないかを本人で照合します。実際に提出した版は後から区別できるように保存しましょう。[提出方法の案内](https://www.gov.uk/uk-family-visa/provide-information)
+原本、説明を付けた資料、必要な訳文を対応させます。画像が読めるか、人物や日付の説明がタイムラインと矛盾しないかを本人が照合します。実際に提出した版は後から区別できるように保存しましょう。[提出方法の案内](https://www.gov.uk/uk-family-visa/provide-information)
 
 ## よくある質問
 
@@ -64,7 +64,7 @@ qa_compliance: "BLOCKED"
 
 ### 家族と撮った写真が必須ですか？
 
-特定の写真を全員に一律必須とする一覧にはしません。実際の関係と取得できる資料を整理します。
+特定の種類の写真が、全員に一律で必須というわけではありません。実際の関係と取得できる資料を整理します。
 
 ### 写真をたくさん出せば銀行明細は省けますか？
 

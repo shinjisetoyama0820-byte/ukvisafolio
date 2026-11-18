@@ -53,7 +53,7 @@ NMCの資料案内では、該当する非英語の認証資料に公式な英�
 
 | 資料 | 発行元 | 用途 | 日付・期間 | 翻訳の確認 | 根拠 |
 | --- | --- | --- | --- | --- | --- |
-| 免許・登録の証拠 | 登録当局等 | 専門職登録・採用 | 登録・発行日 | 原本と番号を対応 | [NMC](https://www.nmc.org.uk/registration/joining-the-register/register-nurse-midwife/trained-outside-uk/) |
+| 免許・登録の証拠 | 登録当局等 | 専門職登録・採用 | 登録・発行日 | 原本と参照番号を照合 | [NMC](https://www.nmc.org.uk/registration/joining-the-register/register-nurse-midwife/trained-outside-uk/) |
 | 学位・研修等 | 学校・研修先 | 登録経路の証拠 | 授与・研修期間 | 必要な全項目 | [GMC](https://www.gmc-uk.org/registration-and-licensing/join-our-registers) |
 | 勤務証明 | 雇用主 | 求められる経歴 | 実際の勤務期間 | 職務・署名等 | [海外採用](https://www.gov.uk/government/publications/applying-for-health-and-social-care-jobs-in-the-uk-from-abroad/part-1-applying-for-health-and-social-care-jobs-in-the-uk-from-abroad) |
 | 資金・家族等 | 銀行・登録当局 | ビザの条件付き資料 | 各対象期間 | 認証翻訳 | [必要資料](https://www.gov.uk/health-care-worker-visa/documents-you-must-provide) |

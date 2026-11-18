@@ -58,7 +58,7 @@ qa_compliance: "BLOCKED"
 
 | 資料 | 発行元 | 用途 | 日付・期間 | 翻訳 | 根拠 |
 | --- | --- | --- | --- | --- | --- |
-| 職務記述・コード | 雇用主 | 対象職務との照合 | 現在の求人 | 英文と日本語メモを対応 | [職務](https://www.gov.uk/health-care-worker-visa/your-job) |
+| 職務記述・コード | 雇用主 | 対象職務との照合 | 現在の求人 | 英文と日本語メモを照合 | [職務](https://www.gov.uk/health-care-worker-visa/your-job) |
 | CoS | スポンサー | 申請する職務の情報 | 割当・開始日 | 原文を保存 | [必要資料](https://www.gov.uk/health-care-worker-visa/documents-you-must-provide) |
 | 登録の情報 | 規制機関 | 専門職としての資格 | 現在の登録状態 | 機関の指定に従う | [海外採用](https://www.gov.uk/government/publications/applying-for-health-and-social-care-jobs-in-the-uk-from-abroad/part-1-applying-for-health-and-social-care-jobs-in-the-uk-from-abroad) |
 | 給与・時間 | 雇用主 | 適用基準の確認 | 契約期間 | 内訳を理解 | [給与](https://www.gov.uk/health-care-worker-visa/your-job) |
@@ -77,7 +77,7 @@ qa_compliance: "BLOCKED"
 
 ### 対象コードなら給与は何額でもよいですか？
 
-給与等の条件も必要です。対象職務の確認だけでは申請条件は揃いません。[職務](https://www.gov.uk/health-care-worker-visa/your-job)
+給与等の条件も必要です。対象職務の確認だけでは申請条件はそろいません。[職務](https://www.gov.uk/health-care-worker-visa/your-job)
 
 ## 医療職のビザ書類をまとめて整理する
 

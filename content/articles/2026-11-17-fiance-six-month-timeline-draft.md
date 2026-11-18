@@ -74,7 +74,7 @@ qa_compliance: "BLOCKED"
 | 確認する資料 | 発行元 | 対象 | 日付・期間 | 翻訳 | 根拠 |
 | --- | --- | --- | --- | --- | --- |
 | 婚姻の証拠 | 登録当局等 | 結婚した二人 | 結婚日・発行日 | 非英語資料は要件を確認 | [関係の証拠](https://www.gov.uk/uk-family-visa/partner-spouse) |
-| 経済面の資料 | 雇用主・金融機関等 | 利用する収入等 | 次の申請に対応する期間 | 原本と訳文を対応 | [FM-SE](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-fm-se-family-members-specified-evidence) |
+| 経済面の資料 | 雇用主・金融機関等 | 利用する収入等 | 次の申請に対応する期間 | 原本と訳文を照合 | [FM-SE](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-fm-se-family-members-specified-evidence) |
 | 現在の本人情報 | 本人・当局 | 申請者 | 氏名・住所等の変更を確認 | 提出資料に応じる | [提出情報](https://www.gov.uk/uk-family-visa/provide-information) |
 
 「前の申請で出したから、そのままでよい」と決めず、今回の申請で求められる証拠と日付を確認します。婚姻証明書を取得したら、氏名と日付を旅券・申請情報に照合して保管すると次の準備を進めやすくなります。

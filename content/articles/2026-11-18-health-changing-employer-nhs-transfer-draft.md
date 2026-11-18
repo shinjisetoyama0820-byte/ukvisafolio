@@ -38,9 +38,9 @@ qa_compliance: "BLOCKED"
 
 ## 4. 審査中の旅行と家族
 
-国内の更新申請中に英国・アイルランド・チャンネル諸島・マン島の外へ旅行すると申請が取り下げられる案内です。一時帰国も結果待ちの状態と照合します。[更新中の渡航](https://www.gov.uk/health-care-worker-visa/update-your-visa-if-you-change-job-or-employer)
+国内の更新申請中に英国・アイルランド・チャネル諸島・マン島の外へ旅行すると申請が取り下げられると案内されています。一時帰国も結果待ちの状態と照合します。[更新中の渡航](https://www.gov.uk/health-care-worker-visa/update-your-visa-if-you-change-job-or-employer)
 
-家族の許可は自動的に変わりません。家族が現在の期限まで滞在できる扱いと、必要な延長・切替、職務による帯同条件を人別に確認します。[家族](https://www.gov.uk/health-care-worker-visa/your-partner-and-children)
+家族の許可は自動的に変わりません。家族が現在の期限まで滞在できる扱いと、必要な延長・切替、職務による帯同条件を一人ずつ確認します。[家族](https://www.gov.uk/health-care-worker-visa/your-partner-and-children)
 
 ## 5. 準備する資料
 

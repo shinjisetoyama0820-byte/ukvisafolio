@@ -14,7 +14,7 @@ qa_similarity: "BLOCKED"
 qa_compliance: "BLOCKED"
 ---
 
-**学生ビザの英語水準は、学位レベル以上が原則B2、学位未満がB1です。** 証明方法は承認試験だけとは限らず、一定の高等教育機関の学位課程では学校自身の評価等が関係します。「留学なら全員同じIELTS」という説明にはしません。[公式：英語要件](https://www.gov.uk/student-visa/knowledge-of-english)
+**学生ビザの英語水準は、学位レベル以上が原則B2、学位未満がB1です。** 証明方法は承認試験だけとは限らず、一定の高等教育機関の学位課程では学校自身の評価等が関係します。留学する人が全員、同じ種類のIELTSを受ければよいわけではありません。[公式：英語要件](https://www.gov.uk/student-visa/knowledge-of-english)
 
 対象は、日本からStudent visaで学ぶ人です。大学の入学基準と、ビザの証明方法を分け、CASの記載と照合します。
 
@@ -31,19 +31,19 @@ qa_compliance: "BLOCKED"
 
 ## 2. IELTSのブランド名だけで予約しない
 
-SELTで証明する場合は、正式な試験名、提供者、読む・書く・話す・理解する技能、必要レベル、受験国・会場を公式案内で確認します。一般の試験、大学が受け入れる試験、UKVIの承認試験を同じものとして扱いません。[公式：SELT](https://www.gov.uk/guidance/prove-your-english-language-abilities-with-a-secure-english-language-test-selt)
+SELTで証明する場合は、正式な試験名、提供者、読む・書く・話す・聞く技能、必要レベル、受験国・会場を公式案内で確認します。一般の試験、大学が受け入れる試験、UKVIの承認試験を同じものとして扱いません。[公式：SELT](https://www.gov.uk/guidance/prove-your-english-language-abilities-with-a-secure-english-language-test-selt)
 
 予約前に学校へ、CASでどの方法を使う予定かを確認すると、不要な再受験や別試験の予約を減らしやすくなります。ただし、学校の回答を、別のルートでの証明へ自動的に流用することはしません。
 
 ## 3. 大学の評価なら英語条件がないわけではない
 
-学位レベル以上を学ぶHEPは、自ら英語力を評価できると案内されています。その場合もB2相当の水準が必要です。スポンサーの条件とCASの記録等を確認します。[公式：HEPで学ぶ場合](https://www.gov.uk/student-visa/knowledge-of-english)、[規則](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-student)
+学位レベル以上のコースを提供する高等教育機関（HEP）は、自ら英語力を評価できると案内されています。その場合もB2相当の水準が必要です。スポンサーの条件とCASの記録等を確認します。[公式：HEPで学ぶ場合](https://www.gov.uk/student-visa/knowledge-of-english)、[規則](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-student)
 
 「学校が合格を出したから政府の英語条件は何もない」とするのではなく、入学に使った試験・評価と、ビザ上の方法がどう対応するかを記録します。
 
 ## 4. 学位や過去の証明を使う場合
 
-英国の学校資格、英国機関の英語で教育された学位、英国外の対象学位とEcctis等、方法ごとの条件を確認します。日本語の卒業証明の英訳だけで、教育言語や所定評価も証明できるとは限りません。[公式：学位・資格](https://www.gov.uk/student-visa/knowledge-of-english)
+英国の学校資格、英国機関の英語で授業を受けて取得した学位、英国外の対象学位とEcctis等、方法ごとの条件を確認します。日本語の卒業証明の英訳だけで、教育言語や所定評価も証明できるとは限りません。[公式：学位・資格](https://www.gov.uk/student-visa/knowledge-of-english)
 
 日本国籍だけで国籍による英語免除にはなりません。一方、対象国での学位、過去のビザでの証明等、該当する条件は別に確認します。
 

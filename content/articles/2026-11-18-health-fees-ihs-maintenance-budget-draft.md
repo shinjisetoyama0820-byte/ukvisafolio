@@ -58,13 +58,13 @@ qa_compliance: "BLOCKED"
 
 家族には別の申請と生活資金等の確認があります。本人分の£1,270を家族全員の基準として扱いません。また、職業コード等によって家族帯同に制限があるため、人数だけで予算を確定せず資格条件から確認します。[家族の条件と資金](https://www.gov.uk/health-care-worker-visa/your-partner-and-children)
 
-本人の許可申請が終わっても、家族が自動的に同じ許可を得るわけではありません。人別の料金・受付・結果を管理します。
+本人の許可申請が終わっても、家族が自動的に同じ許可を得るわけではありません。一人ずつの料金・受付・結果を管理します。
 
 ## 6. 支払いと証拠を別々に保存する
 
 | 記録 | 発行元 | 用途 | 日付・期間 | 翻訳 | 根拠 |
 | --- | --- | --- | --- | --- | --- |
-| 政府の支払受付 | 英国政府 | 申請料の支払い | 決済・申請日 | 原文を保存 | [費用](https://www.gov.uk/health-care-worker-visa/how-much-it-costs) |
+| 政府の支払いの受付 | 英国政府 | 申請料の支払い | 決済・申請日 | 原文を保存 | [費用](https://www.gov.uk/health-care-worker-visa/how-much-it-costs) |
 | 資金明細 | 金融機関 | 保有条件の証拠 | 28日・31日等 | 所定の翻訳 | [同上](https://www.gov.uk/health-care-worker-visa/how-much-it-costs) |
 | CoS | スポンサー | 支援の証明 | 発行・開始日 | 記載を照合 | [同上](https://www.gov.uk/health-care-worker-visa/how-much-it-costs) |
 | 支援契約・見積 | 雇用主等 | 本人の負担と返還条件 | 契約・支払日 | 内容を確認 | [海外採用](https://www.gov.uk/government/publications/applying-for-health-and-social-care-jobs-in-the-uk-from-abroad/part-1-applying-for-health-and-social-care-jobs-in-the-uk-from-abroad) |

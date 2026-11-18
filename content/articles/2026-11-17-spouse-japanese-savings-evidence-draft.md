@@ -16,7 +16,7 @@ qa_compliance: "BLOCKED"
 
 **日本の銀行の貯金も、英国配偶者ビザの経済要件に関係する資金として検討できますが、残高の金額だけでは判断できません。** 口座名義、資金へのアクセス、保有期間、資金源、証拠の形式などを分けて確認します。Appendix FM-SEは、現金貯蓄について原則6か月を通じた保有を示す銀行明細と、資金源の申告を定めています。
 
-根拠：[Appendix FM-SE第11・11A項](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-fm-se-family-members-specified-evidence)。確認日：2026年11月17日。
+根拠：[Appendix FM-SE第11・11A項](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-fm-se-family-members-specified-evidence)。
 
 対象は、日本の預貯金を使った資料準備を考える配偶者申請者です。年収不足分の計算だけを目的にするのではなく、日本の口座から何を集めるかに焦点を当てます。永住申請や特別な経済要件の扱いは別に確認します。
 
@@ -30,7 +30,7 @@ qa_compliance: "BLOCKED"
 | 資金源 | 給与の積立、贈与、相続、売却等 | お金がどこから来たか追えるか |
 | 保有履歴 | 対象期間の明細 | 最新残高だけで終わっていないか |
 
-口座ごとの行を作り、名義と資金の履歴を並べるための編集上の管理表です。ここへ記入しただけで申請条件を満たすという意味ではありません。
+口座ごとに行を分け、名義と資金の履歴を記録するための手元の資料を整理するための管理表です。ここへ記入しただけで申請条件を満たすという意味ではありません。
 
 ## 2. 申請者本人の名義でもよい？
 
@@ -61,7 +61,7 @@ Home Officeの経済要件ガイダンスは、申請者、パートナー、ま
 | 銀行の取引明細 | 金融機関 | 貯蓄を使う人 | 原則6か月の保有、直近部分の日付を確認 | 日本語提出資料は翻訳案内を確認 | [第1・11項](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-fm-se-family-members-specified-evidence) |
 | 資金源の申告 | 口座名義人 | 現金貯蓄の資金源を説明する人 | 実際の入金経緯と整合させる | 提出言語を確認 | [第11(b)項](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-fm-se-family-members-specified-evidence) |
 | 電子明細の確認資料 | 金融機関 | 該当する形式を用いる人 | 対応する明細を明確にする | 日本語なら翻訳を確認 | [第1項](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-fm-se-family-members-specified-evidence) |
-| 売却・投資移転等の資料 | 金融機関・関係専門家等 | 特別な履歴が関係する人 | 所有期間と現金化までの履歴 | 原本と訳文を対応 | [第11A項](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-fm-se-family-members-specified-evidence) |
+| 売却・投資移転等の資料 | 金融機関・関係専門家等 | 特別な履歴が関係する人 | 所有期間と現金化までの履歴 | 原本と訳文を照合 | [第11A項](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-fm-se-family-members-specified-evidence) |
 
 ## 5. 円のままの口座はどう考える？
 
@@ -96,7 +96,7 @@ Home Officeの経済要件ガイダンスは、申請者、パートナー、ま
 
 ### 最新の残高証明があれば十分ですか？
 
-時点の残高と、期間を通じた保有は別の確認事項です。現金貯蓄の証拠について第11項が定める期間を示せるか照合します。[公式：貯蓄の証拠](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-fm-se-family-members-specified-evidence)
+特定の時点の残高と、一定期間を通じた資金の保有は別の確認事項です。現金貯蓄の証拠について第11項が定める期間を示せるか照合します。[公式：貯蓄の証拠](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-fm-se-family-members-specified-evidence)
 
 ### 学生ビザの28日ルールと同じですか？
 
@@ -104,14 +104,14 @@ Home Officeの経済要件ガイダンスは、申請者、パートナー、ま
 
 ## 9. 貯蓄資料を他の証拠と混ぜずに管理する
 
-口座が複数ある場合は、明細、資金源、翻訳をひとまとまりで追えると、準備の進み具合が分かりやすくなります。Stratovisaは項目ごとのアップロード欄で書類を整理するツールです。貯蓄額の十分性や個別の申請資格を判定するものではありません。
+口座が複数ある場合は、明細、資金源、翻訳をひとまとまりで確認できると、準備の進み具合が分かりやすくなります。Stratovisaは項目ごとのアップロード欄で書類を整理するツールです。貯蓄額の十分性や個別の申請資格を判定するものではありません。
 
 
 ### Stratovisa 35％OFF紹介コード
 
 日本と英国で集めたファイルをまとめて管理したい方には、書類整理ツールStratovisa（ストラビ）という方法があります。GOV.UKに基づくリストで項目を確認し、書類をアップロードして準備の進み具合を整理できます。
 
-チェックリスト、質問への回答、アップロード、Personal statementの作業は無料で、カード登録は不要です。カバーレターや整理済みZIPなどの完成パッケージは、ビザ種類ごとの一回払いで利用します。月額制ではなく、料金は居住国によって異なります。
+チェックリスト、質問への回答、アップロード、事情説明文（Personal statement）の作成・編集は無料で、カード登録は不要です。カバーレターや整理済みZIPなどの完成パッケージは、ビザの種類ごとの一回払いで利用します。月額制ではなく、料金は居住国によって異なります。
 
 - **日本在住の方：TABIDACHI（旅立ち）**。[35％OFFで登録する](https://stratovisa.com/ja/signup?ref=TABIDACHI)
 - **英国在住の方：ISSHONI（一緒に）**。[35％OFFで登録する](https://stratovisa.com/ja/signup?ref=ISSHONI)
@@ -128,7 +128,6 @@ Home Officeの経済要件ガイダンスは、申請者、パートナー、ま
 
 ## 更新履歴
 
-最終確認日：2026年11月17日。
 
 変更履歴：2026年11月17日、初稿作成。日本からの資料収集と条件別の整理表を追加。
 

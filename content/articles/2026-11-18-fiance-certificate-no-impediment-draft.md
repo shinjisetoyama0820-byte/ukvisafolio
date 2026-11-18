@@ -14,7 +14,7 @@ qa_similarity: "BLOCKED"
 qa_compliance: "BLOCKED"
 ---
 
-**英国婚約者ビザを申請する全員に、日本の「独身証明書」を同じ形で提出するとは一律に言えません。** ビザ申請の証拠と、現地の結婚手続きで求められる証明を分け、提出先が必要とする内容を確認します。[GOV.UK：婚約者の要件](https://www.gov.uk/uk-family-visa/partner-spouse)、[婚姻通知の資料](https://www.gov.uk/marriages-civil-partnerships/documents-youll-need-to-give-notice)
+**英国婚約者ビザの申請者全員に、日本の「独身証明書」が同じ形式で求められるわけではありません。** ビザ申請の証拠と、現地の結婚手続きで求められる証明を分け、提出先が必要とする内容を確認します。[GOV.UK：婚約者の要件](https://www.gov.uk/uk-family-visa/partner-spouse)、[婚姻通知の資料](https://www.gov.uk/marriages-civil-partnerships/documents-youll-need-to-give-notice)
 
 対象は、日本国籍で英国での結婚を準備する人です。名称が似ている証明書でも、発行機関、言語、示す内容、提出先の条件が同じとは限りません。
 
@@ -50,7 +50,7 @@ qa_compliance: "BLOCKED"
 | 申請書・本人情報 | 本人 | 証明内容 | 氏名等を旅券と対応 | 指定の言語で記入 | [同上](https://www.uk.emb-japan.go.jp/itpr_ja/index_000044.html) |
 | 提出先の案内 | 英国の登録官 | 取得する証明の確認 | 問い合わせ日 | 管理用の記録 | [現地の資料](https://www.gov.uk/marriages-civil-partnerships/documents-youll-need-to-give-notice) |
 
-大使館の制度には、英国居住・在留届など対象者に関する条件があります。旅行者でも必ず現地で取得できると決めず、自分が利用できるかを公館へ確認します。英国での結婚手続きの予約とは、公館の申請・受領の予約も別です。[大使館の対象者・申請方法](https://www.uk.emb-japan.go.jp/itpr_ja/index_000044.html)
+大使館の制度には、英国居住・在留届など対象者に関する条件があります。旅行者でも必ず現地で取得できると決めず、自分が利用できるかを公館へ確認します。英国での結婚手続きの予約と、公館で証明書を申請・受領するための予約は別です。[大使館の対象者・申請方法](https://www.uk.emb-japan.go.jp/itpr_ja/index_000044.html)
 
 ## 5. 原本と訳文を混ぜない
 

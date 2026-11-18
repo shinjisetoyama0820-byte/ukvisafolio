@@ -4,7 +4,7 @@ date: "2026-11-18"
 status: "draft"
 category: "guide"
 lang: "ja"
-description: "英国の電気・ガス代は、使用量、単価、日額の基本料金、契約、住居で変わります。価格上限の公表額は、全家庭の年間請求額を固定する上限ではありません。"
+description: "英国の電気・ガス代は、使用量、単価、1日当たりの基本料金、契約、住居で変わります。価格上限の公表額は、全家庭の年間請求額を固定する上限ではありません。"
 source_url: "https://www.ofgem.gov.uk/your-energy-supply/your-energy-bill/energy-price-cap-and-standing-charges-explained"
 editorial_id: "8-13"
 last_verified_at: "2026-11-18"
@@ -14,13 +14,13 @@ qa_similarity: "BLOCKED"
 qa_compliance: "BLOCKED"
 ---
 
-**英国の電気・ガス代は、使用量、単価、日額の基本料金、契約、住居で変わります。価格上限の公表額は、全家庭の年間請求額を固定する上限ではありません。**
+**英国の電気・ガス代は、使用量、単価、1日当たりの基本料金、契約、住居で変わります。価格上限の公表額は、全家庭の年間請求額を固定する上限ではありません。**
 
 対象は主にGreat Britainで家庭用エネルギーを契約する方です。北アイルランドは別の規制案内も確認します。
 
 ## 使用量と料金を分ける
 
-unit rateは使用量当たり、standing chargeは日数に応じる費用です。price capは対象の標準変動契約等の単価を規制し、使用量が多い家の請求を一定額へ抑える制度ではありません。固定契約、支払方法、地域も比較します。
+unit rateは使用量当たり、standing chargeは日数に応じてかかる費用です。price capは対象の標準変動契約等の単価を規制し、使用量が多い家の請求を一定額へ抑える制度ではありません。固定契約、支払方法、地域も比較します。
 
 ## 入居日に契約と読値を記録
 
@@ -28,7 +28,7 @@ unit rateは使用量当たり、standing chargeは日数に応じる費用で�
 
 ## 冬は設備と住まい方を調整
 
-暖房の説明書、設定、時間帯、窓・断熱、換気を確認します。暖房を切ることだけを節約とせず、湿気・結露・健康も考慮します。請求が払えない見込みなら供給者へ早めに相談し、推定読値や契約の誤りを放置しません。[湿気と住環境](https://www.gov.uk/government/publications/home-user-guide-template/existing-home-ventilation-guide)
+暖房の説明書、設定、時間帯、窓・断熱、換気を確認します。暖房を切ることだけを節約とせず、湿気・結露・健康も考慮します。請求が払えない見込みなら供給者へ早めに相談し、推定のメーター値や契約の誤りを放置しません。[湿気と住環境](https://www.gov.uk/government/publications/home-user-guide-template/existing-home-ventilation-guide)
 
 ## 具体的な確認の進め方
 

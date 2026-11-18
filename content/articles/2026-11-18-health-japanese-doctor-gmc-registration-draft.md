@@ -26,7 +26,7 @@ GMCは、海外の医学の基礎資格（primary medical qualification、PMQ）
 
 ## 2. 登録経路をPLABだけに限定しない
 
-海外医学卒業者の一つの経路に、PLABの両パートと所定の実務・研修経験等を用いる申請があります。一方、認められる大学院資格やスポンサー等を使う経路もあるため、全員に同じ試験を断定しません。[GMC：full registration](https://www.gmc-uk.org/registration-and-licensing/our-registers/a-guide-to-our-registers/full-registration)
+英国外の医学課程を卒業した人の一つの経路に、PLABの両パートと所定の実務・研修経験等を用いる申請があります。一方、認められる大学院資格やスポンサー等を使う経路もあるため、全員に同じ試験が必要とは限りません。[GMC：full registration](https://www.gmc-uk.org/registration-and-licensing/our-registers/a-guide-to-our-registers/full-registration)
 
 PLABは知識・技能を評価する試験で、受験前に医学資格と英語の条件を確認します。試験合格、登録申請、登録完了は別です。[GMC：PLAB](https://www.gmc-uk.org/registration-and-licensing/join-our-registers/plab/a-guide-to-the-plab-test)
 

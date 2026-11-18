@@ -37,7 +37,7 @@ medium skilledの追加就労には、最初の対象CoSが2025年7月22日よ�
 
 ## 3. 主職の残業と別仕事の時間
 
-主職の残業については更新申請不要という案内があります。また、同じNHSスポンサーのbank shiftsも、週20時間超の別職で更新する場合と区別されています。ただし、これを労働時間法や雇用契約、安全上の制限がなくなる説明にしないようにします。[追加勤務](https://www.gov.uk/health-care-worker-visa/taking-a-second-job)、[労働時間](https://www.gov.uk/maximum-weekly-working-hours)
+主職の残業については更新申請不要と案内されています。また、同じNHSスポンサーのbank shiftsも、週20時間超の別職で更新する場合と区別されています。ただし、労働時間に関する法令、雇用契約、安全上の制限がなくなるわけではありません。[追加勤務](https://www.gov.uk/health-care-worker-visa/taking-a-second-job)、[労働時間](https://www.gov.uk/maximum-weekly-working-hours)
 
 複数の勤務がある方は、勤務先、職務、時間、契約、主職との関係を表にします。職種の呼び名だけで判断せず、実際の業務を確認します。
 

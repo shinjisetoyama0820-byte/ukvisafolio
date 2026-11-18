@@ -16,7 +16,7 @@ qa_compliance: "BLOCKED"
 
 **ETAが承認されない場合は、結果待ち・rejected・refusedを分けて確認します。** 写真や形式等の問題で再申請する場合と、ETAがrefusedとなり渡航のためビザ申請を検討する場合は同じではありません。通知の語句と理由を確認します。[ETA規則](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-electronic-travel-authorisation)、[申請の案内](https://www.gov.uk/eta/apply)
 
-対象は、日本の旅券で申請し、結果が来ない方や承認以外の通知を受けた方です。通知を確認せず同じ情報で申請を繰り返すことを解決策にはしません。
+対象は、日本の旅券で申請し、結果が来ない方や承認以外の通知を受けた方です。通知を確認せず同じ情報で申請を繰り返すのは避けましょう。
 
 ## 1. まず本当の状態を確認
 
@@ -54,7 +54,7 @@ ETAの承認待ちのまま渡航しません。フライト、宿泊、会議�
 | 記録 | 発行元 | 用途 | 日付 | 翻訳 | 根拠 |
 | --- | --- | --- | --- | --- | --- |
 | 受付・決定通知 | 英国政府 | 状態と理由 | 受付・決定日 | 通知を正確に確認 | [申請](https://www.gov.uk/eta/apply) |
-| 使用旅券 | 発行当局 | 入力との照合 | 有効期限 | 表記を対応 | [同上](https://www.gov.uk/eta/apply) |
+| 使用旅券 | 発行当局 | 入力との照合 | 有効期限 | 表記を照合 | [同上](https://www.gov.uk/eta/apply) |
 | 訂正・連絡の記録 | 本人・政府等 | 対応の経緯 | 送受信日 | 原文を保存 | [ETA](https://www.gov.uk/eta) |
 | 渡航目的の資料 | 訪問先等 | 次の申請の準備 | 今回の日程 | ビザの指示に従う | [Visitor資料](https://www.gov.uk/government/publications/visitor-visa-guide-to-supporting-documents/guide-to-supporting-documents-visiting-the-uk) |
 

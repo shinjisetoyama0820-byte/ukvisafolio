@@ -51,7 +51,7 @@ Skilled Workerは対象となる職務やスポンサー等が必要です。Stu
 
 期限内の延長申請後は結果まで英国に滞在できるという公式案内があります。ただし、フォームの下書きを保存しただけで提出が完了したわけではありません。申請受付、支払い、本人確認、追加資料への対応を区別して記録します。[延長手続き](https://www.gov.uk/student-visa/extend-your-visa)
 
-国内延長の審査中に英国・アイルランド・チャンネル諸島・マン島の外へ出ると、申請が取り下げられるという案内です。一時帰国や欧州旅行を予約する前に、現在の申請状態を確認します。滞在できることと、あらゆる仕事を自由にできることも別です。[延長](https://www.gov.uk/student-visa/extend-your-visa)、[就労条件ST26](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-student)
+国内延長の審査中に英国・アイルランド・チャネル諸島・マン島の外へ出ると、申請が取り下げられると案内されています。一時帰国や欧州旅行を予約する前に、現在の申請状態を確認します。滞在できることと、あらゆる仕事を自由にできることも別です。[延長](https://www.gov.uk/student-visa/extend-your-visa)、[就労条件ST26](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-student)
 
 ## 6. 本人と家族の記録を保存する
 

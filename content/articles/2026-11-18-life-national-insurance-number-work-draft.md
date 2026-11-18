@@ -4,7 +4,7 @@ date: "2026-11-18"
 status: "draft"
 category: "guide"
 lang: "ja"
-description: "National Insurance Numberは、税・社会保険の記録に用いる番号です。就労許可そのものではなく、番号の到着前でも就労権を証明できれば働き始められる案内があります。"
+description: "National Insurance Numberは、税・社会保険の記録に用いる番号です。就労許可そのものではなく、番号の到着前でも就労権を証明できれば働き始められると案内されています。"
 source_url: "https://www.gov.uk/apply-national-insurance-number"
 editorial_id: "8-06"
 last_verified_at: "2026-11-18"
@@ -14,7 +14,7 @@ qa_similarity: "BLOCKED"
 qa_compliance: "BLOCKED"
 ---
 
-**National Insurance Numberは、税・社会保険の記録に用いる番号です。就労許可そのものではなく、番号の到着前でも就労権を証明できれば働き始められる案内があります。**
+**National Insurance Numberは、税・社会保険の記録に用いる番号です。就労許可そのものではなく、番号の到着前でも就労権を証明できれば働き始められると案内されています。**
 
 対象は英国で仕事を始める日本人です。
 
@@ -48,7 +48,7 @@ NI番号があることは、現在の仕事が認められる証拠にはなり
 
 ### NI番号が来るまでは必ず無給待機ですか？
 
-就労権を証明できれば開始可能という案内です。雇用主と給与手続きを確認します。
+就労権を証明できれば働き始められると案内されています。雇用主と給与手続きを確認します。
 
 ### NI番号があればどの仕事でもできますか？
 

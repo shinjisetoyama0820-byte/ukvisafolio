@@ -37,7 +37,7 @@ qa_compliance: "BLOCKED"
 | 国外初回・通常2年9か月 | £2,064 | £3,105 | £5,169 |
 | 国内更新・通常2年6か月 | £1,407 | £2,587.50 | £3,994.50 |
 
-根拠：[Familyの料金](https://www.gov.uk/uk-family-visa)、[IHS計算](https://www.gov.uk/healthcare-immigration-application/how-much-pay)。IHSは許可期間に応じるため、異なる期間の人がこの例をそのまま使うとは限りません。
+根拠：[Familyの料金](https://www.gov.uk/uk-family-visa)、[IHS計算](https://www.gov.uk/healthcare-immigration-application/how-much-pay)。IHSの額は許可期間によって異なるため、異なる期間の人がこの例をそのまま使うとは限りません。
 
 ## 4. 別に見積もる支出
 

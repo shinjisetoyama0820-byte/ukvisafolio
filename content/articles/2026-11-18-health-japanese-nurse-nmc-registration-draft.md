@@ -26,7 +26,7 @@ qa_compliance: "BLOCKED"
 
 ## 2. 英語の証明方法を確認する
 
-NMCでは承認される英語試験、英語で教え評価された登録前教育、一定の英語圏での実務等の証拠方法があります。日本の免許があること自体は、英語証明の代わりではありません。[NMC：英語](https://www.nmc.org.uk/registration/joining-the-register/english-language-requirements/)
+NMCでは承認される英語試験、英語で授業と評価を受けた、登録前の看護教育、一定の英語圏での実務等の証拠方法があります。日本の免許があること自体は、英語証明の代わりではありません。[NMC：英語](https://www.nmc.org.uk/registration/joining-the-register/english-language-requirements/)
 
 IELTS AcademicやOETを利用する場合は、各技能の基準、有効性、複数回の結果を組み合わせる条件等を確認します。総合点だけで判断せず、受験する版と証明先を申込み前に照合します。
 
@@ -36,7 +36,7 @@ IELTS AcademicやOETを利用する場合は、各技能の基準、有効性、
 
 NMCの手順では、資格等の評価後、必要に応じて能力評価（Test of Competence）を行い、健康・人物面・英語・補償の情報等を確認します。対象試験や本人確認は、自分の申請への指示に従います。[NMC手順](https://www.nmc.org.uk/registration/joining-the-register/register-nurse-midwife/trained-outside-uk/how-to-guide/)、[能力評価](https://www.nmc.org.uk/registration/joining-the-register/toc/)
 
-試験に合格したことと、すべての登録条件が済んだことは別です。登録番号や登録の状態、どの業務を開始できるかを確認し、予定だけを履歴書へ登録済みと記載しないようにします。
+試験に合格したことと、すべての登録条件が済んだことは別です。登録番号や登録の状態、どの業務を開始できるかを確認し、登録予定の段階で履歴書に登録済みと記載しないようにします。
 
 ## 4. 求人は登録前後の役割を明確にする
 

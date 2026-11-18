@@ -49,7 +49,7 @@ qa_compliance: "BLOCKED"
 
 ## 4. 申請時期は自分の履歴から確認する
 
-5年経ったと思った日と、申請できる時期を自己流で同じにしないようにします。入国、許可、更新の履歴と、公式の申請時期の案内を対応させます。期限や複数のルートが絡む場合は、登録された専門家へ相談できます。[公式：永住の申請時期](https://www.gov.uk/indefinite-leave-to-remain-family/partner-family-visa)、[相談先](https://www.gov.uk/find-an-immigration-adviser)
+自分の計算で5年が経過する日と、実際に申請できる時期が一致するとは限りません。入国、許可、更新の履歴と、公式の申請時期の案内を対応させます。期限や複数のルートが絡む場合は、登録された専門家へ相談できます。[公式：永住の申請時期](https://www.gov.uk/indefinite-leave-to-remain-family/partner-family-visa)、[相談先](https://www.gov.uk/find-an-immigration-adviser)
 
 ## よくある質問
 

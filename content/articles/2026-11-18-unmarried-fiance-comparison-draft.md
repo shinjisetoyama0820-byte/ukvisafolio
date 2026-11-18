@@ -41,11 +41,11 @@ qa_compliance: "BLOCKED"
 
 | 資料・情報 | 発行元 | 関係する場面 | 日付 | 翻訳 | 根拠 |
 | --- | --- | --- | --- | --- | --- |
-| 生活・関係の証拠 | 家主・金融機関・本人等 | 未婚の関係の実態 | 2年と現在を対応 | 非英語資料は認証翻訳 | [Family life](https://www.gov.uk/government/publications/family-life-as-a-partner-or-parent-private-life-and-exceptional-circumstance/family-life-as-a-partner-or-parent-and-exceptional-circumstances-accessible) |
+| 生活・関係の証拠 | 家主・金融機関・本人等 | 未婚の関係の実態 | 2年間の経緯と現在の状況を確認 | 非英語資料は認証翻訳 | [Family life](https://www.gov.uk/government/publications/family-life-as-a-partner-or-parent-private-life-and-exceptional-circumstance/family-life-as-a-partner-or-parent-and-exceptional-circumstances-accessible) |
 | 結婚の計画 | 登録官・会場・本人 | 婚約者 | 最新の予定 | 同上 | [婚約者](https://www.gov.uk/uk-family-visa/partner-spouse) |
 | 収入等・英語 | 雇用主・試験機関等 | 両方で条件を確認 | 各区分の指定 | 指定に従う | [提出情報](https://www.gov.uk/uk-family-visa/provide-information) |
 
-両方の資料を混ぜて、すべてを全員必須の一覧にしないようにします。
+両方の資料を混ぜて、すべてを全員に必須の一覧にしないようにします。
 
 ## 4. 費用と生活の予定も別にする
 

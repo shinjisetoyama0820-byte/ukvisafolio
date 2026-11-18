@@ -37,14 +37,14 @@ CASは学校の出願番号や支払い番号とは別です。旅券表記、�
 
 ## 3. 全員の資料と条件付き資料を分ける
 
-旅券等・CASを基本に、資金、英語の証明方法、未成年の同意、対象となる資金援助、TBやATAS等を自分の条件から確認します。日本人の資金証拠の通常提出省略は、資金要件自体の免除ではありません。[必要資料](https://www.gov.uk/student-visa/documents-you-must-provide)、[資金](https://www.gov.uk/student-visa/money)
+旅券等・CASを基本に、資金、英語の証明方法、未成年の同意、対象となる資金援助、TBやATAS等を自分の条件から確認します。日本人の資金証拠の通常の申請時に証拠の提出を省略できる扱いは、資金要件自体の免除ではありません。[必要資料](https://www.gov.uk/student-visa/documents-you-must-provide)、[資金](https://www.gov.uk/student-visa/money)
 
 | 資料・情報 | 発行元 | 対象・用途 | 日付・期間 | 翻訳 | 根拠 |
 | --- | --- | --- | --- | --- | --- |
 | 旅券・CAS | 発行当局・学校 | 本人とコース | 有効期限・課程日程 | 表記を照合 | [必要資料](https://www.gov.uk/student-visa/documents-you-must-provide) |
 | 預金・援助の証拠 | 銀行・スポンサー等 | 条件別の資金証明 | 保有期間等 | 非英語資料は所定の訳文 | [資金](https://www.gov.uk/student-visa/money) |
 | 英語の証明情報 | 学校・試験機関等 | 今回の証明方法 | 利用条件 | 指示に従う | [英語](https://www.gov.uk/student-visa/knowledge-of-english) |
-| 関係・同意等 | 登録当局・親等 | 未成年、親の資金等 | 今回の事情 | 原本と訳文を対応 | [必要資料](https://www.gov.uk/student-visa/documents-you-must-provide) |
+| 関係・同意等 | 登録当局・親等 | 未成年、親の資金等 | 今回の事情 | 原本と訳文を照合 | [必要資料](https://www.gov.uk/student-visa/documents-you-must-provide) |
 
 日本語資料は元号と西暦、姓名・住所、金額、対象期間を訳文と対応させます。原本を差し替えたら、古い訳文を一緒に提出しないようにします。
 

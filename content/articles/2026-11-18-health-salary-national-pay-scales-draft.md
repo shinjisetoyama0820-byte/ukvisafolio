@@ -61,7 +61,7 @@ qa_compliance: "BLOCKED"
 | CoS | 雇用主 | 職務・給与・時間 | 発行・雇用開始 | 原文と契約を照合 | [必要資料](https://www.gov.uk/health-care-worker-visa/documents-you-must-provide) |
 | 給与表 | 政府等 | 該当する基準 | 適用する版・区分 | 正式表を保存 | [全国給与](https://www.gov.uk/government/publications/national-pay-scales-for-eligible-healthcare-jobs) |
 | 契約・内定 | 雇用主 | 本人の確定条件 | 契約期間 | 内訳を理解 | [海外採用](https://www.gov.uk/government/publications/applying-for-health-and-social-care-jobs-in-the-uk-from-abroad/part-1-applying-for-health-and-social-care-jobs-in-the-uk-from-abroad) |
-| 過去の許可等 | 英国政府・旧雇用主 | 経過措置の確認 | 実際の日付 | 記録を対応 | [規則](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-skilled-worker) |
+| 過去の許可等 | 英国政府・旧雇用主 | 経過措置の確認 | 実際の日付 | 記録を照合 | [規則](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-skilled-worker) |
 
 ## よくある質問
 

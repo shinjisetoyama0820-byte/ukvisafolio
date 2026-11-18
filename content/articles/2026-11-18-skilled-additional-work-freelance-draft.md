@@ -20,7 +20,7 @@ qa_compliance: "BLOCKED"
 
 ## 1. 本業の残業と第二の仕事を分ける
 
-スポンサーされている本業での残業について、ビザ更新が不要という案内があります。一方、別の雇用主や自分の事業での追加活動は、週20時間等の条件を確認します。[公式](https://www.gov.uk/skilled-worker-visa/second-job)
+スポンサーされている本業での残業について、ビザ更新が不要と案内されています。一方、別の雇用主や自分の事業での追加活動は、週20時間等の条件を確認します。[公式](https://www.gov.uk/skilled-worker-visa/second-job)
 
 会社が同じという呼び方だけで本業の残業とは決めず、実際の雇用法人・職務・契約を確認します。労働時間や健康・安全等の別の法令・雇用契約の確認も、移民上の条件とは分けます。
 
@@ -69,7 +69,7 @@ qa_compliance: "BLOCKED"
 
 ### 請求書を作る時間は数えませんか？
 
-事業の事務も20時間に含むという案内があります。[公式](https://www.gov.uk/skilled-worker-visa/second-job)
+事業の事務も20時間に含むと案内されています。[公式](https://www.gov.uk/skilled-worker-visa/second-job)
 
 ### 本業を辞めた後、副業だけ続けられますか？
 

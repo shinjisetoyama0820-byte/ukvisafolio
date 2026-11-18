@@ -4,7 +4,7 @@ date: "2026-11-18"
 status: "draft"
 category: "guide"
 lang: "ja"
-description: "学生ビザの資金28日と31日を区別。残高の連続保有、学費と生活費、円口座、親の資金、ローン・奨学金、通常提出省略と追加照会を整理します。"
+description: "学生ビザの資金28日と31日を区別。残高の連続保有、学費と生活費、円口座、親の資金、ローン・奨学金、通常の申請時に証拠の提出を省略できる扱いと追加照会を整理します。"
 source_url: "https://www.gov.uk/student-visa/money"
 editorial_id: "5-06"
 last_verified_at: "2026-11-18"
@@ -52,9 +52,9 @@ qa_compliance: "BLOCKED"
 
 本人用の概算と、公式ルールによる換算を分けます。為替が動くことだけでなく、口座の規制、資金への即時アクセス、使用できない資産等の条件も確認します。暗号資産や株式の評価額を、普通預金の残高と同じように置き換えません。[財務証拠](https://www.gov.uk/guidance/financial-evidence-for-student-and-child-student-route-applicants)
 
-## 5. 日本人の通常提出省略は別の論点
+## 5. 日本人の通常の申請時に証拠の提出を省略できる扱いは別の論点
 
-日本は一定の資金証拠を通常申請時に提出しなくてよい対象に含まれますが、条件を満たし、追加で求められた際に証拠を示せることを確認します。省略を、必要な保有期間を後から用意すればよいという意味にはしません。[公式：証拠の省略と照会](https://www.gov.uk/guidance/financial-evidence-for-student-and-child-student-route-applicants)
+日本は一定の資金証拠を通常申請時に提出しなくてよい対象に含まれますが、条件を満たし、追加で求められた際に証拠を示せることを確認します。提出を省略できる場合も、申請後に必要な保有期間を確保すればよいという意味ではありません。[公式：証拠の省略と照会](https://www.gov.uk/guidance/financial-evidence-for-student-and-child-student-route-applicants)
 
 ## よくある質問
 

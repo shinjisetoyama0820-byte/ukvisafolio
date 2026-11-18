@@ -31,7 +31,7 @@ qa_compliance: "BLOCKED"
 | 登録官への問い合わせ・回答 | 役所と本人 | 必要な手続きを確認した経緯 | やり取りの日付 | 提出する非英語資料は翻訳条件を確認 | [結婚の案内](https://www.gov.uk/marriages-civil-partnerships) |
 | 会場の予約・相談記録 | 会場等 | 結婚予定の具体性 | 希望日と予約状態 | 同上 | [婚約者の条件](https://www.gov.uk/uk-family-visa/partner-spouse) |
 | 二人で整理した計画 | 本人 | 予定の全体像 | 作成日と更新日 | 提出言語に合わせる | [同上](https://www.gov.uk/uk-family-visa/partner-spouse) |
-| 交際経緯の資料 | 二人等 | 関係の実態と継続 | 出会い・面会・現在を対応 | 提出資料の翻訳を確認 | [関係の証拠](https://www.gov.uk/uk-family-visa/partner-spouse) |
+| 交際経緯の資料 | 二人等 | 関係の実態と継続 | 出会いから面会、現在までの経緯を確認 | 提出資料の翻訳を確認 | [関係の証拠](https://www.gov.uk/uk-family-visa/partner-spouse) |
 
 これは整理に使える資料の例で、全員がすべてを提出する必須一覧ではありません。申請画面と、自分に該当する規則の案内を確認します。
 

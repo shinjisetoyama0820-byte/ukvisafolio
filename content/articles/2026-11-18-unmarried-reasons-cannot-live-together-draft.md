@@ -14,7 +14,7 @@ qa_similarity: "BLOCKED"
 qa_compliance: "BLOCKED"
 ---
 
-**同居できなかった理由は、一般的な理由の名前だけでなく、二人の実際の期間と生活に対応させて整理します。** 未婚パートナーでは2年全期間の同居証拠が一律必須ではありませんが、婚姻等に類する関係が続いていることの確認は必要です。[公式：Family life](https://www.gov.uk/government/publications/family-life-as-a-partner-or-parent-private-life-and-exceptional-circumstance/family-life-as-a-partner-or-parent-and-exceptional-circumstances-accessible)
+**同居できなかった理由は、「仕事」「学業」といった理由だけでなく、二人の実際の期間と生活に対応させて整理します。** 未婚パートナーでは2年全期間の同居証拠が一律で必須ではありませんが、婚姻等に類する関係が続いていることの確認は必要です。[公式：Family life](https://www.gov.uk/government/publications/family-life-as-a-partner-or-parent-private-life-and-exceptional-circumstance/family-life-as-a-partner-or-parent-and-exceptional-circumstances-accessible)
 
 対象は、仕事・勉強・文化的事情や個別の家庭事情で別居してきた二人です。特定の理由を書けば必ず認められる、というひな形ではありません。
 
@@ -31,7 +31,7 @@ GOV.UKは、仕事、勉強、文化的な事情等で同居できない場合�
 | 期間 | 実際の開始・終了、継続中か | 曖昧な日付は原本で確認 |
 | 各人の場所 | 当時の住所・滞在先 | 今の住所だけを書かない |
 | 理由 | 二人の実際の事情 | 一般論をそのまま写さない |
-| 関係の継続 | 面会、連絡、支援等 | 記録と説明を対応 |
+| 関係の継続 | 面会、連絡、支援等 | 記録と説明を照合 |
 | 今後の予定 | 英国で共に暮らす計画 | 予定を実施済みと書かない |
 
 これは申請資格を判定する表ではなく、確認が必要な事実を整理するためのものです。

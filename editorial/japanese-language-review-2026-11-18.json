@@ -1,0 +1,4311 @@
+{
+  "date": "2026-11-18",
+  "base_commit": "d0e4a6ab17f067609215f8acc6618628048fe3fe",
+  "scope": "Japanese wording, spelling, notation and readability in 190 CMS source articles, including descriptions",
+  "method": "Full-corpus automated pattern checks plus model editorial review of extracted prose, flagged contexts and proposed edits. Shared wording reviewed as reusable text. This is an assistant review, not a human native-speaker certification.",
+  "checked_articles": 190,
+  "changed_articles": 145,
+  "replacement_instances": 379,
+  "description_changes": 12,
+  "preserved": [
+    "title",
+    "status",
+    "category",
+    "language",
+    "source URLs",
+    "internal/external link destinations",
+    "referral codes",
+    "existing formal QA statuses"
+  ],
+  "formal_native_status": "BLOCKED",
+  "formal_qa_note": "Existing Native/Citation/Similarity/Compliance fields are unchanged. This language review does not certify legal currency or full manual compliance.",
+  "articles": [
+    {
+      "id": "1-01",
+      "path": "content/articles/2026-11-17-spouse-application-guide-draft.md",
+      "result": "revised",
+      "replacement_instances": 7,
+      "original_sha": "14064d6cf036acdec6961f175d0e235c350c8b4c",
+      "saved_content_sha256": "037f1dea4f927aab446868b2dbfe4340cac44cee66cf1fd6469fd0ee48f92eb9"
+    },
+    {
+      "id": "1-02",
+      "path": "content/articles/2026-11-17-spouse-japanese-documents-draft.md",
+      "result": "revised",
+      "replacement_instances": 4,
+      "original_sha": "dcde42704ed4a5fdb6243c6f5337c76ad578b8ab",
+      "saved_content_sha256": "0a31c11d5eecbcc526b614146a2082e7b7886ece7d2457d474074a1334a1b442"
+    },
+    {
+      "id": "1-03",
+      "path": "content/articles/2026-11-17-spouse-married-in-japan-draft.md",
+      "result": "revised",
+      "replacement_instances": 3,
+      "original_sha": "3be2442ac98d5bc28a87c45a644b1d00d614438c",
+      "saved_content_sha256": "5708fd96eddaf75852def1f882a27a210cf69dee1d7707d7e428594de9c5eae1"
+    },
+    {
+      "id": "1-04",
+      "path": "content/articles/2026-11-17-spouse-translation-draft.md",
+      "result": "revised",
+      "replacement_instances": 2,
+      "original_sha": "9466e05c0dfd67eaadf4d4f6b13228d6b800f75c",
+      "saved_content_sha256": "8c9b0b85f4c3e7afc52b7f5120f0884e1094c598f9b3d1dd8152a8fe289fce8b"
+    },
+    {
+      "id": "1-05",
+      "path": "content/articles/2026-11-17-spouse-fees-ihs-draft.md",
+      "result": "revised",
+      "replacement_instances": 6,
+      "original_sha": "a175c508386e0f8df3d00648c2936fa8aecb9782",
+      "saved_content_sha256": "a1a0adbfa45836592e883121100027430492c767fd38dba01960560e7b45dbc4"
+    },
+    {
+      "id": "1-06",
+      "path": "content/articles/2026-11-17-spouse-income-draft.md",
+      "result": "revised",
+      "replacement_instances": 1,
+      "original_sha": "b042d5e8e5a8b3b2ede8f8b205e188e1e0411e87",
+      "saved_content_sha256": "5056cedfe75163a06d62d4ba50b3d140eb036e79d23b949d1ff44dd4d2096ba2"
+    },
+    {
+      "id": "1-07",
+      "path": "content/articles/2026-11-17-spouse-japanese-savings-evidence-draft.md",
+      "result": "revised",
+      "replacement_instances": 9,
+      "original_sha": "66b22eab71a3ef814157ad08354780124c3dc4e6",
+      "saved_content_sha256": "43a3e84033d05c9e14d30cd478571daaad6b3b172d999ecab435d1e5df7c7c90"
+    },
+    {
+      "id": "1-08",
+      "path": "content/articles/2026-11-17-spouse-english-requirement-draft.md",
+      "result": "revised",
+      "replacement_instances": 7,
+      "original_sha": "7e5c0614d1892a624d314bed73d873b97efbdfdd",
+      "saved_content_sha256": "a9830da8b4e684b92878a80695f50793331292d6dd2819c7b151bca1f1ead31c"
+    },
+    {
+      "id": "1-09",
+      "path": "content/articles/2026-11-17-spouse-long-distance-evidence-draft.md",
+      "result": "revised",
+      "replacement_instances": 5,
+      "original_sha": "4a7bc8d0cd8c6ced7b12d2471d8378549212080d",
+      "saved_content_sha256": "63e5b47736e021fda8bb7fd01d629f6908df1138160c5de3b850e1c63ec75047"
+    },
+    {
+      "id": "1-10",
+      "path": "content/articles/2026-11-17-spouse-line-photos-travel-draft.md",
+      "result": "revised",
+      "replacement_instances": 4,
+      "original_sha": "fc86473512364551f9ec74dccf2bb5061a077e79",
+      "saved_content_sha256": "5a3eeb142c7e48c35d491d785dce261a9e0c6d8a41a1ae43ffaea9a019b5ca55"
+    },
+    {
+      "id": "1-11",
+      "path": "content/articles/2026-11-17-spouse-japan-income-draft.md",
+      "result": "revised",
+      "replacement_instances": 5,
+      "original_sha": "20d3729a90b20a5ab5d6164b9935fa1816c5bccb",
+      "saved_content_sha256": "3a86c15dc6dcb8134e2660d511fb7ef0a092cb7dcfec17bda44245bf7a377be3"
+    },
+    {
+      "id": "1-12",
+      "path": "content/articles/2026-11-17-spouse-accommodation-draft.md",
+      "result": "revised",
+      "replacement_instances": 4,
+      "original_sha": "3b48aee8a905e1afcd4f9c9ac78334199c0c4d31",
+      "saved_content_sha256": "1a8087adef2d95bcdadf418bb123650decc17e86d8e3efecd0f5a48ec745e1f9"
+    },
+    {
+      "id": "1-13",
+      "path": "content/articles/2026-11-17-spouse-processing-timeline-draft.md",
+      "result": "revised",
+      "replacement_instances": 5,
+      "original_sha": "c68c396aa6ee04a102eb4ea4253f574f2835f3c1",
+      "saved_content_sha256": "70517ecf8cf5de8c58ce3b24503a91375aa1db4d873cd1fdc92b2200c1197a6a"
+    },
+    {
+      "id": "1-14",
+      "path": "content/articles/2026-11-17-spouse-travel-pending-draft.md",
+      "result": "revised",
+      "replacement_instances": 7,
+      "original_sha": "35fd2dfd7e45fc4785e7b1a1cd1a925be6057672",
+      "saved_content_sha256": "531d236a9b843146ea654367237049c150f03c0849b23c8ab65ee75b978ec2c6"
+    },
+    {
+      "id": "1-15",
+      "path": "content/articles/2026-11-17-spouse-refusal-documents-draft.md",
+      "result": "revised",
+      "replacement_instances": 6,
+      "original_sha": "3b2bb28b78a0eafad3ff932b2eefffc734094db5",
+      "saved_content_sha256": "134f001ae87acaa29264d3fb237f9d559e8ed5c65b7af818be441234f679d590"
+    },
+    {
+      "id": "1-16",
+      "path": "content/articles/2026-11-17-spouse-form-check-draft.md",
+      "result": "revised",
+      "replacement_instances": 4,
+      "original_sha": "7740175604f415bb5d4291e963bcd937471be087",
+      "saved_content_sha256": "7d6173d7d7b8414bcab32ea38da1993c30bf3173c20b63788741d2355c64e685"
+    },
+    {
+      "id": "1-17",
+      "path": "content/articles/2026-11-17-spouse-working-after-grant-draft.md",
+      "result": "revised",
+      "replacement_instances": 6,
+      "original_sha": "9972a9b97ec41be33ff0afe70d3b4ebda9d669d6",
+      "saved_content_sha256": "3cb76f25d42d581368a4a7fface5f3fe9f88ed2388a694827658f6c159d7dd68"
+    },
+    {
+      "id": "1-18",
+      "path": "content/articles/2026-11-17-spouse-renewal-draft.md",
+      "result": "revised",
+      "replacement_instances": 5,
+      "original_sha": "4e12d56e7d29bd9198a8cfa30b7e6e7e7ce50bcc",
+      "saved_content_sha256": "f7e44f72e799ec7cfb65f72128560feadbb6b54b5c707e69844cd12f0fbb328a"
+    },
+    {
+      "id": "1-19",
+      "path": "content/articles/2026-11-17-spouse-ilr-roadmap-draft.md",
+      "result": "revised",
+      "replacement_instances": 6,
+      "original_sha": "bbb82ec5e547e2d9d0884468fa32385dd0828e72",
+      "saved_content_sha256": "656a52d8cdfe7bb4a5769b04c9f7f925d18f716be31b4062b37087e0c2523757"
+    },
+    {
+      "id": "1-20",
+      "path": "content/articles/2026-11-17-spouse-diy-preparation-draft.md",
+      "result": "revised",
+      "replacement_instances": 13,
+      "original_sha": "d63774629437e39870a9e35eea0e130913a34872",
+      "saved_content_sha256": "daa9238fe7ff7305e4a6e780bfb785fdbf6e711479b446d637a777d3c6103cac"
+    },
+    {
+      "id": "2-01",
+      "path": "content/articles/2026-11-17-fiance-application-guide-draft.md",
+      "result": "revised",
+      "replacement_instances": 2,
+      "original_sha": "31719a596b342044b45bf2dc4389864ea50e302e",
+      "saved_content_sha256": "3a94cc57b209ffd2bee2e77bc22880798ed37db790db5bdd0f489cb93c815a34"
+    },
+    {
+      "id": "2-02",
+      "path": "content/articles/2026-11-17-fiance-required-documents-draft.md",
+      "result": "revised",
+      "replacement_instances": 2,
+      "original_sha": "4a11f8c2eea39868d262efffa21e38d66740836e",
+      "saved_content_sha256": "1d48d34f7be15a890dfe4c151802fd8e2197b3d67f744536e4863440df83ce86"
+    },
+    {
+      "id": "2-03",
+      "path": "content/articles/2026-11-17-fiance-marriage-visitor-comparison-draft.md",
+      "result": "revised",
+      "replacement_instances": 1,
+      "original_sha": "b0f989f0570b0485cfe5b7de6f8f45e565d71186",
+      "saved_content_sha256": "5c26386583bcae04b6eefcdfb9a5c1f0de4006026baf99f199c981ee2ed1aca6"
+    },
+    {
+      "id": "2-04",
+      "path": "content/articles/2026-11-17-fiance-fees-and-spouse-switch-draft.md",
+      "result": "revised",
+      "replacement_instances": 3,
+      "original_sha": "49bb10386a16f4b454674ad884bfc685807939a4",
+      "saved_content_sha256": "db00ddd29132bd914829c61c9c774aaf9cea5347ec6b2bb82dff48eb83a4f183"
+    },
+    {
+      "id": "2-05",
+      "path": "content/articles/2026-11-17-fiance-six-month-timeline-draft.md",
+      "result": "revised",
+      "replacement_instances": 1,
+      "original_sha": "ee9d0934fc1335c57856da2699747cb4cc5a712a",
+      "saved_content_sha256": "d2fd032563f00f2c561db09aa698ea3c02da20b03442af2698294320ac7eece4"
+    },
+    {
+      "id": "2-06",
+      "path": "content/articles/2026-11-18-fiance-marriage-notice-japan-draft.md",
+      "result": "no_change_identified",
+      "replacement_instances": 0,
+      "original_sha": "8e66430a4bc73cb0fc8608e9ae3a903483186d86",
+      "saved_content_sha256": "4d07dcbf5a3efb88b062929ebcd0a5f8f26845910352aed97670bd58b288d1fa"
+    },
+    {
+      "id": "2-07",
+      "path": "content/articles/2026-11-18-fiance-certificate-no-impediment-draft.md",
+      "result": "revised",
+      "replacement_instances": 2,
+      "original_sha": "90a663230919b16ad3bdabbfd98659d8dcea19e1",
+      "saved_content_sha256": "d2deb49e1609cddda03e85a8343fa61a6f1cf87f77ee849b325dd0762c5e43b7"
+    },
+    {
+      "id": "2-08",
+      "path": "content/articles/2026-11-18-fiance-intention-to-marry-evidence-draft.md",
+      "result": "revised",
+      "replacement_instances": 1,
+      "original_sha": "72fe1b4f50248ca431b8a1d5bc9e069f53d31fc2",
+      "saved_content_sha256": "5482540e567f826b04e488e26aaa62d1e5262bd15c5087f1a5da6fff4f67464f"
+    },
+    {
+      "id": "2-09",
+      "path": "content/articles/2026-11-18-fiance-long-distance-relationship-draft.md",
+      "result": "no_change_identified",
+      "replacement_instances": 0,
+      "original_sha": "dd92df0ba0b38a7039028f942131cee04b02e6b6",
+      "saved_content_sha256": "075948961959dcaf14884b676b8636366d7fed677302bd0f7ff637ca7c974639"
+    },
+    {
+      "id": "2-10",
+      "path": "content/articles/2026-11-18-fiance-financial-requirement-draft.md",
+      "result": "revised",
+      "replacement_instances": 3,
+      "original_sha": "3d85c33d67c53d14f21ff1e32a7734004c430200",
+      "saved_content_sha256": "e0d8de1b95fc61375ada463830e7bdb9e10dab447fb512f35b74e133e741abc6"
+    },
+    {
+      "id": "2-11",
+      "path": "content/articles/2026-11-18-fiance-english-language-evidence-draft.md",
+      "result": "revised",
+      "replacement_instances": 3,
+      "original_sha": "63a86f49f0df196cccbdb44e73b0983884a1893a",
+      "saved_content_sha256": "a8eae6338d84af488a2eccd5efb86f22f078245027017d7ae0ee9da6b347e6a3"
+    },
+    {
+      "id": "2-12",
+      "path": "content/articles/2026-11-18-fiance-previous-divorce-evidence-draft.md",
+      "result": "revised",
+      "replacement_instances": 1,
+      "original_sha": "c565cdf9f61d8cce4636e55e1090095cd7128247",
+      "saved_content_sha256": "06d96eb8dd7bcd8d05117689e4895a104592b534d60dd9e6edc77ddf95970ba7"
+    },
+    {
+      "id": "2-13",
+      "path": "content/articles/2026-11-18-fiance-processing-and-wedding-date-draft.md",
+      "result": "revised",
+      "replacement_instances": 1,
+      "original_sha": "af208e582255ff88697c140e0736331ff335ff19",
+      "saved_content_sha256": "1d920544d440d1837fac4bab77b9b113167cbe40b62f8a66c6f05e413f29a953"
+    },
+    {
+      "id": "2-14",
+      "path": "content/articles/2026-11-18-fiance-working-remote-job-search-draft.md",
+      "result": "revised",
+      "replacement_instances": 1,
+      "original_sha": "5275d3bf7a5d0e9793dad26d7ff6e5d701ae894b",
+      "saved_content_sha256": "f9690d6800a2684edb06cb01b84eb8624878b09603a2dfcbf21afe0ce6882328"
+    },
+    {
+      "id": "2-15",
+      "path": "content/articles/2026-11-18-fiance-nhs-ihs-medical-insurance-draft.md",
+      "result": "no_change_identified",
+      "replacement_instances": 0,
+      "original_sha": "3e5f875306e79c8a26457794680168e07c0182b5",
+      "saved_content_sha256": "c7598dd4d0dcdbb895ef16e5bef6ec800566876d9e69587121cd47a01af2de77"
+    },
+    {
+      "id": "2-16",
+      "path": "content/articles/2026-11-18-fiance-switch-to-spouse-process-draft.md",
+      "result": "revised",
+      "replacement_instances": 2,
+      "original_sha": "1e62f0445df6ec4ce96339e16cc5c6cd81a7a238",
+      "saved_content_sha256": "7c5d325f588d8ef62f153b1ccb782c9152b1099c06cb0ead0417754fc829f64d"
+    },
+    {
+      "id": "2-17",
+      "path": "content/articles/2026-11-18-fiance-marriage-delay-extension-draft.md",
+      "result": "no_change_identified",
+      "replacement_instances": 0,
+      "original_sha": "8cd8cadd412aba00aec3f407911221ba4fde3397",
+      "saved_content_sha256": "1f7ce529a3018b59d858efeef10a8f5cd003b86706945a72f33aa0bd29f456f9"
+    },
+    {
+      "id": "2-18",
+      "path": "content/articles/2026-11-18-fiance-japan-trip-reentry-draft.md",
+      "result": "no_change_identified",
+      "replacement_instances": 0,
+      "original_sha": "3327a2e9b9645782f0137588397d1a190dee4aac",
+      "saved_content_sha256": "fccef0af1dba3b41701f1fa4e86aa222d3304e0f1433b9da2a353cdc66beb892"
+    },
+    {
+      "id": "2-19",
+      "path": "content/articles/2026-11-18-fiance-refusal-and-consistency-draft.md",
+      "result": "revised",
+      "replacement_instances": 1,
+      "original_sha": "316ccbd92793d15eefb69fbfb2164dde60269a14",
+      "saved_content_sha256": "5630d61dbe81b365f8ecf7d950765ebe1f9f907d5e22ef899252b1090810d21a"
+    },
+    {
+      "id": "2-20",
+      "path": "content/articles/2026-11-18-fiance-stratovisa-preparation-checklist-draft.md",
+      "result": "revised",
+      "replacement_instances": 5,
+      "original_sha": "64db260b634bb2a5d574d2319dfb744d0ab73e29",
+      "saved_content_sha256": "c1f30e6b3bf70ca4bafd6e542ecd11143496540e4d4338e5cfb1d636fb1d2d3f"
+    },
+    {
+      "id": "3-01",
+      "path": "content/articles/2026-11-18-unmarried-application-guide-draft.md",
+      "result": "revised",
+      "replacement_instances": 4,
+      "original_sha": "ad3f5e8f63e1991369f19dfa782af5c7ffb5bd16",
+      "saved_content_sha256": "c478fb70db7799175ae85fbfe83e8f4f6e83c226beeaa95ec1b628f5db10e357"
+    },
+    {
+      "id": "3-02",
+      "path": "content/articles/2026-11-18-unmarried-two-years-without-cohabitation-draft.md",
+      "result": "revised",
+      "replacement_instances": 1,
+      "original_sha": "7cbdf7194f6c6e1ee80426a50194680fb332b2d2",
+      "saved_content_sha256": "31eee731982bf8a7854118a3dd8414f07c0b5a9f8dfc5d1f6dbf929a7822de1b"
+    },
+    {
+      "id": "3-03",
+      "path": "content/articles/2026-11-18-unmarried-relationship-period-timeline-draft.md",
+      "result": "no_change_identified",
+      "replacement_instances": 0,
+      "original_sha": "db37fa0e77f047125ea0cfd9ef82ea2916974797",
+      "saved_content_sha256": "d87c01f108034cb8fdbfec740a405ff4da7ace182b2ed49458fa7e63633027a6"
+    },
+    {
+      "id": "3-04",
+      "path": "content/articles/2026-11-18-unmarried-fiance-comparison-draft.md",
+      "result": "revised",
+      "replacement_instances": 2,
+      "original_sha": "694e3571bedb52a342428d0e2e8f8b2aa922100d",
+      "saved_content_sha256": "78d681f3b2191b38f7c20f6d6d39f386434d32521c4ce2e8c3147fbabdd5fe23"
+    },
+    {
+      "id": "3-05",
+      "path": "content/articles/2026-11-18-unmarried-spouse-comparison-draft.md",
+      "result": "revised",
+      "replacement_instances": 1,
+      "original_sha": "7377da72d594544230b8d114eaf40c249d6f2555",
+      "saved_content_sha256": "19cb26f4423b8977e8a8ba08912a8c4a9fa7add93afdef669a21c14b762be4ad"
+    },
+    {
+      "id": "3-06",
+      "path": "content/articles/2026-11-18-unmarried-japan-uk-long-distance-draft.md",
+      "result": "revised",
+      "replacement_instances": 2,
+      "original_sha": "af1c593bf09a3c5a916e42e56f4b642938c33f60",
+      "saved_content_sha256": "0125ef0af6ef4f966fdf275d2a21e56af533dd9341a811e354d15967a68bf5bf"
+    },
+    {
+      "id": "3-07",
+      "path": "content/articles/2026-11-18-unmarried-required-documents-draft.md",
+      "result": "revised",
+      "replacement_instances": 1,
+      "original_sha": "952ed667de352472fc2ea8363307d1e3eb4d28ba",
+      "saved_content_sha256": "470683f76910a7b7ac25c3cec785701279d68f169d1feb39248cea394b115595"
+    },
+    {
+      "id": "3-08",
+      "path": "content/articles/2026-11-18-unmarried-line-flights-remittances-draft.md",
+      "result": "revised",
+      "replacement_instances": 2,
+      "original_sha": "a03002fd9f0ef22233e11075789c4b3f310ba124",
+      "saved_content_sha256": "b4c22a3727f7afef4e703169ce8b6ed9bb8c87551c094c84ddf61e6bebf620d1"
+    },
+    {
+      "id": "3-09",
+      "path": "content/articles/2026-11-18-unmarried-japanese-residence-records-draft.md",
+      "result": "no_change_identified",
+      "replacement_instances": 0,
+      "original_sha": "e32f947af0b88e28319155a21c8ceceac90abf56",
+      "saved_content_sha256": "f40f52d3b8f7ebe865736c986d535722b665a42a3e89c2231063fd0420b25115"
+    },
+    {
+      "id": "3-10",
+      "path": "content/articles/2026-11-18-unmarried-without-joint-bank-account-draft.md",
+      "result": "revised",
+      "replacement_instances": 1,
+      "original_sha": "626441666b0eaf0d91c5ff83f60f4e8595e358a8",
+      "saved_content_sha256": "4df5beeee0dc64b5a80b6ec6d8e4aa63e16abd54c043286a8513db050ba118e4"
+    },
+    {
+      "id": "3-11",
+      "path": "content/articles/2026-11-18-unmarried-build-relationship-timeline-draft.md",
+      "result": "no_change_identified",
+      "replacement_instances": 0,
+      "original_sha": "d8ffff4ad919635acb57d311026d39f688dfde00",
+      "saved_content_sha256": "2ee62b2f53098ac178222f04a21a894108c610756c4fd3b631be69465984f221"
+    },
+    {
+      "id": "3-12",
+      "path": "content/articles/2026-11-18-unmarried-relationship-photos-number-draft.md",
+      "result": "revised",
+      "replacement_instances": 4,
+      "original_sha": "0dc164a55232ece3d395857c6c82440b300b3c4f",
+      "saved_content_sha256": "8bb8ba525acc6bfa2a5b467e79e0bc2dc8e23e409223fca5839ec967a3796d6f"
+    },
+    {
+      "id": "3-13",
+      "path": "content/articles/2026-11-18-unmarried-japan-cohabitation-move-to-uk-draft.md",
+      "result": "revised",
+      "replacement_instances": 1,
+      "original_sha": "c1e36c6222612f33af2a147d86e2580ff9433ee6",
+      "saved_content_sha256": "7ad4188d98258a4368d7e6bbb749e910e0fe954e881fcaf90b1fd7b781939b81"
+    },
+    {
+      "id": "3-14",
+      "path": "content/articles/2026-11-18-unmarried-reasons-cannot-live-together-draft.md",
+      "result": "revised",
+      "replacement_instances": 3,
+      "original_sha": "f050d312cd3a8631e06350683fa209e598d7783b",
+      "saved_content_sha256": "e8323218fabe2a0d480f9dc75474cda083c0ae8e24f91d8780bfa8d09d9779df"
+    },
+    {
+      "id": "3-15",
+      "path": "content/articles/2026-11-18-unmarried-financial-requirement-draft.md",
+      "result": "no_change_identified",
+      "replacement_instances": 0,
+      "original_sha": "4ea195db7c54f000860bf910dbda8994f4014b65",
+      "saved_content_sha256": "5d4d62e073f097ea775fab6f851b910102fe7a8157004ba54ce905214ec715c4"
+    },
+    {
+      "id": "3-16",
+      "path": "content/articles/2026-11-18-unmarried-english-and-application-costs-draft.md",
+      "result": "revised",
+      "replacement_instances": 1,
+      "original_sha": "54db853e03e7791e65b8c79c5e7d76c55fbb0afe",
+      "saved_content_sha256": "a7aa4294a113169299ce436360f0f82b0ea788b73d079401606821e7cebf8c62"
+    },
+    {
+      "id": "3-17",
+      "path": "content/articles/2026-11-18-unmarried-relationship-evidence-consistency-draft.md",
+      "result": "no_change_identified",
+      "replacement_instances": 0,
+      "original_sha": "e33a04830082caf86c53eccdbcda338769d1ba5b",
+      "saved_content_sha256": "22b9ec54f52788e45a4a657c15487b2de6fbfe76616ed8659d995b5685b21d2e"
+    },
+    {
+      "id": "3-18",
+      "path": "content/articles/2026-11-18-unmarried-marriage-after-grant-draft.md",
+      "result": "no_change_identified",
+      "replacement_instances": 0,
+      "original_sha": "98f5280927dc6d212bf55c61383d02af7021630d",
+      "saved_content_sha256": "2a5f7d85cc18ebf40f758fd9fa935556ae67475ff18008f140d937053658da84"
+    },
+    {
+      "id": "3-19",
+      "path": "content/articles/2026-11-18-unmarried-settlement-roadmap-draft.md",
+      "result": "revised",
+      "replacement_instances": 1,
+      "original_sha": "fe7a2948b5ec8714505f28fd7a703b55b86cc73c",
+      "saved_content_sha256": "7313eba9df9f45eb60ca8c82434136f93e25fec043f7d288efc001bb4bd38d88"
+    },
+    {
+      "id": "3-20",
+      "path": "content/articles/2026-11-18-unmarried-stratovisa-document-management-draft.md",
+      "result": "revised",
+      "replacement_instances": 3,
+      "original_sha": "b69d27cf9085c48ab8671a404f92c9695d86504e",
+      "saved_content_sha256": "99ca19b22543711731e89c3aca9fabf5e2b40627575af0e150e0070c88e6064a"
+    },
+    {
+      "id": "4-01",
+      "path": "content/articles/2026-11-18-skilled-application-guide-draft.md",
+      "result": "revised",
+      "replacement_instances": 2,
+      "original_sha": "9b62ae4d76dd56e48602686811a7d186d79b62be",
+      "saved_content_sha256": "dd73c9f685de9b5016490378d4caa3c7cba8cf0356b781bb83d9caa42a3202b7"
+    },
+    {
+      "id": "4-02",
+      "path": "content/articles/2026-11-18-skilled-required-documents-draft.md",
+      "result": "revised",
+      "replacement_instances": 2,
+      "original_sha": "491108ba249e0b61d59b58205c1ed8992606e3f7",
+      "saved_content_sha256": "dffdbaad58b8e23ec5eb0df901eff09f4ec8765ee290c8a997e6d69e33ce0cb5"
+    },
+    {
+      "id": "4-03",
+      "path": "content/articles/2026-11-18-skilled-eligible-occupations-draft.md",
+      "result": "revised",
+      "replacement_instances": 3,
+      "original_sha": "672bd8884a4a938d27b0229c094e7ec70a2bc71d",
+      "saved_content_sha256": "1a3150ceef1be4d369c6d3edc4361e5b7b24d476412e619e129ade143887832f"
+    },
+    {
+      "id": "4-04",
+      "path": "content/articles/2026-11-18-skilled-find-sponsor-employers-draft.md",
+      "result": "no_change_identified",
+      "replacement_instances": 0,
+      "original_sha": "b1b3735947f3bb92d53882c4fd4a88bf8dac4906",
+      "saved_content_sha256": "f3ea7ce7324aeb32e927229a6ebbe599f01c965e5df4724056b04b3035298483"
+    },
+    {
+      "id": "4-05",
+      "path": "content/articles/2026-11-18-skilled-salary-going-rate-exceptions-draft.md",
+      "result": "revised",
+      "replacement_instances": 1,
+      "original_sha": "ce7dfa83b7f3d8c04191ef84ef5cb36433e3dc95",
+      "saved_content_sha256": "52a700a3e40dc0a9f7a2401fde48e33cd2ad7b471519c832ec0e6314d894d9bd"
+    },
+    {
+      "id": "4-06",
+      "path": "content/articles/2026-11-18-skilled-degree-experience-professional-registration-draft.md",
+      "result": "revised",
+      "replacement_instances": 2,
+      "original_sha": "55ddd6ad40b925d34553f00514e2a5c1e1e987f3",
+      "saved_content_sha256": "f0d473f7bdf73d3b332c3d2b86c4cc2dab11dc5509f438c1d60805597eee06ac"
+    },
+    {
+      "id": "4-07",
+      "path": "content/articles/2026-11-18-skilled-english-language-evidence-draft.md",
+      "result": "revised",
+      "replacement_instances": 3,
+      "original_sha": "7e12b1608bc3d4d83890f18f3f93378583d2ec52",
+      "saved_content_sha256": "25c7b060bda0603bee42ec8ae0bf435a4cf8719098700f95a71bac5ba4e8fa0f"
+    },
+    {
+      "id": "4-08",
+      "path": "content/articles/2026-11-18-skilled-certificate-of-sponsorship-draft.md",
+      "result": "no_change_identified",
+      "replacement_instances": 0,
+      "original_sha": "07569d29934d98d6a314ff916786bfdc785ed44f",
+      "saved_content_sha256": "2d0ccefdce596c5c9b021d2e3d18335675cccb4e9ff6ce22afe58d571f63632a"
+    },
+    {
+      "id": "4-09",
+      "path": "content/articles/2026-11-18-skilled-application-fees-ihs-budget-draft.md",
+      "result": "revised",
+      "replacement_instances": 1,
+      "original_sha": "9f54b98428d73550bbe3523ade4839aff63cb0cd",
+      "saved_content_sha256": "a66bd3d1b62c7eca4c7490947a81e7ae97a077d4dc77c6077c0cd72110e1756f"
+    },
+    {
+      "id": "4-10",
+      "path": "content/articles/2026-11-18-skilled-maintenance-funds-bank-evidence-draft.md",
+      "result": "no_change_identified",
+      "replacement_instances": 0,
+      "original_sha": "cc3a6ee33da6bc774111ee843d322dd2836f9338",
+      "saved_content_sha256": "9d5b304910b7c7b94e0cf46e9e699446dd6cdf6f76303c22c4058650a9f08c07"
+    },
+    {
+      "id": "4-11",
+      "path": "content/articles/2026-11-18-skilled-cv-cover-letter-japanese-career-draft.md",
+      "result": "revised",
+      "replacement_instances": 1,
+      "original_sha": "645a4c9ca973aeb03ce4a4be85b3c58aa78c1bc8",
+      "saved_content_sha256": "a1dfe9733d1edfa1c898d3a006b869df296939f50055fd9c72e42c8170589f6c"
+    },
+    {
+      "id": "4-12",
+      "path": "content/articles/2026-11-18-skilled-after-job-offer-application-plan-draft.md",
+      "result": "no_change_identified",
+      "replacement_instances": 0,
+      "original_sha": "d0573757dcc982472b0eabcc3aa3c1ab4f146068",
+      "saved_content_sha256": "4f8e92afe4a41529a20e695ca09287cc80a52c58146952c21b8dc8ccbe97c4cc"
+    },
+    {
+      "id": "4-13",
+      "path": "content/articles/2026-11-18-skilled-processing-time-start-date-draft.md",
+      "result": "no_change_identified",
+      "replacement_instances": 0,
+      "original_sha": "69056c7a27b8edafd75cc73328638891ae2ef0b8",
+      "saved_content_sha256": "5e93ac943cceb7b3c35b96aff184701ffbe9c443f12d1bbdd8cc9b53119a6168"
+    },
+    {
+      "id": "4-14",
+      "path": "content/articles/2026-11-18-skilled-change-job-or-employer-draft.md",
+      "result": "revised",
+      "replacement_instances": 1,
+      "original_sha": "869917ab9a65f47dcdff9b294702b798fe893945",
+      "saved_content_sha256": "7b58b4b25d753c5a2a872ef2cbbd2c0f6799f29fef4ffbf842910c4ab55fb36e"
+    },
+    {
+      "id": "4-15",
+      "path": "content/articles/2026-11-18-skilled-job-loss-permission-and-next-steps-draft.md",
+      "result": "revised",
+      "replacement_instances": 1,
+      "original_sha": "b2db2bd8b175732d99fe778179ea5c7f2a526258",
+      "saved_content_sha256": "3f217c5728489f41e9c11d8d1b7192ad498ba9b5ceca3523dd1ee8eaf2f5dc5e"
+    },
+    {
+      "id": "4-16",
+      "path": "content/articles/2026-11-18-skilled-additional-work-freelance-draft.md",
+      "result": "revised",
+      "replacement_instances": 2,
+      "original_sha": "5ee58ba262a9b6fa85cf2d39267a0d742a768988",
+      "saved_content_sha256": "0134a482448f015fb8cdd18785c490867341cd3ab54f9170817cd71c67084d7d"
+    },
+    {
+      "id": "4-17",
+      "path": "content/articles/2026-11-18-skilled-dependant-family-eligibility-and-costs-draft.md",
+      "result": "revised",
+      "replacement_instances": 1,
+      "original_sha": "92f9fcf526d25a8897ff9cbeaeaaa6f5da28e76a",
+      "saved_content_sha256": "4af8401e2884507aa5c8dbc6d7d26f4d00649d7991a3cc669a9b4f44b2dc8e99"
+    },
+    {
+      "id": "4-18",
+      "path": "content/articles/2026-11-18-skilled-settlement-five-year-roadmap-draft.md",
+      "result": "revised",
+      "replacement_instances": 2,
+      "original_sha": "c8d1f4b4d113ccd4b85921379054bdc4be1ce909",
+      "saved_content_sha256": "f2c86441c13a80dc9e6327e8c2db7970db638cdb7ac6497178a07a1cdad15ab1"
+    },
+    {
+      "id": "4-19",
+      "path": "content/articles/2026-11-18-skilled-refusal-risk-document-consistency-draft.md",
+      "result": "revised",
+      "replacement_instances": 2,
+      "original_sha": "3437b578c823fcd119401951521083e827799b77",
+      "saved_content_sha256": "e45f44a48e6afbcfcacc1932b5b4cb7a23042e01da18c443f778b69ecf97b661"
+    },
+    {
+      "id": "4-20",
+      "path": "content/articles/2026-11-18-skilled-stratovisa-application-preparation-draft.md",
+      "result": "revised",
+      "replacement_instances": 7,
+      "original_sha": "7bc9a210e1f497f169b1eb377534b4278d19cd85",
+      "saved_content_sha256": "19b0df8c77e09047230594c826abc3fb69eb917165446cd2baaa066249aeeae3"
+    },
+    {
+      "id": "5-01",
+      "path": "content/articles/2026-11-18-student-application-guide-draft.md",
+      "result": "revised",
+      "replacement_instances": 1,
+      "original_sha": "7766ae9eb45fe39749cd498b0a6cf7f0bc616886",
+      "saved_content_sha256": "554cbb36a95a7f2ca67e0f57c0d0a4c23c22cc3edbfcc1d990358c1e69ee336a"
+    },
+    {
+      "id": "5-02",
+      "path": "content/articles/2026-11-18-student-required-documents-draft.md",
+      "result": "revised",
+      "replacement_instances": 2,
+      "original_sha": "e850ca31f0a7e00d7a72ae7db7078e7ce12fc655",
+      "saved_content_sha256": "626bc0a4301ee37462949af320cd3b578a43e03cc4ce82dc916d9a5f93267c9b"
+    },
+    {
+      "id": "5-03",
+      "path": "content/articles/2026-11-18-student-cas-checklist-draft.md",
+      "result": "revised",
+      "replacement_instances": 1,
+      "original_sha": "bc3ff6e29f689d82efa174b5e4f93c9267b4ec69",
+      "saved_content_sha256": "4f160384de149825941bfe7033f665698890e93975d376e2ea91d99a7a061e83"
+    },
+    {
+      "id": "5-04",
+      "path": "content/articles/2026-11-18-student-fees-ihs-study-budget-draft.md",
+      "result": "no_change_identified",
+      "replacement_instances": 0,
+      "original_sha": "0fb8fadfc01db35cdbb6dd61af4eef55bc677e64",
+      "saved_content_sha256": "6effd91151f60d4a33b9448c0dcd7a20007e48561c217a6d826034bd0b80bcca"
+    },
+    {
+      "id": "5-05",
+      "path": "content/articles/2026-11-18-student-japanese-differential-financial-evidence-draft.md",
+      "result": "revised",
+      "replacement_instances": 3,
+      "original_sha": "5c06e8c30a3dd1d8edbf717c36069f5c2a3c77cf",
+      "saved_content_sha256": "0411305c179ed5560e52e19e3fad2e914a33a887e235ac60fac353c176c6b245"
+    },
+    {
+      "id": "5-06",
+      "path": "content/articles/2026-11-18-student-funds-28-day-rule-draft.md",
+      "result": "revised",
+      "replacement_instances": 3,
+      "original_sha": "1dff72be64f1c410050d21b43db68cb297b2a23e",
+      "saved_content_sha256": "2b96021e7f045a52cd06c2d8a02b94310d36b00cfe42e54e0b4e748a7f904d8a"
+    },
+    {
+      "id": "5-07",
+      "path": "content/articles/2026-11-18-student-english-test-university-assessment-draft.md",
+      "result": "revised",
+      "replacement_instances": 4,
+      "original_sha": "0ea89a956439551939ceb0533815fa91d72f0463",
+      "saved_content_sha256": "dfb43752a12ae5a5764af830b87c57b90f8c92d980f64f5a3036c38eef60b1ab"
+    },
+    {
+      "id": "5-08",
+      "path": "content/articles/2026-11-18-student-application-window-timeline-draft.md",
+      "result": "revised",
+      "replacement_instances": 3,
+      "original_sha": "0d2daadf136bed541c27f01b74ee627203bb9837",
+      "saved_content_sha256": "6fabea235095d8338cbaca546367716b4b064d5a4e01ebdb96526176bf326101"
+    },
+    {
+      "id": "5-09",
+      "path": "content/articles/2026-11-18-student-application-form-japanese-checklist-draft.md",
+      "result": "no_change_identified",
+      "replacement_instances": 0,
+      "original_sha": "87e7edcd7d2bfe4b18c240cb1696cb306c2326d7",
+      "saved_content_sha256": "992728158849e1e4fb2eab869298074a38c112bdc97f82c02dc7caa44be3d506"
+    },
+    {
+      "id": "5-10",
+      "path": "content/articles/2026-11-18-student-processing-delay-before-travel-draft.md",
+      "result": "no_change_identified",
+      "replacement_instances": 0,
+      "original_sha": "3ebc3e6893b3749876e60a4f63b883b8b03a6f10",
+      "saved_content_sha256": "ab5f610219ff1f487eaafe9ddbe27efb05e28bc115f74dcc2bc1248e5bb00c33"
+    },
+    {
+      "id": "5-11",
+      "path": "content/articles/2026-11-18-student-language-study-route-comparison-draft.md",
+      "result": "revised",
+      "replacement_instances": 1,
+      "original_sha": "5ba218210a7d1dcaf9bd37830126d02d72d30f34",
+      "saved_content_sha256": "7f6f8f1817744ae72e7e9a9bc7ae17cd443f18bf8ed037f9abd004585cde6baf"
+    },
+    {
+      "id": "5-12",
+      "path": "content/articles/2026-11-18-student-parent-bank-funds-consent-draft.md",
+      "result": "revised",
+      "replacement_instances": 4,
+      "original_sha": "51b986d0abc462fa22abfe50769d740b901f7a21",
+      "saved_content_sha256": "de208e692328b29868837d908a96a491b45d3a9920889c2c965b30b1e4d9ef95"
+    },
+    {
+      "id": "5-13",
+      "path": "content/articles/2026-11-18-student-refusal-prevention-cas-funds-form-draft.md",
+      "result": "revised",
+      "replacement_instances": 2,
+      "original_sha": "7971ba51ff4c01380fa95ff4c88da0a4c719603d",
+      "saved_content_sha256": "b905403e5f1f63980f1fed26971a468fa8449a5aae92633bf0430fc516a2124a"
+    },
+    {
+      "id": "5-14",
+      "path": "content/articles/2026-11-18-student-part-time-work-hours-restrictions-draft.md",
+      "result": "revised",
+      "replacement_instances": 2,
+      "original_sha": "a2f6dd49eb656bddff307afa11db432d29ac23d7",
+      "saved_content_sha256": "fe4226b5e9d53f5ce6e535b2a88567ceb05472f8209e77a946b70ab912b8049b"
+    },
+    {
+      "id": "5-15",
+      "path": "content/articles/2026-11-18-student-freelance-side-business-restrictions-draft.md",
+      "result": "no_change_identified",
+      "replacement_instances": 0,
+      "original_sha": "0a08ffbdd114cc20ff33854dec1168bed3ad0235",
+      "saved_content_sha256": "a7f22720f77b94832ca8606f1daa2e9a99bf56d331c32364fcedd96d087d8ff1"
+    },
+    {
+      "id": "5-16",
+      "path": "content/articles/2026-11-18-student-dependants-research-postgraduate-draft.md",
+      "result": "revised",
+      "replacement_instances": 3,
+      "original_sha": "c0f94b0e8412235305ba8d3a1e1327b31cd3e2e7",
+      "saved_content_sha256": "9c6e31094c36e3c313047a17be6b452794b266d4a3bd85a118fd38fc7a319ea3"
+    },
+    {
+      "id": "5-17",
+      "path": "content/articles/2026-11-18-student-changing-university-cas-permission-draft.md",
+      "result": "no_change_identified",
+      "replacement_instances": 0,
+      "original_sha": "4f161fbbcb5d9f4c712dff854fabd2ec5219aee0",
+      "saved_content_sha256": "3c44a3ad9c6a4a18ccbb9484c9df8a99639120738e4c6a52b63f8e73eeda9885"
+    },
+    {
+      "id": "5-18",
+      "path": "content/articles/2026-11-18-student-expiry-extension-return-switch-draft.md",
+      "result": "revised",
+      "replacement_instances": 2,
+      "original_sha": "9e9271d90c6765dc9422f50b9e90d61b74df9247",
+      "saved_content_sha256": "3a48cad8b3323ae4ff40777d01efbe77f6d339dce40e875bc19100575feceedb"
+    },
+    {
+      "id": "5-19",
+      "path": "content/articles/2026-11-18-student-graduate-duration-skilled-worker-transition-draft.md",
+      "result": "revised",
+      "replacement_instances": 3,
+      "original_sha": "b5635cf46f1aa63f7ce49fda263dfc3956b910cd",
+      "saved_content_sha256": "7839e74b14293c1183b0dbdac8340acaa425c0331fda65630031e01f62e6cefb"
+    },
+    {
+      "id": "5-20",
+      "path": "content/articles/2026-11-18-student-self-application-stratovisa-document-workflow-draft.md",
+      "result": "revised",
+      "replacement_instances": 2,
+      "original_sha": "10bc590628bd51b432e8335f76e303c575638032",
+      "saved_content_sha256": "a4e0407b7d85e3dd37786b60afad751637108b4b81ef208600313cc0276f2b7b"
+    },
+    {
+      "id": "6-01",
+      "path": "content/articles/2026-11-18-health-application-guide-draft.md",
+      "result": "revised",
+      "replacement_instances": 3,
+      "original_sha": "41f8b900e162a4a03705a6ce96cb97e7a9edfdcc",
+      "saved_content_sha256": "0a040135841cf75c7c33225ff2c7d774b6a84b09b2ed95f0b40bd817db589c3c"
+    },
+    {
+      "id": "6-02",
+      "path": "content/articles/2026-11-18-health-required-documents-draft.md",
+      "result": "no_change_identified",
+      "replacement_instances": 0,
+      "original_sha": "8a7e699563f3bcfb7f9f25258f981913e38f0a78",
+      "saved_content_sha256": "272930b726d71b99f54da1eb05cc68ebea187bc6fafaed869501c69bc2aea669"
+    },
+    {
+      "id": "6-03",
+      "path": "content/articles/2026-11-18-health-japanese-nurse-nmc-registration-draft.md",
+      "result": "revised",
+      "replacement_instances": 2,
+      "original_sha": "2fa3c454da56482c9f78597696c5c844c1fd3652",
+      "saved_content_sha256": "fcb542542353f1c5b966a860aae9c9722b88b1ab354c069dda5e83b58b2e8058"
+    },
+    {
+      "id": "6-04",
+      "path": "content/articles/2026-11-18-health-japanese-doctor-gmc-registration-draft.md",
+      "result": "revised",
+      "replacement_instances": 2,
+      "original_sha": "fc464e22e2274517e740b45e1bf307027808f9b2",
+      "saved_content_sha256": "67e7f3d8b02fbc6d540847107a052c6c439d3d39bcddbebb35e2860b72d2db8c"
+    },
+    {
+      "id": "6-05",
+      "path": "content/articles/2026-11-18-health-japanese-care-worker-overseas-restrictions-draft.md",
+      "result": "no_change_identified",
+      "replacement_instances": 0,
+      "original_sha": "714b624ee66ec31bee18f7bb50eccecf5825ff76",
+      "saved_content_sha256": "e4c711e4366491cbb02e61e28c25f8b4ac7cef110b8c4c281dd27f74b0edb2b3"
+    },
+    {
+      "id": "6-06",
+      "path": "content/articles/2026-11-18-health-eligible-occupations-code-check-draft.md",
+      "result": "revised",
+      "replacement_instances": 2,
+      "original_sha": "08582b36036973a10ad1816f8e023771e82bc14e",
+      "saved_content_sha256": "3e5d34e792c9fda23ad467a946f401847dc50538a1f965db75cacfabd5c76a96"
+    },
+    {
+      "id": "6-07",
+      "path": "content/articles/2026-11-18-health-nhs-jobs-japanese-applicants-draft.md",
+      "result": "revised",
+      "replacement_instances": 1,
+      "original_sha": "f6b2afe40228fbda092c7d1db6b135b46f282787",
+      "saved_content_sha256": "46172f719a9ef47d319802bddcff2826d484647c3fce95f0d3ee468ae849c693"
+    },
+    {
+      "id": "6-08",
+      "path": "content/articles/2026-11-18-health-english-ielts-oet-registration-visa-draft.md",
+      "result": "revised",
+      "replacement_instances": 1,
+      "original_sha": "69b827734c24fbbf945c1cee2256dba882c5ebf7",
+      "saved_content_sha256": "8d06e14a456b235b4ac57e8edaef254643c8683bf6aa5ee1ae1429aeb671133e"
+    },
+    {
+      "id": "6-09",
+      "path": "content/articles/2026-11-18-health-salary-national-pay-scales-draft.md",
+      "result": "revised",
+      "replacement_instances": 1,
+      "original_sha": "52d824ad70acbebce9fbc1dd431a312827ae261a",
+      "saved_content_sha256": "f9fc6cfefcde5a1602d057cbcedf19f2aba1f5a7da21049c871118858635c526"
+    },
+    {
+      "id": "6-10",
+      "path": "content/articles/2026-11-18-health-fees-ihs-maintenance-budget-draft.md",
+      "result": "revised",
+      "replacement_instances": 2,
+      "original_sha": "48d7c9d9461b0948ee703a85a4c88022eb032da7",
+      "saved_content_sha256": "a8d53d609761c41583d6aa361ebbfb2fcbac1fcd6a5d2dd17f0a7b2dbf1dec02"
+    },
+    {
+      "id": "6-11",
+      "path": "content/articles/2026-11-18-health-qualification-certified-translations-draft.md",
+      "result": "revised",
+      "replacement_instances": 1,
+      "original_sha": "faa477e2f8e10309e16e8597f3edae74b23e6c7f",
+      "saved_content_sha256": "f88b360cadf6cbc68f729fa6bc65ea307b9879d1281a728fdbc5d60e75b9276b"
+    },
+    {
+      "id": "6-12",
+      "path": "content/articles/2026-11-18-health-cos-sponsor-record-checklist-draft.md",
+      "result": "revised",
+      "replacement_instances": 2,
+      "original_sha": "c9fd52e561ab399ae72a6ccd303bf5d38cf76156",
+      "saved_content_sha256": "9a6a36759d9df0df3b89ba2c0783fdc498cd1c0e3e48aee826ca7548eff26487"
+    },
+    {
+      "id": "6-13",
+      "path": "content/articles/2026-11-18-health-processing-timeline-offer-to-arrival-draft.md",
+      "result": "revised",
+      "replacement_instances": 2,
+      "original_sha": "dc4720e2317f4f468dd6194ec0814e55bc43b673",
+      "saved_content_sha256": "0a89955d3b0f682d7a2dd1d2c93010303cc00ac84a3f33d19a386a1f33463945"
+    },
+    {
+      "id": "6-14",
+      "path": "content/articles/2026-11-18-health-recruitment-scam-sponsor-cos-check-draft.md",
+      "result": "no_change_identified",
+      "replacement_instances": 0,
+      "original_sha": "c111eda408613a3895ab27b2e0d04b227028f4dd",
+      "saved_content_sha256": "1b1b45460fd29ccd2553fd3a8cc0832ce55c46f2e5e160e30e57f122c1309988"
+    },
+    {
+      "id": "6-15",
+      "path": "content/articles/2026-11-18-health-dependants-occupation-restrictions-draft.md",
+      "result": "revised",
+      "replacement_instances": 2,
+      "original_sha": "619915c4ef4ba51c25976a578729dd3161e33341",
+      "saved_content_sha256": "b40b4b250f53b328dd4966716539253f3ff6ec14042e7fb4dd93249876acd5da"
+    },
+    {
+      "id": "6-16",
+      "path": "content/articles/2026-11-18-health-changing-employer-nhs-transfer-draft.md",
+      "result": "revised",
+      "replacement_instances": 3,
+      "original_sha": "a3a4985d160770471d75d4f1d4202a127c3fa5ba",
+      "saved_content_sha256": "511671210ec3712f4dc64a2ecc2b25527e1344c13eb724f66b9d1d1c58842fc1"
+    },
+    {
+      "id": "6-17",
+      "path": "content/articles/2026-11-18-health-nurse-working-conditions-shifts-leave-draft.md",
+      "result": "revised",
+      "replacement_instances": 3,
+      "original_sha": "4a372e8b64336182fb0d58ddb76d743758ef4f00",
+      "saved_content_sha256": "1c482877761115d5ea21fe678599d30e41028ef71fcf8134fd1cf9ff5d9e40e8"
+    },
+    {
+      "id": "6-18",
+      "path": "content/articles/2026-11-18-health-additional-work-bank-shifts-draft.md",
+      "result": "revised",
+      "replacement_instances": 2,
+      "original_sha": "c62651ee71da536e2fd411310349203eea2d2cca",
+      "saved_content_sha256": "8f7a905030bd5379e3b3a55532d578b5368ca76cedc763563dd73b155bce82e4"
+    },
+    {
+      "id": "6-19",
+      "path": "content/articles/2026-11-18-health-settlement-residence-salary-records-draft.md",
+      "result": "revised",
+      "replacement_instances": 2,
+      "original_sha": "e4050b99f6e7fd259c8ddb3f2781df10b2729806",
+      "saved_content_sha256": "ad151c1b289e241fc3456c3f81bf9a87a6a53cf1b7769afcfcb75668b6b116f9"
+    },
+    {
+      "id": "6-20",
+      "path": "content/articles/2026-11-18-health-stratovisa-health-document-workflow-draft.md",
+      "result": "revised",
+      "replacement_instances": 3,
+      "original_sha": "70525fa0fea00d2a33842fba17bc3a214d65bbfe",
+      "saved_content_sha256": "5e12105f1091b529e14054a1090d644b6a9e2fee978a84f4ac342657eb47b808"
+    },
+    {
+      "id": "7-01",
+      "path": "content/articles/2026-11-18-visitor-japanese-entry-eta-visitor-difference-draft.md",
+      "result": "revised",
+      "replacement_instances": 2,
+      "original_sha": "81017d57960d4bf4ca77f0efc0b5536da38c3586",
+      "saved_content_sha256": "b89e55d7b78bd93c57a5afbbcb006e52d77739f8b1693e954a9952327f6a27a8"
+    },
+    {
+      "id": "7-02",
+      "path": "content/articles/2026-11-18-visitor-eta-application-japanese-passport-draft.md",
+      "result": "revised",
+      "replacement_instances": 5,
+      "original_sha": "4c0d157bb3c659a46a5380d671b1f467487c8776",
+      "saved_content_sha256": "04b000d39f7fa638e64943f935d383c6bc90d996c17b6afb81a157109b06e2f3"
+    },
+    {
+      "id": "7-03",
+      "path": "content/articles/2026-11-18-visitor-eta-fee-validity-application-time-draft.md",
+      "result": "revised",
+      "replacement_instances": 4,
+      "original_sha": "2413c845fabb529bc3a265dac6f550be5c17d856",
+      "saved_content_sha256": "6e6bd0d247a976b5aa46fd002e533d01240d32fc950d2374e0629b18c5e6dc27"
+    },
+    {
+      "id": "7-04",
+      "path": "content/articles/2026-11-18-visitor-eta-not-approved-rejected-refused-draft.md",
+      "result": "revised",
+      "replacement_instances": 2,
+      "original_sha": "61d5ae1af6aa5c6cbcb05e4030b9147d4833aa64",
+      "saved_content_sha256": "308e38c05f6d9e66dee155a6b96d1af92201ff3c2424c909b5154aaca828774a"
+    },
+    {
+      "id": "7-05",
+      "path": "content/articles/2026-11-18-visitor-eta-passport-renewal-new-application-draft.md",
+      "result": "revised",
+      "replacement_instances": 1,
+      "original_sha": "22d214f3203c5edea3ada202070435d880059cc6",
+      "saved_content_sha256": "7e786298676fbcec736ad400afd692609b42aa6bfa666a886394e424404ae96d"
+    },
+    {
+      "id": "7-06",
+      "path": "content/articles/2026-11-18-visitor-border-questions-purpose-return-accommodation-draft.md",
+      "result": "no_change_identified",
+      "replacement_instances": 0,
+      "original_sha": "daf7581b0efd3b0c0f4497eb212aaa434e63e18c",
+      "saved_content_sha256": "6757b3688dd59b419392f39026556d64c482166bf40479a012d38e433a88197f"
+    },
+    {
+      "id": "7-07",
+      "path": "content/articles/2026-11-18-visitor-return-ticket-one-way-travel-draft.md",
+      "result": "no_change_identified",
+      "replacement_instances": 0,
+      "original_sha": "c8269ab489899bdaf6c7cf30de12612ed9462127",
+      "saved_content_sha256": "ec73519e4d1f082e42cb17037074933776ccd54f96c0aeb097250565a5f5b32e"
+    },
+    {
+      "id": "7-08",
+      "path": "content/articles/2026-11-18-visitor-six-month-visitor-stay-conditions-draft.md",
+      "result": "no_change_identified",
+      "replacement_instances": 0,
+      "original_sha": "d125baf5176a6ac961cbd1516d3cae5a3647d6c8",
+      "saved_content_sha256": "35b23152808aafc1de00a98e00cf7b1471e22335bee9271838299a53e5e4cf31"
+    },
+    {
+      "id": "7-09",
+      "path": "content/articles/2026-11-18-visitor-repeated-visits-main-home-rules-draft.md",
+      "result": "revised",
+      "replacement_instances": 1,
+      "original_sha": "dd6c66d637af1c03ad702e2d56cc034634b88bc2",
+      "saved_content_sha256": "33e571065ba95761c91cbc95e0a5a2e3b94621d3bbdf7cea3e52997d4df3e6e1"
+    },
+    {
+      "id": "7-10",
+      "path": "content/articles/2026-11-18-visitor-visiting-romantic-partner-home-draft.md",
+      "result": "revised",
+      "replacement_instances": 1,
+      "original_sha": "8879b115ccfe0185c40bdf86f54c09119753220c",
+      "saved_content_sha256": "159c1d622f290fbee09af718d5d47e928e6e07e7a82201d7babde718bbea8496"
+    },
+    {
+      "id": "7-11",
+      "path": "content/articles/2026-11-18-visitor-staying-family-friends-invitation-draft.md",
+      "result": "revised",
+      "replacement_instances": 3,
+      "original_sha": "1c6d17ecbc7bb9b50f3eea5b5906fc2baf6335d8",
+      "saved_content_sha256": "3285cc38153aef81278cef2ca32bdcfbd8989b6fb02576828bbd3d40f1e18769"
+    },
+    {
+      "id": "7-12",
+      "path": "content/articles/2026-11-18-visitor-remote-work-overseas-employment-draft.md",
+      "result": "no_change_identified",
+      "replacement_instances": 0,
+      "original_sha": "91c6cbf87ec17a6b34201f8e702c032b700c5418",
+      "saved_content_sha256": "d41d7d51091901875746bf9845d0a3f25154a4b850e790cfd5b55b65af700c95"
+    },
+    {
+      "id": "7-13",
+      "path": "content/articles/2026-11-18-visitor-business-trip-meetings-on-site-work-draft.md",
+      "result": "no_change_identified",
+      "replacement_instances": 0,
+      "original_sha": "d864df79950bd22a41fa2703bda87a5f5727e7b2",
+      "saved_content_sha256": "b27143d7c185dd59e3a617637c60761608ffd1caf1c6ef9bc3919424813449b7"
+    },
+    {
+      "id": "7-14",
+      "path": "content/articles/2026-11-18-visitor-short-study-eta-visitor-student-routes-draft.md",
+      "result": "no_change_identified",
+      "replacement_instances": 0,
+      "original_sha": "71f2a02c3a18caef1d44d18c1a0a4e4d4d47ca74",
+      "saved_content_sha256": "32c2bb0b4ba788b8f2fb8d21a679dc435f6dccfc0912c8e0a5a31d55d49aa783"
+    },
+    {
+      "id": "7-15",
+      "path": "content/articles/2026-11-18-visitor-work-unpaid-volunteering-limits-draft.md",
+      "result": "revised",
+      "replacement_instances": 1,
+      "original_sha": "f9e4c2b1f4ccfc0d420dc18162d7b05963329df3",
+      "saved_content_sha256": "9488382f10c498ab385cb61a492f231fb14409987bc534689b4f51c9be16bc42"
+    },
+    {
+      "id": "7-16",
+      "path": "content/articles/2026-11-18-visitor-marriage-visitor-not-eta-draft.md",
+      "result": "no_change_identified",
+      "replacement_instances": 0,
+      "original_sha": "6c1076ae91e92900158c6f468f6f4cb9a4aa1406",
+      "saved_content_sha256": "31d6209e8ed568361bfbca9d08affb975eae1e1ca7701822e41b4c88a7f53d9d"
+    },
+    {
+      "id": "7-17",
+      "path": "content/articles/2026-11-18-visitor-visitor-to-family-switch-restriction-draft.md",
+      "result": "revised",
+      "replacement_instances": 1,
+      "original_sha": "9537f7ea3b8971b2a298f4ac55dfba457c4f01bb",
+      "saved_content_sha256": "cf94b0a889a53039cdd7fa7d1ff08484a7c246b130709db9bb4bd283cdc44947"
+    },
+    {
+      "id": "7-18",
+      "path": "content/articles/2026-11-18-visitor-entry-refusal-notice-next-steps-draft.md",
+      "result": "revised",
+      "replacement_instances": 1,
+      "original_sha": "04f507acf84c7e1052fe36eb8620d8fbe9eca3c6",
+      "saved_content_sha256": "84f4f5d92eb33e3ef2469c2ab13788d0a5e50fdf3fe41315bb9517de1ad4bd74"
+    },
+    {
+      "id": "7-19",
+      "path": "content/articles/2026-11-18-visitor-visitor-nhs-travel-insurance-draft.md",
+      "result": "no_change_identified",
+      "replacement_instances": 0,
+      "original_sha": "4f53ea5cbb433e660a8788e98e921fdf8ce00a77",
+      "saved_content_sha256": "a60882c7e1929de76ec95a77fbb0b0d9abbca77214224a8129be4a970a8e79e6"
+    },
+    {
+      "id": "7-20",
+      "path": "content/articles/2026-11-18-visitor-japanese-standard-visitor-visa-when-needed-draft.md",
+      "result": "revised",
+      "replacement_instances": 1,
+      "original_sha": "e1f4f92c8dd37a4316ab110947652ffeeb19651e",
+      "saved_content_sha256": "1c1e406fc8c3daf92175edf9d45ec70f0ee2954bb454a3f478b28a34046cbfb0"
+    },
+    {
+      "id": "8-01",
+      "path": "content/articles/2026-11-18-life-first-30-days-arrival-draft.md",
+      "result": "revised",
+      "replacement_instances": 3,
+      "original_sha": "94e5c191b6aae4e0b13582e88e9206c39375e4e4",
+      "saved_content_sha256": "d9dbc9bf5c4f335bc8f8331b3900c8add314b1880832f225308424548a1348e4"
+    },
+    {
+      "id": "8-02",
+      "path": "content/articles/2026-11-18-life-bank-account-address-evidence-draft.md",
+      "result": "revised",
+      "replacement_instances": 4,
+      "original_sha": "77aac883af86d5948b5923e5ebab1370408e1f4c",
+      "saved_content_sha256": "fc25825b6599ac81d9c8d0b814a2e3f89cb63f73180aa0c47834da0bce244044"
+    },
+    {
+      "id": "8-03",
+      "path": "content/articles/2026-11-18-life-renting-viewing-deposit-draft.md",
+      "result": "no_change_identified",
+      "replacement_instances": 0,
+      "original_sha": "714128d53588bc64b7809fbe9482094f77e88cee",
+      "saved_content_sha256": "e1393a19c29004cd24b7398df3ef4b367b2692e7c30f74f7b69e14c49b4c8d6c"
+    },
+    {
+      "id": "8-04",
+      "path": "content/articles/2026-11-18-life-bills-included-rent-costs-draft.md",
+      "result": "revised",
+      "replacement_instances": 1,
+      "original_sha": "68f6d973e32671881d8cb022ca421e8fcf86f21a",
+      "saved_content_sha256": "ea6976cbe09be44f298cedbdcf16577c4aa63c9cd762a7fa0d10f467d8a5701e"
+    },
+    {
+      "id": "8-05",
+      "path": "content/articles/2026-11-18-life-council-tax-liability-discounts-draft.md",
+      "result": "revised",
+      "replacement_instances": 2,
+      "original_sha": "26f8593b74dde752c34fe117b4842c95f71517af",
+      "saved_content_sha256": "39084413bb78ff8db98140b0c803875a4b0aa9b3cd1e98afcd46f66e087bfa18"
+    },
+    {
+      "id": "8-06",
+      "path": "content/articles/2026-11-18-life-national-insurance-number-work-draft.md",
+      "result": "revised",
+      "replacement_instances": 3,
+      "original_sha": "dea0cf52c28fe66b9d2d548eed0fdc2f42fe9596",
+      "saved_content_sha256": "133d3be6ad2c5bd9b15bb16b328aa7ae2888b4717640c878d393d06059f89780"
+    },
+    {
+      "id": "8-07",
+      "path": "content/articles/2026-11-18-life-evisa-ukvi-share-code-draft.md",
+      "result": "revised",
+      "replacement_instances": 2,
+      "original_sha": "9aa32c16c5bf367bcb56b80ccd23a373b048febd",
+      "saved_content_sha256": "05b3b1d7d1fdee6017ded85bc0b4fba374db99f59b75e9f0bde37c1e6596af2a"
+    },
+    {
+      "id": "8-08",
+      "path": "content/articles/2026-11-18-life-japanese-driving-licence-uk-use-draft.md",
+      "result": "no_change_identified",
+      "replacement_instances": 0,
+      "original_sha": "4ab965dca868c3932ded9314d2042060b30cb23a",
+      "saved_content_sha256": "691894919e4e93672d93407253a3d0f07f8c8d73a6b73ff4441dcd4926197764"
+    },
+    {
+      "id": "8-09",
+      "path": "content/articles/2026-11-18-life-mobile-sim-esim-japanese-phone-draft.md",
+      "result": "no_change_identified",
+      "replacement_instances": 0,
+      "original_sha": "3668204c281b92ebe1b93f415329a8f70363001e",
+      "saved_content_sha256": "2dd8d6e60d4cb5ef8a30ec7cdedc7cb4e043c32c464a1ee108c39fd1f3134643"
+    },
+    {
+      "id": "8-10",
+      "path": "content/articles/2026-11-18-life-moving-packing-30-items-draft.md",
+      "result": "revised",
+      "replacement_instances": 1,
+      "original_sha": "effd9ca27a3f814d7c84797a8e73ad27246ebb33",
+      "saved_content_sha256": "ccd565c0f8984e7ee9273a5bdaf88d38e7d2db43fc1442206a53014af1a99427"
+    },
+    {
+      "id": "8-11",
+      "path": "content/articles/2026-11-18-life-monthly-budget-200000-yen-draft.md",
+      "result": "revised",
+      "replacement_instances": 1,
+      "original_sha": "f38d262b0abf37a934023ba93126907136994d3b",
+      "saved_content_sha256": "f4b120ff29939f3cc7155a562b58f05075a7d70c1a1206891b8d031e180f1ac0"
+    },
+    {
+      "id": "8-12",
+      "path": "content/articles/2026-11-18-life-supermarket-unit-price-comparison-draft.md",
+      "result": "revised",
+      "replacement_instances": 4,
+      "original_sha": "42494a3c700efcd40fd290a442b39d4a662fa35d",
+      "saved_content_sha256": "3bff74f3c446366dd3a585bac883f703f40d05388db43b5ca4e536e1894d178f"
+    },
+    {
+      "id": "8-13",
+      "path": "content/articles/2026-11-18-life-energy-bill-contract-winter-draft.md",
+      "result": "revised",
+      "replacement_instances": 4,
+      "original_sha": "3ef40ab938ff869ee1d02d2aaa599008388a6653",
+      "saved_content_sha256": "5188273471c289a2dca96effc3ba94f63a1239fb70d19bf6ee992a819b1b3be2"
+    },
+    {
+      "id": "8-14",
+      "path": "content/articles/2026-11-18-life-payslip-tax-ni-net-pay-draft.md",
+      "result": "revised",
+      "replacement_instances": 2,
+      "original_sha": "afa6852657b1032413c3880465c8f7a67150f750",
+      "saved_content_sha256": "aa23db5457272cd291f12eb3daea92fd89bd7488904e381133bddb5706550687"
+    },
+    {
+      "id": "8-15",
+      "path": "content/articles/2026-11-18-life-minimum-real-living-wage-draft.md",
+      "result": "revised",
+      "replacement_instances": 3,
+      "original_sha": "fcbf094520e38cb6f4c33622bd49143a82e0e227",
+      "saved_content_sha256": "c493c058ee0a615815995f7bf92cca5006e6b38518a71b7b4f9660cdecdf4b4b"
+    },
+    {
+      "id": "8-16",
+      "path": "content/articles/2026-11-18-life-japanese-income-uk-tax-basics-draft.md",
+      "result": "no_change_identified",
+      "replacement_instances": 0,
+      "original_sha": "18d9f216fe17072d74412a2c960ded86c9490586",
+      "saved_content_sha256": "79ed9cf6a488fd9ff5549fdb8bf02fd7fb44409db2da9de103409e2f0ec471a9"
+    },
+    {
+      "id": "8-17",
+      "path": "content/articles/2026-11-18-life-credit-history-new-resident-draft.md",
+      "result": "revised",
+      "replacement_instances": 2,
+      "original_sha": "2e0d0a8b3cbbdb053cf6ae98bcf4cf21bdecd76f",
+      "saved_content_sha256": "939d32e36f74ff5a2ac8bfced6a5af25b6af3db23710322cf20110e4e2b7b19a"
+    },
+    {
+      "id": "8-18",
+      "path": "content/articles/2026-11-18-life-money-transfer-uk-japan-draft.md",
+      "result": "no_change_identified",
+      "replacement_instances": 0,
+      "original_sha": "07596454bde76f5b924c61d1f976024248661f9d",
+      "saved_content_sha256": "e2d22e0944a9d720758b26f5f0a1bc31ca69bec5a430840ab5f464eb121864ae"
+    },
+    {
+      "id": "8-19",
+      "path": "content/articles/2026-11-18-life-state-pension-ni-japan-comparison-draft.md",
+      "result": "revised",
+      "replacement_instances": 2,
+      "original_sha": "b254cfaf98eb5dd2ab0ce2cdca5140fb69ba82d9",
+      "saved_content_sha256": "b4dfd313a274c7843e41e8b1f07555c8ecfeedc262bf9289ba3a1395904e2042"
+    },
+    {
+      "id": "8-20",
+      "path": "content/articles/2026-11-18-life-job-sites-indeed-linkedin-nhs-draft.md",
+      "result": "revised",
+      "replacement_instances": 1,
+      "original_sha": "abda1cab746fb55d3d403d84ed5ef0b148f0cf20",
+      "saved_content_sha256": "a21c9a9831fc3a8d881a25afbf546a9922520eee4bab1e15ea83e8676a5aebc7"
+    },
+    {
+      "id": "8-21",
+      "path": "content/articles/2026-11-18-life-nhs-japanese-healthcare-difference-draft.md",
+      "result": "revised",
+      "replacement_instances": 2,
+      "original_sha": "e7bf35e21d5bdc1128d93e13e671a5793067356e",
+      "saved_content_sha256": "e0a6a2ec65f6bc863f7514dd3b1f42c16a31b5c24ee1b7f6838108a1cd50415b"
+    },
+    {
+      "id": "8-22",
+      "path": "content/articles/2026-11-18-life-gp-registration-appointment-draft.md",
+      "result": "revised",
+      "replacement_instances": 1,
+      "original_sha": "c91262ed122af297bf0143a3a0730c27f6135f06",
+      "saved_content_sha256": "209525a66513ae45db9deb9445c6e2dd37a56b0548540c1fdd42cbb47a690ac5"
+    },
+    {
+      "id": "8-23",
+      "path": "content/articles/2026-11-18-life-cold-pharmacy-gp-111-draft.md",
+      "result": "no_change_identified",
+      "replacement_instances": 0,
+      "original_sha": "793b5f18a6f3f38a17fd9ed1ff905e5815aa5f3d",
+      "saved_content_sha256": "5951536638d7edb0398b387ba41e605b4c876e095e3f11baae666d01c2ccd761"
+    },
+    {
+      "id": "8-24",
+      "path": "content/articles/2026-11-18-life-emergency-999-112-111-draft.md",
+      "result": "revised",
+      "replacement_instances": 2,
+      "original_sha": "4110964a46593ed02b526d9ac7ce2e1a7e8721fb",
+      "saved_content_sha256": "ff18ecc3d4af2d3d3a0c43234d8aa9b21d0daf3e4c2d24b298884008187317fb"
+    },
+    {
+      "id": "8-25",
+      "path": "content/articles/2026-11-18-life-nhs-private-dental-appointments-draft.md",
+      "result": "no_change_identified",
+      "replacement_instances": 0,
+      "original_sha": "ddbe65b0f489768848937d5d94f7e513519f2892",
+      "saved_content_sha256": "f065b5396d24145ac46f65b12f6f7afcb930fefbfad52002931f39926d664898"
+    },
+    {
+      "id": "8-26",
+      "path": "content/articles/2026-11-18-life-pregnancy-midwife-nhs-costs-draft.md",
+      "result": "revised",
+      "replacement_instances": 3,
+      "original_sha": "41e41aee514404f5ff88f0c15f74f861d574a43b",
+      "saved_content_sha256": "add1e0496b2fee429037eb24dcd3f0ca0743b9586d759ef6f4489f3f5d21a08a"
+    },
+    {
+      "id": "8-27",
+      "path": "content/articles/2026-11-18-life-prescription-medicine-import-continuity-draft.md",
+      "result": "revised",
+      "replacement_instances": 1,
+      "original_sha": "cecbcee4b581a693507a549f78d34efd03656e90",
+      "saved_content_sha256": "4311d5c25921113c1be3b260bfbbff76f0ef7bad54dbf998d93ddbde1b8aa45c"
+    },
+    {
+      "id": "8-28",
+      "path": "content/articles/2026-11-18-life-tap-water-hard-soft-draft.md",
+      "result": "revised",
+      "replacement_instances": 5,
+      "original_sha": "af21b9e82a754b0d72df5f712dba61c8569fc066",
+      "saved_content_sha256": "d9fd7f5ab837c89eafb5a42ba24c8ab68f8e88d6acb18b1128afa2c5d42009bb"
+    },
+    {
+      "id": "8-29",
+      "path": "content/articles/2026-11-18-life-winter-health-daylight-home-draft.md",
+      "result": "revised",
+      "replacement_instances": 3,
+      "original_sha": "a19636fe38e3dcf26f2f7cc1f5d6a3106a935fd8",
+      "saved_content_sha256": "b7c26c4057c4d9e1f4b6217f05590d89b1a3b99135c5efccf27dff319efff43b"
+    },
+    {
+      "id": "8-30",
+      "path": "content/articles/2026-11-18-life-theft-fraud-police-card-stop-draft.md",
+      "result": "no_change_identified",
+      "replacement_instances": 0,
+      "original_sha": "b77417c7da552e9a2dd2fa31830f86f8c2f9baa8",
+      "saved_content_sha256": "26331bf2027570de67bc1e16af63e44a69a70dc6e64993e72476de4dbe83f760"
+    },
+    {
+      "id": "8-31",
+      "path": "content/articles/2026-11-18-life-sorry-meaning-polite-english-draft.md",
+      "result": "revised",
+      "replacement_instances": 3,
+      "original_sha": "48e1dfc291c4af4a63f71119ec6fd7b3c97f984a",
+      "saved_content_sha256": "0f4fa086c4eaeebeb8c9023b88428530ceca1709634b074d65a4aa634c9f471b"
+    },
+    {
+      "id": "8-32",
+      "path": "content/articles/2026-11-18-life-indirect-refusals-interesting-maybe-draft.md",
+      "result": "revised",
+      "replacement_instances": 5,
+      "original_sha": "a79eee7fe7e415bd7704bdfed0aab3989db3ccd1",
+      "saved_content_sha256": "8d3120b8ed302dd9d99583794ecac6968412a12043df9c1b5bf1fc696eeccc9d"
+    },
+    {
+      "id": "8-33",
+      "path": "content/articles/2026-11-18-life-pub-order-pay-tipping-draft.md",
+      "result": "revised",
+      "replacement_instances": 1,
+      "original_sha": "64d05d52c7e7c40a5abc50a29bb4586d2e7592b7",
+      "saved_content_sha256": "ca99ab3a4da642ad4ab12ab937cefd92ec08c4799f804612be4f859425e3d337"
+    },
+    {
+      "id": "8-34",
+      "path": "content/articles/2026-11-18-life-tipping-service-charge-draft.md",
+      "result": "no_change_identified",
+      "replacement_instances": 0,
+      "original_sha": "1639655ed7a5c05b1602f187107e8a2f2359d472",
+      "saved_content_sha256": "b949b29de6e03828d0f48be52aa825ac852d0f7f73c2e371e7ce0736495c7ed8"
+    },
+    {
+      "id": "8-35",
+      "path": "content/articles/2026-11-18-life-carpet-housing-cleaning-draft.md",
+      "result": "revised",
+      "replacement_instances": 6,
+      "original_sha": "9c95e772e321d0d547c47375441a9ac826c2faed",
+      "saved_content_sha256": "5ef6c922eb4b904f8ad116d1418750187fec933558c55fed1883d691456a7bd3"
+    },
+    {
+      "id": "8-36",
+      "path": "content/articles/2026-11-18-life-weather-small-talk-draft.md",
+      "result": "no_change_identified",
+      "replacement_instances": 0,
+      "original_sha": "3a05bf52d9d5ded1c097c3585c34b024ede0005f",
+      "saved_content_sha256": "5d36deebcf182080a0bddde5549e7d693c6fc42520b3b22515de87fae5ff02bd"
+    },
+    {
+      "id": "8-37",
+      "path": "content/articles/2026-11-18-life-christmas-shops-transport-healthcare-draft.md",
+      "result": "revised",
+      "replacement_instances": 3,
+      "original_sha": "4e699983b1449359d44cbea2549363632c78c68e",
+      "saved_content_sha256": "411b5f2c0ab397e6c35d9730de5de2aab29a7c37da8eb93472deec020dcb87b9"
+    },
+    {
+      "id": "8-38",
+      "path": "content/articles/2026-11-18-life-bank-holiday-work-school-draft.md",
+      "result": "revised",
+      "replacement_instances": 1,
+      "original_sha": "5c8216758831d58d8727be66fffec5497fea9699",
+      "saved_content_sha256": "5ac88dabc869559c48aa99e188927bab7125e0d1f43b6b32ec78a51906b544c8"
+    },
+    {
+      "id": "8-39",
+      "path": "content/articles/2026-11-18-life-laundry-indoor-drying-damp-draft.md",
+      "result": "revised",
+      "replacement_instances": 3,
+      "original_sha": "0a14674767ff9fc0a9253aee7a9ae50013d70f6d",
+      "saved_content_sha256": "46340ab39931a0e8738e208b6c8972b87ba0ed5135d735aaa8d3d12addb4ffcc"
+    },
+    {
+      "id": "8-40",
+      "path": "content/articles/2026-11-18-life-making-friends-community-hobbies-draft.md",
+      "result": "revised",
+      "replacement_instances": 2,
+      "original_sha": "e1bd719d092d04b2c445fcc51e33cc76adb61b60",
+      "saved_content_sha256": "10fe23454613975f1bff4283ab524ab1894a2c64587e175b1d184d5a79ce5505"
+    },
+    {
+      "id": "8-41",
+      "path": "content/articles/2026-11-18-life-children-state-school-admission-draft.md",
+      "result": "revised",
+      "replacement_instances": 1,
+      "original_sha": "d90218d25663d29d79569540e3e51a9009c06905",
+      "saved_content_sha256": "80f767e1e704f6790da9c7a13e7d6b4cc81d2564701b55349044344e091095e8"
+    },
+    {
+      "id": "8-42",
+      "path": "content/articles/2026-11-18-life-nursery-childminder-childcare-support-draft.md",
+      "result": "no_change_identified",
+      "replacement_instances": 0,
+      "original_sha": "a41da4cad8d856f5b26f9205b6b05b9e626b4ba2",
+      "saved_content_sha256": "24b0e7b46bb52de1f72f73f0ac8556d885e4a66024901e4702a0be92a2bc70c7"
+    },
+    {
+      "id": "8-43",
+      "path": "content/articles/2026-11-18-life-birth-registration-japanese-nationality-draft.md",
+      "result": "revised",
+      "replacement_instances": 2,
+      "original_sha": "a569c6632327cc64d9f82cae02ab0c3cdabc56c7",
+      "saved_content_sha256": "4f83f40d69230912407f01d4bdbd8e2604b070551bac7889a51d901bc59e36e2"
+    },
+    {
+      "id": "8-44",
+      "path": "content/articles/2026-11-18-life-dvla-japanese-licence-exchange-draft.md",
+      "result": "revised",
+      "replacement_instances": 1,
+      "original_sha": "9ff54ef186b7c8ef82c54e75562f86ae75445ef6",
+      "saved_content_sha256": "eba3958fb7afdb8caebe72009e345c9ba9965251b53f3c300f58bd55a9761c7e"
+    },
+    {
+      "id": "8-45",
+      "path": "content/articles/2026-11-18-life-london-contactless-oyster-fares-draft.md",
+      "result": "no_change_identified",
+      "replacement_instances": 0,
+      "original_sha": "fa2755c55e54e59012847d7f291e8b53f7a871ac",
+      "saved_content_sha256": "d3847aeaed4817325ed316dc97003d17a6552ad0460c7cd867d75d026ba3ecad"
+    },
+    {
+      "id": "8-46",
+      "path": "content/articles/2026-11-18-life-rail-advance-offpeak-railcard-draft.md",
+      "result": "revised",
+      "replacement_instances": 2,
+      "original_sha": "b578dec7830094f77820c6734dab35bff48294ad",
+      "saved_content_sha256": "8724991a65a51a9898dc50414e0c4f174e4a3f673b1758ea844b1ee8838ebd50"
+    },
+    {
+      "id": "8-47",
+      "path": "content/articles/2026-11-18-life-manchester-birmingham-leeds-compare-draft.md",
+      "result": "revised",
+      "replacement_instances": 4,
+      "original_sha": "325af38cd6cd37c133ce7a138ca5e7b2edb26d4c",
+      "saved_content_sha256": "26755017b36d0a54672b6a45dfb10e3debe815b247e2342582dfbc19bc012028"
+    },
+    {
+      "id": "8-48",
+      "path": "content/articles/2026-11-18-life-temporary-return-japan-evisa-draft.md",
+      "result": "no_change_identified",
+      "replacement_instances": 0,
+      "original_sha": "5db92d5a5bb0b6916ad4378d0807c34b512eca3b",
+      "saved_content_sha256": "a2bec796b7d3533ca61ede3c409392fca75f4bd827d4c4858c027c09320fff2f"
+    },
+    {
+      "id": "8-49",
+      "path": "content/articles/2026-11-18-life-japan-overseas-moving-register-pension-draft.md",
+      "result": "revised",
+      "replacement_instances": 2,
+      "original_sha": "40bc63398e66d171c0dcf68338ed1e7ef8ebb9a2",
+      "saved_content_sha256": "e6c93d6b4d8f5e76b55732423907092e738e3a8c5a3a942b30a6156897711f0c"
+    },
+    {
+      "id": "8-50",
+      "path": "content/articles/2026-11-18-life-settle-uk-or-return-japan-draft.md",
+      "result": "revised",
+      "replacement_instances": 2,
+      "original_sha": "f6b0278a9785bbb494bb383d17892a37094b8a3f",
+      "saved_content_sha256": "5c4189e7431550c66abf4a8177009a5fa10d08dc8e5b3fa7ade0e6f34042108b"
+    }
+  ],
+  "changes": [
+    {
+      "id": "1-01",
+      "path": "content/articles/2026-11-17-spouse-application-guide-draft.md",
+      "edits": [
+        {
+          "before": "IAA登録のアドバイザー",
+          "after": "IAA登録アドバイザー",
+          "count": 1
+        },
+        {
+          "before": "移民分野を扱うソリシター",
+          "after": "移民法を扱う弁護士（ソリシター）",
+          "count": 1
+        },
+        {
+          "before": "Personal statementの作業",
+          "after": "事情説明文（Personal statement）の作成・編集",
+          "count": 1
+        },
+        {
+          "before": "IAA登録のアドバイザー",
+          "after": "IAA登録アドバイザー",
+          "count": 1
+        },
+        {
+          "before": "移民分野を扱うソリシター",
+          "after": "移民法を扱う弁護士（ソリシター）",
+          "count": 1
+        },
+        {
+          "before": "ビザ種類ごとの一回払い",
+          "after": "ビザの種類ごとの一回払い",
+          "count": 1
+        },
+        {
+          "before": "この記事は2026年11月17日時点の公開情報に基づく一般的な説明です。個別の申請資格を判定するものではありません。申請直前には必ず公式情報をご確認ください。",
+          "after": "この記事は、公開情報に基づく一般的な制度と書類準備の説明です。",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1-02",
+      "path": "content/articles/2026-11-17-spouse-japanese-documents-draft.md",
+      "edits": [
+        {
+          "before": "Stratovisa KnowledgeのFamily Visa Requirementsでは、現在のパスポートや英国側パートナーの在留資格を示す資料などを基本項目として整理しています。",
+          "after": "まず、現在のパスポートや英国側パートナーの在留資格を示す資料など、申請の基本となる情報を整理します。",
+          "count": 1
+        },
+        {
+          "before": "Personal statementの作業",
+          "after": "事情説明文（Personal statement）の作成・編集",
+          "count": 1
+        },
+        {
+          "before": "GOV.UKの承認された試験",
+          "after": "GOV.UKで案内されている承認済みの試験",
+          "count": 1
+        },
+        {
+          "before": "読者向けの最終確認日行",
+          "after": "削除",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1-03",
+      "path": "content/articles/2026-11-17-spouse-married-in-japan-draft.md",
+      "edits": [
+        {
+          "before": "Stratovisa KnowledgeのFamily Visa Requirementsでは、パスポートやeVisaのshare codeなどを例示しています。",
+          "after": "パスポートや、該当する場合はeVisaの共有コード（share code）など、資格の確認に使う情報を整理します。",
+          "count": 1
+        },
+        {
+          "before": "Personal statementの作業",
+          "after": "事情説明文（Personal statement）の作成・編集",
+          "count": 1
+        },
+        {
+          "before": "読者向けの最終確認日行",
+          "after": "削除",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1-04",
+      "path": "content/articles/2026-11-17-spouse-translation-draft.md",
+      "edits": [
+        {
+          "before": "原語の文書",
+          "after": "原文の書類",
+          "count": 1
+        },
+        {
+          "before": "読者向けの最終確認日行",
+          "after": "削除",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1-05",
+      "path": "content/articles/2026-11-17-spouse-fees-ihs-draft.md",
+      "edits": [
+        {
+          "before": "申請料の人数別扱い",
+          "after": "人数に応じた申請料の扱い",
+          "count": 1
+        },
+        {
+          "before": "実際の円額",
+          "after": "実際の円換算額",
+          "count": 1
+        },
+        {
+          "before": "Personal statementの作業",
+          "after": "事情説明文（Personal statement）の作成・編集",
+          "count": 1
+        },
+        {
+          "before": "ビザ種類ごとの一回払い",
+          "after": "ビザの種類ごとの一回払い",
+          "count": 1
+        },
+        {
+          "before": "読者向けの最終確認日行",
+          "after": "削除",
+          "count": 1
+        },
+        {
+          "before": "根拠リンク直後の確認日表記",
+          "after": "削除（根拠リンクは保持）",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1-06",
+      "path": "content/articles/2026-11-17-spouse-income-draft.md",
+      "edits": [
+        {
+          "before": "読者向けの最終確認日行",
+          "after": "削除",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1-07",
+      "path": "content/articles/2026-11-17-spouse-japanese-savings-evidence-draft.md",
+      "edits": [
+        {
+          "before": "口座ごとの行を作り、名義と資金の履歴を並べるための",
+          "after": "口座ごとに行を分け、名義と資金の履歴を記録するための",
+          "count": 1
+        },
+        {
+          "before": "編集上の管理表",
+          "after": "手元の資料を整理するための管理表",
+          "count": 1
+        },
+        {
+          "before": "原本と訳文を対応 |",
+          "after": "原本と訳文を照合 |",
+          "count": 1
+        },
+        {
+          "before": "時点の残高と、期間を通じた保有",
+          "after": "特定の時点の残高と、一定期間を通じた資金の保有",
+          "count": 1
+        },
+        {
+          "before": "Personal statementの作業",
+          "after": "事情説明文（Personal statement）の作成・編集",
+          "count": 1
+        },
+        {
+          "before": "ビザ種類ごとの一回払い",
+          "after": "ビザの種類ごとの一回払い",
+          "count": 1
+        },
+        {
+          "before": "ひとまとまりで追える",
+          "after": "ひとまとまりで確認できる",
+          "count": 1
+        },
+        {
+          "before": "読者向けの最終確認日行",
+          "after": "削除",
+          "count": 1
+        },
+        {
+          "before": "根拠リンク直後の確認日表記",
+          "after": "削除（根拠リンクは保持）",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1-08",
+      "path": "content/articles/2026-11-17-spouse-english-requirement-draft.md",
+      "edits": [
+        {
+          "before": "初回を試験で証明する場合",
+          "after": "初回申請で英語力を試験によって証明する場合",
+          "count": 1
+        },
+        {
+          "before": "英語で教えられた学位",
+          "after": "英語で授業を受けて取得した学位",
+          "count": 1
+        },
+        {
+          "before": "同じ意味に扱わない",
+          "after": "同じ意味で扱わない",
+          "count": 1
+        },
+        {
+          "before": "Personal statementの作業",
+          "after": "事情説明文（Personal statement）の作成・編集",
+          "count": 1
+        },
+        {
+          "before": "ビザ種類ごとの一回払い",
+          "after": "ビザの種類ごとの一回払い",
+          "count": 1
+        },
+        {
+          "before": "読者向けの最終確認日行",
+          "after": "削除",
+          "count": 1
+        },
+        {
+          "before": "根拠リンク直後の確認日表記",
+          "after": "削除（根拠リンクは保持）",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1-09",
+      "path": "content/articles/2026-11-17-spouse-long-distance-evidence-draft.md",
+      "edits": [
+        {
+          "before": "日本人カップルで確認したい表記の違い",
+          "after": "日本人の申請者とパートナーが確認したい表記の違い",
+          "count": 1
+        },
+        {
+          "before": "Personal statementの作業",
+          "after": "事情説明文（Personal statement）の作成・編集",
+          "count": 1
+        },
+        {
+          "before": "ビザ種類ごとの一回払い",
+          "after": "ビザの種類ごとの一回払い",
+          "count": 1
+        },
+        {
+          "before": "読者向けの最終確認日行",
+          "after": "削除",
+          "count": 1
+        },
+        {
+          "before": "根拠リンク直後の確認日表記",
+          "after": "削除（根拠リンクは保持）",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1-10",
+      "path": "content/articles/2026-11-17-spouse-line-photos-travel-draft.md",
+      "edits": [
+        {
+          "before": "編集上の分類",
+          "after": "資料整理のための分類",
+          "count": 1
+        },
+        {
+          "before": "ビザ種類ごとの一回払い",
+          "after": "ビザの種類ごとの一回払い",
+          "count": 1
+        },
+        {
+          "before": "読者向けの最終確認日行",
+          "after": "削除",
+          "count": 1
+        },
+        {
+          "before": "根拠リンク直後の確認日表記",
+          "after": "削除（根拠リンクは保持）",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1-11",
+      "path": "content/articles/2026-11-17-spouse-japan-income-draft.md",
+      "edits": [
+        {
+          "before": "給与明細と期間を対応 |",
+          "after": "給与明細の対象期間と照合 |",
+          "count": 1
+        },
+        {
+          "before": "Personal statementの作業",
+          "after": "事情説明文（Personal statement）の作成・編集",
+          "count": 1
+        },
+        {
+          "before": "ビザ種類ごとの一回払い",
+          "after": "ビザの種類ごとの一回払い",
+          "count": 1
+        },
+        {
+          "before": "読者向けの最終確認日行",
+          "after": "削除",
+          "count": 1
+        },
+        {
+          "before": "根拠リンク直後の確認日表記",
+          "after": "削除（根拠リンクは保持）",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1-12",
+      "path": "content/articles/2026-11-17-spouse-accommodation-draft.md",
+      "edits": [
+        {
+          "before": "Personal statementの作業",
+          "after": "事情説明文（Personal statement）の作成・編集",
+          "count": 1
+        },
+        {
+          "before": "ビザ種類ごとの一回払い",
+          "after": "ビザの種類ごとの一回払い",
+          "count": 1
+        },
+        {
+          "before": "読者向けの最終確認日行",
+          "after": "削除",
+          "count": 1
+        },
+        {
+          "before": "根拠リンク直後の確認日表記",
+          "after": "削除（根拠リンクは保持）",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1-13",
+      "path": "content/articles/2026-11-17-spouse-processing-timeline-draft.md",
+      "edits": [
+        {
+          "before": "原本と訳文を対応 |",
+          "after": "原本と訳文を照合 |",
+          "count": 1
+        },
+        {
+          "before": "Personal statementの作業",
+          "after": "事情説明文（Personal statement）の作成・編集",
+          "count": 1
+        },
+        {
+          "before": "ビザ種類ごとの一回払い",
+          "after": "ビザの種類ごとの一回払い",
+          "count": 1
+        },
+        {
+          "before": "読者向けの最終確認日行",
+          "after": "削除",
+          "count": 1
+        },
+        {
+          "before": "根拠リンク直後の確認日表記",
+          "after": "削除（根拠リンクは保持）",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1-14",
+      "path": "content/articles/2026-11-17-spouse-travel-pending-draft.md",
+      "edits": [
+        {
+          "before": "申請への連絡",
+          "after": "審査中の申請に関する連絡",
+          "count": 1
+        },
+        {
+          "before": "訪問者ルートの条件に沿うことが関係します",
+          "after": "訪問者ルートの条件を満たす必要があります",
+          "count": 1
+        },
+        {
+          "before": "虚偽の説明や入国を通過するための言い換えは案内しません。",
+          "after": "入国審査では、実際の訪問目的や申請状況を正確に説明することが大切です。",
+          "count": 1
+        },
+        {
+          "before": "Personal statementの作業",
+          "after": "事情説明文（Personal statement）の作成・編集",
+          "count": 1
+        },
+        {
+          "before": "ビザ種類ごとの一回払い",
+          "after": "ビザの種類ごとの一回払い",
+          "count": 1
+        },
+        {
+          "before": "読者向けの最終確認日行",
+          "after": "削除",
+          "count": 1
+        },
+        {
+          "before": "根拠リンク直後の確認日表記",
+          "after": "削除（根拠リンクは保持）",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1-15",
+      "path": "content/articles/2026-11-17-spouse-refusal-documents-draft.md",
+      "edits": [
+        {
+          "before": "「主な理由」は公式要件の論点として扱い、不許可の頻度やランキングを推測して示しません。",
+          "after": "ここでは、不許可の頻度や順位ではなく、公式要件に沿って見直すポイントを説明します。",
+          "count": 1
+        },
+        {
+          "before": "原本と訳文を対応 |",
+          "after": "原本と訳文を照合 |",
+          "count": 1
+        },
+        {
+          "before": "Personal statementの作業",
+          "after": "事情説明文（Personal statement）の作成・編集",
+          "count": 1
+        },
+        {
+          "before": "ビザ種類ごとの一回払い",
+          "after": "ビザの種類ごとの一回払い",
+          "count": 1
+        },
+        {
+          "before": "読者向けの最終確認日行",
+          "after": "削除",
+          "count": 1
+        },
+        {
+          "before": "根拠リンク直後の確認日表記",
+          "after": "削除（根拠リンクは保持）",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1-16",
+      "path": "content/articles/2026-11-17-spouse-form-check-draft.md",
+      "edits": [
+        {
+          "before": "Personal statementの作業",
+          "after": "事情説明文（Personal statement）の作成・編集",
+          "count": 1
+        },
+        {
+          "before": "ビザ種類ごとの一回払い",
+          "after": "ビザの種類ごとの一回払い",
+          "count": 1
+        },
+        {
+          "before": "読者向けの最終確認日行",
+          "after": "削除",
+          "count": 1
+        },
+        {
+          "before": "根拠リンク直後の確認日表記",
+          "after": "削除（根拠リンクは保持）",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1-17",
+      "path": "content/articles/2026-11-17-spouse-working-after-grant-draft.md",
+      "edits": [
+        {
+          "before": "Share Codeはサービスごとに用途が関係するため",
+          "after": "Share Codeは確認する資格によって用途が異なるため",
+          "count": 1
+        },
+        {
+          "before": "パスワードそのものを雇用主や第三者に送る方法ではありません。",
+          "after": "パスワードそのものを雇用主や第三者に送る必要はありません。",
+          "count": 1
+        },
+        {
+          "before": "Personal statementの作業",
+          "after": "事情説明文（Personal statement）の作成・編集",
+          "count": 1
+        },
+        {
+          "before": "ビザ種類ごとの一回払い",
+          "after": "ビザの種類ごとの一回払い",
+          "count": 1
+        },
+        {
+          "before": "読者向けの最終確認日行",
+          "after": "削除",
+          "count": 1
+        },
+        {
+          "before": "根拠リンク直後の確認日表記",
+          "after": "削除（根拠リンクは保持）",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1-18",
+      "path": "content/articles/2026-11-17-spouse-renewal-draft.md",
+      "edits": [
+        {
+          "before": "日本への帰国予定は、国内申請の取下げ扱いと分けずに確認する論点です。",
+          "after": "日本への一時帰国を予定している場合は、出国によって国内申請が取り下げ扱いにならないかを確認する必要があります。",
+          "count": 1
+        },
+        {
+          "before": "Personal statementの作業",
+          "after": "事情説明文（Personal statement）の作成・編集",
+          "count": 1
+        },
+        {
+          "before": "ビザ種類ごとの一回払い",
+          "after": "ビザの種類ごとの一回払い",
+          "count": 1
+        },
+        {
+          "before": "読者向けの最終確認日行",
+          "after": "削除",
+          "count": 1
+        },
+        {
+          "before": "根拠リンク直後の確認日表記",
+          "after": "削除（根拠リンクは保持）",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1-19",
+      "path": "content/articles/2026-11-17-spouse-ilr-roadmap-draft.md",
+      "edits": [
+        {
+          "before": "この記事では個人の最短申請日や算入期間を判定しません。",
+          "after": "最も早く申請できる日や算入できる期間は、それぞれの許可履歴と公式条件に照らして確認する必要があります。",
+          "count": 1
+        },
+        {
+          "before": "単純な渡英年数",
+          "after": "単純な英国滞在年数",
+          "count": 1
+        },
+        {
+          "before": "Personal statementの作業",
+          "after": "事情説明文（Personal statement）の作成・編集",
+          "count": 1
+        },
+        {
+          "before": "ビザ種類ごとの一回払い",
+          "after": "ビザの種類ごとの一回払い",
+          "count": 1
+        },
+        {
+          "before": "読者向けの最終確認日行",
+          "after": "削除",
+          "count": 1
+        },
+        {
+          "before": "根拠リンク直後の確認日表記",
+          "after": "削除（根拠リンクは保持）",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1-20",
+      "path": "content/articles/2026-11-17-spouse-diy-preparation-draft.md",
+      "edits": [
+        {
+          "before": "この記事ではアプリの操作を実機で検証した体験談を作らず、提供資料で確認できる機能と本人側の作業を分けます。",
+          "after": "ここでは、Stratovisaで案内されている機能と、申請者本人が進める作業を分けて説明します。",
+          "count": 1
+        },
+        {
+          "before": "アップロードについて主張できるチェックは、提出ポータルの形式・サイズに関するものです。",
+          "after": "アップロード時には、提出先ポータルのファイル形式・サイズに関する確認機能があります。",
+          "count": 1
+        },
+        {
+          "before": "「申請内容全体が正しい」「申請資格を満たす」と判断する意味にはしません。",
+          "after": "これらの確認は、申請内容全体の正しさや申請資格を判定するものではありません。",
+          "count": 1
+        },
+        {
+          "before": "提供資料で確認できる範囲では、Stratovisaは",
+          "after": "Stratovisaは",
+          "count": 1
+        },
+        {
+          "before": "Personal statementの作業",
+          "after": "事情説明文（Personal statement）の作成・編集",
+          "count": 1
+        },
+        {
+          "before": "提供資料で確認できる範囲",
+          "after": "案内されている機能",
+          "count": 1
+        },
+        {
+          "before": "ビザ種類ごとの一回払い",
+          "after": "ビザの種類ごとの一回払い",
+          "count": 1
+        },
+        {
+          "before": "完成したパッケージを受け取る機能を、代理提出の機能として説明しません。",
+          "after": "完成した書類パッケージを受け取っても、UKVIへの提出が代行されるわけではありません。",
+          "count": 1
+        },
+        {
+          "before": "Personal statementの作業",
+          "after": "事情説明文（Personal statement）の作成・編集",
+          "count": 1
+        },
+        {
+          "before": "承認率や承認保証は案内しません。",
+          "after": "有料機能の利用によってビザの承認が保証されるわけではありません。",
+          "count": 1
+        },
+        {
+          "before": "ビザ種類ごとの一回払い",
+          "after": "ビザの種類ごとの一回払い",
+          "count": 1
+        },
+        {
+          "before": "読者向けの最終確認日行",
+          "after": "削除",
+          "count": 1
+        },
+        {
+          "before": "根拠リンク直後の確認日表記",
+          "after": "削除（根拠リンクは保持）",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "2-01",
+      "path": "content/articles/2026-11-17-fiance-application-guide-draft.md",
+      "edits": [
+        {
+          "before": "原本と訳文を対応 |",
+          "after": "原本と訳文を照合 |",
+          "count": 1
+        },
+        {
+          "before": "フォルダー",
+          "after": "フォルダ",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "2-02",
+      "path": "content/articles/2026-11-17-fiance-required-documents-draft.md",
+      "edits": [
+        {
+          "before": "日付と国を対応 |",
+          "after": "日付と国を照合 |",
+          "count": 1
+        },
+        {
+          "before": "原本と全文訳を対応 |",
+          "after": "原本と全文訳を照合 |",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "2-03",
+      "path": "content/articles/2026-11-17-fiance-marriage-visitor-comparison-draft.md",
+      "edits": [
+        {
+          "before": "全員必須",
+          "after": "全員に必須",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "2-04",
+      "path": "content/articles/2026-11-17-fiance-fees-and-spouse-switch-draft.md",
+      "edits": [
+        {
+          "before": "無料付属手続き",
+          "after": "無料で付いてくる手続き",
+          "count": 1
+        },
+        {
+          "before": "支払日と申請番号を対応 |",
+          "after": "支払日と申請番号を記録 |",
+          "count": 1
+        },
+        {
+          "before": "フォルダー",
+          "after": "フォルダ",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "2-05",
+      "path": "content/articles/2026-11-17-fiance-six-month-timeline-draft.md",
+      "edits": [
+        {
+          "before": "原本と訳文を対応 |",
+          "after": "原本と訳文を照合 |",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "2-07",
+      "path": "content/articles/2026-11-18-fiance-certificate-no-impediment-draft.md",
+      "edits": [
+        {
+          "before": "英国婚約者ビザを申請する全員に、日本の「独身証明書」を同じ形で提出するとは一律に言えません。",
+          "after": "英国婚約者ビザの申請者全員に、日本の「独身証明書」が同じ形式で求められるわけではありません。",
+          "count": 1
+        },
+        {
+          "before": "英国での結婚手続きの予約とは、公館の申請・受領の予約も別です。",
+          "after": "英国での結婚手続きの予約と、公館で証明書を申請・受領するための予約は別です。",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "2-08",
+      "path": "content/articles/2026-11-18-fiance-intention-to-marry-evidence-draft.md",
+      "edits": [
+        {
+          "before": "出会い・面会・現在を対応 |",
+          "after": "出会いから面会、現在までの経緯を確認 |",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "2-10",
+      "path": "content/articles/2026-11-18-fiance-financial-requirement-draft.md",
+      "edits": [
+        {
+          "before": "という一律の一覧にはしません。",
+          "after": "と一律に判断できるわけではありません。",
+          "count": 1
+        },
+        {
+          "before": "結婚後にだけ証明するという理解にはしません。",
+          "after": "結婚後にだけ証明すればよい、という意味ではありません。",
+          "count": 1
+        },
+        {
+          "before": "フォルダー",
+          "after": "フォルダ",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "2-11",
+      "path": "content/articles/2026-11-18-fiance-english-language-evidence-draft.md",
+      "edits": [
+        {
+          "before": "英語により教育された学位",
+          "after": "英語で授業を受けて取得した学位",
+          "count": 1
+        },
+        {
+          "before": "成功した申請",
+          "after": "許可を受けた申請",
+          "count": 1
+        },
+        {
+          "before": "フォルダー",
+          "after": "フォルダ",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "2-12",
+      "path": "content/articles/2026-11-18-fiance-previous-divorce-evidence-draft.md",
+      "edits": [
+        {
+          "before": "原本と訳文を対応 |",
+          "after": "原本と訳文を照合 |",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "2-13",
+      "path": "content/articles/2026-11-18-fiance-processing-and-wedding-date-draft.md",
+      "edits": [
+        {
+          "before": "英国国外から",
+          "after": "英国外から",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "2-14",
+      "path": "content/articles/2026-11-18-fiance-working-remote-job-search-draft.md",
+      "edits": [
+        {
+          "before": "契約と許可を対応 |",
+          "after": "契約と許可の条件を照合 |",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "2-16",
+      "path": "content/articles/2026-11-18-fiance-switch-to-spouse-process-draft.md",
+      "edits": [
+        {
+          "before": "フォルダー",
+          "after": "フォルダ",
+          "count": 1
+        },
+        {
+          "before": "フォルダー",
+          "after": "フォルダ",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "2-19",
+      "path": "content/articles/2026-11-18-fiance-refusal-and-consistency-draft.md",
+      "edits": [
+        {
+          "before": "写真を増やしても、承認された英語証拠や指定の金融資料がない問題の代わりにはなりません。",
+          "after": "写真を増やしても、承認された英語試験の結果や指定の金融資料の不足を補うことはできません。",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "2-20",
+      "path": "content/articles/2026-11-18-fiance-stratovisa-preparation-checklist-draft.md",
+      "edits": [
+        {
+          "before": "申請資格の判断や承認保証を期待するサービスとは区別します。",
+          "after": "書類整理と、専門家による申請資格の判断は区別して考えましょう。ツールの利用で承認が保証されるわけではありません。",
+          "count": 1
+        },
+        {
+          "before": "「受領済み」を「要件充足」と同じ意味にはしません。",
+          "after": "資料を受領済みであっても、申請要件を満たすことまで確認できたとは限りません。",
+          "count": 1
+        },
+        {
+          "before": "フォルダー",
+          "after": "フォルダ",
+          "count": 1
+        },
+        {
+          "before": "すべての不足を自動で検出したり、申請条件の充足を認定したりするという説明はしません。",
+          "after": "すべての不足を自動で検出できるわけではなく、申請条件を満たすと認定するものでもありません。",
+          "count": 1
+        },
+        {
+          "before": "専門家による個別判断の代わりにはしません。",
+          "after": "専門家による個別の判断の代わりにすることはできません。",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "3-01",
+      "path": "content/articles/2026-11-18-unmarried-application-guide-draft.md",
+      "edits": [
+        {
+          "before": "人が確認するファミリービザです",
+          "after": "人を対象とするファミリービザの申請ルートです",
+          "count": 1
+        },
+        {
+          "before": "対象は、日本人が、英国籍・定住等の対象となる地位のパートナーと英国で暮らす計画です。",
+          "after": "この記事は、英国籍や定住資格など、所定の資格を持つパートナーと英国で暮らす予定の日本人を対象としています。",
+          "count": 1
+        },
+        {
+          "before": "原本と訳文を対応 |",
+          "after": "原本と訳文を照合 |",
+          "count": 1
+        },
+        {
+          "before": "2年と現在を対応 |",
+          "after": "2年間の経緯と現在の状況を確認 |",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "3-02",
+      "path": "content/articles/2026-11-18-unmarried-two-years-without-cohabitation-draft.md",
+      "edits": [
+        {
+          "before": "全員必須",
+          "after": "全員に必須",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "3-04",
+      "path": "content/articles/2026-11-18-unmarried-fiance-comparison-draft.md",
+      "edits": [
+        {
+          "before": "2年と現在を対応 |",
+          "after": "2年間の経緯と現在の状況を確認 |",
+          "count": 1
+        },
+        {
+          "before": "全員必須",
+          "after": "全員に必須",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "3-05",
+      "path": "content/articles/2026-11-18-unmarried-spouse-comparison-draft.md",
+      "edits": [
+        {
+          "before": "フォルダー",
+          "after": "フォルダ",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "3-06",
+      "path": "content/articles/2026-11-18-unmarried-japan-uk-long-distance-draft.md",
+      "edits": [
+        {
+          "before": "未婚パートナーの要件を確認する余地があります",
+          "after": "未婚パートナービザの対象となる可能性があります",
+          "count": 1
+        },
+        {
+          "before": "一律必須",
+          "after": "一律で必須",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "3-07",
+      "path": "content/articles/2026-11-18-unmarried-required-documents-draft.md",
+      "edits": [
+        {
+          "before": "全体の期間を対応 |",
+          "after": "関係が続いている期間を確認 |",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "3-08",
+      "path": "content/articles/2026-11-18-unmarried-line-flights-remittances-draft.md",
+      "edits": [
+        {
+          "before": "どの記録も無条件に決定的な証拠になるという説明はしません。",
+          "after": "どの記録も、それだけで必ず決定的な証拠になるわけではありません。",
+          "count": 1
+        },
+        {
+          "before": "このページで枚数の保証基準は示しません。",
+          "after": "承認が保証される枚数の基準はありません。",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "3-10",
+      "path": "content/articles/2026-11-18-unmarried-without-joint-bank-account-draft.md",
+      "edits": [
+        {
+          "before": "一律必須",
+          "after": "一律で必須",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "3-12",
+      "path": "content/articles/2026-11-18-unmarried-relationship-photos-number-draft.md",
+      "edits": [
+        {
+          "before": "上の資料を対応 |",
+          "after": "上記の資料をひも付ける |",
+          "count": 1
+        },
+        {
+          "before": "一律必須",
+          "after": "一律で必須",
+          "count": 1
+        },
+        {
+          "before": "本人で照合",
+          "after": "本人が照合",
+          "count": 1
+        },
+        {
+          "before": "特定の写真を全員に一律必須とする一覧にはしません。",
+          "after": "特定の種類の写真が、全員に一律で必須というわけではありません。",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "3-13",
+      "path": "content/articles/2026-11-18-unmarried-japan-cohabitation-move-to-uk-draft.md",
+      "edits": [
+        {
+          "before": "一律必須",
+          "after": "一律で必須",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "3-14",
+      "path": "content/articles/2026-11-18-unmarried-reasons-cannot-live-together-draft.md",
+      "edits": [
+        {
+          "before": "一般的な理由の名前だけでなく",
+          "after": "「仕事」「学業」といった理由だけでなく",
+          "count": 1
+        },
+        {
+          "before": "一律必須",
+          "after": "一律で必須",
+          "count": 1
+        },
+        {
+          "before": "記録と説明を対応 |",
+          "after": "記録と説明を照合 |",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "3-16",
+      "path": "content/articles/2026-11-18-unmarried-english-and-application-costs-draft.md",
+      "edits": [
+        {
+          "before": "IHSは許可期間に応じるため",
+          "after": "IHSの額は許可期間によって異なるため",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "3-19",
+      "path": "content/articles/2026-11-18-unmarried-settlement-roadmap-draft.md",
+      "edits": [
+        {
+          "before": "5年経ったと思った日と、申請できる時期を自己流で同じにしないようにします。",
+          "after": "自分の計算で5年が経過する日と、実際に申請できる時期が一致するとは限りません。",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "3-20",
+      "path": "content/articles/2026-11-18-unmarried-stratovisa-document-management-draft.md",
+      "edits": [
+        {
+          "before": "2年と現在を対応 |",
+          "after": "2年間の経緯と現在の状況を確認 |",
+          "count": 1
+        },
+        {
+          "before": "説明の対応を本人で確認",
+          "after": "説明の対応を本人が確認",
+          "count": 1
+        },
+        {
+          "before": "全員必須",
+          "after": "全員に必須",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "4-01",
+      "path": "content/articles/2026-11-18-skilled-application-guide-draft.md",
+      "edits": [
+        {
+          "before": "読み・書き・話す・理解する力",
+          "after": "読む・書く・話す・聞く力",
+          "count": 1
+        },
+        {
+          "before": "会社が申請するので本人は何も準備しませんか？",
+          "after": "会社が手続きする場合、本人の準備は不要ですか？",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "4-02",
+      "path": "content/articles/2026-11-18-skilled-required-documents-draft.md",
+      "edits": [
+        {
+          "before": "事情に応じるため、全員に一律必須とする一覧にはしません。",
+          "after": "必要性が事情によって異なり、全員に一律で必須とは限りません。",
+          "count": 1
+        },
+        {
+          "before": "一律必須",
+          "after": "一律で必須",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "4-03",
+      "path": "content/articles/2026-11-18-skilled-eligible-occupations-draft.md",
+      "edits": [
+        {
+          "before": "古い対象という事実だけでは判断できません。",
+          "after": "以前は対象だったという事実だけでは判断できません。",
+          "count": 1
+        },
+        {
+          "before": "時点、給与",
+          "after": "申請時点、給与",
+          "count": 1
+        },
+        {
+          "before": "全員必須",
+          "after": "全員に必須",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "4-05",
+      "path": "content/articles/2026-11-18-skilled-salary-going-rate-exceptions-draft.md",
+      "edits": [
+        {
+          "before": "生活感や手取り",
+          "after": "生活費や手取り額",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "4-06",
+      "path": "content/articles/2026-11-18-skilled-degree-experience-professional-registration-draft.md",
+      "edits": [
+        {
+          "before": "英語で教育された学位",
+          "after": "英語で授業を受けて取得した学位",
+          "count": 1
+        },
+        {
+          "before": "フォルダー",
+          "after": "フォルダ",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "4-07",
+      "path": "content/articles/2026-11-18-skilled-english-language-evidence-draft.md",
+      "edits": [
+        {
+          "before": "成功したビザ申請",
+          "after": "許可を受けたビザ申請",
+          "count": 1
+        },
+        {
+          "before": "英語により教育された学位",
+          "after": "英語で授業を受けて取得した学位",
+          "count": 1
+        },
+        {
+          "before": "英語で教育されたこと",
+          "after": "英語で授業を受けたこと",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "4-09",
+      "path": "content/articles/2026-11-18-skilled-application-fees-ihs-budget-draft.md",
+      "edits": [
+        {
+          "before": "3年の上の例に",
+          "after": "上記の3年間の例に",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "4-11",
+      "path": "content/articles/2026-11-18-skilled-cv-cover-letter-japanese-career-draft.md",
+      "edits": [
+        {
+          "before": "採用資料の添削や就職紹介まで対応すると断定しません。",
+          "after": "採用資料の添削や就職紹介とは、サービスの役割が異なります。",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "4-14",
+      "path": "content/articles/2026-11-18-skilled-change-job-or-employer-draft.md",
+      "edits": [
+        {
+          "before": "という案内があります",
+          "after": "と案内されています",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "4-15",
+      "path": "content/articles/2026-11-18-skilled-job-loss-permission-and-next-steps-draft.md",
+      "edits": [
+        {
+          "before": "一律に即日とも60日保証とも説明しません。",
+          "after": "一律に即日失効するとも、必ず60日間の猶予があるとも言えません。",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "4-16",
+      "path": "content/articles/2026-11-18-skilled-additional-work-freelance-draft.md",
+      "edits": [
+        {
+          "before": "という案内があります",
+          "after": "と案内されています",
+          "count": 1
+        },
+        {
+          "before": "という案内があります",
+          "after": "と案内されています",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "4-17",
+      "path": "content/articles/2026-11-18-skilled-dependant-family-eligibility-and-costs-draft.md",
+      "edits": [
+        {
+          "before": "後から来る家族に新たな本人と同じ長さの許可が必ず付くとは限りません。",
+          "after": "後から来る家族に、本人が初めに得た許可と同じ長さの滞在期間が新たに認められるとは限りません。",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "4-18",
+      "path": "content/articles/2026-11-18-skilled-settlement-five-year-roadmap-draft.md",
+      "edits": [
+        {
+          "before": "雇用主が、永住後もその仕事に必要とされ、必要な給与条件を満たすことを確認する文書が求められます。",
+          "after": "雇用主が、申請者を永住後もその仕事で必要としており、必要な給与条件を満たすと確認する文書が求められます。",
+          "count": 1
+        },
+        {
+          "before": "雇用継続の証明まで完了とはしません。",
+          "after": "雇用継続の証明まで完了するわけではありません。",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "4-19",
+      "path": "content/articles/2026-11-18-skilled-refusal-risk-document-consistency-draft.md",
+      "edits": [
+        {
+          "before": "全員へ一律に必須",
+          "after": "全員に一律で必須",
+          "count": 1
+        },
+        {
+          "before": "すべての不足を必ず照会してもらえるという保証はしません。",
+          "after": "不足があっても、必ず追加の照会を受けられるとは限りません。",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "4-20",
+      "path": "content/articles/2026-11-18-skilled-stratovisa-application-preparation-draft.md",
+      "edits": [
+        {
+          "before": "固定の価格を推測して書かず、割引前後の実際の請求を支払い前に確認します。",
+          "after": "料金は推測で判断せず、支払い前に利用画面で割引前後の金額を確認します。",
+          "count": 1
+        },
+        {
+          "before": "personal statementの作業",
+          "after": "事情説明文（Personal statement）の作成・編集",
+          "count": 1
+        },
+        {
+          "before": "ビザ種類ごとの一回払い",
+          "after": "ビザの種類ごとの一回払い",
+          "count": 1
+        },
+        {
+          "before": "全員へ一律必須",
+          "after": "全員に一律で必須",
+          "count": 1
+        },
+        {
+          "before": "本人で確認",
+          "after": "本人が確認",
+          "count": 1
+        },
+        {
+          "before": "文章が生成されたことを、申請資格の審査が完了した意味にはしません。",
+          "after": "文章が生成されても、申請資格の審査が完了したわけではありません。",
+          "count": 1
+        },
+        {
+          "before": "分かるように整理",
+          "after": "分かりやすく整理",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "5-01",
+      "path": "content/articles/2026-11-18-student-application-guide-draft.md",
+      "edits": [
+        {
+          "before": "という案内があります",
+          "after": "と案内されています",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "5-02",
+      "path": "content/articles/2026-11-18-student-required-documents-draft.md",
+      "edits": [
+        {
+          "before": "差別化された証拠要件",
+          "after": "一部の証拠提出を省略できる要件（differential evidence requirement）",
+          "count": 1
+        },
+        {
+          "before": "全員必須",
+          "after": "全員に必須",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "5-03",
+      "path": "content/articles/2026-11-18-student-cas-checklist-draft.md",
+      "edits": [
+        {
+          "before": "学校のスポンサー業務を代行してCASを発行するものとはしません。",
+          "after": "学校のスポンサー業務を代行したり、CASを発行したりするサービスではありません。",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "5-05",
+      "path": "content/articles/2026-11-18-student-japanese-differential-financial-evidence-draft.md",
+      "edits": [
+        {
+          "before": "通常提出省略を、申請時の条件を後から満たせばよいという意味にはしません。",
+          "after": "提出を省略できる場合も、申請後に条件を満たせばよいという意味ではありません。",
+          "count": 1
+        },
+        {
+          "before": "日本人全員に通常添付必須とはしません。",
+          "after": "日本人全員が通常の申請時に添付する必要があるとは限りません。",
+          "count": 1
+        },
+        {
+          "before": "通常提出省略",
+          "after": "通常の申請時に証拠の提出を省略できる扱い",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "5-06",
+      "path": "content/articles/2026-11-18-student-funds-28-day-rule-draft.md",
+      "edits": [
+        {
+          "before": "省略を、必要な保有期間を後から用意すればよいという意味にはしません。",
+          "after": "提出を省略できる場合も、申請後に必要な保有期間を確保すればよいという意味ではありません。",
+          "count": 1
+        },
+        {
+          "before": "通常提出省略",
+          "after": "通常の申請時に証拠の提出を省略できる扱い",
+          "count": 1
+        },
+        {
+          "before": "通常提出省略",
+          "after": "通常の申請時に証拠の提出を省略できる扱い",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "5-07",
+      "path": "content/articles/2026-11-18-student-english-test-university-assessment-draft.md",
+      "edits": [
+        {
+          "before": "「留学なら全員同じIELTS」という説明にはしません。",
+          "after": "留学する人が全員、同じ種類のIELTSを受ければよいわけではありません。",
+          "count": 1
+        },
+        {
+          "before": "読む・書く・話す・理解する技能",
+          "after": "読む・書く・話す・聞く技能",
+          "count": 1
+        },
+        {
+          "before": "学位レベル以上を学ぶHEP",
+          "after": "学位レベル以上のコースを提供する高等教育機関（HEP）",
+          "count": 1
+        },
+        {
+          "before": "英語で教育された学位",
+          "after": "英語で授業を受けて取得した学位",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "5-08",
+      "path": "content/articles/2026-11-18-student-application-window-timeline-draft.md",
+      "edits": [
+        {
+          "before": "通常提出省略",
+          "after": "通常の申請時に証拠の提出を省略できる扱い",
+          "count": 1
+        },
+        {
+          "before": "通常の審査目安を、特定日の承認・入国保証と同じにはしません。",
+          "after": "通常の審査目安は、特定の日までの承認や入国を保証するものではありません。",
+          "count": 1
+        },
+        {
+          "before": "申請の開始窓",
+          "after": "申請を開始できる時期",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "5-11",
+      "path": "content/articles/2026-11-18-student-language-study-route-comparison-draft.md",
+      "edits": [
+        {
+          "before": "という案内です",
+          "after": "と案内されています",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "5-12",
+      "path": "content/articles/2026-11-18-student-parent-bank-funds-consent-draft.md",
+      "edits": [
+        {
+          "before": "という案内です",
+          "after": "と案内されています",
+          "count": 1
+        },
+        {
+          "before": "原本と訳文を対応 |",
+          "after": "原本と訳文を照合 |",
+          "count": 1
+        },
+        {
+          "before": "差別化された証拠要件",
+          "after": "一部の証拠提出を省略できる要件（differential evidence requirement）",
+          "count": 1
+        },
+        {
+          "before": "残高一画面だけ",
+          "after": "残高を表示した一画面だけ",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "5-13",
+      "path": "content/articles/2026-11-18-student-refusal-prevention-cas-funds-form-draft.md",
+      "edits": [
+        {
+          "before": "通常提出省略",
+          "after": "通常の申請時に証拠の提出を省略できる扱い",
+          "count": 1
+        },
+        {
+          "before": "という案内です",
+          "after": "と案内されています",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "5-14",
+      "path": "content/articles/2026-11-18-student-part-time-work-hours-restrictions-draft.md",
+      "edits": [
+        {
+          "before": "恒久的なフルタイムの空席を埋める就職",
+          "after": "期間の定めのないフルタイムの求人への就職",
+          "count": 1
+        },
+        {
+          "before": "恒久的な空席を埋めること",
+          "after": "期間の定めのないフルタイムの仕事に就くこと",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "5-16",
+      "path": "content/articles/2026-11-18-student-dependants-research-postgraduate-draft.md",
+      "edits": [
+        {
+          "before": "「大学院生だから帯同できる」と一律には判断しません。",
+          "after": "大学院生であることだけで、家族を帯同できるとは限りません。",
+          "count": 1
+        },
+        {
+          "before": "という案内があります",
+          "after": "と案内されています",
+          "count": 1
+        },
+        {
+          "before": "人別に",
+          "after": "一人ずつ",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "5-18",
+      "path": "content/articles/2026-11-18-student-expiry-extension-return-switch-draft.md",
+      "edits": [
+        {
+          "before": "チャンネル諸島",
+          "after": "チャネル諸島",
+          "count": 1
+        },
+        {
+          "before": "という案内です",
+          "after": "と案内されています",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "5-19",
+      "path": "content/articles/2026-11-18-student-graduate-duration-skilled-worker-transition-draft.md",
+      "edits": [
+        {
+          "before": "という案内です",
+          "after": "と案内されています",
+          "count": 1
+        },
+        {
+          "before": "通常資格の期間は申請日で分かれます。",
+          "after": "通常の対象資格で認められる滞在期間は、申請日によって異なります。",
+          "count": 1
+        },
+        {
+          "before": "という案内です",
+          "after": "と案内されています",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "5-20",
+      "path": "content/articles/2026-11-18-student-self-application-stratovisa-document-workflow-draft.md",
+      "edits": [
+        {
+          "before": "通常提出省略",
+          "after": "通常の申請時に証拠の提出を省略できる扱い",
+          "count": 1
+        },
+        {
+          "before": "原本と訳文を対応 |",
+          "after": "原本と訳文を照合 |",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "6-01",
+      "path": "content/articles/2026-11-18-health-application-guide-draft.md",
+      "edits": [
+        {
+          "before": "取得先と英訳の準備期間",
+          "after": "取得先と英訳にかかる期間",
+          "count": 1
+        },
+        {
+          "before": "事情に応じるもの",
+          "after": "事情に応じて必要になるもの",
+          "count": 1
+        },
+        {
+          "before": "という案内です",
+          "after": "と案内されています",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "6-03",
+      "path": "content/articles/2026-11-18-health-japanese-nurse-nmc-registration-draft.md",
+      "edits": [
+        {
+          "before": "英語で教え評価された登録前教育",
+          "after": "英語で授業と評価を受けた、登録前の看護教育",
+          "count": 1
+        },
+        {
+          "before": "予定だけを履歴書へ登録済みと記載",
+          "after": "登録予定の段階で履歴書に登録済みと記載",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "6-04",
+      "path": "content/articles/2026-11-18-health-japanese-doctor-gmc-registration-draft.md",
+      "edits": [
+        {
+          "before": "全員に同じ試験を断定しません。",
+          "after": "全員に同じ試験が必要とは限りません。",
+          "count": 1
+        },
+        {
+          "before": "海外医学卒業者",
+          "after": "英国外の医学課程を卒業した人",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "6-06",
+      "path": "content/articles/2026-11-18-health-eligible-occupations-code-check-draft.md",
+      "edits": [
+        {
+          "before": "英文と日本語メモを対応 |",
+          "after": "英文と日本語メモを照合 |",
+          "count": 1
+        },
+        {
+          "before": "揃い",
+          "after": "そろい",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "6-07",
+      "path": "content/articles/2026-11-18-health-nhs-jobs-japanese-applicants-draft.md",
+      "edits": [
+        {
+          "before": "現在地と未完了の手続き",
+          "after": "現在の進捗と未完了の手続き",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "6-08",
+      "path": "content/articles/2026-11-18-health-english-ielts-oet-registration-visa-draft.md",
+      "edits": [
+        {
+          "before": "英語で教えられた対象の学位",
+          "after": "英語で授業を受けて取得した対象の学位",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "6-09",
+      "path": "content/articles/2026-11-18-health-salary-national-pay-scales-draft.md",
+      "edits": [
+        {
+          "before": "記録を対応 |",
+          "after": "記録を照合 |",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "6-10",
+      "path": "content/articles/2026-11-18-health-fees-ihs-maintenance-budget-draft.md",
+      "edits": [
+        {
+          "before": "支払受付",
+          "after": "支払いの受付",
+          "count": 1
+        },
+        {
+          "before": "人別の",
+          "after": "一人ずつの",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "6-11",
+      "path": "content/articles/2026-11-18-health-qualification-certified-translations-draft.md",
+      "edits": [
+        {
+          "before": "原本と番号を対応 |",
+          "after": "原本と参照番号を照合 |",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "6-12",
+      "path": "content/articles/2026-11-18-health-cos-sponsor-record-checklist-draft.md",
+      "edits": [
+        {
+          "before": "政府の海外採用案内では、CoS費用等、雇用主が負担すべき費用があります。",
+          "after": "政府の海外採用案内では、CoS費用など、雇用主が負担すべき費用が示されています。",
+          "count": 1
+        },
+        {
+          "before": "一括に扱わない",
+          "after": "一括りにして扱わない",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "6-13",
+      "path": "content/articles/2026-11-18-health-processing-timeline-offer-to-arrival-draft.md",
+      "edits": [
+        {
+          "before": "結果が出るという案内です",
+          "after": "結果が出ると案内されています",
+          "count": 1
+        },
+        {
+          "before": "という案内があります",
+          "after": "と案内されています",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "6-15",
+      "path": "content/articles/2026-11-18-health-dependants-occupation-restrictions-draft.md",
+      "edits": [
+        {
+          "before": "人別に",
+          "after": "一人ずつ",
+          "count": 1
+        },
+        {
+          "before": "人別の",
+          "after": "一人ずつの",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "6-16",
+      "path": "content/articles/2026-11-18-health-changing-employer-nhs-transfer-draft.md",
+      "edits": [
+        {
+          "before": "申請が取り下げられる案内です",
+          "after": "申請が取り下げられると案内されています",
+          "count": 1
+        },
+        {
+          "before": "チャンネル諸島",
+          "after": "チャネル諸島",
+          "count": 1
+        },
+        {
+          "before": "人別に",
+          "after": "一人ずつ",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "6-17",
+      "path": "content/articles/2026-11-18-health-nurse-working-conditions-shifts-leave-draft.md",
+      "edits": [
+        {
+          "before": "毎週必ず48時間以内という一律の説明にも、医療職なら無制限という説明にもしません。",
+          "after": "毎週必ず48時間以内でなければならないとも、医療職なら無制限に働けるとも限りません。",
+          "count": 1
+        },
+        {
+          "before": "多くのworkers",
+          "after": "多くの労働者（workers）",
+          "count": 1
+        },
+        {
+          "before": "内訳を対応 |",
+          "after": "内訳を照合 |",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "6-18",
+      "path": "content/articles/2026-11-18-health-additional-work-bank-shifts-draft.md",
+      "edits": [
+        {
+          "before": "これを労働時間法や雇用契約、安全上の制限がなくなる説明にしないようにします。",
+          "after": "労働時間に関する法令、雇用契約、安全上の制限がなくなるわけではありません。",
+          "count": 1
+        },
+        {
+          "before": "という案内があります",
+          "after": "と案内されています",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "6-19",
+      "path": "content/articles/2026-11-18-health-settlement-residence-salary-records-draft.md",
+      "edits": [
+        {
+          "before": "という案内です",
+          "after": "と案内されています",
+          "count": 1
+        },
+        {
+          "before": "人別に",
+          "after": "一人ずつ",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "6-20",
+      "path": "content/articles/2026-11-18-health-stratovisa-health-document-workflow-draft.md",
+      "edits": [
+        {
+          "before": "人別の",
+          "after": "一人ずつの",
+          "count": 1
+        },
+        {
+          "before": "揃った",
+          "after": "そろった",
+          "count": 1
+        },
+        {
+          "before": "揃え",
+          "after": "そろえ",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "7-01",
+      "path": "content/articles/2026-11-18-visitor-japanese-entry-eta-visitor-difference-draft.md",
+      "edits": [
+        {
+          "before": "人別に",
+          "after": "一人ずつ",
+          "count": 1
+        },
+        {
+          "before": "現在の機能・料金は利用画面で確認してください。対応する申請・機能は利用画面で確認します。",
+          "after": "現在の対応ビザ・機能・料金は、利用画面で確認してください。",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "7-02",
+      "path": "content/articles/2026-11-18-visitor-eta-application-japanese-passport-draft.md",
+      "edits": [
+        {
+          "before": "文字の読み違いを、申請後に気付く前に確認します。",
+          "after": "旅券番号などの文字を読み違えていないか、申請を送信する前に確認します。",
+          "count": 1
+        },
+        {
+          "before": "という案内があります",
+          "after": "と案内されています",
+          "count": 1
+        },
+        {
+          "before": "政府の結果メール",
+          "after": "政府から届く審査結果のメール",
+          "count": 1
+        },
+        {
+          "before": "支払受付",
+          "after": "支払いの受付",
+          "count": 1
+        },
+        {
+          "before": "人別に",
+          "after": "一人ずつ",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "7-03",
+      "path": "content/articles/2026-11-18-visitor-eta-fee-validity-application-time-draft.md",
+      "edits": [
+        {
+          "before": "という案内です",
+          "after": "と案内されています",
+          "count": 1
+        },
+        {
+          "before": "人別に",
+          "after": "一人ずつ",
+          "count": 1
+        },
+        {
+          "before": "揃った",
+          "after": "そろった",
+          "count": 1
+        },
+        {
+          "before": "別サイトへ高い料金を払えば速くなる、という計画にはしません。",
+          "after": "別のサイトに高い料金を払っても、審査が速くなるとは限りません。",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "7-04",
+      "path": "content/articles/2026-11-18-visitor-eta-not-approved-rejected-refused-draft.md",
+      "edits": [
+        {
+          "before": "同じ情報で申請を繰り返すことを解決策にはしません。",
+          "after": "同じ情報で申請を繰り返すのは避けましょう。",
+          "count": 1
+        },
+        {
+          "before": "表記を対応 |",
+          "after": "表記を照合 |",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "7-05",
+      "path": "content/articles/2026-11-18-visitor-eta-passport-renewal-new-application-draft.md",
+      "edits": [
+        {
+          "before": "揃える",
+          "after": "そろえる",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "7-09",
+      "path": "content/articles/2026-11-18-visitor-repeated-visits-main-home-rules-draft.md",
+      "edits": [
+        {
+          "before": "相手の家で大半を生活し",
+          "after": "滞在期間の大半を相手の家で過ごし",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "7-10",
+      "path": "content/articles/2026-11-18-visitor-visiting-romantic-partner-home-draft.md",
+      "edits": [
+        {
+          "before": "という案内があります",
+          "after": "と案内されています",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "7-11",
+      "path": "content/articles/2026-11-18-visitor-staying-family-friends-invitation-draft.md",
+      "edits": [
+        {
+          "before": "全員に同じ書式の招待状が必須という説明にもしません。",
+          "after": "全員に同じ書式の招待状が求められるわけでもありません。",
+          "count": 1
+        },
+        {
+          "before": "人別に",
+          "after": "一人ずつ",
+          "count": 1
+        },
+        {
+          "before": "内容を対応 |",
+          "after": "記載内容を照合 |",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "7-15",
+      "path": "content/articles/2026-11-18-visitor-work-unpaid-volunteering-limits-draft.md",
+      "edits": [
+        {
+          "before": "観光客全員が好きな仕事をできる説明にはしません。",
+          "after": "観光客が誰でも自由に働けると考えるのは避けましょう。",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "7-17",
+      "path": "content/articles/2026-11-18-visitor-visitor-to-family-switch-restriction-draft.md",
+      "edits": [
+        {
+          "before": "二人の相手側資格",
+          "after": "英国側パートナーの在留資格",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "7-18",
+      "path": "content/articles/2026-11-18-visitor-entry-refusal-notice-next-steps-draft.md",
+      "edits": [
+        {
+          "before": "次の申請で経緯を隠すことを解決策にはしません。",
+          "after": "次の申請で経緯を隠すことは避けましょう。",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "7-20",
+      "path": "content/articles/2026-11-18-visitor-japanese-standard-visitor-visa-when-needed-draft.md",
+      "edits": [
+        {
+          "before": "日本人全員にVisitorビザを要求する説明と、全員がETAだけでよいという説明のどちらにもまとめません。",
+          "after": "日本人全員にVisitorビザが必要なわけでも、全員がETAだけで渡航できるわけでもありません。",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "8-01",
+      "path": "content/articles/2026-11-18-life-first-30-days-arrival-draft.md",
+      "edits": [
+        {
+          "before": "病気になるまで医療の相談先を探さず、処方・既往歴の情報を準備します。",
+          "after": "病気になってから相談先を探すことのないよう、早めに医療窓口を確認し、処方薬や既往歴の情報を準備します。",
+          "count": 1
+        },
+        {
+          "before": "人別に",
+          "after": "一人ずつ",
+          "count": 1
+        },
+        {
+          "before": "揃わ",
+          "after": "そろわ",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "8-02",
+      "path": "content/articles/2026-11-18-life-bank-account-address-evidence-draft.md",
+      "edits": [
+        {
+          "before": "全行共通の代替一覧とはしません。",
+          "after": "すべての銀行で同じ代替資料が使えるとは限りません。",
+          "count": 1
+        },
+        {
+          "before": "アプリの作りやすさ",
+          "after": "アプリでの口座開設のしやすさ",
+          "count": 1
+        },
+        {
+          "before": "暗証、",
+          "after": "暗証番号、",
+          "count": 1
+        },
+        {
+          "before": "金融機関の代替確認を問い合わせます。",
+          "after": "金融機関に、代わりに使える本人確認・住所確認の方法を問い合わせます。",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "8-04",
+      "path": "content/articles/2026-11-18-life-bills-included-rent-costs-draft.md",
+      "edits": [
+        {
+          "before": "月家賃",
+          "after": "毎月の家賃",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "8-05",
+      "path": "content/articles/2026-11-18-life-council-tax-liability-discounts-draft.md",
+      "edits": [
+        {
+          "before": "税上数える成人",
+          "after": "税額の算定対象となる成人",
+          "count": 1
+        },
+        {
+          "before": "税上数える成人",
+          "after": "税額の算定対象となる成人",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "8-06",
+      "path": "content/articles/2026-11-18-life-national-insurance-number-work-draft.md",
+      "edits": [
+        {
+          "before": "働き始められる案内があります。",
+          "after": "働き始められると案内されています。",
+          "count": 1
+        },
+        {
+          "before": "開始可能という案内です。",
+          "after": "働き始められると案内されています。",
+          "count": 1
+        },
+        {
+          "before": "働き始められる案内があります。",
+          "after": "働き始められると案内されています。",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "8-07",
+      "path": "content/articles/2026-11-18-life-evisa-ukvi-share-code-draft.md",
+      "edits": [
+        {
+          "before": "古いBRP画像だけで現行確認を済ませる計画にしません。",
+          "after": "古いBRPの画像だけで、現在の資格確認を済ませられるとは考えないようにします。",
+          "count": 1
+        },
+        {
+          "before": "揃え",
+          "after": "そろえ",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "8-10",
+      "path": "content/articles/2026-11-18-life-moving-packing-30-items-draft.md",
+      "edits": [
+        {
+          "before": "許可・申請の参照",
+          "after": "許可・申請の参照番号",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "8-11",
+      "path": "content/articles/2026-11-18-life-monthly-budget-200000-yen-draft.md",
+      "edits": [
+        {
+          "before": "現在レート",
+          "after": "現在の為替レート",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "8-12",
+      "path": "content/articles/2026-11-18-life-supermarket-unit-price-comparison-draft.md",
+      "edits": [
+        {
+          "before": "容量へ揃え",
+          "after": "容量にそろえ",
+          "count": 1
+        },
+        {
+          "before": "揃え",
+          "after": "そろえ",
+          "count": 1
+        },
+        {
+          "before": "買足し",
+          "after": "買い足し",
+          "count": 1
+        },
+        {
+          "before": "四店",
+          "after": "4店舗",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "8-13",
+      "path": "content/articles/2026-11-18-life-energy-bill-contract-winter-draft.md",
+      "edits": [
+        {
+          "before": "日数に応じる費用",
+          "after": "日数に応じてかかる費用",
+          "count": 1
+        },
+        {
+          "before": "日額の基本料金",
+          "after": "1日当たりの基本料金",
+          "count": 1
+        },
+        {
+          "before": "推定読値",
+          "after": "推定のメーター値",
+          "count": 1
+        },
+        {
+          "before": "日額の基本料金",
+          "after": "1日当たりの基本料金",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "8-14",
+      "path": "content/articles/2026-11-18-life-payslip-tax-ni-net-pay-draft.md",
+      "edits": [
+        {
+          "before": "最初の一月",
+          "after": "最初の1か月",
+          "count": 1
+        },
+        {
+          "before": "一月分",
+          "after": "1か月分",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "8-15",
+      "path": "content/articles/2026-11-18-life-minimum-real-living-wage-draft.md",
+      "edits": [
+        {
+          "before": "時給の合格だけでビザ条件を完了扱いにしません。",
+          "after": "時給が最低賃金を上回るだけで、ビザの条件も満たすとは限りません。",
+          "count": 1
+        },
+        {
+          "before": "揃え",
+          "after": "そろえ",
+          "count": 1
+        },
+        {
+          "before": "国籍だけで別額とする説明ではありません。",
+          "after": "国籍だけで適用額が変わるわけではありません。",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "8-17",
+      "path": "content/articles/2026-11-18-life-credit-history-new-resident-draft.md",
+      "edits": [
+        {
+          "before": "日本人全員が登録できる説明にしません。",
+          "after": "日本人全員が登録できるわけではありません。",
+          "count": 1
+        },
+        {
+          "before": "揃え",
+          "after": "そろえ",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "8-19",
+      "path": "content/articles/2026-11-18-life-state-pension-ni-japan-comparison-draft.md",
+      "edits": [
+        {
+          "before": "通常10適格年の条件等",
+          "after": "通常10年の適格年数などの条件",
+          "count": 1
+        },
+        {
+          "before": "英国の不足年へ払う前に",
+          "after": "英国の加入記録で不足する年数を任意拠出で補う前に",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "8-20",
+      "path": "content/articles/2026-11-18-life-job-sites-indeed-linkedin-nhs-draft.md",
+      "edits": [
+        {
+          "before": "募集件数や採用率の未取得データを順位として示すものではありません。",
+          "after": "求人の探し方と、応募前に確認したい条件を説明します。",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "8-21",
+      "path": "content/articles/2026-11-18-life-nhs-japanese-healthcare-difference-draft.md",
+      "edits": [
+        {
+          "before": "私費も全額無料",
+          "after": "私費診療まで無料",
+          "count": 1
+        },
+        {
+          "before": "揃える",
+          "after": "そろえる",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "8-22",
+      "path": "content/articles/2026-11-18-life-gp-registration-appointment-draft.md",
+      "edits": [
+        {
+          "before": "自動的に済んだ意味ではありません。",
+          "after": "自動的に済んだという意味ではありません。",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "8-24",
+      "path": "content/articles/2026-11-18-life-emergency-999-112-111-draft.md",
+      "edits": [
+        {
+          "before": "999が必要な状況の代わりにはしません。",
+          "after": "生命に関わる緊急事態では、111ではなく999または112を利用してください。",
+          "count": 1
+        },
+        {
+          "before": "999が必要な状況の代わりにはしません。",
+          "after": "生命に関わる緊急事態では、111ではなく999または112を利用してください。",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "8-26",
+      "path": "content/articles/2026-11-18-life-pregnancy-midwife-nhs-costs-draft.md",
+      "edits": [
+        {
+          "before": "本人の状態に応じる計画",
+          "after": "本人の状態に合った診療計画",
+          "count": 1
+        },
+        {
+          "before": "費用資格",
+          "after": "費用負担の条件",
+          "count": 1
+        },
+        {
+          "before": "費用資格",
+          "after": "費用負担の条件",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "8-27",
+      "path": "content/articles/2026-11-18-life-prescription-medicine-import-continuity-draft.md",
+      "edits": [
+        {
+          "before": "薬の成分、強さ、一回量",
+          "after": "薬の成分、含有量、1回の服用量",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "8-28",
+      "path": "content/articles/2026-11-18-life-tap-water-hard-soft-draft.md",
+      "edits": [
+        {
+          "before": "飲用不可と同じに扱いません。",
+          "after": "飲用できないと判断する必要はありません。",
+          "count": 1
+        },
+        {
+          "before": "除石灰はメーカー指定で行い",
+          "after": "石灰分の除去はメーカーが指定する方法で行い",
+          "count": 1
+        },
+        {
+          "before": "一括にしません。",
+          "after": "一括りにせず、状況ごとに確認します。",
+          "count": 1
+        },
+        {
+          "before": "メーカーの手入れ",
+          "after": "メーカーが案内する手入れ方法",
+          "count": 1
+        },
+        {
+          "before": "飲用不可と同じに扱いません。",
+          "after": "飲用できないと判断する必要はありません。",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "8-29",
+      "path": "content/articles/2026-11-18-life-winter-health-daylight-home-draft.md",
+      "edits": [
+        {
+          "before": "サプリだけで体調不良を防げるという説明にせず",
+          "after": "サプリだけに頼らず",
+          "count": 1
+        },
+        {
+          "before": "全員が高用量を飲めばよいとしません。",
+          "after": "誰でも高用量を飲めばよいわけではありません。",
+          "count": 1
+        },
+        {
+          "before": "サプリだけで体調不良を防げるという説明にせず",
+          "after": "サプリだけに頼らず",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "8-31",
+      "path": "content/articles/2026-11-18-life-sorry-meaning-polite-english-draft.md",
+      "edits": [
+        {
+          "before": "英国人全員の話し方を一つにする説明ではありません。",
+          "after": "話し方には個人差や地域差もあります。",
+          "count": 1
+        },
+        {
+          "before": "後者は繰り返しを求める機能があり",
+          "after": "後者は相手にもう一度言ってもらうための表現で",
+          "count": 1
+        },
+        {
+          "before": "繰返し・助け・説明",
+          "after": "聞き返し・助け・説明",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "8-32",
+      "path": "content/articles/2026-11-18-life-indirect-refusals-interesting-maybe-draft.md",
+      "edits": [
+        {
+          "before": "Interestingは関心、評価を保留した反応、次の質問への前置き等の文脈があります。",
+          "after": "Interestingは、関心を示すときだけでなく、評価を保留するときや、次の質問につなげる前置きとして使われる場合もあります。",
+          "count": 1
+        },
+        {
+          "before": "必ず遠回しなNoという辞書にはしません。",
+          "after": "必ず遠回しに「いいえ」と伝えているわけではありません。",
+          "count": 1
+        },
+        {
+          "before": "固定の裏翻訳",
+          "after": "決まった裏の意味",
+          "count": 1
+        },
+        {
+          "before": "同じに扱わ",
+          "after": "同じものとして扱わ",
+          "count": 1
+        },
+        {
+          "before": "固定の裏翻訳",
+          "after": "決まった裏の意味",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "8-33",
+      "path": "content/articles/2026-11-18-life-pub-order-pay-tipping-draft.md",
+      "edits": [
+        {
+          "before": "パブのカウンターで毎回チップを払う慣行を一律の義務にしません。",
+          "after": "パブのカウンターで、注文するたびにチップを払うことが一律に義務付けられているわけではありません。",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "8-35",
+      "path": "content/articles/2026-11-18-life-carpet-housing-cleaning-draft.md",
+      "edits": [
+        {
+          "before": "英国の住居にはカーペットを使う例がありますが、すべての家に多いという全国統計をここでは示しません。",
+          "after": "英国で住まいを探すと、カーペットの部屋を見かけることがあります。",
+          "count": 1
+        },
+        {
+          "before": "歴史や国民性だけで採用理由を断定しない説明です。",
+          "after": "床材が選ばれる理由を、歴史や国民性だけで決めつけずに考えます。",
+          "count": 1
+        },
+        {
+          "before": "入居前のinventoryへ対応させます。",
+          "after": "入居時の状態確認表（inventory）と照合します。",
+          "count": 1
+        },
+        {
+          "before": "入居時の証拠と契約・地域法へ対応させます。",
+          "after": "入居時の記録、契約、地域の法制度に照らして確認します。",
+          "count": 1
+        },
+        {
+          "before": "一括にしません。",
+          "after": "一括りにして判断しないようにしましょう。",
+          "count": 1
+        },
+        {
+          "before": "英国の住居にはカーペットを使う例がありますが、すべての家に多いという全国統計をここでは示しません。",
+          "after": "英国で住まいを探すと、カーペットの部屋を見かけることがあります。",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "8-37",
+      "path": "content/articles/2026-11-18-life-christmas-shops-transport-healthcare-draft.md",
+      "edits": [
+        {
+          "before": "ロンドンのTfLは2026年Christmas Dayに広く運休の案内があり",
+          "after": "ロンドンの交通局（TfL）は、2026年のクリスマス当日に多くの交通機関が運休すると案内しており",
+          "count": 1
+        },
+        {
+          "before": "24日の最終、",
+          "after": "24日の最終運行時刻、",
+          "count": 1
+        },
+        {
+          "before": "店舗が閉まることを、緊急の助けがない意味にはしません。",
+          "after": "店舗が休業していても、緊急時の支援まで利用できないという意味ではありません。",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "8-38",
+      "path": "content/articles/2026-11-18-life-bank-holiday-work-school-draft.md",
+      "edits": [
+        {
+          "before": "英国共通の一枚だけでなく",
+          "after": "英国全体のカレンダーだけを見るのではなく",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "8-39",
+      "path": "content/articles/2026-11-18-life-laundry-indoor-drying-damp-draft.md",
+      "edits": [
+        {
+          "before": "洗濯・乾燥で容量が同じとは限らず、衣類の縮みや熱に弱い素材は表示へ従います。",
+          "after": "洗濯時と乾燥時では、対応する衣類の量が異なる場合があります。縮みや熱による傷みを防ぐため、衣類の表示にも従ってください。",
+          "count": 1
+        },
+        {
+          "before": "除湿機は補助で、漏水や不十分な換気の原因確認を代わりにはしません。",
+          "after": "除湿機は湿気対策を補助するものです。漏水や換気不足が疑われる場合は、その原因も確認する必要があります。",
+          "count": 1
+        },
+        {
+          "before": "設備へ適合するか",
+          "after": "設備に適合するか",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "8-40",
+      "path": "content/articles/2026-11-18-life-making-friends-community-hobbies-draft.md",
+      "edits": [
+        {
+          "before": "帰宅する交通",
+          "after": "帰宅時の交通手段",
+          "count": 1
+        },
+        {
+          "before": "初回の持物",
+          "after": "初回の持ち物",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "8-41",
+      "path": "content/articles/2026-11-18-life-children-state-school-admission-draft.md",
+      "edits": [
+        {
+          "before": "入学当局",
+          "after": "入学手続きを担当する機関",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "8-43",
+      "path": "content/articles/2026-11-18-life-birth-registration-japanese-nationality-draft.md",
+      "edits": [
+        {
+          "before": "通常42日、Scotlandは21日の登録案内があります。",
+          "after": "通常42日以内、Scotlandは21日以内の出生登録が案内されています。",
+          "count": 1
+        },
+        {
+          "before": "人別の",
+          "after": "一人ずつの",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "8-44",
+      "path": "content/articles/2026-11-18-life-dvla-japanese-licence-exchange-draft.md",
+      "edits": [
+        {
+          "before": "運転可とはしません。",
+          "after": "運転できるとは限りません。",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "8-46",
+      "path": "content/articles/2026-11-18-life-rail-advance-offpeak-railcard-draft.md",
+      "edits": [
+        {
+          "before": "安い順がすべての旅に最適という説明ではありません。",
+          "after": "料金だけでなく、利用条件も含めて選ぶことが大切です。",
+          "count": 1
+        },
+        {
+          "before": "最安の往復を一枚ずつ探す前に",
+          "after": "往路と復路それぞれの最安券を探す前に",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "8-47",
+      "path": "content/articles/2026-11-18-life-manchester-birmingham-leeds-compare-draft.md",
+      "edits": [
+        {
+          "before": "未取得の現地価格を実測値として示しません。",
+          "after": "家賃や交通費など、自分の条件で比較するポイントを説明します。",
+          "count": 1
+        },
+        {
+          "before": "揃え",
+          "after": "そろえ",
+          "count": 1
+        },
+        {
+          "before": "二〜三住所へ絞り",
+          "after": "2〜3か所の住所に絞り",
+          "count": 1
+        },
+        {
+          "before": "揃え",
+          "after": "そろえ",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "8-49",
+      "path": "content/articles/2026-11-18-life-japan-overseas-moving-register-pension-draft.md",
+      "edits": [
+        {
+          "before": "海外転出届は保険を得にするためだけの選択ではなく",
+          "after": "海外転出届は、保険料の損得だけで決めるものではなく",
+          "count": 1
+        },
+        {
+          "before": "海外転出届は保険を得にするためだけの選択ではなく",
+          "after": "海外転出届は、保険料の損得だけで決めるものではなく",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "8-50",
+      "path": "content/articles/2026-11-18-life-settle-uk-or-return-japan-draft.md",
+      "edits": [
+        {
+          "before": "両国の収入は額面ではなく税・保険等の後と、実際の住居・教育・保育・通勤で比較します。",
+          "after": "両国の家計は、税金・保険料等を差し引いた手取り収入と、住居・教育・保育・通勤にかかる実際の支出を比べて検討します。",
+          "count": 1
+        },
+        {
+          "before": "制度案を施行済みとして資金計画に使いません。",
+          "after": "将来の制度案と施行済みの条件を区別して資金計画を立てます。",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

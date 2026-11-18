@@ -44,7 +44,7 @@ qa_compliance: "BLOCKED"
 
 ## 4. 婚姻・仕事は別の条件
 
-通常のVisitor・ETAでは、英国での婚姻・シビルパートナーシップ登録やそのnoticeの提出はできないという案内があります。英国での婚姻を計画する方は、Marriage Visitor等の条件を確認します。[Visitorの制限](https://www.gov.uk/standard-visitor)
+通常のVisitor・ETAでは、英国での婚姻・シビルパートナーシップ登録やそのnoticeの提出はできないと案内されています。英国での婚姻を計画する方は、Marriage Visitor等の条件を確認します。[Visitorの制限](https://www.gov.uk/standard-visitor)
 
 また、恋人の仕事を無報酬で手伝うことや、生活費を英国のアルバイトで賄うことも、単に私的な訪問の延長とは考えません。活動の内容を許可される範囲と照合します。[許可活動](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-permitted-activities)
 

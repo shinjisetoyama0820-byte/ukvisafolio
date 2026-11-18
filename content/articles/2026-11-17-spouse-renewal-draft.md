@@ -16,7 +16,7 @@ qa_compliance: "BLOCKED"
 
 **英国配偶者ビザの更新は、最初の許可が自動的に延びる手続きではありません。** 現在の滞在期限を確認し、更新時点の関係・経済・英語等の証拠を整理して申請します。GOV.UKは、現在の許可が切れる前の延長と、同じパートナーとの更新で持ち越せる日数の上限を案内しています。
 
-根拠：[GOV.UK：Family visaの延長](https://www.gov.uk/uk-family-visa#extending-your-family-visa)。確認日：2026年11月17日。
+根拠：[GOV.UK：Family visaの延長](https://www.gov.uk/uk-family-visa#extending-your-family-visa)。
 
 対象は英国で配偶者・パートナーとして滞在し、更新を準備する日本人です。国外からの初回申請、婚約者からの切替、永住申請とは区別します。
 
@@ -62,7 +62,7 @@ GOV.UKは、初回にA1の試験を使った場合の更新時のA2等、過去�
 
 国内更新の申請料とIHSは、国外初回の料金とは異なります。料金は[公式の申請料](https://www.gov.uk/uk-family-visa#fees)と[IHS](https://www.gov.uk/healthcare-immigration-application/how-much-pay)で確認します。
 
-また、国内の滞在許可申請中に共通旅行区域外へ出る場合の規定があります。日本への帰国予定は、国内申請の取下げ扱いと分けずに確認する論点です。[公式：Part 1](https://www.gov.uk/guidance/immigration-rules/immigration-rules-part-1-leave-to-enter-or-stay-in-the-uk)
+また、国内の滞在許可申請中に共通旅行区域外へ出る場合の規定があります。日本への一時帰国を予定している場合は、出国によって国内申請が取り下げ扱いにならないかを確認する必要があります。[公式：Part 1](https://www.gov.uk/guidance/immigration-rules/immigration-rules-part-1-leave-to-enter-or-stay-in-the-uk)
 
 ## 7. よくある質問
 
@@ -83,7 +83,7 @@ GOV.UKは、初回にA1の試験を使った場合の更新時のA2等、過去�
 
 日本と英国で集めたファイルをまとめて管理したい方には、書類整理ツールStratovisa（ストラビ）という方法があります。GOV.UKに基づくリストで項目を確認し、書類をアップロードして準備の進み具合を整理できます。
 
-チェックリスト、質問への回答、アップロード、Personal statementの作業は無料で、カード登録は不要です。カバーレターや整理済みZIPなどの完成パッケージは、ビザ種類ごとの一回払いで利用します。月額制ではなく、料金は居住国によって異なります。
+チェックリスト、質問への回答、アップロード、事情説明文（Personal statement）の作成・編集は無料で、カード登録は不要です。カバーレターや整理済みZIPなどの完成パッケージは、ビザの種類ごとの一回払いで利用します。月額制ではなく、料金は居住国によって異なります。
 
 - **日本在住の方：TABIDACHI（旅立ち）**。[35％OFFで登録する](https://stratovisa.com/ja/signup?ref=TABIDACHI)
 - **英国在住の方：ISSHONI（一緒に）**。[35％OFFで登録する](https://stratovisa.com/ja/signup?ref=ISSHONI)
@@ -102,7 +102,6 @@ GOV.UKは、初回にA1の試験を使った場合の更新時のA2等、過去�
 
 - [主な公式確認先](https://www.gov.uk/uk-family-visa)
 
-最終確認日：2026年11月17日。
 
 変更履歴：2026年11月17日、初稿作成。状況別の論点と資料管理の表を追加。
 

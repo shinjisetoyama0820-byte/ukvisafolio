@@ -39,7 +39,7 @@ qa_compliance: "BLOCKED"
 
 ## 3. 英国へ先に帰った期間も時系列にする
 
-同居の後に仕事等で別居しても、関係が続いているかを確認します。2年間すべて同居の証拠が一律必須ではありませんが、別居の理由と継続する関係、英国で共に暮らす計画を整理します。[Family life](https://www.gov.uk/government/publications/family-life-as-a-partner-or-parent-private-life-and-exceptional-circumstance/family-life-as-a-partner-or-parent-and-exceptional-circumstances-accessible)
+同居の後に仕事等で別居しても、関係が続いているかを確認します。2年間すべて同居の証拠が一律で必須ではありませんが、別居の理由と継続する関係、英国で共に暮らす計画を整理します。[Family life](https://www.gov.uk/government/publications/family-life-as-a-partner-or-parent-private-life-and-exceptional-circumstance/family-life-as-a-partner-or-parent-and-exceptional-circumstances-accessible)
 
 二人の住所、勤務、面会、連絡の記録を並べると、日本の同居資料と英国での準備がどこでつながるかを確認しやすくなります。
 

@@ -16,7 +16,7 @@ qa_compliance: "BLOCKED"
 
 **英国配偶者ビザのフォームは、本人情報だけでなく、パートナー、子ども、過去の関係、渡航歴、経済状況などの情報を扱います。** 入力前に原本と対応する確認表を作ると、氏名や日付を記憶だけで埋める作業を減らせます。この記事は実際の画面を操作したレビューではなく、GOV.UKの公開案内に基づく準備方法です。
 
-根拠：[GOV.UK：Information and evidence](https://www.gov.uk/uk-family-visa/provide-information)。確認日：2026年11月17日。
+根拠：[GOV.UK：Information and evidence](https://www.gov.uk/uk-family-visa/provide-information)。
 
 対象は日本から配偶者ルートのオンライン申請を準備する人です。フォームの設問や分岐は状況により変わるため、この表を実際の画面の全項目一覧と扱わないようにします。
 
@@ -88,7 +88,7 @@ GOV.UKは、申請しない子どもも含めた子どもの情報と、過去�
 
 日本と英国で集めたファイルをまとめて管理したい方には、書類整理ツールStratovisa（ストラビ）という方法があります。GOV.UKに基づくリストで項目を確認し、書類をアップロードして準備の進み具合を整理できます。
 
-チェックリスト、質問への回答、アップロード、Personal statementの作業は無料で、カード登録は不要です。カバーレターや整理済みZIPなどの完成パッケージは、ビザ種類ごとの一回払いで利用します。月額制ではなく、料金は居住国によって異なります。
+チェックリスト、質問への回答、アップロード、事情説明文（Personal statement）の作成・編集は無料で、カード登録は不要です。カバーレターや整理済みZIPなどの完成パッケージは、ビザの種類ごとの一回払いで利用します。月額制ではなく、料金は居住国によって異なります。
 
 - **日本在住の方：TABIDACHI（旅立ち）**。[35％OFFで登録する](https://stratovisa.com/ja/signup?ref=TABIDACHI)
 - **英国在住の方：ISSHONI（一緒に）**。[35％OFFで登録する](https://stratovisa.com/ja/signup?ref=ISSHONI)
@@ -107,7 +107,6 @@ GOV.UKは、申請しない子どもも含めた子どもの情報と、過去�
 
 - [主な公式確認先](https://www.gov.uk/uk-family-visa/provide-information)
 
-最終確認日：2026年11月17日。
 
 変更履歴：2026年11月17日、初稿作成。状況別の論点と資料管理の表を追加。
 

@@ -14,7 +14,7 @@ qa_similarity: "BLOCKED"
 qa_compliance: "BLOCKED"
 ---
 
-**英国国外からの婚約者ビザは、Family visaの通常の審査目安として12週間が案内されています。** ただし、期限までの承認や希望日の入国が保証されるものではありません。審査の起算点と、現地の結婚手続きに必要な日程を別々に確認します。[公式：Family visaの審査](https://www.gov.uk/uk-family-visa/partner-spouse)
+**英国外からの婚約者ビザは、Family visaの通常の審査目安として12週間が案内されています。** ただし、期限までの承認や希望日の入国が保証されるものではありません。審査の起算点と、現地の結婚手続きに必要な日程を別々に確認します。[公式：Family visaの審査](https://www.gov.uk/uk-family-visa/partner-spouse)
 
 対象は、日本から婚約者ルートを申請して英国で結婚する予定の人です。Marriage Visitor visaの審査目安と混同しないようにします。
 

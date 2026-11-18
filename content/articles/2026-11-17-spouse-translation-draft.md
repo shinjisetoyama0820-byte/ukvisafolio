@@ -19,7 +19,7 @@ source_url: https://www.gov.uk/uk-family-visa/provide-information
 
 ## 2. 認証翻訳で確認したい情報
 
-GOV.UKのAppendix FM-SEでは、対象となる英語・ウェールズ語以外の書類について、原語の文書と、独立して確認できる完全な翻訳を求めています。翻訳には、翻訳が正確である旨、翻訳者または翻訳会社の担当者の氏名・署名、連絡先、日付などが必要です。英国国内での在留申請では資格情報の記載など追加の条件もあります。
+GOV.UKのAppendix FM-SEでは、対象となる英語・ウェールズ語以外の書類について、原文の書類と、独立して確認できる完全な翻訳を求めています。翻訳には、翻訳が正確である旨、翻訳者または翻訳会社の担当者の氏名・署名、連絡先、日付などが必要です。英国国内での在留申請では資格情報の記載など追加の条件もあります。
 
 | 確認項目 | チェックする内容 |
 | --- | --- |
@@ -78,4 +78,3 @@ Stratovisaのサービス料金に対する35％OFFの紹介コードとして�
 - [GOV.UK：Appendix FM-SE](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-fm-se-family-members-specified-evidence)
 - [GOV.UK：Partner or spouse](https://www.gov.uk/uk-family-visa/partner-spouse)
 
-最終確認日：2026年11月17日。

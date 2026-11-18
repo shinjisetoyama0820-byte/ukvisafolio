@@ -14,9 +14,9 @@ qa_similarity: "BLOCKED"
 qa_compliance: "BLOCKED"
 ---
 
-**英国の未婚パートナールートは、結婚していなくても、婚姻・シビルパートナーシップに類する関係が申請前に2年以上続いている人が確認するファミリービザです。** 2年全期間の同居証拠が一律に必要という制度ではありません。一方、単に知り合って2年という事実だけで判断できず、関係の性質と継続、他の条件も確認します。[公式規則](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-fm-family-members)、[Family lifeガイダンス](https://www.gov.uk/government/publications/family-life-as-a-partner-or-parent-private-life-and-exceptional-circumstance/family-life-as-a-partner-or-parent-and-exceptional-circumstances-accessible)
+**英国の未婚パートナールートは、結婚していなくても、婚姻・シビルパートナーシップに類する関係が申請前に2年以上続いている人を対象とするファミリービザの申請ルートです。** 2年全期間の同居証拠が一律に必要という制度ではありません。一方、単に知り合って2年という事実だけで判断できず、関係の性質と継続、他の条件も確認します。[公式規則](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-fm-family-members)、[Family lifeガイダンス](https://www.gov.uk/government/publications/family-life-as-a-partner-or-parent-private-life-and-exceptional-circumstance/family-life-as-a-partner-or-parent-and-exceptional-circumstances-accessible)
 
-対象は、日本人が、英国籍・定住等の対象となる地位のパートナーと英国で暮らす計画です。就労・学生ビザの扶養家族ルートとは区別します。
+この記事は、英国籍や定住資格など、所定の資格を持つパートナーと英国で暮らす予定の日本人を対象としています。就労・学生ビザの扶養家族ルートとは区別します。
 
 ## 1. 対象パートナーと二人の関係を別々に確認する
 
@@ -40,7 +40,7 @@ Home Officeは、関係の2年間が申請前に満たされている必要が�
 | 分野・資料例 | 発行元 | 対象 | 日付・期間 | 翻訳 | 公式根拠 |
 | --- | --- | --- | --- | --- | --- |
 | 旅券・申請履歴等 | 本人・当局 | 申請者 | 現在と過去の履歴 | 非英語資料は認証翻訳 | [提出情報](https://www.gov.uk/uk-family-visa/provide-information) |
-| 関係・生活の証拠 | 銀行・家主・二人等 | 二人の関係 | 2年と現在を対応 | 原本と訳文を対応 | [関係](https://www.gov.uk/uk-family-visa/partner-spouse) |
+| 関係・生活の証拠 | 銀行・家主・二人等 | 二人の関係 | 2年間の経緯と現在の状況を確認 | 原本と訳文を照合 | [関係](https://www.gov.uk/uk-family-visa/partner-spouse) |
 | 経済要件の証拠 | 雇用主・金融機関等 | 利用する収入等 | 該当区分の対象期間 | 指定の条件を確認 | [経済要件](https://www.gov.uk/uk-family-visa/proof-income-partner) |
 | 英語力の証拠 | 試験機関・大学等 | 申請者 | 利用できる証拠か | 証明方法に従う | [英語要件](https://www.gov.uk/uk-family-visa/knowledge-of-english) |
 | 住居等 | 家主・所有者等 | 英国での共同生活 | 現在の予定 | 非英語資料は確認 | [規則](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-fm-family-members) |

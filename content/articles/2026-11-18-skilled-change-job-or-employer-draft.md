@@ -55,7 +55,7 @@ qa_compliance: "BLOCKED"
 
 家族のビザ更新は本人と別に確認します。本人が転職申請しただけで、家族の許可が自動更新されるわけではありません。[公式：家族](https://www.gov.uk/skilled-worker-visa/your-partner-and-children)
 
-また、英国内の更新審査中は、英国、アイルランド、チャネル諸島、マン島の外へ旅行すると申請が取り下げられるという案内があります。日本への一時帰国も、先に申請への影響を確認します。[公式：旅行](https://www.gov.uk/skilled-worker-visa/update-your-visa-if-you-change-job-or-employer)
+また、英国内の更新審査中は、英国、アイルランド、チャネル諸島、マン島の外へ旅行すると申請が取り下げられると案内されています。日本への一時帰国も、先に申請への影響を確認します。[公式：旅行](https://www.gov.uk/skilled-worker-visa/update-your-visa-if-you-change-job-or-employer)
 
 ## よくある質問
 

@@ -44,7 +44,7 @@ qa_compliance: "BLOCKED"
 
 ## 4. 時間内でもできない仕事がある
 
-原則として自営業・事業活動、プロスポーツ選手やコーチ、エンターテイナー、恒久的なフルタイムの空席を埋める就職には制限があります。週の上限以内ならどの契約も可能、とはなりません。[規則ST26.5](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-student)
+原則として自営業・事業活動、プロスポーツ選手やコーチ、エンターテイナー、期間の定めのないフルタイムの求人への就職には制限があります。週の上限以内ならどの契約も可能、とはなりません。[規則ST26.5](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-student)
 
 コースの必須・評価対象のワークプレースメント、学生組合の選出職、一定の切替申請中の雇用等には別の規定があります。通常のアルバイトの例外として自己判断せず、該当する条文と学校の案内を確認します。[ST26.2〜ST26.8](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-student)
 
@@ -67,7 +67,7 @@ qa_compliance: "BLOCKED"
 
 ### 休暇なら恒久的なフルタイムの仕事に就けますか？
 
-休暇中の時間制限と、恒久的な空席を埋めることへの制限は別です。[ST26.5〜26.6](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-student)
+休暇中の時間制限と、期間の定めのないフルタイムの仕事に就くことへの制限は別です。[ST26.5〜26.6](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-student)
 
 ### 修了したら就労制限はすべてなくなりますか？
 

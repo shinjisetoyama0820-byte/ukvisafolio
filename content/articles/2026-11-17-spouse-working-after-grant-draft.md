@@ -16,7 +16,7 @@ qa_compliance: "BLOCKED"
 
 **通常の配偶者・パートナーとしてFamily visaが認められた場合、GOV.UKは就労・就学ができると案内しています。** ただし、申請しただけで働けるわけではなく、実際の許可と開始日・条件を確認します。婚約者としての滞在中の就労制限とは区別が必要です。
 
-根拠：[GOV.UK：Family visa承認後](https://www.gov.uk/uk-family-visa/after-you-apply)、[婚約者の条件](https://www.gov.uk/uk-family-visa/partner-spouse)。確認日：2026年11月17日。
+根拠：[GOV.UK：Family visa承認後](https://www.gov.uk/uk-family-visa/after-you-apply)、[婚約者の条件](https://www.gov.uk/uk-family-visa/partner-spouse)。
 
 対象は、配偶者として英国で暮らし始め、雇用や自営業を考える日本人です。この記事は本人の許可を確認して就労可否を判定するものではありません。
 
@@ -35,9 +35,9 @@ GOV.UKは、婚約者の期間中の就労・就学はできないと案内し�
 
 ## 3. eVisaとShare Codeを確認する
 
-eVisaは移民ステータスのデジタル記録です。就労権の証明では、本人の資格に応じてオンラインのShare Code等を使います。Share Codeはサービスごとに用途が関係するため、住居用等の確認と混同しないようにします。[eVisaの公式案内](https://www.gov.uk/evisa)、[就労用コード](https://www.gov.uk/prove-right-to-work/get-a-share-code-online)
+eVisaは移民ステータスのデジタル記録です。就労権の証明では、本人の資格に応じてオンラインのShare Code等を使います。Share Codeは確認する資格によって用途が異なるため、住居用等の確認と混同しないようにします。[eVisaの公式案内](https://www.gov.uk/evisa)、[就労用コード](https://www.gov.uk/prove-right-to-work/get-a-share-code-online)
 
-自分用には、UKVIアカウントへのアクセス方法、現在のパスポートとの対応、許可内容を確認する日、雇用主へ渡すコードの用途を整理できます。パスワードそのものを雇用主や第三者に送る方法ではありません。
+自分用には、UKVIアカウントへのアクセス方法、現在のパスポートとの対応、許可内容を確認する日、雇用主へ渡すコードの用途を整理できます。パスワードそのものを雇用主や第三者に送る必要はありません。
 
 ## 4. NI番号がないと働けない？
 
@@ -79,7 +79,7 @@ National Insurance Numberは税・社会保険に関する番号で、就労許�
 
 日本と英国で集めたファイルをまとめて管理したい方には、書類整理ツールStratovisa（ストラビ）という方法があります。GOV.UKに基づくリストで項目を確認し、書類をアップロードして準備の進み具合を整理できます。
 
-チェックリスト、質問への回答、アップロード、Personal statementの作業は無料で、カード登録は不要です。カバーレターや整理済みZIPなどの完成パッケージは、ビザ種類ごとの一回払いで利用します。月額制ではなく、料金は居住国によって異なります。
+チェックリスト、質問への回答、アップロード、事情説明文（Personal statement）の作成・編集は無料で、カード登録は不要です。カバーレターや整理済みZIPなどの完成パッケージは、ビザの種類ごとの一回払いで利用します。月額制ではなく、料金は居住国によって異なります。
 
 - **日本在住の方：TABIDACHI（旅立ち）**。[35％OFFで登録する](https://stratovisa.com/ja/signup?ref=TABIDACHI)
 - **英国在住の方：ISSHONI（一緒に）**。[35％OFFで登録する](https://stratovisa.com/ja/signup?ref=ISSHONI)
@@ -98,7 +98,6 @@ National Insurance Numberは税・社会保険に関する番号で、就労許�
 
 - [主な公式確認先](https://www.gov.uk/uk-family-visa/after-you-apply)
 
-最終確認日：2026年11月17日。
 
 変更履歴：2026年11月17日、初稿作成。状況別の論点と資料管理の表を追加。
 

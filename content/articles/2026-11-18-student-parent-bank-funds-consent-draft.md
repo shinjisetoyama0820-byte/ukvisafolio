@@ -26,7 +26,7 @@ qa_compliance: "BLOCKED"
 
 ## 2. 必要な金額を先に計算する
 
-通常はCASに対応する未払い学費と生活費を分けます。生活費はロンドン月£1,529、ロンドン外月£1,171で、最長9か月分という案内です。申請料、IHS、航空券等の家計上の支出も別枠で見積もります。[公式：必要資金](https://www.gov.uk/student-visa/money)
+通常はCASに対応する未払い学費と生活費を分けます。生活費はロンドン月£1,529、ロンドン外月£1,171で、最長9か月分と案内されています。申請料、IHS、航空券等の家計上の支出も別枠で見積もります。[公式：必要資金](https://www.gov.uk/student-visa/money)
 
 「口座にまとまった額がある」だけで終わらせず、学校の地域、コース期間、学費の支払済み分、利用する通貨を表にします。外貨は申請日のOANDAのレートを用いる案内があるため、日本円の同じ残高でも換算結果は変わります。[証拠の条件](https://www.gov.uk/guidance/financial-evidence-for-student-and-child-student-route-applicants)
 
@@ -41,7 +41,7 @@ qa_compliance: "BLOCKED"
 | 資料 | 発行元 | 示すこと | 日付・期間 | 翻訳 | 根拠 |
 | --- | --- | --- | --- | --- | --- |
 | 銀行明細・銀行レター等 | 金融機関 | 名義・金額・必要な保有期間 | 28日・31日等 | 日本語なら所定の翻訳 | [資金証拠](https://www.gov.uk/guidance/financial-evidence-for-student-and-child-student-route-applicants) |
-| 親子・後見関係の公的資料 | 登録当局・裁判所等 | 本人と名義人の関係 | 関係を確認できる記録 | 原本と訳文を対応 | [Finance規則](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-finance) |
+| 親子・後見関係の公的資料 | 登録当局・裁判所等 | 本人と名義人の関係 | 関係を確認できる記録 | 原本と訳文を照合 | [Finance規則](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-finance) |
 | 資金利用の書面同意 | 親・法定後見人 | 留学のため本人が使用できること | 現在の同意 | 内容を英語で確認可能に | [資金証拠](https://www.gov.uk/guidance/financial-evidence-for-student-and-child-student-route-applicants) |
 | CAS・学費支払記録 | 学校 | 必要学費との対応 | 今回の課程・支払日 | 学校の情報を照合 | [必要額](https://www.gov.uk/student-visa/money) |
 
@@ -49,7 +49,7 @@ qa_compliance: "BLOCKED"
 
 ## 5. 日本人の提出省略と18歳未満の同意
 
-日本は差別化された証拠要件の対象ですが、資金要件そのものの免除ではありません。通常は提出しない場合も、審査中に証拠を求められる可能性があります。申請時点の資金と関係資料を取り出せる状態にします。[公式：提出の扱い](https://www.gov.uk/student-visa/money)
+日本は一部の証拠提出を省略できる要件（differential evidence requirement）の対象ですが、資金要件そのものの免除ではありません。通常は提出しない場合も、審査中に証拠を求められる可能性があります。申請時点の資金と関係資料を取り出せる状態にします。[公式：提出の扱い](https://www.gov.uk/student-visa/money)
 
 18歳未満の場合のビザ申請、英国での生活・養育、渡航に関する同意は、親の預金を使う同意と別の論点です。成人かどうかと口座名義の条件を一緒にしないようにします。[必要資料](https://www.gov.uk/student-visa/documents-you-must-provide)
 
@@ -57,7 +57,7 @@ qa_compliance: "BLOCKED"
 
 ### 親が残高のスクリーンショットを送れば十分ですか？
 
-名義・金融機関・金額・必要な期間等を示せるかが重要です。残高一画面だけで条件を満たすと決めません。[資金証拠](https://www.gov.uk/guidance/financial-evidence-for-student-and-child-student-route-applicants)
+名義・金融機関・金額・必要な期間等を示せるかが重要です。残高を表示した一画面だけで条件を満たすと決めません。[資金証拠](https://www.gov.uk/guidance/financial-evidence-for-student-and-child-student-route-applicants)
 
 ### 成人なら親の同意は不要ですか？
 

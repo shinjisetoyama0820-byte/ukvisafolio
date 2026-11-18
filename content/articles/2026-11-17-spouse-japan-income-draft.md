@@ -16,7 +16,7 @@ qa_compliance: "BLOCKED"
 
 **日本で給与を得ていることだけで、その年収を英国配偶者ビザの収入としてそのまま合算できるとは限りません。** 申請者本人の給与か、英国へ戻るスポンサーの給与か、国外からの初回申請か国内の更新かで確認する規定が異なります。現金貯蓄を示す方法とも分けて整理します。
 
-公式根拠：[Home Officeの経済要件ガイダンス](https://www.gov.uk/government/publications/chapter-8-appendix-fm-family-members)。確認日：2026年11月17日。
+公式根拠：[Home Officeの経済要件ガイダンス](https://www.gov.uk/government/publications/chapter-8-appendix-fm-family-members)。
 
 対象は、日本で働く申請者やパートナーが、配偶者ルートで英国へ移る予定のケースです。この記事は個別の収入が算入できるかを判断せず、公式規定を照合するための資料整理を説明します。
 
@@ -46,7 +46,7 @@ Home Officeのガイダンスは、英国での雇用、英国へ戻るスポン
 | 資料 | 発行元 | 関係する場面 | 日付・期間 | 翻訳 | 根拠 |
 | --- | --- | --- | --- | --- | --- |
 | 給与明細 | 雇用主 | 対象の雇用収入を使う | 該当区分の対象期間 | 日本語提出資料は認証翻訳を確認 | [FM-SE](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-fm-se-family-members-specified-evidence) |
-| 入金が分かる明細 | 金融機関 | 給与の受領を示す | 給与明細と期間を対応 | 同上 | [証拠の案内](https://www.gov.uk/uk-family-visa/provide-information) |
+| 入金が分かる明細 | 金融機関 | 給与の受領を示す | 給与明細の対象期間と照合 | 同上 | [証拠の案内](https://www.gov.uk/uk-family-visa/provide-information) |
 | 雇用主の確認 | 雇用主 | 雇用条件の説明 | 勤続・給与・契約等を確認 | 同上 | [証拠の案内](https://www.gov.uk/uk-family-visa/provide-information) |
 | 英国での雇用予定の証拠 | 英国の雇用主 | 帰国スポンサー等の該当区分 | 開始日と条件 | 原本の言語を確認 | [経済要件ガイダンス](https://www.gov.uk/government/publications/chapter-8-appendix-fm-family-members) |
 
@@ -81,7 +81,7 @@ Home Officeのガイダンスは、英国での雇用、英国へ戻るスポン
 
 日本と英国で集めたファイルをまとめて管理したい方には、書類整理ツールStratovisa（ストラビ）という方法があります。GOV.UKに基づくリストで項目を確認し、書類をアップロードして準備の進み具合を整理できます。
 
-チェックリスト、質問への回答、アップロード、Personal statementの作業は無料で、カード登録は不要です。カバーレターや整理済みZIPなどの完成パッケージは、ビザ種類ごとの一回払いで利用します。月額制ではなく、料金は居住国によって異なります。
+チェックリスト、質問への回答、アップロード、事情説明文（Personal statement）の作成・編集は無料で、カード登録は不要です。カバーレターや整理済みZIPなどの完成パッケージは、ビザの種類ごとの一回払いで利用します。月額制ではなく、料金は居住国によって異なります。
 
 - **日本在住の方：TABIDACHI（旅立ち）**。[35％OFFで登録する](https://stratovisa.com/ja/signup?ref=TABIDACHI)
 - **英国在住の方：ISSHONI（一緒に）**。[35％OFFで登録する](https://stratovisa.com/ja/signup?ref=ISSHONI)
@@ -100,7 +100,6 @@ Home Officeのガイダンスは、英国での雇用、英国へ戻るスポン
 
 - [主な公式確認先](https://www.gov.uk/government/publications/chapter-8-appendix-fm-family-members)
 
-最終確認日：2026年11月17日。
 
 変更履歴：2026年11月17日、初稿作成。状況別の論点と資料管理の表を追加。
 

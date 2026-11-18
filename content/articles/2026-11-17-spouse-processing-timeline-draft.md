@@ -17,7 +17,7 @@ qa_compliance: "BLOCKED"
 
 **英国外からの配偶者ビザは、GOV.UKでは通常12週間が目安です。** 英国国内の配偶者・パートナー申請は、収入・英語要件を満たす場合、通常8週間と案内されています。これは結果が必ず出る期限ではありません。また、書類準備を始めた日から数える期間でもありません。
 
-根拠：[配偶者・パートナー申請の期間](https://www.gov.uk/uk-family-visa/partner-spouse#how-long-it-takes)。確認日：2026年11月17日。
+根拠：[配偶者・パートナー申請の期間](https://www.gov.uk/uk-family-visa/partner-spouse#how-long-it-takes)。
 
 対象は、日本から初回申請する日本人と、英国国内で配偶者ビザを更新する人です。この記事は通常サービスの審査待ちと、申請前の準備時間を分けて説明します。
 
@@ -75,7 +75,7 @@ qa_compliance: "BLOCKED"
 | 資料 | 発行元 | 対象者 | 日付・期間 | 翻訳 | 根拠 |
 | --- | --- | --- | --- | --- | --- |
 | 本人確認の予約通知 | 予約サービス | 予約による本人確認をする人 | 予約日・会場を保存 | 通知言語で内容を確認 | [本人確認後の案内](https://www.gov.uk/uk-family-visa/after-you-apply) |
-| 提出済みファイルの控え | 本人が保管 | 書類を提出した人 | 提出時の版を保存 | 原本と訳文を対応 | [提出資料](https://www.gov.uk/uk-family-visa/provide-information) |
+| 提出済みファイルの控え | 本人が保管 | 書類を提出した人 | 提出時の版を保存 | 原本と訳文を照合 | [提出資料](https://www.gov.uk/uk-family-visa/provide-information) |
 | UKVIからの追加照会 | UKVI | 照会を受けた人 | 指定された回答期限 | 追加資料の言語要件を確認 | [遅延する場合](https://www.gov.uk/guidance/visa-processing-times-applications-outside-the-uk#when-you-might-wait-longer) |
 
 ## 6. 航空券・退職・住まいはどう予定する？
@@ -113,7 +113,7 @@ GOV.UKの国外申請案内は、ビザの決定前に渡航を予約しない�
 
 日本と英国で集めたファイルをまとめて管理したい方には、書類整理ツールStratovisa（ストラビ）という方法があります。GOV.UKに基づくリストで項目を確認し、書類をアップロードして準備の進み具合を整理できます。
 
-チェックリスト、質問への回答、アップロード、Personal statementの作業は無料で、カード登録は不要です。カバーレターや整理済みZIPなどの完成パッケージは、ビザ種類ごとの一回払いで利用します。月額制ではなく、料金は居住国によって異なります。
+チェックリスト、質問への回答、アップロード、事情説明文（Personal statement）の作成・編集は無料で、カード登録は不要です。カバーレターや整理済みZIPなどの完成パッケージは、ビザの種類ごとの一回払いで利用します。月額制ではなく、料金は居住国によって異なります。
 
 - **日本在住の方：TABIDACHI（旅立ち）**。[35％OFFで登録する](https://stratovisa.com/ja/signup?ref=TABIDACHI)
 - **英国在住の方：ISSHONI（一緒に）**。[35％OFFで登録する](https://stratovisa.com/ja/signup?ref=ISSHONI)
@@ -133,7 +133,6 @@ GOV.UKの国外申請案内は、ビザの決定前に渡航を予約しない�
 - [この記事の主な公式確認先](https://www.gov.uk/guidance/visa-processing-times-applications-outside-the-uk)
 - その他の公式根拠は該当する説明の直後に掲載しています。
 
-最終確認日：2026年11月17日。
 
 変更履歴：2026年11月17日、初稿作成。審査起算点と準備期間を分け、日英の分担表・照会履歴の管理方法を追加。
 

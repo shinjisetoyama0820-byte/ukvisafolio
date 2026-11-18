@@ -28,7 +28,7 @@ qa_compliance: "BLOCKED"
 
 ## 食事とチップを分ける
 
-パブのカウンターで毎回チップを払う慣行を一律の義務にしません。席での食事サービス等は、請求のservice chargeと任意の追加を確認します。[ロンドンのチップ案内](https://www.visitlondon.com/traveller-information/essential-information/money/tipping)。食物アレルギーは注文前に店員へ伝え、メニュー名だけで成分を判断しません。
+パブのカウンターで、注文するたびにチップを払うことが一律に義務付けられているわけではありません。席での食事サービス等は、請求のservice chargeと任意の追加を確認します。[ロンドンのチップ案内](https://www.visitlondon.com/traveller-information/essential-information/money/tipping)。食物アレルギーは注文前に店員へ伝え、メニュー名だけで成分を判断しません。
 
 ## 具体的な確認の進め方
 

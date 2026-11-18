@@ -16,7 +16,7 @@ qa_compliance: "BLOCKED"
 
 **英国配偶者ビザの住居は、「持ち家か賃貸か」だけで判断するものではありません。** Home Officeは、家族に適切な住居があり、合法的に居住でき、過密や公衆衛生上の問題がないこと等を確認する規定を示しています。親族宅への同居も、住所だけで十分と決めず、実際の居住条件を整理します。
 
-根拠：[Home Office：Accommodation](https://www.gov.uk/government/publications/family-life-as-a-partner-or-parent-private-life-and-exceptional-circumstance/family-life-as-a-partner-or-parent-and-exceptional-circumstances-accessible)。確認日：2026年11月17日。
+根拠：[Home Office：Accommodation](https://www.gov.uk/government/publications/family-life-as-a-partner-or-parent-private-life-and-exceptional-circumstance/family-life-as-a-partner-or-parent-and-exceptional-circumstances-accessible)。
 
 対象は、配偶者として英国へ移り、賃貸・持ち家・親族宅に暮らす予定の日本人です。住居要件は、入居時のRight to Rent確認や家を借りる契約手続きと区別して説明します。
 
@@ -82,7 +82,7 @@ qa_compliance: "BLOCKED"
 
 日本と英国で集めたファイルをまとめて管理したい方には、書類整理ツールStratovisa（ストラビ）という方法があります。GOV.UKに基づくリストで項目を確認し、書類をアップロードして準備の進み具合を整理できます。
 
-チェックリスト、質問への回答、アップロード、Personal statementの作業は無料で、カード登録は不要です。カバーレターや整理済みZIPなどの完成パッケージは、ビザ種類ごとの一回払いで利用します。月額制ではなく、料金は居住国によって異なります。
+チェックリスト、質問への回答、アップロード、事情説明文（Personal statement）の作成・編集は無料で、カード登録は不要です。カバーレターや整理済みZIPなどの完成パッケージは、ビザの種類ごとの一回払いで利用します。月額制ではなく、料金は居住国によって異なります。
 
 - **日本在住の方：TABIDACHI（旅立ち）**。[35％OFFで登録する](https://stratovisa.com/ja/signup?ref=TABIDACHI)
 - **英国在住の方：ISSHONI（一緒に）**。[35％OFFで登録する](https://stratovisa.com/ja/signup?ref=ISSHONI)
@@ -101,7 +101,6 @@ qa_compliance: "BLOCKED"
 
 - [主な公式確認先](https://www.gov.uk/government/publications/family-life-as-a-partner-or-parent-private-life-and-exceptional-circumstance/family-life-as-a-partner-or-parent-and-exceptional-circumstances-accessible)
 
-最終確認日：2026年11月17日。
 
 変更履歴：2026年11月17日、初稿作成。状況別の論点と資料管理の表を追加。
 

@@ -20,11 +20,11 @@ qa_compliance: "BLOCKED"
 
 ## 支給と対象期間を照合
 
-gross pay、net pay、基本給、残業・手当、pay period、勤務時間を契約と照合します。時間に応じて支給が変わる場合は時間数も確認します。初月が月途中なら、一月分の求人表示と同じ額ではないことがあります。通貨と給与周期も確認します。
+gross pay、net pay、基本給、残業・手当、pay period、勤務時間を契約と照合します。時間に応じて支給が変わる場合は時間数も確認します。初月が月途中なら、1か月分の求人表示と同じ額ではないことがあります。通貨と給与周期も確認します。
 
 ## 税コードと控除の役割
 
-Income Tax、employee National Insurance、workplace pension、その他の控除を別に読みます。tax codeは非課税枠等の取扱いに関わるため、誤りが疑われたら給与担当・HMRCへ確認します。国籍だけで税が同じとも、最初の一月の手取りが一年中同じとも考えません。[税コード](https://www.gov.uk/tax-codes)
+Income Tax、employee National Insurance、workplace pension、その他の控除を別に読みます。tax codeは非課税枠等の取扱いに関わるため、誤りが疑われたら給与担当・HMRCへ確認します。国籍だけで税が同じとも、最初の1か月の手取りが一年中同じとも考えません。[税コード](https://www.gov.uk/tax-codes)
 
 ## 累計と銀行入金を確認
 

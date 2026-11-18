@@ -32,7 +32,7 @@ job descriptionは行う仕事、person specificationは応募者に求める資
 
 ## 3. 資格登録の現在地を伝える
 
-医師・看護師等は、GMC・NMC等の登録要件を確認します。申請中、評価待ち、試験合格、登録済みは異なる状態です。採用側に現在地と未完了の手続きを伝え、求められる登録をいつまでに満たす必要があるかを確認します。[NMC](https://www.nmc.org.uk/registration/joining-the-register/register-nurse-midwife/trained-outside-uk/)、[GMC](https://www.gmc-uk.org/registration-and-licensing/join-our-registers)
+医師・看護師等は、GMC・NMC等の登録要件を確認します。申請中、評価待ち、試験合格、登録済みは異なる状態です。採用側に現在の進捗と未完了の手続きを伝え、求められる登録をいつまでに満たす必要があるかを確認します。[NMC](https://www.nmc.org.uk/registration/joining-the-register/register-nurse-midwife/trained-outside-uk/)、[GMC](https://www.gmc-uk.org/registration-and-licensing/join-our-registers)
 
 登録前の支援が提示される場合は、登録前後の役割・給与・業務範囲と、試験や渡航等の支援費用を文書で確認します。支援があることと、登録やビザの許可が保証されることは別です。
 

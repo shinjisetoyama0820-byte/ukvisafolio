@@ -25,10 +25,10 @@ qa_compliance: "BLOCKED"
 | 確認すること | 資料・情報の例 | 発行元・管理者 | 日付・期間 | 日本語資料の扱い | 公式確認先 |
 | --- | --- | --- | --- | --- | --- |
 | 本人の氏名・生年月日 | 現在の旅券、過去に使った氏名 | 旅券発行機関・本人 | 現在有効なもの、氏名変更の経緯 | 提出資料は認証翻訳を確認 | [提出情報](https://www.gov.uk/uk-family-visa/provide-information) |
-| 過去の渡航・申請 | 旧旅券、入出国記録、過去の申請情報 | 本人・発行機関 | 日付と国を対応 | 同上 | [提出情報](https://www.gov.uk/uk-family-visa/provide-information) |
+| 過去の渡航・申請 | 旧旅券、入出国記録、過去の申請情報 | 本人・発行機関 | 日付と国を照合 | 同上 | [提出情報](https://www.gov.uk/uk-family-visa/provide-information) |
 | 対象パートナーの地位 | 国籍・在留資格の証拠 | 英国当局等 | 現在の地位 | 言語を確認 | [対象パートナー](https://www.gov.uk/uk-family-visa/partner-spouse) |
 | 関係と結婚予定 | 関係の記録、式場・役所との連絡等 | 二人・相手先 | 実際の交際経緯と結婚予定 | 提出する日本語部分を確認 | [婚約者の条件](https://www.gov.uk/uk-family-visa/partner-spouse) |
-| 収入・貯蓄等 | 給与明細、銀行明細、雇用主書簡等 | 雇用主・金融機関 | 利用する収入区分ごとに確認 | 原本と全文訳を対応 | [FM-SE](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-fm-se-family-members-specified-evidence) |
+| 収入・貯蓄等 | 給与明細、銀行明細、雇用主書簡等 | 雇用主・金融機関 | 利用する収入区分ごとに確認 | 原本と全文訳を照合 | [FM-SE](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-fm-se-family-members-specified-evidence) |
 | 英語力 | 承認試験、該当する学位の証拠等 | 試験機関・大学等 | 指定の証明方法を確認 | 学位は所定の確認方法に従う | [英語要件](https://www.gov.uk/uk-family-visa/knowledge-of-english) |
 | 住居 | 入居予定先の権利・利用状況を示す資料 | 家主・所有者等 | 実際の予定と一致 | 言語を確認 | [Appendix FM](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-fm-family-members) |
 

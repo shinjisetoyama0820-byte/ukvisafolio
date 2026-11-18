@@ -53,7 +53,7 @@ qa_compliance: "BLOCKED"
 
 ## 5. 円換算や手取りで比較しない
 
-英国のビザ上の年収基準と、日本円での生活感や手取りは別です。算入できる給与の範囲も規則で確認します。賞与、手当、住居等をすべて任意に足して基準に届かせるという計算はしません。[Appendix Skilled Worker](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-skilled-worker)
+英国のビザ上の年収基準と、日本円での生活費や手取り額は別です。算入できる給与の範囲も規則で確認します。賞与、手当、住居等をすべて任意に足して基準に届かせるという計算はしません。[Appendix Skilled Worker](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-skilled-worker)
 
 ## よくある質問
 

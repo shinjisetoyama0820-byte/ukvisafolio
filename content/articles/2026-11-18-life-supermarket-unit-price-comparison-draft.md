@@ -20,15 +20,15 @@ qa_compliance: "BLOCKED"
 
 ## 同じ買物リストで単価を比べる
 
-牛乳、卵、米、野菜、肉、洗剤等を普段使う容量へ揃え、100g・1kg・1L等のunit priceを記録します。大袋は使い切れるかを考慮し、価格が低くても廃棄が増えるなら得とは限りません。週の総額に交通費・配送費も含めます。
+牛乳、卵、米、野菜、肉、洗剤等を普段使う容量にそろえ、100g・1kg・1L等のunit priceを記録します。大袋は使い切れるかを考慮し、価格が低くても廃棄が増えるなら得とは限りません。週の総額に交通費・配送費も含めます。
 
 ## 四つの店の確認方法
 
-[Tesco](https://www.tesco.com/shop/en-GB)は通常価格とClubcard等の条件を分け、[ALDI](https://www.aldi.co.uk/groceries)、[Lidl](https://www.lidl.co.uk/c/food-drink/s10068374)も容量・対象期間を揃えます。[Waitrose](https://www.waitrose.com/ecom/shop/browse/groceries)は通常品・自社商品・特売を比較します。広告の一品の安さを全体の価格評価へ広げません。
+[Tesco](https://www.tesco.com/shop/en-GB)は通常価格とClubcard等の条件を分け、[ALDI](https://www.aldi.co.uk/groceries)、[Lidl](https://www.lidl.co.uk/c/food-drink/s10068374)も容量・対象期間をそろえます。[Waitrose](https://www.waitrose.com/ecom/shop/browse/groceries)は通常品・自社商品・特売を比較します。広告の一品の安さを全体の価格評価へ広げません。
 
 ## 使い分けを生活動線で決める
 
-日常の基本食材、少量の買足し、必要な日本食材等で買う先を分ける方法があります。毎週四店を回るのではなく、通勤・学校帰りの移動と買物時間を含めて考えます。特売の期限と会員価格をレシートで確認し、自分が実際に買う品の平均支出を数週間記録します。
+日常の基本食材、少量の買い足し、必要な日本食材等で買う先を分ける方法があります。毎週4店舗を回るのではなく、通勤・学校帰りの移動と買物時間を含めて考えます。特売の期限と会員価格をレシートで確認し、自分が実際に買う品の平均支出を数週間記録します。
 
 ## 具体的な確認の進め方
 

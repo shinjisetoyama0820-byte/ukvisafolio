@@ -24,7 +24,7 @@ qa_compliance: "BLOCKED"
 | --- | --- | --- | --- | --- | --- |
 | 旅券・氏名・申請履歴 | 本人・当局 | 本人確認 | 現在と過去の履歴 | 非英語資料は認証翻訳 | [提出情報](https://www.gov.uk/uk-family-visa/provide-information) |
 | 相手の国籍・在留資格 | 英国当局等 | 対象パートナーの地位 | 現在の資格 | 指示に従う | [対象](https://www.gov.uk/uk-family-visa/partner-spouse) |
-| 関係・生活の記録 | 家主・銀行・本人等 | 2年の関係と現在 | 全体の期間を対応 | 原本と訳文 | [Family life](https://www.gov.uk/government/publications/family-life-as-a-partner-or-parent-private-life-and-exceptional-circumstance/family-life-as-a-partner-or-parent-and-exceptional-circumstances-accessible) |
+| 関係・生活の記録 | 家主・銀行・本人等 | 2年の関係と現在 | 関係が続いている期間を確認 | 原本と訳文 | [Family life](https://www.gov.uk/government/publications/family-life-as-a-partner-or-parent-private-life-and-exceptional-circumstance/family-life-as-a-partner-or-parent-and-exceptional-circumstances-accessible) |
 | 経済面 | 雇用主・金融機関等 | 該当する収入等 | 収入区分に従う | 指定に従う | [指定証拠](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-fm-se-family-members-specified-evidence) |
 | 英語 | 承認試験機関・大学等 | 試験・学位等による証明 | 利用条件を確認 | 所定の方法 | [英語](https://www.gov.uk/uk-family-visa/knowledge-of-english) |
 | 住居 | 家主・所有者等 | 英国での生活の予定 | 現在の予定 | 非英語資料は確認 | [規則](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-fm-family-members) |

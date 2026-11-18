@@ -36,7 +36,7 @@ qa_compliance: "BLOCKED"
 | --- | --- | --- | --- | --- | --- |
 | 婚姻の終了を示す証拠 | 登録機関・裁判所等 | 過去の婚姻がある人 | 最終的な終了日を確認 | 非英語資料は認証翻訳を確認 | [婚約者要件](https://www.gov.uk/uk-family-visa/partner-spouse) |
 | 現在の旅券 | 旅券発行機関 | 本人と現在の氏名 | 有効期限 | 提出指示に従う | [提出情報](https://www.gov.uk/uk-family-visa/provide-information) |
-| 氏名変更の資料 | 登録機関等 | 旧姓等が資料に現れる人 | 変更の順序 | 原本と訳文を対応 | [婚姻通知の資料](https://www.gov.uk/marriages-civil-partnerships/documents-youll-need-to-give-notice) |
+| 氏名変更の資料 | 登録機関等 | 旧姓等が資料に現れる人 | 変更の順序 | 原本と訳文を照合 | [婚姻通知の資料](https://www.gov.uk/marriages-civil-partnerships/documents-youll-need-to-give-notice) |
 | 過去の申請情報 | 本人・英国当局等 | 履歴の照合 | 実際の申請日 | 記録に応じる | [提出情報](https://www.gov.uk/uk-family-visa/provide-information) |
 
 全員に同じ書類名を指定するものではありません。国や離婚の方法が異なる場合は、資料の正式な名称と発行元を確認します。

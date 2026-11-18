@@ -46,7 +46,7 @@ qa_compliance: "BLOCKED"
 
 スポンサーが家族まで支援するか、英国での滞在に基づく証拠の扱い等は各人の事情で確認します。本人のCoSで支援があることだけで、全家族分も同じと考えません。IHS免除と、申請料・資金の条件がなくなることも別です。[費用](https://www.gov.uk/health-care-worker-visa/how-much-it-costs)、[概要](https://www.gov.uk/health-care-worker-visa)
 
-## 5. 必要資料を人別にまとめる
+## 5. 必要資料を一人ずつまとめる
 
 | 資料・情報 | 発行元 | 用途 | 日付・期間 | 翻訳 | 根拠 |
 | --- | --- | --- | --- | --- | --- |
@@ -59,7 +59,7 @@ qa_compliance: "BLOCKED"
 
 ## 6. 本人の更新で家族は自動更新されない
 
-家族にはそれぞれ申請、本人確認、結果の管理が必要です。許可は通常本人と同じ終了日ですが、両親の期限が異なる子等には別の扱いがあります。人別の期限と受付を保存し、本人の延長だけで家族も済んだと考えません。[家族申請](https://www.gov.uk/health-care-worker-visa/your-partner-and-children)
+家族にはそれぞれ申請、本人確認、結果の管理が必要です。許可は通常本人と同じ終了日ですが、両親の期限が異なる子等には別の扱いがあります。一人ずつの期限と受付を保存し、本人の延長だけで家族も済んだと考えません。[家族申請](https://www.gov.uk/health-care-worker-visa/your-partner-and-children)
 
 ## よくある質問
 

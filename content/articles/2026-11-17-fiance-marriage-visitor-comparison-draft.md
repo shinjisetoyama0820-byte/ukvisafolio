@@ -61,7 +61,7 @@ Marriage Visitor visaは、結婚後に英国へ定住する計画のない人�
 | 訪問後の予定 | 本人・勤務先等 | 英国を離れる予定との整合 | 休暇・帰国等の日程 | 同上 | [訪問の条件](https://www.gov.uk/marriage-visa/eligibility) |
 | 英国側の資格・収入等 | 英国当局・雇用主・金融機関等 | 婚約者ルートの条件 | 対象期間を確認 | [認証翻訳](https://www.gov.uk/uk-family-visa/provide-information) | [Family要件](https://www.gov.uk/uk-family-visa/partner-spouse) |
 
-両ルートの一覧を混ぜて、すべてを「全員必須」にしないことも大切です。Marriage Visitorの提出案内とFamily visaの提出案内は別に確認します。
+両ルートの一覧を混ぜて、すべてを「全員に必須」にしないことも大切です。Marriage Visitorの提出案内とFamily visaの提出案内は別に確認します。
 
 ## 4. 結婚後の予算と、働ける時期を計画に入れる
 

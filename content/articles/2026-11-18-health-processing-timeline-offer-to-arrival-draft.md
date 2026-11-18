@@ -14,7 +14,7 @@ qa_similarity: "BLOCKED"
 qa_compliance: "BLOCKED"
 ---
 
-**Health and Care Workerの国外申請は、オンライン申請・本人確認・資料提出を終えた後、通常3週間で結果が出るという案内です。** 内定日から3週間で渡航できるという意味ではありません。専門職登録、CoS、資料取得等の準備期間を別に見積もります。[公式：国外申請](https://www.gov.uk/health-care-worker-visa/apply-from-outside-the-uk)
+**Health and Care Workerの国外申請は、オンライン申請・本人確認・資料提出を終えた後、通常3週間で結果が出ると案内されています。** 内定日から3週間で渡航できるという意味ではありません。専門職登録、CoS、資料取得等の準備期間を別に見積もります。[公式：国外申請](https://www.gov.uk/health-care-worker-visa/apply-from-outside-the-uk)
 
 対象は、日本から英国医療職へ移る方です。国内延長・切替の案内と混ぜず、申請前と政府の審査が進む段階を分けます。
 
@@ -26,7 +26,7 @@ qa_compliance: "BLOCKED"
 
 ## 2. CoSと申請可能日を並べる
 
-勤務開始日の3か月前から申請でき、CoSを得てから3か月以内に申請するという案内があります。割当日と勤務開始日を別々に管理します。[概要](https://www.gov.uk/health-care-worker-visa)、[CoS](https://www.gov.uk/health-care-worker-visa/your-job)
+勤務開始日の3か月前から申請でき、CoSを得てから3か月以内に申請すると案内されています。割当日と勤務開始日を別々に管理します。[概要](https://www.gov.uk/health-care-worker-visa)、[CoS](https://www.gov.uk/health-care-worker-visa/your-job)
 
 | 段階 | 確認すること | 次へ進むための情報 |
 | --- | --- | --- |

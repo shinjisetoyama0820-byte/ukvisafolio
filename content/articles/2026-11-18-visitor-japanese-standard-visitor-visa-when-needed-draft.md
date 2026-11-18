@@ -14,7 +14,7 @@ qa_similarity: "BLOCKED"
 qa_compliance: "BLOCKED"
 ---
 
-**日本の旅券でも、ETAをrefusedとされた場合や、過去の入国歴・犯罪歴等の事情に応じ、Standard Visitor等の事前ビザ申請を確認することがあります。** 日本人全員にVisitorビザを要求する説明と、全員がETAだけでよいという説明のどちらにもまとめません。[ETAの案内](https://www.gov.uk/eta/what-you-can-cannot-do)、[ETA規則](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-electronic-travel-authorisation)
+**日本の旅券でも、ETAをrefusedとされた場合や、過去の入国歴・犯罪歴等の事情に応じ、Standard Visitor等の事前ビザ申請を確認することがあります。** 日本人全員にVisitorビザが必要なわけでも、全員がETAだけで渡航できるわけでもありません。[ETAの案内](https://www.gov.uk/eta/what-you-can-cannot-do)、[ETA規則](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-electronic-travel-authorisation)
 
 対象は、通常の旅行案内だけでは自分の手続きが分からない方です。Visitorでできる目的かを先に確認し、そのうえで必要な事前申請を選びます。
 

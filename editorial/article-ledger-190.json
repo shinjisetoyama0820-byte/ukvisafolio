@@ -15,7 +15,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-17-spouse-application-guide-draft.md"
+      "path": "content/articles/2026-11-17-spouse-application-guide-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "1-02",
@@ -30,7 +36,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-17-spouse-japanese-documents-draft.md"
+      "path": "content/articles/2026-11-17-spouse-japanese-documents-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "1-03",
@@ -45,7 +57,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-17-spouse-married-in-japan-draft.md"
+      "path": "content/articles/2026-11-17-spouse-married-in-japan-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "1-04",
@@ -60,7 +78,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-17-spouse-translation-draft.md"
+      "path": "content/articles/2026-11-17-spouse-translation-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "1-05",
@@ -75,7 +99,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-17-spouse-fees-ihs-draft.md"
+      "path": "content/articles/2026-11-17-spouse-fees-ihs-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "1-06",
@@ -90,7 +120,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-17-spouse-income-draft.md"
+      "path": "content/articles/2026-11-17-spouse-income-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "1-07",
@@ -105,7 +141,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-17-spouse-japanese-savings-evidence-draft.md"
+      "path": "content/articles/2026-11-17-spouse-japanese-savings-evidence-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "1-08",
@@ -120,7 +162,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-17-spouse-english-requirement-draft.md"
+      "path": "content/articles/2026-11-17-spouse-english-requirement-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "1-09",
@@ -135,7 +183,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-17-spouse-long-distance-evidence-draft.md"
+      "path": "content/articles/2026-11-17-spouse-long-distance-evidence-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "1-10",
@@ -150,7 +204,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-17-spouse-line-photos-travel-draft.md"
+      "path": "content/articles/2026-11-17-spouse-line-photos-travel-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "1-11",
@@ -165,7 +225,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-17-spouse-japan-income-draft.md"
+      "path": "content/articles/2026-11-17-spouse-japan-income-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "1-12",
@@ -180,7 +246,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-17-spouse-accommodation-draft.md"
+      "path": "content/articles/2026-11-17-spouse-accommodation-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "1-13",
@@ -195,7 +267,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-17-spouse-processing-timeline-draft.md"
+      "path": "content/articles/2026-11-17-spouse-processing-timeline-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "1-14",
@@ -210,7 +288,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-17-spouse-travel-pending-draft.md"
+      "path": "content/articles/2026-11-17-spouse-travel-pending-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "1-15",
@@ -225,7 +309,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-17-spouse-refusal-documents-draft.md"
+      "path": "content/articles/2026-11-17-spouse-refusal-documents-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "1-16",
@@ -240,7 +330,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-17-spouse-form-check-draft.md"
+      "path": "content/articles/2026-11-17-spouse-form-check-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "1-17",
@@ -255,7 +351,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-17-spouse-working-after-grant-draft.md"
+      "path": "content/articles/2026-11-17-spouse-working-after-grant-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "1-18",
@@ -270,7 +372,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-17-spouse-renewal-draft.md"
+      "path": "content/articles/2026-11-17-spouse-renewal-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "1-19",
@@ -285,7 +393,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-17-spouse-ilr-roadmap-draft.md"
+      "path": "content/articles/2026-11-17-spouse-ilr-roadmap-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "1-20",
@@ -300,7 +414,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-17-spouse-diy-preparation-draft.md"
+      "path": "content/articles/2026-11-17-spouse-diy-preparation-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "2-01",
@@ -315,7 +435,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-17-fiance-application-guide-draft.md"
+      "path": "content/articles/2026-11-17-fiance-application-guide-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "2-02",
@@ -330,7 +456,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-17-fiance-required-documents-draft.md"
+      "path": "content/articles/2026-11-17-fiance-required-documents-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "2-03",
@@ -345,7 +477,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-17-fiance-marriage-visitor-comparison-draft.md"
+      "path": "content/articles/2026-11-17-fiance-marriage-visitor-comparison-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "2-04",
@@ -360,7 +498,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-17-fiance-fees-and-spouse-switch-draft.md"
+      "path": "content/articles/2026-11-17-fiance-fees-and-spouse-switch-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "2-05",
@@ -375,7 +519,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-17-fiance-six-month-timeline-draft.md"
+      "path": "content/articles/2026-11-17-fiance-six-month-timeline-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "2-06",
@@ -390,7 +540,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-fiance-marriage-notice-japan-draft.md"
+      "path": "content/articles/2026-11-18-fiance-marriage-notice-japan-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "2-07",
@@ -405,7 +561,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-fiance-certificate-no-impediment-draft.md"
+      "path": "content/articles/2026-11-18-fiance-certificate-no-impediment-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "2-08",
@@ -420,7 +582,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-fiance-intention-to-marry-evidence-draft.md"
+      "path": "content/articles/2026-11-18-fiance-intention-to-marry-evidence-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "2-09",
@@ -435,7 +603,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-fiance-long-distance-relationship-draft.md"
+      "path": "content/articles/2026-11-18-fiance-long-distance-relationship-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "2-10",
@@ -450,7 +624,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-fiance-financial-requirement-draft.md"
+      "path": "content/articles/2026-11-18-fiance-financial-requirement-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "2-11",
@@ -465,7 +645,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-fiance-english-language-evidence-draft.md"
+      "path": "content/articles/2026-11-18-fiance-english-language-evidence-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "2-12",
@@ -480,7 +666,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-fiance-previous-divorce-evidence-draft.md"
+      "path": "content/articles/2026-11-18-fiance-previous-divorce-evidence-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "2-13",
@@ -495,7 +687,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-fiance-processing-and-wedding-date-draft.md"
+      "path": "content/articles/2026-11-18-fiance-processing-and-wedding-date-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "2-14",
@@ -510,7 +708,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-fiance-working-remote-job-search-draft.md"
+      "path": "content/articles/2026-11-18-fiance-working-remote-job-search-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "2-15",
@@ -525,7 +729,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-fiance-nhs-ihs-medical-insurance-draft.md"
+      "path": "content/articles/2026-11-18-fiance-nhs-ihs-medical-insurance-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "2-16",
@@ -540,7 +750,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-fiance-switch-to-spouse-process-draft.md"
+      "path": "content/articles/2026-11-18-fiance-switch-to-spouse-process-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "2-17",
@@ -555,7 +771,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-fiance-marriage-delay-extension-draft.md"
+      "path": "content/articles/2026-11-18-fiance-marriage-delay-extension-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "2-18",
@@ -570,7 +792,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-fiance-japan-trip-reentry-draft.md"
+      "path": "content/articles/2026-11-18-fiance-japan-trip-reentry-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "2-19",
@@ -585,7 +813,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-fiance-refusal-and-consistency-draft.md"
+      "path": "content/articles/2026-11-18-fiance-refusal-and-consistency-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "2-20",
@@ -600,7 +834,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-fiance-stratovisa-preparation-checklist-draft.md"
+      "path": "content/articles/2026-11-18-fiance-stratovisa-preparation-checklist-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "3-01",
@@ -615,7 +855,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-unmarried-application-guide-draft.md"
+      "path": "content/articles/2026-11-18-unmarried-application-guide-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "3-02",
@@ -630,7 +876,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-unmarried-two-years-without-cohabitation-draft.md"
+      "path": "content/articles/2026-11-18-unmarried-two-years-without-cohabitation-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "3-03",
@@ -645,7 +897,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-unmarried-relationship-period-timeline-draft.md"
+      "path": "content/articles/2026-11-18-unmarried-relationship-period-timeline-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "3-04",
@@ -660,7 +918,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-unmarried-fiance-comparison-draft.md"
+      "path": "content/articles/2026-11-18-unmarried-fiance-comparison-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "3-05",
@@ -675,7 +939,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-unmarried-spouse-comparison-draft.md"
+      "path": "content/articles/2026-11-18-unmarried-spouse-comparison-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "3-06",
@@ -690,7 +960,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-unmarried-japan-uk-long-distance-draft.md"
+      "path": "content/articles/2026-11-18-unmarried-japan-uk-long-distance-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "3-07",
@@ -705,7 +981,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-unmarried-required-documents-draft.md"
+      "path": "content/articles/2026-11-18-unmarried-required-documents-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "3-08",
@@ -720,7 +1002,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-unmarried-line-flights-remittances-draft.md"
+      "path": "content/articles/2026-11-18-unmarried-line-flights-remittances-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "3-09",
@@ -735,7 +1023,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-unmarried-japanese-residence-records-draft.md"
+      "path": "content/articles/2026-11-18-unmarried-japanese-residence-records-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "3-10",
@@ -750,7 +1044,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-unmarried-without-joint-bank-account-draft.md"
+      "path": "content/articles/2026-11-18-unmarried-without-joint-bank-account-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "3-11",
@@ -765,7 +1065,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-unmarried-build-relationship-timeline-draft.md"
+      "path": "content/articles/2026-11-18-unmarried-build-relationship-timeline-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "3-12",
@@ -780,7 +1086,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-unmarried-relationship-photos-number-draft.md"
+      "path": "content/articles/2026-11-18-unmarried-relationship-photos-number-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "3-13",
@@ -795,7 +1107,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-unmarried-japan-cohabitation-move-to-uk-draft.md"
+      "path": "content/articles/2026-11-18-unmarried-japan-cohabitation-move-to-uk-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "3-14",
@@ -810,7 +1128,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-unmarried-reasons-cannot-live-together-draft.md"
+      "path": "content/articles/2026-11-18-unmarried-reasons-cannot-live-together-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "3-15",
@@ -825,7 +1149,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-unmarried-financial-requirement-draft.md"
+      "path": "content/articles/2026-11-18-unmarried-financial-requirement-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "3-16",
@@ -840,7 +1170,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-unmarried-english-and-application-costs-draft.md"
+      "path": "content/articles/2026-11-18-unmarried-english-and-application-costs-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "3-17",
@@ -855,7 +1191,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-unmarried-relationship-evidence-consistency-draft.md"
+      "path": "content/articles/2026-11-18-unmarried-relationship-evidence-consistency-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "3-18",
@@ -870,7 +1212,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-unmarried-marriage-after-grant-draft.md"
+      "path": "content/articles/2026-11-18-unmarried-marriage-after-grant-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "3-19",
@@ -885,7 +1233,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-unmarried-settlement-roadmap-draft.md"
+      "path": "content/articles/2026-11-18-unmarried-settlement-roadmap-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "3-20",
@@ -900,7 +1254,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-unmarried-stratovisa-document-management-draft.md"
+      "path": "content/articles/2026-11-18-unmarried-stratovisa-document-management-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "4-01",
@@ -915,7 +1275,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-skilled-application-guide-draft.md"
+      "path": "content/articles/2026-11-18-skilled-application-guide-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "4-02",
@@ -930,7 +1296,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-skilled-required-documents-draft.md"
+      "path": "content/articles/2026-11-18-skilled-required-documents-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "4-03",
@@ -945,7 +1317,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-skilled-eligible-occupations-draft.md"
+      "path": "content/articles/2026-11-18-skilled-eligible-occupations-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "4-04",
@@ -960,7 +1338,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-skilled-find-sponsor-employers-draft.md"
+      "path": "content/articles/2026-11-18-skilled-find-sponsor-employers-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "4-05",
@@ -975,7 +1359,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-skilled-salary-going-rate-exceptions-draft.md"
+      "path": "content/articles/2026-11-18-skilled-salary-going-rate-exceptions-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "4-06",
@@ -990,7 +1380,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-skilled-degree-experience-professional-registration-draft.md"
+      "path": "content/articles/2026-11-18-skilled-degree-experience-professional-registration-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "4-07",
@@ -1005,7 +1401,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-skilled-english-language-evidence-draft.md"
+      "path": "content/articles/2026-11-18-skilled-english-language-evidence-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "4-08",
@@ -1020,7 +1422,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-skilled-certificate-of-sponsorship-draft.md"
+      "path": "content/articles/2026-11-18-skilled-certificate-of-sponsorship-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "4-09",
@@ -1035,7 +1443,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-skilled-application-fees-ihs-budget-draft.md"
+      "path": "content/articles/2026-11-18-skilled-application-fees-ihs-budget-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "4-10",
@@ -1050,7 +1464,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-skilled-maintenance-funds-bank-evidence-draft.md"
+      "path": "content/articles/2026-11-18-skilled-maintenance-funds-bank-evidence-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "4-11",
@@ -1065,7 +1485,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-skilled-cv-cover-letter-japanese-career-draft.md"
+      "path": "content/articles/2026-11-18-skilled-cv-cover-letter-japanese-career-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "4-12",
@@ -1080,7 +1506,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-skilled-after-job-offer-application-plan-draft.md"
+      "path": "content/articles/2026-11-18-skilled-after-job-offer-application-plan-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "4-13",
@@ -1095,7 +1527,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-skilled-processing-time-start-date-draft.md"
+      "path": "content/articles/2026-11-18-skilled-processing-time-start-date-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "4-14",
@@ -1110,7 +1548,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-skilled-change-job-or-employer-draft.md"
+      "path": "content/articles/2026-11-18-skilled-change-job-or-employer-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "4-15",
@@ -1125,7 +1569,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-skilled-job-loss-permission-and-next-steps-draft.md"
+      "path": "content/articles/2026-11-18-skilled-job-loss-permission-and-next-steps-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "4-16",
@@ -1140,7 +1590,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-skilled-additional-work-freelance-draft.md"
+      "path": "content/articles/2026-11-18-skilled-additional-work-freelance-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "4-17",
@@ -1155,7 +1611,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-skilled-dependant-family-eligibility-and-costs-draft.md"
+      "path": "content/articles/2026-11-18-skilled-dependant-family-eligibility-and-costs-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "4-18",
@@ -1170,7 +1632,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-skilled-settlement-five-year-roadmap-draft.md"
+      "path": "content/articles/2026-11-18-skilled-settlement-five-year-roadmap-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "4-19",
@@ -1185,7 +1653,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-skilled-refusal-risk-document-consistency-draft.md"
+      "path": "content/articles/2026-11-18-skilled-refusal-risk-document-consistency-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "4-20",
@@ -1200,7 +1674,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-skilled-stratovisa-application-preparation-draft.md"
+      "path": "content/articles/2026-11-18-skilled-stratovisa-application-preparation-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "5-01",
@@ -1215,7 +1695,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-student-application-guide-draft.md"
+      "path": "content/articles/2026-11-18-student-application-guide-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "5-02",
@@ -1230,7 +1716,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-student-required-documents-draft.md"
+      "path": "content/articles/2026-11-18-student-required-documents-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "5-03",
@@ -1245,7 +1737,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-student-cas-checklist-draft.md"
+      "path": "content/articles/2026-11-18-student-cas-checklist-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "5-04",
@@ -1260,7 +1758,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-student-fees-ihs-study-budget-draft.md"
+      "path": "content/articles/2026-11-18-student-fees-ihs-study-budget-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "5-05",
@@ -1275,7 +1779,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-student-japanese-differential-financial-evidence-draft.md"
+      "path": "content/articles/2026-11-18-student-japanese-differential-financial-evidence-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "5-06",
@@ -1290,7 +1800,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-student-funds-28-day-rule-draft.md"
+      "path": "content/articles/2026-11-18-student-funds-28-day-rule-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "5-07",
@@ -1305,7 +1821,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-student-english-test-university-assessment-draft.md"
+      "path": "content/articles/2026-11-18-student-english-test-university-assessment-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "5-08",
@@ -1320,7 +1842,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-student-application-window-timeline-draft.md"
+      "path": "content/articles/2026-11-18-student-application-window-timeline-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "5-09",
@@ -1335,7 +1863,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-student-application-form-japanese-checklist-draft.md"
+      "path": "content/articles/2026-11-18-student-application-form-japanese-checklist-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "5-10",
@@ -1350,7 +1884,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-student-processing-delay-before-travel-draft.md"
+      "path": "content/articles/2026-11-18-student-processing-delay-before-travel-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "5-11",
@@ -1365,7 +1905,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-student-language-study-route-comparison-draft.md"
+      "path": "content/articles/2026-11-18-student-language-study-route-comparison-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "5-12",
@@ -1380,7 +1926,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-student-parent-bank-funds-consent-draft.md"
+      "path": "content/articles/2026-11-18-student-parent-bank-funds-consent-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "5-13",
@@ -1395,7 +1947,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-student-refusal-prevention-cas-funds-form-draft.md"
+      "path": "content/articles/2026-11-18-student-refusal-prevention-cas-funds-form-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "5-14",
@@ -1410,7 +1968,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-student-part-time-work-hours-restrictions-draft.md"
+      "path": "content/articles/2026-11-18-student-part-time-work-hours-restrictions-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "5-15",
@@ -1425,7 +1989,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-student-freelance-side-business-restrictions-draft.md"
+      "path": "content/articles/2026-11-18-student-freelance-side-business-restrictions-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "5-16",
@@ -1440,7 +2010,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-student-dependants-research-postgraduate-draft.md"
+      "path": "content/articles/2026-11-18-student-dependants-research-postgraduate-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "5-17",
@@ -1455,7 +2031,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-student-changing-university-cas-permission-draft.md"
+      "path": "content/articles/2026-11-18-student-changing-university-cas-permission-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "5-18",
@@ -1470,7 +2052,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-student-expiry-extension-return-switch-draft.md"
+      "path": "content/articles/2026-11-18-student-expiry-extension-return-switch-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "5-19",
@@ -1485,7 +2073,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-student-graduate-duration-skilled-worker-transition-draft.md"
+      "path": "content/articles/2026-11-18-student-graduate-duration-skilled-worker-transition-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "5-20",
@@ -1500,7 +2094,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-student-self-application-stratovisa-document-workflow-draft.md"
+      "path": "content/articles/2026-11-18-student-self-application-stratovisa-document-workflow-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "6-01",
@@ -1515,7 +2115,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-health-application-guide-draft.md"
+      "path": "content/articles/2026-11-18-health-application-guide-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "6-02",
@@ -1530,7 +2136,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-health-required-documents-draft.md"
+      "path": "content/articles/2026-11-18-health-required-documents-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "6-03",
@@ -1545,7 +2157,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-health-japanese-nurse-nmc-registration-draft.md"
+      "path": "content/articles/2026-11-18-health-japanese-nurse-nmc-registration-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "6-04",
@@ -1560,7 +2178,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-health-japanese-doctor-gmc-registration-draft.md"
+      "path": "content/articles/2026-11-18-health-japanese-doctor-gmc-registration-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "6-05",
@@ -1575,7 +2199,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-health-japanese-care-worker-overseas-restrictions-draft.md"
+      "path": "content/articles/2026-11-18-health-japanese-care-worker-overseas-restrictions-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "6-06",
@@ -1590,7 +2220,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-health-eligible-occupations-code-check-draft.md"
+      "path": "content/articles/2026-11-18-health-eligible-occupations-code-check-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "6-07",
@@ -1605,7 +2241,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-health-nhs-jobs-japanese-applicants-draft.md"
+      "path": "content/articles/2026-11-18-health-nhs-jobs-japanese-applicants-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "6-08",
@@ -1620,7 +2262,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-health-english-ielts-oet-registration-visa-draft.md"
+      "path": "content/articles/2026-11-18-health-english-ielts-oet-registration-visa-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "6-09",
@@ -1635,7 +2283,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-health-salary-national-pay-scales-draft.md"
+      "path": "content/articles/2026-11-18-health-salary-national-pay-scales-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "6-10",
@@ -1650,7 +2304,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-health-fees-ihs-maintenance-budget-draft.md"
+      "path": "content/articles/2026-11-18-health-fees-ihs-maintenance-budget-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "6-11",
@@ -1665,7 +2325,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-health-qualification-certified-translations-draft.md"
+      "path": "content/articles/2026-11-18-health-qualification-certified-translations-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "6-12",
@@ -1680,7 +2346,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-health-cos-sponsor-record-checklist-draft.md"
+      "path": "content/articles/2026-11-18-health-cos-sponsor-record-checklist-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "6-13",
@@ -1695,7 +2367,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-health-processing-timeline-offer-to-arrival-draft.md"
+      "path": "content/articles/2026-11-18-health-processing-timeline-offer-to-arrival-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "6-14",
@@ -1710,7 +2388,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-health-recruitment-scam-sponsor-cos-check-draft.md"
+      "path": "content/articles/2026-11-18-health-recruitment-scam-sponsor-cos-check-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "6-15",
@@ -1725,7 +2409,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-health-dependants-occupation-restrictions-draft.md"
+      "path": "content/articles/2026-11-18-health-dependants-occupation-restrictions-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "6-16",
@@ -1740,7 +2430,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-health-changing-employer-nhs-transfer-draft.md"
+      "path": "content/articles/2026-11-18-health-changing-employer-nhs-transfer-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "6-17",
@@ -1755,7 +2451,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-health-nurse-working-conditions-shifts-leave-draft.md"
+      "path": "content/articles/2026-11-18-health-nurse-working-conditions-shifts-leave-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "6-18",
@@ -1770,7 +2472,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-health-additional-work-bank-shifts-draft.md"
+      "path": "content/articles/2026-11-18-health-additional-work-bank-shifts-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "6-19",
@@ -1785,7 +2493,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-health-settlement-residence-salary-records-draft.md"
+      "path": "content/articles/2026-11-18-health-settlement-residence-salary-records-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "6-20",
@@ -1800,7 +2514,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-health-stratovisa-health-document-workflow-draft.md"
+      "path": "content/articles/2026-11-18-health-stratovisa-health-document-workflow-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "7-01",
@@ -1815,7 +2535,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-visitor-japanese-entry-eta-visitor-difference-draft.md"
+      "path": "content/articles/2026-11-18-visitor-japanese-entry-eta-visitor-difference-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "7-02",
@@ -1830,7 +2556,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-visitor-eta-application-japanese-passport-draft.md"
+      "path": "content/articles/2026-11-18-visitor-eta-application-japanese-passport-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "7-03",
@@ -1845,7 +2577,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-visitor-eta-fee-validity-application-time-draft.md"
+      "path": "content/articles/2026-11-18-visitor-eta-fee-validity-application-time-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "7-04",
@@ -1860,7 +2598,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-visitor-eta-not-approved-rejected-refused-draft.md"
+      "path": "content/articles/2026-11-18-visitor-eta-not-approved-rejected-refused-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "7-05",
@@ -1875,7 +2619,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-visitor-eta-passport-renewal-new-application-draft.md"
+      "path": "content/articles/2026-11-18-visitor-eta-passport-renewal-new-application-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "7-06",
@@ -1890,7 +2640,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-visitor-border-questions-purpose-return-accommodation-draft.md"
+      "path": "content/articles/2026-11-18-visitor-border-questions-purpose-return-accommodation-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "7-07",
@@ -1905,7 +2661,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-visitor-return-ticket-one-way-travel-draft.md"
+      "path": "content/articles/2026-11-18-visitor-return-ticket-one-way-travel-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "7-08",
@@ -1920,7 +2682,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-visitor-six-month-visitor-stay-conditions-draft.md"
+      "path": "content/articles/2026-11-18-visitor-six-month-visitor-stay-conditions-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "7-09",
@@ -1935,7 +2703,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-visitor-repeated-visits-main-home-rules-draft.md"
+      "path": "content/articles/2026-11-18-visitor-repeated-visits-main-home-rules-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "7-10",
@@ -1950,7 +2724,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-visitor-visiting-romantic-partner-home-draft.md"
+      "path": "content/articles/2026-11-18-visitor-visiting-romantic-partner-home-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "7-11",
@@ -1965,7 +2745,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-visitor-staying-family-friends-invitation-draft.md"
+      "path": "content/articles/2026-11-18-visitor-staying-family-friends-invitation-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "7-12",
@@ -1980,7 +2766,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-visitor-remote-work-overseas-employment-draft.md"
+      "path": "content/articles/2026-11-18-visitor-remote-work-overseas-employment-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "7-13",
@@ -1995,7 +2787,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-visitor-business-trip-meetings-on-site-work-draft.md"
+      "path": "content/articles/2026-11-18-visitor-business-trip-meetings-on-site-work-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "7-14",
@@ -2010,7 +2808,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-visitor-short-study-eta-visitor-student-routes-draft.md"
+      "path": "content/articles/2026-11-18-visitor-short-study-eta-visitor-student-routes-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "7-15",
@@ -2025,7 +2829,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-visitor-work-unpaid-volunteering-limits-draft.md"
+      "path": "content/articles/2026-11-18-visitor-work-unpaid-volunteering-limits-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "7-16",
@@ -2040,7 +2850,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-visitor-marriage-visitor-not-eta-draft.md"
+      "path": "content/articles/2026-11-18-visitor-marriage-visitor-not-eta-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "7-17",
@@ -2055,7 +2871,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-visitor-visitor-to-family-switch-restriction-draft.md"
+      "path": "content/articles/2026-11-18-visitor-visitor-to-family-switch-restriction-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "7-18",
@@ -2070,7 +2892,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-visitor-entry-refusal-notice-next-steps-draft.md"
+      "path": "content/articles/2026-11-18-visitor-entry-refusal-notice-next-steps-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "7-19",
@@ -2085,7 +2913,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-visitor-visitor-nhs-travel-insurance-draft.md"
+      "path": "content/articles/2026-11-18-visitor-visitor-nhs-travel-insurance-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "7-20",
@@ -2100,7 +2934,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-visitor-japanese-standard-visitor-visa-when-needed-draft.md"
+      "path": "content/articles/2026-11-18-visitor-japanese-standard-visitor-visa-when-needed-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "8-01",
@@ -2115,7 +2955,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-life-first-30-days-arrival-draft.md"
+      "path": "content/articles/2026-11-18-life-first-30-days-arrival-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "8-02",
@@ -2130,7 +2976,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-life-bank-account-address-evidence-draft.md"
+      "path": "content/articles/2026-11-18-life-bank-account-address-evidence-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "8-03",
@@ -2145,7 +2997,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-life-renting-viewing-deposit-draft.md"
+      "path": "content/articles/2026-11-18-life-renting-viewing-deposit-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "8-04",
@@ -2160,7 +3018,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-life-bills-included-rent-costs-draft.md"
+      "path": "content/articles/2026-11-18-life-bills-included-rent-costs-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "8-05",
@@ -2175,7 +3039,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-life-council-tax-liability-discounts-draft.md"
+      "path": "content/articles/2026-11-18-life-council-tax-liability-discounts-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "8-06",
@@ -2190,7 +3060,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-life-national-insurance-number-work-draft.md"
+      "path": "content/articles/2026-11-18-life-national-insurance-number-work-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "8-07",
@@ -2205,7 +3081,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-life-evisa-ukvi-share-code-draft.md"
+      "path": "content/articles/2026-11-18-life-evisa-ukvi-share-code-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "8-08",
@@ -2220,7 +3102,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-life-japanese-driving-licence-uk-use-draft.md"
+      "path": "content/articles/2026-11-18-life-japanese-driving-licence-uk-use-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "8-09",
@@ -2235,7 +3123,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-life-mobile-sim-esim-japanese-phone-draft.md"
+      "path": "content/articles/2026-11-18-life-mobile-sim-esim-japanese-phone-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "8-10",
@@ -2250,7 +3144,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-life-moving-packing-30-items-draft.md"
+      "path": "content/articles/2026-11-18-life-moving-packing-30-items-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "8-11",
@@ -2265,7 +3165,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-life-monthly-budget-200000-yen-draft.md"
+      "path": "content/articles/2026-11-18-life-monthly-budget-200000-yen-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "8-12",
@@ -2280,7 +3186,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-life-supermarket-unit-price-comparison-draft.md"
+      "path": "content/articles/2026-11-18-life-supermarket-unit-price-comparison-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "8-13",
@@ -2295,7 +3207,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-life-energy-bill-contract-winter-draft.md"
+      "path": "content/articles/2026-11-18-life-energy-bill-contract-winter-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "8-14",
@@ -2310,7 +3228,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-life-payslip-tax-ni-net-pay-draft.md"
+      "path": "content/articles/2026-11-18-life-payslip-tax-ni-net-pay-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "8-15",
@@ -2325,7 +3249,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-life-minimum-real-living-wage-draft.md"
+      "path": "content/articles/2026-11-18-life-minimum-real-living-wage-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "8-16",
@@ -2340,7 +3270,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-life-japanese-income-uk-tax-basics-draft.md"
+      "path": "content/articles/2026-11-18-life-japanese-income-uk-tax-basics-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "8-17",
@@ -2355,7 +3291,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-life-credit-history-new-resident-draft.md"
+      "path": "content/articles/2026-11-18-life-credit-history-new-resident-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "8-18",
@@ -2370,7 +3312,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-life-money-transfer-uk-japan-draft.md"
+      "path": "content/articles/2026-11-18-life-money-transfer-uk-japan-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "8-19",
@@ -2385,7 +3333,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-life-state-pension-ni-japan-comparison-draft.md"
+      "path": "content/articles/2026-11-18-life-state-pension-ni-japan-comparison-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "8-20",
@@ -2400,7 +3354,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-life-job-sites-indeed-linkedin-nhs-draft.md"
+      "path": "content/articles/2026-11-18-life-job-sites-indeed-linkedin-nhs-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "8-21",
@@ -2415,7 +3375,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-life-nhs-japanese-healthcare-difference-draft.md"
+      "path": "content/articles/2026-11-18-life-nhs-japanese-healthcare-difference-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "8-22",
@@ -2430,7 +3396,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-life-gp-registration-appointment-draft.md"
+      "path": "content/articles/2026-11-18-life-gp-registration-appointment-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "8-23",
@@ -2445,7 +3417,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-life-cold-pharmacy-gp-111-draft.md"
+      "path": "content/articles/2026-11-18-life-cold-pharmacy-gp-111-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "8-24",
@@ -2460,7 +3438,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-life-emergency-999-112-111-draft.md"
+      "path": "content/articles/2026-11-18-life-emergency-999-112-111-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "8-25",
@@ -2475,7 +3459,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-life-nhs-private-dental-appointments-draft.md"
+      "path": "content/articles/2026-11-18-life-nhs-private-dental-appointments-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "8-26",
@@ -2490,7 +3480,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-life-pregnancy-midwife-nhs-costs-draft.md"
+      "path": "content/articles/2026-11-18-life-pregnancy-midwife-nhs-costs-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "8-27",
@@ -2505,7 +3501,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-life-prescription-medicine-import-continuity-draft.md"
+      "path": "content/articles/2026-11-18-life-prescription-medicine-import-continuity-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "8-28",
@@ -2520,7 +3522,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-life-tap-water-hard-soft-draft.md"
+      "path": "content/articles/2026-11-18-life-tap-water-hard-soft-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "8-29",
@@ -2535,7 +3543,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-life-winter-health-daylight-home-draft.md"
+      "path": "content/articles/2026-11-18-life-winter-health-daylight-home-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "8-30",
@@ -2550,7 +3564,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-life-theft-fraud-police-card-stop-draft.md"
+      "path": "content/articles/2026-11-18-life-theft-fraud-police-card-stop-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "8-31",
@@ -2565,7 +3585,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-life-sorry-meaning-polite-english-draft.md"
+      "path": "content/articles/2026-11-18-life-sorry-meaning-polite-english-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "8-32",
@@ -2580,7 +3606,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-life-indirect-refusals-interesting-maybe-draft.md"
+      "path": "content/articles/2026-11-18-life-indirect-refusals-interesting-maybe-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "8-33",
@@ -2595,7 +3627,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-life-pub-order-pay-tipping-draft.md"
+      "path": "content/articles/2026-11-18-life-pub-order-pay-tipping-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "8-34",
@@ -2610,7 +3648,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-life-tipping-service-charge-draft.md"
+      "path": "content/articles/2026-11-18-life-tipping-service-charge-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "8-35",
@@ -2625,7 +3669,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-life-carpet-housing-cleaning-draft.md"
+      "path": "content/articles/2026-11-18-life-carpet-housing-cleaning-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "8-36",
@@ -2640,7 +3690,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-life-weather-small-talk-draft.md"
+      "path": "content/articles/2026-11-18-life-weather-small-talk-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "8-37",
@@ -2655,7 +3711,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-life-christmas-shops-transport-healthcare-draft.md"
+      "path": "content/articles/2026-11-18-life-christmas-shops-transport-healthcare-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "8-38",
@@ -2670,7 +3732,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-life-bank-holiday-work-school-draft.md"
+      "path": "content/articles/2026-11-18-life-bank-holiday-work-school-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "8-39",
@@ -2685,7 +3753,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-life-laundry-indoor-drying-damp-draft.md"
+      "path": "content/articles/2026-11-18-life-laundry-indoor-drying-damp-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "8-40",
@@ -2700,7 +3774,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-life-making-friends-community-hobbies-draft.md"
+      "path": "content/articles/2026-11-18-life-making-friends-community-hobbies-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "8-41",
@@ -2715,7 +3795,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-life-children-state-school-admission-draft.md"
+      "path": "content/articles/2026-11-18-life-children-state-school-admission-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "8-42",
@@ -2730,7 +3816,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-life-nursery-childminder-childcare-support-draft.md"
+      "path": "content/articles/2026-11-18-life-nursery-childminder-childcare-support-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "8-43",
@@ -2745,7 +3837,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-life-birth-registration-japanese-nationality-draft.md"
+      "path": "content/articles/2026-11-18-life-birth-registration-japanese-nationality-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "8-44",
@@ -2760,7 +3858,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-life-dvla-japanese-licence-exchange-draft.md"
+      "path": "content/articles/2026-11-18-life-dvla-japanese-licence-exchange-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "8-45",
@@ -2775,7 +3879,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-life-london-contactless-oyster-fares-draft.md"
+      "path": "content/articles/2026-11-18-life-london-contactless-oyster-fares-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "8-46",
@@ -2790,7 +3900,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-life-rail-advance-offpeak-railcard-draft.md"
+      "path": "content/articles/2026-11-18-life-rail-advance-offpeak-railcard-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "8-47",
@@ -2805,7 +3921,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-life-manchester-birmingham-leeds-compare-draft.md"
+      "path": "content/articles/2026-11-18-life-manchester-birmingham-leeds-compare-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "8-48",
@@ -2820,7 +3942,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-life-temporary-return-japan-evisa-draft.md"
+      "path": "content/articles/2026-11-18-life-temporary-return-japan-evisa-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "8-49",
@@ -2835,7 +3963,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-life-japan-overseas-moving-register-pension-draft.md"
+      "path": "content/articles/2026-11-18-life-japan-overseas-moving-register-pension-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     },
     {
       "id": "8-50",
@@ -2850,7 +3984,13 @@
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
       },
-      "path": "content/articles/2026-11-18-life-settle-uk-or-return-japan-draft.md"
+      "path": "content/articles/2026-11-18-life-settle-uk-or-return-japan-draft.md",
+      "assistant_japanese_review": {
+        "date": "2026-11-18",
+        "status": "completed",
+        "report": "editorial/japanese-language-review-2026-11-18.json",
+        "human_native_certification": false
+      }
     }
   ],
   "existing_drafts_to_reconcile": [],

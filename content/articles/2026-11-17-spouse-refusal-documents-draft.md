@@ -16,9 +16,9 @@ qa_compliance: "BLOCKED"
 
 **英国配偶者ビザの不許可は、「写真が少ない」「書類を一枚忘れた」など一つの一般論で説明できません。** 拒否通知の指摘と、実際に提出した資料を対応させることが出発点です。申立ての権利や期限、再申請の扱いは、通知内容と個別事情に基づく確認が必要です。
 
-公式根拠：[不服申立ての案内](https://www.gov.uk/immigration-asylum-tribunal)、[指定証拠の規則](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-fm-se-family-members-specified-evidence)。確認日：2026年11月17日。
+公式根拠：[不服申立ての案内](https://www.gov.uk/immigration-asylum-tribunal)、[指定証拠の規則](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-fm-se-family-members-specified-evidence)。
 
-対象は、申請前に資料の整合性を見直したい人と、不許可通知を受け資料を整理したい人です。「主な理由」は公式要件の論点として扱い、不許可の頻度やランキングを推測して示しません。
+対象は、申請前に資料の整合性を見直したい人と、不許可通知を受け資料を整理したい人です。ここでは、不許可の頻度や順位ではなく、公式要件に沿って見直すポイントを説明します。
 
 ## 1. 条件・証拠・説明を分ける
 
@@ -53,7 +53,7 @@ Appendix FM-SEには、一定の証拠の欠落や形式等について審査官
 | 保存するもの | 発行元 | 対象者 | 日付・期限 | 翻訳 | 公式根拠 |
 | --- | --- | --- | --- | --- | --- |
 | 拒否通知の全体 | Home Office | 不許可となった人 | 通知日、記載期限 | 内容を正確に把握 | [申立ての案内](https://www.gov.uk/immigration-asylum-tribunal) |
-| 提出済み資料 | 各発行元 | その申請の資料 | 実際に出した版を保存 | 原本と訳文を対応 | [証拠規則](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-fm-se-family-members-specified-evidence) |
+| 提出済み資料 | 各発行元 | その申請の資料 | 実際に出した版を保存 | 原本と訳文を照合 | [証拠規則](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-fm-se-family-members-specified-evidence) |
 | 追加照会と回答 | UKVI・本人 | 照会を受けた人 | 指定期限と回答日 | 添付の訳文も保管 | [同上](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-fm-se-family-members-specified-evidence) |
 | 指摘と原本の対応メモ | 本人 | 専門家へ相談する人 | 作成・確認日 | 管理用メモ | [相談先](https://www.gov.uk/find-an-immigration-adviser) |
 
@@ -82,7 +82,7 @@ Appendix FM-SEには、一定の証拠の欠落や形式等について審査官
 
 日本と英国で集めたファイルをまとめて管理したい方には、書類整理ツールStratovisa（ストラビ）という方法があります。GOV.UKに基づくリストで項目を確認し、書類をアップロードして準備の進み具合を整理できます。
 
-チェックリスト、質問への回答、アップロード、Personal statementの作業は無料で、カード登録は不要です。カバーレターや整理済みZIPなどの完成パッケージは、ビザ種類ごとの一回払いで利用します。月額制ではなく、料金は居住国によって異なります。
+チェックリスト、質問への回答、アップロード、事情説明文（Personal statement）の作成・編集は無料で、カード登録は不要です。カバーレターや整理済みZIPなどの完成パッケージは、ビザの種類ごとの一回払いで利用します。月額制ではなく、料金は居住国によって異なります。
 
 - **日本在住の方：TABIDACHI（旅立ち）**。[35％OFFで登録する](https://stratovisa.com/ja/signup?ref=TABIDACHI)
 - **英国在住の方：ISSHONI（一緒に）**。[35％OFFで登録する](https://stratovisa.com/ja/signup?ref=ISSHONI)
@@ -101,7 +101,6 @@ Appendix FM-SEには、一定の証拠の欠落や形式等について審査官
 
 - [主な公式確認先](https://www.gov.uk/immigration-asylum-tribunal)
 
-最終確認日：2026年11月17日。
 
 変更履歴：2026年11月17日、初稿作成。状況別の論点と資料管理の表を追加。
 

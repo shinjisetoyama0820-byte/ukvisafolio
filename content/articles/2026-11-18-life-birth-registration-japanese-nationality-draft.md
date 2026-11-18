@@ -20,7 +20,7 @@ qa_compliance: "BLOCKED"
 
 ## 英国の出生登録を地域で確認
 
-England・Wales・Northern Irelandは通常42日、Scotlandは21日の登録案内があります。実際の登録先と必要資料を自治体等で確認し、両親の記載があるfull birth certificate等を取得します。病院の出生に関する書面と正式な登録証明を混同しません。[英国登録](https://www.gov.uk/register-birth)、[Scotland](https://www.nrscotland.gov.uk/registration/registering-a-birth/)
+England・Wales・Northern Irelandは通常42日以内、Scotlandは21日以内の出生登録が案内されています。実際の登録先と必要資料を自治体等で確認し、両親の記載があるfull birth certificate等を取得します。病院の出生に関する書面と正式な登録証明を混同しません。[英国登録](https://www.gov.uk/register-birth)、[Scotland](https://www.nrscotland.gov.uk/registration/registering-a-birth/)
 
 ## 日本の期限と国籍留保
 
@@ -40,7 +40,7 @@ England・Wales・Northern Irelandは通常42日、Scotlandは21日の登録案�
 | --- | --- | --- |
 | 出生の証明 | 英国の登録当局 | 地域の登録期限、両親の氏名 |
 | 日本の届出 | 在外公館・本籍地 | 3か月、国籍留保、和訳等 |
-| 旅券と在留 | 日本・英国当局 | 本人別の申請、渡航日 |
+| 旅券と在留 | 日本・英国当局 | 本一人ずつの申請、渡航日 |
 
 [制度・サービスの一次情報](https://www.uk.emb-japan.go.jp/itpr_ja/index_000050.html)で、自分の地域と条件に対応させます。
 
