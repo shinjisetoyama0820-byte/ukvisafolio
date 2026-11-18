@@ -2031,780 +2031,835 @@
       "id": "7-16",
       "category": "英国ビジタービザ・ETA",
       "title": "イギリスで結婚したい日本人へ｜ETAではできない婚姻手続きとMarriage Visitor Visa",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-visitor-marriage-visitor-not-eta-draft.md"
     },
     {
       "id": "7-17",
       "category": "英国ビジタービザ・ETA",
       "title": "イギリス観光から配偶者ビザに変更できる？英国滞在中の切替制限",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-visitor-visitor-to-family-switch-restriction-draft.md"
     },
     {
       "id": "7-18",
       "category": "英国ビジタービザ・ETA",
       "title": "イギリスの入国審査で入国拒否されたら？日本人が知っておくべき対応",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-visitor-entry-refusal-notice-next-steps-draft.md"
     },
     {
       "id": "7-19",
       "category": "英国ビジタービザ・ETA",
       "title": "イギリス旅行中に病院へ行ったら？NHS・旅行保険・医療費の基本",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-visitor-visitor-nhs-travel-insurance-draft.md"
     },
     {
       "id": "7-20",
       "category": "英国ビジタービザ・ETA",
       "title": "英国Standard Visitor Visaが必要になる日本人のケース｜申請書類と過去の入国歴",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_source_not_received",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-visitor-japanese-standard-visitor-visa-when-needed-draft.md"
     },
     {
       "id": "8-01",
       "category": "英国生活",
       "title": "イギリス移住後に最初の30日でやること｜銀行・住居・医療・行政手続き",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_context_and_source",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-life-first-30-days-arrival-draft.md"
     },
     {
       "id": "8-02",
       "category": "英国生活",
       "title": "イギリスで銀行口座を開設する方法｜住所証明がない日本人はどうする？",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_context_and_source",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-life-bank-account-address-evidence-draft.md"
     },
     {
       "id": "8-03",
       "category": "英国生活",
       "title": "イギリスで家を借りるには？Right to Rent・保証金・内見の流れ",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_context_and_source",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-life-renting-viewing-deposit-draft.md"
     },
     {
       "id": "8-04",
       "category": "英国生活",
       "title": "イギリスの賃貸でよく見る「Bills Included」とは？家賃以外にかかる費用",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_context_and_source",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-life-bills-included-rent-costs-draft.md"
     },
     {
       "id": "8-05",
       "category": "英国生活",
       "title": "イギリスのCouncil Taxとは？外国人の支払い義務と割引・免除",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_context_and_source",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-life-council-tax-liability-discounts-draft.md"
     },
     {
       "id": "8-06",
       "category": "英国生活",
       "title": "イギリスのNational Insurance Numberとは？取得方法と働き始める際の注意点",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_context_and_source",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-life-national-insurance-number-work-draft.md"
     },
     {
       "id": "8-07",
       "category": "英国生活",
       "title": "イギリスのeVisa・UKVIアカウントの使い方｜在留資格の確認とShare Code",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_context_and_source",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-life-evisa-ukvi-share-code-draft.md"
     },
     {
       "id": "8-08",
       "category": "英国生活",
       "title": "日本の運転免許証でイギリスを運転できる？免許切替と保険の注意点",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_context_and_source",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-life-japanese-driving-licence-uk-use-draft.md"
     },
     {
       "id": "8-09",
       "category": "英国生活",
       "title": "イギリスの携帯電話契約｜日本のスマホを使う方法とSIM・eSIMの選び方",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_context_and_source",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-life-mobile-sim-esim-japanese-phone-draft.md"
     },
     {
       "id": "8-10",
       "category": "英国生活",
       "title": "イギリス移住で日本から持っていくべきもの30選｜現地で買えるもの・買いにくいもの",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_context_and_source",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-life-moving-packing-30-items-draft.md"
     },
     {
       "id": "8-11",
       "category": "英国生活",
       "title": "イギリスで月20万円相当の生活費は足りる？ロンドンと地方都市の家計比較",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_context_and_source",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-life-monthly-budget-200000-yen-draft.md"
     },
     {
       "id": "8-12",
       "category": "英国生活",
       "title": "イギリスのスーパーはどこが安い？Tesco・ALDI・Lidl・Waitroseの使い分け",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_context_and_source",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-life-supermarket-unit-price-comparison-draft.md"
     },
     {
       "id": "8-13",
       "category": "英国生活",
       "title": "イギリスの電気代・ガス代はなぜ高い？契約方法と冬の節約術",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_context_and_source",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-life-energy-bill-contract-winter-draft.md"
     },
     {
       "id": "8-14",
       "category": "英国生活",
       "title": "イギリスの給与明細の見方｜Income Tax・National Insurance・手取りの計算",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_context_and_source",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-life-payslip-tax-ni-net-pay-draft.md"
     },
     {
       "id": "8-15",
       "category": "英国生活",
       "title": "イギリスの最低賃金と生活賃金の違い｜日本人が働く前に知るべきこと",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_context_and_source",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-life-minimum-real-living-wage-draft.md"
     },
     {
       "id": "8-16",
       "category": "英国生活",
       "title": "イギリスで日本の収入がある場合の税金｜副業・海外送金・二重課税の基本",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_context_and_source",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-life-japanese-income-uk-tax-basics-draft.md"
     },
     {
       "id": "8-17",
       "category": "英国生活",
       "title": "イギリスのクレジットヒストリーとは？移住直後に信用情報を作る方法",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_context_and_source",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-life-credit-history-new-resident-draft.md"
     },
     {
       "id": "8-18",
       "category": "英国生活",
       "title": "イギリスで日本へ送金する方法｜銀行送金・送金サービス・為替手数料",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_context_and_source",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-life-money-transfer-uk-japan-draft.md"
     },
     {
       "id": "8-19",
       "category": "英国生活",
       "title": "イギリスの年金制度は日本とどう違う？National Insuranceと将来の受給資格",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_context_and_source",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-life-state-pension-ni-japan-comparison-draft.md"
     },
     {
       "id": "8-20",
       "category": "英国生活",
       "title": "イギリスの仕事探しで使うサイトは？Indeed・LinkedIn・NHS Jobsの特徴",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_context_and_source",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-life-job-sites-indeed-linkedin-nhs-draft.md"
     },
     {
       "id": "8-21",
       "category": "英国生活",
       "title": "イギリスのNHSとは？日本の健康保険との違いと利用できる医療サービス",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_context_and_source",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-life-nhs-japanese-healthcare-difference-draft.md"
     },
     {
       "id": "8-22",
       "category": "英国生活",
       "title": "イギリスでGPに登録する方法｜住所証明・予約・診察までの流れ",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_context_and_source",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-life-gp-registration-appointment-draft.md"
     },
     {
       "id": "8-23",
       "category": "英国生活",
       "title": "イギリスで風邪をひいたらどこへ行く？GP・薬局・NHS 111の使い分け",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_context_and_source",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-life-cold-pharmacy-gp-111-draft.md"
     },
     {
       "id": "8-24",
       "category": "英国生活",
       "title": "イギリスで救急車を呼ぶには？999・112・111の違い",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_context_and_source",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-life-emergency-999-112-111-draft.md"
     },
     {
       "id": "8-25",
       "category": "英国生活",
       "title": "イギリスの歯医者はなぜ予約が難しい？NHS歯科と私費診療の違い",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_context_and_source",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-life-nhs-private-dental-appointments-draft.md"
     },
     {
       "id": "8-26",
       "category": "英国生活",
       "title": "イギリスで妊娠・出産するには？NHSの妊婦健診・助産師・出産費用",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_context_and_source",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-life-pregnancy-midwife-nhs-costs-draft.md"
     },
     {
       "id": "8-27",
       "category": "英国生活",
       "title": "イギリスで日本の処方薬を使いたい｜薬の持ち込み・処方・現地での入手方法",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_context_and_source",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-life-prescription-medicine-import-continuity-draft.md"
     },
     {
       "id": "8-28",
       "category": "英国生活",
       "title": "イギリスの水道水は飲める？硬水・軟水の違いと日本人が気になること",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_context_and_source",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-life-tap-water-hard-soft-draft.md"
     },
     {
       "id": "8-29",
       "category": "英国生活",
       "title": "イギリスの冬に体調を崩さないために｜日照時間・寒さ・室内環境の対策",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_context_and_source",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-life-winter-health-daylight-home-draft.md"
     },
     {
       "id": "8-30",
       "category": "英国生活",
       "title": "イギリスで盗難・詐欺に遭ったら？警察への届け出とカード停止の手順",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_context_and_source",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-life-theft-fraud-police-card-stop-draft.md"
     },
     {
       "id": "8-31",
       "category": "英国生活",
       "title": "イギリス人はなぜ「Sorry」をよく使う？日本人が誤解しやすい英語表現",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_context_and_source",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-life-sorry-meaning-polite-english-draft.md"
     },
     {
       "id": "8-32",
       "category": "英国生活",
       "title": "イギリス人の遠回しな断り方｜「Interesting」「Maybe」が意味すること",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_context_and_source",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-life-indirect-refusals-interesting-maybe-draft.md"
     },
     {
       "id": "8-33",
       "category": "英国生活",
       "title": "イギリスのパブ文化とは？注文方法・支払い・チップの基本",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_context_and_source",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-life-pub-order-pay-tipping-draft.md"
     },
     {
       "id": "8-34",
       "category": "英国生活",
       "title": "イギリスではチップが必要？レストラン・ホテル・タクシーのマナー",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_context_and_source",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-life-tipping-service-charge-draft.md"
     },
     {
       "id": "8-35",
       "category": "英国生活",
       "title": "イギリスの家にはなぜカーペットが多い？住宅事情と掃除のコツ",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_context_and_source",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-life-carpet-housing-cleaning-draft.md"
     },
     {
       "id": "8-36",
       "category": "英国生活",
       "title": "イギリス人はなぜ天気の話をする？初対面で困らない雑談の始め方",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_context_and_source",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-life-weather-small-talk-draft.md"
     },
     {
       "id": "8-37",
       "category": "英国生活",
       "title": "イギリスのクリスマスは店が閉まる？交通機関・スーパー・病院の注意点",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_context_and_source",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-life-christmas-shops-transport-healthcare-draft.md"
     },
     {
       "id": "8-38",
       "category": "英国生活",
       "title": "イギリスのBank Holidayとは？祝日の仕組みと仕事・学校への影響",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_context_and_source",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-life-bank-holiday-work-school-draft.md"
     },
     {
       "id": "8-39",
       "category": "英国生活",
       "title": "イギリスの洗濯事情｜外干し・乾燥機・部屋干しで困ること",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_context_and_source",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-life-laundry-indoor-drying-damp-draft.md"
     },
     {
       "id": "8-40",
       "category": "英国生活",
       "title": "イギリスで友達を作るには？日本人が参加しやすい地域活動・趣味・交流の場",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_context_and_source",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-life-making-friends-community-hobbies-draft.md"
     },
     {
       "id": "8-41",
       "category": "英国生活",
       "title": "イギリスで日本人の子どもを学校に入れるには？公立学校の申込方法",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_context_and_source",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-life-children-state-school-admission-draft.md"
     },
     {
       "id": "8-42",
       "category": "英国生活",
       "title": "イギリスの保育園はなぜ高い？Nursery・Childminder・保育支援の仕組み",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_context_and_source",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-life-nursery-childminder-childcare-support-draft.md"
     },
     {
       "id": "8-43",
       "category": "英国生活",
       "title": "イギリスで子どもが生まれたら？出生登録・日本国籍・日本のパスポート手続き",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_context_and_source",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-life-birth-registration-japanese-nationality-draft.md"
     },
     {
       "id": "8-44",
       "category": "英国生活",
       "title": "イギリスで日本の運転免許を切り替える方法｜DVLAの手続きと必要書類",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_context_and_source",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-life-dvla-japanese-licence-exchange-draft.md"
     },
     {
       "id": "8-45",
       "category": "英国生活",
       "title": "ロンドンの地下鉄・バスの乗り方｜Contactless・Oyster・運賃の仕組み",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_context_and_source",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-life-london-contactless-oyster-fares-draft.md"
     },
     {
       "id": "8-46",
       "category": "英国生活",
       "title": "イギリスの電車はなぜ料金が違う？Advance・Off-Peak・Railcardの使い分け",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_context_and_source",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-life-rail-advance-offpeak-railcard-draft.md"
     },
     {
       "id": "8-47",
       "category": "英国生活",
       "title": "ロンドン以外に住むならどこ？マンチェスター・バーミンガム・リーズの生活比較",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_context_and_source",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-life-manchester-birmingham-leeds-compare-draft.md"
     },
     {
       "id": "8-48",
       "category": "英国生活",
       "title": "イギリスから日本へ一時帰国する際の準備｜eVisa・パスポート・再入国",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_context_and_source",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-life-temporary-return-japan-evisa-draft.md"
     },
     {
       "id": "8-49",
       "category": "英国生活",
       "title": "イギリス移住後も日本の住民票は残すべき？海外転出届・年金・健康保険の整理",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_context_and_source",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-life-japan-overseas-moving-register-pension-draft.md"
     },
     {
       "id": "8-50",
       "category": "英国生活",
       "title": "イギリスで永住するか日本へ帰国するか｜仕事・教育・老後・生活費の比較",
-      "status": "not_written",
-      "cms_status": "not_saved",
-      "coupon_status": "BLOCKED_context_and_source",
+      "status": "draft_written",
+      "cms_status": "saved_draft",
+      "coupon_status": "verified_country_campaign_2026-10-25",
       "qa": {
         "Native": "BLOCKED",
         "Citation": "BLOCKED",
         "Similarity": "BLOCKED",
         "Compliance": "BLOCKED"
-      }
+      },
+      "path": "content/articles/2026-11-18-life-settle-uk-or-return-japan-draft.md"
     }
   ],
   "existing_drafts_to_reconcile": [],
   "summary": {
-    "written_articles": 135,
-    "saved_drafts": 134,
+    "written_articles": 190,
+    "saved_drafts": 189,
     "published_observed": 1,
     "total": 190,
-    "remaining": 55,
+    "remaining": 0,
     "qa": "No publication PASS claimed. Technical SEO/schema, SERP, similarity and human review remain pending.",
     "blocker": "",
     "campaign_note": "Drive campaign PDF verified: Japan TABIDACHI, UK ISSHONI, 35%, country/IP conditions. PDF lists no visa-specific codes. No route-specific code invented."
