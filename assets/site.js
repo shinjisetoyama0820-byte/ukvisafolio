@@ -28,7 +28,8 @@
     var hreflang = target === "zh-tw" ? "zh-Hant" : target;
     var alt = document.querySelector('link[rel="alternate"][hreflang="' + hreflang + '"]');
     if (alt) return alt.getAttribute("href");
-    if (rest.indexOf("articles/") === 0) return hrefFor(target, "articles");
+    // A translation may not be published yet. Never link to a missing article.
+    if (rest.indexOf("articles/") === 0) return hrefFor(target, "articles.html");
     return hrefFor(target, rest);
   }
 
