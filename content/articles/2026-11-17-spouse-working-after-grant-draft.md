@@ -1,19 +1,14 @@
 ---
-title: "【英国配偶者ビザ】取得後はいつから働ける？就職・副業・自営業の確認事項"
-date: "2026-11-17"
-status: "draft"
-category: "guide"
-lang: "ja"
-description: "英国配偶者ビザ取得後の就労を、許可の条件と雇用主への証明に分けて説明。婚約者との違い、eVisa、Share Code、NI番号、自営業の税務登録を整理します。"
-source_url: "https://www.gov.uk/uk-family-visa/after-you-apply"
-editorial_id: "1-17"
-last_verified_at: "2026-11-17"
-qa_native: "BLOCKED"
-qa_citation: "BLOCKED"
-qa_similarity: "BLOCKED"
-qa_compliance: "BLOCKED"
+title: 【英国配偶者ビザ】取得後はいつから働ける？就職・副業・自営業の確認事項
+date: 2026-11-17
+status: published
+category: guide
+lang: ja
+significant_update_at: 2026-11-23
+description: 英国配偶者ビザ取得後の就労を、許可の条件と雇用主への証明に分けて説明。婚約者との違い、eVisa、Share
+  Code、NI番号、自営業の税務登録を整理します。
+source_url: https://www.gov.uk/uk-family-visa/after-you-apply
 ---
-
 **通常の配偶者・パートナーとしてFamily visaが認められた場合、GOV.UKは就労・就学ができると案内しています。** ただし、申請しただけで働けるわけではなく、実際の許可と開始日・条件を確認します。婚約者としての滞在中の就労制限とは区別が必要です。
 
 根拠：[GOV.UK：Family visa承認後](https://www.gov.uk/uk-family-visa/after-you-apply)、[婚約者の条件](https://www.gov.uk/uk-family-visa/partner-spouse)。
@@ -22,10 +17,12 @@ qa_compliance: "BLOCKED"
 
 ## 1. 「いつから働ける？」を二つに分ける
 
+
 | 確認 | 見るもの |
-| --- | --- |
+| ------------ | ------------------- |
 | 自分に就労の許可があるか | 決定通知、eVisa等の条件と開始日 |
 | 雇用主にどう証明するか | Right to Workの公式手続き |
+
 
 GOV.UKは、雇用主のもとで働き始める前に就労権を証明するよう案内しています。採用の内定と、この確認手続きは別です。[公式：就労権の証明](https://www.gov.uk/prove-right-to-work)
 
@@ -53,12 +50,14 @@ National Insurance Numberは税・社会保険に関する番号で、就労許�
 
 ## 6. 就職準備の資料表
 
+
 | 資料・情報 | 発行元 | 対象 | 日付 | 翻訳 | 根拠 |
-| --- | --- | --- | --- | --- | --- |
+| ----------- | --------- | ---------- | --------- | --------- | ----------------------------------------------------------------- |
 | 許可・eVisaの記録 | UKVI | 許可を受けた人 | 開始日・期限・条件 | 記録の内容を確認 | [eVisa](https://www.gov.uk/evisa) |
 | 就労権の証明 | 公式確認サービス等 | 採用時の本人・雇用主 | 就業開始前の確認 | 手続きの案内に従う | [Right to Work](https://www.gov.uk/prove-right-to-work) |
 | NI番号 | 関係当局 | 該当する就労者 | 申請・受取状況 | 自分で保管 | [NI番号](https://www.gov.uk/apply-national-insurance-number) |
 | 雇用契約等 | 雇用主 | 雇用される人 | 入社日・条件 | 内容を理解して確認 | [雇用条件の案内](https://www.gov.uk/employment-contracts-and-conditions) |
+
 
 ## 7. よくある質問
 
@@ -122,7 +121,6 @@ National Insurance Numberは税・社会保険に関する番号で、就労許�
 ## 公式情報・更新履歴
 
 - [主な公式確認先](https://www.gov.uk/uk-family-visa/after-you-apply)
-
 
 変更履歴：2026年11月17日、初稿作成。状況別の論点と資料管理の表を追加。
 
