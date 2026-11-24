@@ -1,0 +1,27 @@
+{
+  "daily_limit": 1,
+  "timezone": "Asia/Tokyo",
+  "language": "ja",
+  "priority": [
+    "family",
+    "skilled_worker",
+    "health_and_care_worker",
+    "student"
+  ],
+  "additional_api_budget_jpy": 0,
+  "mode": "staged",
+  "native_calibration": {
+    "min_articles": 5,
+    "max_articles": 10,
+    "retain_original_and_revision": true,
+    "require_explicit_transition_approval": true
+  },
+  "required_qa": [
+    "Native",
+    "Citation",
+    "Similarity",
+    "Compliance"
+  ],
+  "manual_review_complete": false,
+  "automatic_publication_enabled": false
+}
