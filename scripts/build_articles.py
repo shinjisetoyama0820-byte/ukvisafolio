@@ -347,7 +347,7 @@ LANGS = {
     },
     'ko': {
         'nav_label': '주 메뉴',
-        'nav_home': '기사 홈',
+        'nav_home': '홈',
         'nav_guides': '비자 가이드',
         'crumb': '현재 위치',
         'published': '게시일',
@@ -383,8 +383,6 @@ LANGS = {
 }
 
 def href(lang, leaf):
-    if lang == 'ko' and not leaf:
-        return '/ko/articles.html'
     if lang == 'ja':
         return '/' + leaf if leaf else '/'
     return f'/{lang}/' + leaf if leaf else f'/{lang}/'
@@ -548,6 +546,88 @@ for code in LANGS:
 }, ensure_ascii=False), encoding='utf-8')
 
 static_leaves = ['', 'family.html', 'documents.html', 'guides.html', 'methods.html', 'apps.html', 'stratovisa.html', 'articles.html', 'visa-news.html']
+def build_korean_home():
+    template = ROOT / 'zh-tw' / 'index.html'
+    if not template.is_file():
+        return
+    page = template.read_text(encoding='utf-8')
+    translations = (
+        ("Stratovisa 是文件整理工具，不是移民顧問。不判斷申請資格，也不提供移民建議。文件要求全部依據 GOV.UK 公開指引。", "Stratovisa는 서류 정리 도구이며 이민 자문 서비스가 아닙니다. 신청 자격을 판단하거나 이민 관련 조언을 제공하지 않습니다. 서류 요건은 GOV.UK 공개 지침을 따릅니다."),
+        ("35% 折扣只適用於 Stratovisa 的服務費。英國政府的申請費另計。台灣目前沒有介紹代碼，代碼確定後才會放在這裡。", "영국 정부에 납부하는 비자 신청 수수료는 GOV.UK에서 확인할 수 있습니다."),
+        ("這個網站不是英國政府的網站。它和 Stratovisa 有介紹上的商業關係。申請條件和費用請看", "이 사이트는 영국 정부의 공식 웹사이트가 아니며, Stratovisa와 상업적 제휴 관계가 있습니다. 신청 요건과 비용은 다음 링크에서 확인하세요."),
+        ("Stratovisa 是協助準備英國簽證申請的民間服務。使用前先看簽證種類、功能和價格。", "Stratovisa에서 지원하는 비자 유형과 서류 정리 기능을 확인하세요."),
+        ("從文件、費用、步驟，到適合自己的準備方式。這個網站用繁體中文整理英國簽證的資訊。", "영국 비자에 필요한 서류와 비용, 신청 절차를 살펴보고 상황에 맞게 준비하세요."),
+        ("© 2026 UK VISA FOLIO ｜ 英國簽證申請準備的資訊站", "© 2026 UK VISA FOLIO ｜ 영국 비자 신청 준비 정보"),
+        ("自己準備、使用工具，或找有資格的顧問。這一頁說明差別。", "직접 준비하거나 서류 정리 도구 또는 등록된 이민 자문 서비스를 이용할 수 있습니다."),
+        ("用淺白的繁體中文說明英國簽證的文件、費用和申請步驟。", "영국 비자 신청에 필요한 서류, 비용, 절차를 한국어로 쉽게 설명합니다."),
+        ("Skilled Worker 和其他相近路線的起點。", "숙련근로자 비자(Skilled Worker visa) 등 취업 비자의 준비 절차를 살펴보세요."),
+        ("Stratovisa 幫忙整理文件和準備步驟。", "Stratovisa는 비자 신청 서류와 준비 절차를 정리하는 도구입니다."),
+        ("這個網站會把人介紹到 Stratovisa。", "이 사이트는 Stratovisa 서비스를 소개합니다."),
+        ("看 Student visa 要準備什麼。", "학생 비자 신청 전에 준비할 사항을 확인하세요."),
+        ("情況比較複雜，或需要法律判斷的時候。", "상황이 복잡하거나 법률 판단이 필요한 경우 이용할 수 있습니다."),
+        ("看 Stratovisa 做什麼 →", "Stratovisa 기능 보기 →"),
+        ("英國簽證的文件、申請方式與準備指南", "영국 비자 서류 및 신청 준비 안내"),
+        ("把大家會查的問題，一個一個看過。", "신청 전에 자주 확인하는 항목을 정리했습니다."),
+        ("怎麼看官方說明，以及要注意什麼。", "정부 안내를 확인하는 방법과 유의할 점을 정리했습니다."),
+        ("從想申請的簽證，進到相關說明。", "신청하려는 비자 유형의 안내를 확인하세요."),
+        ("說明證明文件、翻譯和整理方式。", "증빙 서류, 번역 및 정리 방법을 안내합니다."),
+        ("用比較安心的方式準備英國簽證。", "영국 비자 서류를 차근차근 준비하세요."),
+        ("關於 Stratovisa →", "Stratovisa 알아보기 →"),
+        ("申請前想先看的手續和費用。", "신청 전에 확인할 절차와 비용입니다."),
+        ("依照官方說明，自己往下做。", "정부 안내를 따라 신청을 준비합니다."),
+        ("配偶或家庭簽證的示意照片", "배우자·가족 비자 안내 이미지"),
+        ("給伴侶或家人路線的說明。", "배우자나 가족을 위한 비자 준비 안내입니다."),
+        ("使用幫忙整理文件的工具。", "도구로 신청 서류를 정리하는 방법입니다."),
+        ("查看配偶簽證的準備 →", "배우자 비자 준비 안내 →"),
+        ("想把準備放在同一個地方", "한곳에서 서류 준비하기"),
+        ("步驟和費用的示意照片", "신청 절차와 비용 안내 이미지"),
+        ("用工具準備的示意照片", "서류 정리 도구 안내 이미지"),
+        ("和顧問談話的示意照片", "이민 상담 안내 이미지"),
+        ("用更容易懂的方式。", "이해하기 쉽게."),
+        ("工作簽證的示意照片", "취업 비자 안내 이미지"),
+        ("學生簽證的示意照片", "학생 비자 안내 이미지"),
+        ("準備時用得上的指南", "비자 신청 준비 가이드"),
+        ("文件指南的示意照片", "서류 가이드 이미지"),
+        ("常見問題的示意照片", "자주 묻는 질문 안내 이미지"),
+        ("自己準備的示意照片", "직접 준비하기 안내 이미지"),
+        ("簽證準備的示意照片", "비자 신청 준비 안내 이미지"),
+        ("配偶與家庭簽證", "배우자·가족 비자"),
+        ("準備英國簽證，", "영국 비자 준비,"),
+        ("從簽證種類開始", "비자 유형별 가이드"),
+        ("工作的示意照片", "취업 안내 이미지"),
+        ("準備方式的比較", "준비 방법 비교"),
+        ("看更多 →", "자세히 보기 →"),
+        ("步驟和費用", "신청 절차와 비용"),
+        ("用工具準備", "도구로 준비하기"),
+        ("解說文章", "비자 가이드"),
+        ("工作簽證", "취업 비자"),
+        ("學生簽證", "학생 비자"),
+        ("文件指南", "서류 가이드"),
+        ("常見問題", "자주 묻는 질문"),
+        ("自己準備", "직접 준비하기"),
+        ("找顧問談", "이민 자문 알아보기"),
+        ("複製代碼", "코드 복사"),
+        ("看文件", "서류 가이드"),
+        ("已複製", "복사했습니다"),
+        ("首頁", "홈"),
+        ("文件", "서류"),
+    )
+    for source, korean in translations:
+        page = page.replace(source, korean)
+    page = re.sub(r'(<html\s+lang=")[^"]+', r'\g<1>ko', page, count=1)
+    page = re.sub(r'(<link rel="canonical" href=")[^"]+', r'\g<1>https://ukvisafolio.com/ko/', page)
+    page = page.replace('<title>', '<link rel="alternate" hreflang="ko" href="https://ukvisafolio.com/ko/"><title>', 1)
+    # Use the English information pages until their Korean editions are available.
+    page = re.sub(
+        r'(?<=href=")(family|documents|guides|methods|apps|stratovisa)\.html(?=[#"])',
+        r'/en/\1.html',
+        page,
+    )
+    (ROOT / 'ko' / 'index.html').write_text(page, encoding='utf-8')
+
+
+build_korean_home()
+
 # Static pages share the same script as the generated article pages.
 for code in LANGS:
     directory = ROOT if code == 'ja' else ROOT / code
@@ -563,7 +643,7 @@ for code in LANGS:
 
 locs = []
 for code in LANGS:
-    for leaf in (('articles.html', 'visa-news.html') if code == 'ko' else static_leaves):
+    for leaf in (('', 'articles.html', 'visa-news.html') if code == 'ko' else static_leaves):
         locs.append(absolute(code, leaf))
     for item in items:
         if item['lang'] == code:
