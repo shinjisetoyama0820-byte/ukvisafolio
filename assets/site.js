@@ -29,7 +29,7 @@
     var alt = document.querySelector('link[rel="alternate"][hreflang="' + hreflang + '"]');
     if (alt) return alt.getAttribute("href");
     // A translation may not be published yet. Never link to a missing article.
-    if (target === "ko") return hrefFor(target, rest === "visa-news" ? "visa-news.html" : "articles.html");
+    if (target === "ko") return hrefFor(target, !rest ? "" : rest === "visa-news" ? "visa-news.html" : "articles.html");
     if (rest.indexOf("articles/") === 0) return hrefFor(target, "articles.html");
     return hrefFor(target, rest);
   }
