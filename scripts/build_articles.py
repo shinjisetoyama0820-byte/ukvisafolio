@@ -1,3 +1,4 @@
+from hashlib import sha256
 from pathlib import Path
 import re, html, datetime
 from urllib.parse import urlparse
@@ -9,6 +10,10 @@ import mistune
 
 ROOT = Path(__file__).resolve().parents[1]
 CONT = ROOT / 'content' / 'articles'
+SITE_SCRIPT = ROOT / 'assets' / 'site.js'
+SITE_SCRIPT_URL = '/assets/site.js'
+if SITE_SCRIPT.is_file():
+    SITE_SCRIPT_URL += '?v=' + sha256(SITE_SCRIPT.read_bytes()).hexdigest()[:12]
 OUT = ROOT / 'articles'
 OUT.mkdir(exist_ok=True)
 
@@ -418,7 +423,7 @@ def switch_markup(lang, canonical):
 def layout(lang, title, desc, body, canonical, page_class, alt_html, crumb):
     ui = LANGS[lang]
     html_lang = 'zh-Hant' if lang == 'zh-tw' else lang
-    return f'''<!doctype html><html lang="{html_lang}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{esc(title)} | UK VISA FOLIO</title><meta name="description" content="{esc(desc)}"><link rel="canonical" href="{esc(canonical)}">{alt_html}<script src="/assets/site.js?v=20261115" defer></script><style>{SITE_STYLE}</style>{NEW_ASSETS}</head><body><header class="site-header"><div class="site-header-inner"><a class="brand" href="{href(lang, '')}">UK VISA FOLIO</a><nav class="site-nav" aria-label="{esc(ui['nav_label'])}"><a href="{href(lang, '')}">{esc(ui['nav_home'])}</a><a href="{href(lang, 'visa-news.html')}">NEWS</a><a href="{href(lang, 'articles.html')}">{esc(ui['nav_guides'])}</a></nav>{switch_markup(lang, canonical)}</div></header><div class="page-wrap"><main class="page-surface {esc(page_class)}"><nav class="breadcrumb" aria-label="{esc(ui['crumb'])}">{crumb}</nav>{body}</main></div><footer class="site-footer">{esc(ui['footer'])}<br>{esc(ui['disclaimer'])}</footer></body></html>'''
+    return f'''<!doctype html><html lang="{html_lang}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{esc(title)} | UK VISA FOLIO</title><meta name="description" content="{esc(desc)}"><link rel="canonical" href="{esc(canonical)}">{alt_html}<script src="{SITE_SCRIPT_URL}" defer></script><style>{SITE_STYLE}</style>{NEW_ASSETS}</head><body><header class="site-header"><div class="site-header-inner"><a class="brand" href="{href(lang, '')}">UK VISA FOLIO</a><nav class="site-nav" aria-label="{esc(ui['nav_label'])}"><a href="{href(lang, '')}">{esc(ui['nav_home'])}</a><a href="{href(lang, 'visa-news.html')}">NEWS</a><a href="{href(lang, 'articles.html')}">{esc(ui['nav_guides'])}</a></nav>{switch_markup(lang, canonical)}</div></header><div class="page-wrap"><main class="page-surface {esc(page_class)}"><nav class="breadcrumb" aria-label="{esc(ui['crumb'])}">{crumb}</nav>{body}</main></div><footer class="site-footer">{esc(ui['footer'])}<br>{esc(ui['disclaimer'])}</footer></body></html>'''
 
 def clean_output(path):
     path.mkdir(parents=True, exist_ok=True)
@@ -543,6 +548,19 @@ for code in LANGS:
 }, ensure_ascii=False), encoding='utf-8')
 
 static_leaves = ['', 'family.html', 'documents.html', 'guides.html', 'methods.html', 'apps.html', 'stratovisa.html', 'articles.html', 'visa-news.html']
+# Static pages share the same script as the generated article pages.
+for code in LANGS:
+    directory = ROOT if code == 'ja' else ROOT / code
+    for page in directory.glob('*.html'):
+        original = page.read_bytes()
+        refreshed = re.sub(
+            rb'(?<=src=")/assets/site\.js(?:\?v=[^"]*)?(?=")',
+            SITE_SCRIPT_URL.encode('ascii'),
+            original,
+        )
+        if refreshed != original:
+            page.write_bytes(refreshed)
+
 locs = []
 for code in LANGS:
     for leaf in (('articles.html', 'visa-news.html') if code == 'ko' else static_leaves):
