@@ -339,9 +339,46 @@ LANGS = {
         'md_html': 'HTML 版',
         'md_change': '簽證規定可能改變。申請前請看英國政府的最新說明。',
     },
+    'ko': {
+        'nav_label': '주 메뉴',
+        'nav_home': '기사 홈',
+        'nav_guides': '비자 가이드',
+        'crumb': '현재 위치',
+        'published': '게시일',
+        'source_label': '공식 출처:',
+        'source_link': '영국 정부 웹사이트',
+        'source_missing': '공식 페이지 링크를 준비 중입니다.',
+        'change_notice': '비자 규정은 바뀔 수 있습니다. 신청 전에 GOV.UK의 최신 안내를 확인하세요.',
+        'footer': 'UK VISA FOLIO는 영국 비자 신청 준비를 알기 쉽게 설명합니다.',
+        'disclaimer': 'Stratovisa는 서류 정리 도구이며 이민 자문 서비스가 아닙니다. 신청 자격을 판단하거나 이민 관련 조언을 제공하지 않습니다. 서류 요건은 GOV.UK 공개 지침을 따릅니다.',
+        'kind_news': '규정 변경 및 최신 소식',
+        'kind_guide': '신청 가이드',
+        'read': '기사 읽기 →',
+        'empty': '한국어 기사를 준비 중입니다.',
+        'news_panel': '영국 정부 자료를 바탕으로 발표일, 시행일, 적용 대상을 구분해 설명합니다.',
+        'guide_panel': '상황에 따라 서류와 요건이 달라질 수 있습니다. 신청 전에 GOV.UK의 최신 안내를 확인하세요.',
+        'panel_title': '공식 정보 확인',
+        'gov_link': '영국 정부 안내 보기',
+        'not_gov': 'UK VISA FOLIO는 영국 정부 공식 웹사이트가 아닙니다.',
+        'guide_heading': '영국 비자 신청 가이드',
+        'guide_intro': '영국 비자 신청에 필요한 서류와 절차를 쉽게 설명합니다.',
+        'news_heading': '영국 비자 소식',
+        'news_intro': '영국 비자 규정 변경 소식입니다.',
+        'new_label': '새 기사',
+        'md_source': '출처',
+        'md_canonical': '기사',
+        'md_date': '게시일',
+        'md_desc': '요약',
+        'fx': '환율을 계산하려면 이 기사의 HTML 버전을 이용하세요.',
+        'md_gov': '영국 정부 안내',
+        'md_html': 'HTML 버전',
+        'md_change': '비자 규정은 바뀔 수 있습니다. 신청 전에 GOV.UK의 최신 안내를 확인하세요.',
+    },
 }
 
 def href(lang, leaf):
+    if lang == 'ko' and not leaf:
+        return '/ko/articles.html'
     if lang == 'ja':
         return '/' + leaf if leaf else '/'
     return f'/{lang}/' + leaf if leaf else f'/{lang}/'
@@ -365,13 +402,15 @@ def switch_markup(lang, canonical):
         path = path[len(prefix):].strip('/')
     if path.endswith('.html'):
         path = path[:-5]
-    labels = (('ja', '日本語'), ('en', 'English'), ('hi', 'हिन्दी'), ('zh-tw', '繁體中文'))
+    labels = (('ja', '日本語'), ('en', 'English'), ('hi', 'हिन्दी'), ('zh-tw', '繁體中文'), ('ko', '한국어'))
     options = []
     for code, label in labels:
         leaf = path
         if path.startswith('articles/') and '/' in path and code not in by_slug.get(path.split('/', 1)[1], {}):
             leaf = 'articles'
         selected = ' selected' if code == lang else ''
+        if code == 'ko' and leaf in ('articles', 'visa-news'):
+            leaf += '.html'
         options.append(f'<option value="{esc(href(code, leaf))}"{selected}>{label}</option>')
     return '<select class="lang-select" data-lang-select aria-label="Change language" onchange="if(this.value)location.href=this.value">' + ''.join(options) + '</select>'
 
@@ -386,7 +425,7 @@ def clean_output(path):
         for old in path.glob(pattern):
             old.unlink()
 
-for code in ('ja', 'en', 'hi', 'zh-tw'):
+for code in LANGS:
     clean_output(ROOT / 'articles' if code == 'ja' else ROOT / code / 'articles')
 
 def source_files():
@@ -505,7 +544,7 @@ for code in LANGS:
 static_leaves = ['', 'family.html', 'documents.html', 'guides.html', 'methods.html', 'apps.html', 'stratovisa.html', 'articles.html', 'visa-news.html']
 locs = []
 for code in LANGS:
-    for leaf in static_leaves:
+    for leaf in (('articles.html', 'visa-news.html') if code == 'ko' else static_leaves):
         locs.append(absolute(code, leaf))
     for item in items:
         if item['lang'] == code:
