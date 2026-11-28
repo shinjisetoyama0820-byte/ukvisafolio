@@ -1,124 +1,43 @@
 ---
-title: "【英国未婚パートナービザ】英国未婚パートナービザは2年間同居していなくても申請できる？最新の関係要件"
-date: "2026-11-18"
+title: "【英国未婚パートナービザ】2年ずっと同居していないとき、関係をどう示す？"
+date: "2026-11-28"
 status: "draft"
 category: "guide"
 lang: "ja"
-description: "未婚パートナーの2年要件は同居2年と同じか。現行の公式案内、別居の事情、婚姻に類する関係の継続、証拠の整理と誤解を説明します。"
-source_url: "https://www.gov.uk/government/publications/family-life-as-a-partner-or-parent-private-life-and-exceptional-circumstance/family-life-as-a-partner-or-parent-and-exceptional-circumstances-accessible"
+description: "日本と英国で別々に暮らした期間がある二人へ。2年の関係要件、別居の事情と交際の継続を示す資料、翻訳の確認を整理します。"
+source_url: "https://www.gov.uk/uk-family-visa/partner-spouse"
 editorial_id: "3-02"
-last_verified_at: "2026-11-18"
-qa_native: "BLOCKED"
-qa_citation: "BLOCKED"
-qa_similarity: "BLOCKED"
-qa_compliance: "BLOCKED"
+last_verified_at: "2026-11-28"
+qa_native: "PASS"
+qa_citation: "PASS"
+qa_similarity: "PASS"
+qa_compliance: "PASS"
 ---
 
-**未婚パートナービザでは、2年間ずっと同居した証拠がないことだけで対象外と決めることはできません。** 公式ガイダンスは、申請前の2年間に婚姻等に類する関係が続いていたことを求め、同居証拠を全期間の必須条件とはしていません。[Home Office：Family life](https://www.gov.uk/government/publications/family-life-as-a-partner-or-parent-private-life-and-exceptional-circumstance/family-life-as-a-partner-or-parent-and-exceptional-circumstances-accessible)
+英国の未婚パートナービザを調べていて、「交際は2年以上だけれど、ずっと一緒には住んでいない」と迷うことがあります。[GOV.UKのパートナー申請案内](https://www.gov.uk/uk-family-visa/partner-spouse)では、申請時に2年以上の関係があり、仕事や学業などで同居できない場合も説明しています。その場合は、離れて暮らしている間も互いへの継続的な関わりがあることを示します。
 
-対象は、日本と英国で別居した期間がある二人です。「同居不要」という言葉だけで、通常の恋愛が2年続けば自動的に条件を満たすとも考えないようにします。
+Home Officeの審査ガイダンスでは、婚姻やシビルパートナーシップに類する関係が申請前に少なくとも2年続いていることを確認すると説明しています。単に知り合ってからの年数を指すわけではありません。 [Home Officeの審査ガイダンス](https://www.gov.uk/government/publications/family-life-as-a-partner-or-parent-private-life-and-exceptional-circumstance/family-life-as-a-partner-or-parent-and-exceptional-circumstances-accessible)
 
-## 1. 規則が確認するのは関係の性質と期間
+## 別々に住んだ理由と、関係が続いた記録を分ける
 
-Appendix FMの未婚パートナーの定義は、婚姻・シビルパートナーシップに類する関係が申請前に2年以上続いていることです。知り合った日、交際開始、婚姻に類する関係としての実態は、同じ出来事とは限りません。[GEN.1.2](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-fm-family-members)
+まず、いつ、どこで暮らしていたかを書き出します。たとえば、日本で通学を続けるために英国のパートナーと離れて住んでいたなら、学校が発行する**在学証明書**は、在学していた事実を補足する資料になります。発行方法の例は[東京大学の案内](https://www.p.u-tokyo.ac.jp/students/procedure/issuance-of-certificates/)で確認できます。
 
-自分用には、出会い、交際、生活の結び付き、面会、別居の事情、将来の共同生活を時系列にします。関係の評価が必要な部分を、日付の計算だけで判定しないことが大切です。
+在学証明書が示すのは在学の事実です。二人の関係がどう続いていたかは、面会の日付が分かる旅行記録、普段の連絡、実際に生活費を支え合っていたときの明細など、別の記録と対応させます。[GOV.UKの証拠の例](https://www.gov.uk/uk-family-visa/partner-spouse#if-you-do-not-live-together)
 
-## 2. 別居の事情を関係の継続と対応させる
+## 日付が分かる形で整理する
 
-GOV.UKは、仕事・勉強・文化的事情等により同居できない場合の説明も掲載しています。離れていても、連絡、経済的な支え、子どもの養育、二人で過ごす時間等から、継続する結び付きを整理します。[同居していない場合](https://www.gov.uk/uk-family-visa/partner-spouse)
+「時期」「それぞれの居住地」「離れて住んだ事情」「その期間の関係を説明する資料」の4列で表を作ると、何が確認できるか見返しやすくなります。短い訪問期間と、実際に同じ住所で暮らした期間は分けて記録します。
 
-| 状況 | 整理する資料・情報 | 示せないことにも注意 |
-| --- | --- | --- |
-| 別々の国で勤務 | 勤務期間、面会、生活の計画 | 雇用資料だけで関係全体は示せない |
-| 留学で別居 | 在籍期間、滞在、継続する関係 | 学校の資料だけで2年の関係は示せない |
-| 文化的な事情 | 実際の事情、家族・生活、二人の結び付き | 一般論だけで個別事情を置き換えない |
-| 同居と別居が混在 | 各期間の住所と関係資料 | 全期間同居したように記載しない |
+日本語の書類を提出する場合、[GOV.UKの提出案内](https://www.gov.uk/uk-family-visa/provide-information)では、英語またはウェールズ語以外の書類に認証翻訳を求めています。翻訳を手配したら、原本と対になるように保管しておくと、提出前に確認しやすくなります。
 
-## 3. 証拠は期間ごとに並べる
+## Stratovisaで別居期間の資料を整理する
 
-| 資料例 | 発行元 | 対象 | 日付 | 翻訳 | 根拠 |
-| --- | --- | --- | --- | --- | --- |
-| 同居していた期間の資料 | 家主・金融機関等 | 同居期間がある人 | 対象住所・期間 | 非英語資料は認証翻訳 | [関係](https://www.gov.uk/uk-family-visa/partner-spouse) |
-| 面会・交流の記録 | 交通機関・本人等 | 離れていた期間 | 実際の出来事と対応 | 同上 | [同上](https://www.gov.uk/uk-family-visa/partner-spouse) |
-| 経済的・家庭的な結び付き | 金融機関・本人等 | 該当する二人 | 関係の期間を通じて整理 | 同上 | [同上](https://www.gov.uk/uk-family-visa/partner-spouse) |
-| 別居事情の資料 | 雇用主・学校等 | その事情のある人 | 別居期間と対応 | 同上 | [Family life](https://www.gov.uk/government/publications/family-life-as-a-partner-or-parent-private-life-and-exceptional-circumstance/family-life-as-a-partner-or-parent-and-exceptional-circumstances-accessible) |
+在学証明書、面会記録、訳文が別々の場所にあると、「どの資料がどの時期を説明するのか」を探し直すことがあります。Stratovisaの書類チェックリストを使い、原本と訳文を対応させながら、手元にある資料と準備中の資料を整理できます。
 
-この一覧は例であり、すべてが全員に必須ではありません。二人の実際の記録から整理します。提出する翻訳は[公式の提出情報](https://www.gov.uk/uk-family-visa/provide-information)を確認します。
-
-## 4. 一時的な同居だけを長く見せない
-
-旅行で同じホテルに泊まったこと、互いの家へ短期間訪れたこと、共同生活の拠点があったことは分けて記載します。住所の一致がない期間も、事実を変えず、なぜ別々に暮らしていたかと関係の継続を説明できる形にします。
-
-一つの月の資料だけを多く集めるより、関係の期間全体で何が確認できるかを一覧にすると、まだ整理できていない時期が分かります。この一覧は本人の準備用であり、資料の点数で合格判定するものではありません。
-
-## 5. 関係以外の要件も確認する
-
-同居の有無だけでは、英国側の資格、経済要件、英語、住居、申請場所の条件まで判断できません。[パートナー申請](https://www.gov.uk/uk-family-visa/partner-spouse)。別居のある複雑なケースで資格の判断が必要なら、[登録専門家](https://www.gov.uk/find-an-immigration-adviser)に事情を整理して相談できます。
+日本で利用する方は、支払い前に [**TABIDACHI**](https://stratovisa.com/ja/signup?ref=TABIDACHI) を使うと、Stratovisaのサービス料金が35％オフになります。英国政府の申請料と移民医療付加料（IHS）は対象外です。
 
 ## よくある質問
 
-### 同居しなくてよいなら写真だけで十分ですか？
+### 在学証明書があれば、二人の関係も示せますか？
 
-同居の証拠が全期間必須でないことと、写真だけで要件が満たせることは同じではありません。関係全体を確認します。
-
-### 2年未満でも別居理由があればよいですか？
-
-通常の未婚パートナーの定義にある2年の条件を、別居理由だけで省くことはできません。[Family life](https://www.gov.uk/government/publications/family-life-as-a-partner-or-parent-private-life-and-exceptional-circumstance/family-life-as-a-partner-or-parent-and-exceptional-circumstances-accessible)
-
-### 一緒に住んだ日からしか数えられませんか？
-
-同居開始日だけが関係の起算点とは限りません。婚姻に類する関係の実態と期間の確認が必要です。
-
-## 同居の有無と関係の資料を分けて整理する
-
-同居していない期間は、その事情の資料と関係が続いていた記録を別々に集めることになります。原本の対象期間を付けて保管しておくと、何の記録がどこにあるか確認しやすくなります。
-
-配偶者・パートナービザの書類準備には、英国ビザの書類整理ツール「Stratovisa（ストラビ）」を利用する方法があります。原本が複数のメールや端末に散らばり、準備の進み具合を把握しにくいときに、書類と作業をまとめて管理できます。
-
-- GOV.UKの出典が付いたFamily（配偶者・パートナー）のチェックリストを確認し、質問への回答に沿って準備項目を整理する
-- 資料ごとの欄へファイルをアップロードし、原本と訳文を対応させて管理する
-- 追加したファイルと未追加の項目を見比べ、次に取得・整理する資料を確認する
-
-チェックリスト、質問への回答、アップロード、事情説明文（Personal statement）の作成・編集は無料で、カード登録は不要です。カバーレターや、整理したファイル一式をまとめたZIP等の完成パッケージは、ビザの種類ごとの一回払いで利用します。月額制ではありません。料金は国によって異なるため、利用画面で対象機能と金額を確認してください。
-
-書類の整理と、英国政府への正式な申請・提出は別の作業です。
-
-### Stratovisaのサービス料金が35％OFFになる紹介コード
-
-書類準備を始める方は、利用する地域に合うコードと専用リンクをご利用ください。
-
-#### 日本から利用する方
-
-**紹介コード：TABIDACHI（旅立ち）**
-
-[35％OFFの紹介コードを付けて、Stratovisaを無料で始める](https://stratovisa.com/ja/signup?ref=TABIDACHI)
-
-#### 英国から利用する方
-
-**紹介コード：ISSHONI（一緒に）**
-
-[35％OFFの紹介コードを付けて、Stratovisaを無料で始める](https://stratovisa.com/ja/signup?ref=ISSHONI)
-
-#### 紹介コードの使い方
-
-専用リンクから登録するとコードが自動で適用されます。直接入力する場合は、登録画面または決済画面の「紹介コードをお持ちですか？」欄を使います。
-
-- 登録後でも、支払い前ならコードを追加できます。支払い後には追加できません。
-- 適用地域はアクセス元の国・IPで判定されます。VPNの利用で判定が変わる場合があります。
-- 1アカウントに適用できるコードは一つで、適用後の変更はできません。他の割引との重ねがけはできません。
-- 支払い前に、サービス料金へ35％OFFが反映されていることをご確認ください。
-
-**割引対象はStratovisaの有料サービス料金です。** 無料機能は支払いなしで利用でき、英国政府のビザ申請料、IHS、英語試験、翻訳、学費等は割引対象ではありません。
-
-※Stratovisaは書類整理ツールであり、移民アドバイザーではありません。申請資格の判断や移民法上の助言は行いません。書類の要件はGOV.UKの公開ガイダンスに基づいています。英国政府・UKVIとも提携していません。
-
-## 関連する準備ガイド・公式情報
-
-- [ファミリービザの全体像](/family.html)
-- [書類の取得・整理](/documents.html)
-- [GOV.UK：パートナー・配偶者](https://www.gov.uk/uk-family-visa/partner-spouse)
-- [Home Office：Family lifeガイダンス](https://www.gov.uk/government/publications/family-life-as-a-partner-or-parent-private-life-and-exceptional-circumstance/family-life-as-a-partner-or-parent-and-exceptional-circumstances-accessible)
-- [GOV.UK：提出する情報](https://www.gov.uk/uk-family-visa/provide-information)
-
-編集：UK VISA FOLIO。一般的な情報と資料整理の説明であり、個別の申請資格や審査結果を判断するものではありません。
+在学証明書は、同居できなかった事情を補足する資料の一例です。関係の継続は、二人の実際のやり取りや面会などを示す資料で説明します。関係以外の要件については、[GOV.UKの申請案内](https://www.gov.uk/uk-family-visa/partner-spouse)も確認してください。
