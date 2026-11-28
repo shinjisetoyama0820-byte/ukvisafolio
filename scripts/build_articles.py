@@ -166,6 +166,20 @@ def add_currency_converter(markdown_html, lang='ja'):
 def new_badge(timestamp, label):
     return f'<span class="new-badge" data-new-since="{esc(timestamp)}" aria-label="{esc(label)}">NEW</span>' if timestamp else ''
 
+OFFER_BLOCK = re.compile(r'^\[\[STRATOVISA_OFFER\]\][ \t]*\n(.*?)^\[\[/STRATOVISA_OFFER\]\][ \t]*(?:\n|$)', re.M | re.S)
+
+
+def render_article_body(body, lang):
+    parts = OFFER_BLOCK.split(body)
+    rendered = []
+    for index, part in enumerate(parts):
+        markup = mistune.html(html.escape(part))
+        if index % 2:
+            markup = f'<section class="stratovisa-offer">{markup}</section>'
+        rendered.append(markup)
+    return add_currency_converter(''.join(rendered), lang)
+
+
 SITE_STYLE = r"""
 :root{color-scheme:light;--navy:#102b47;--ink:#233448;--gold:#b18a4c;--line:#dce4ea;--muted:#5c6b7a}
 *{box-sizing:border-box}body{margin:0;font:16px/1.85 system-ui,-apple-system,"Hiragino Kaku Gothic ProN","Noto Sans JP",sans-serif;background:#f5f7fa;color:var(--ink)}
@@ -195,6 +209,15 @@ p,li{overflow-wrap:anywhere}ul,ol{padding-left:1.5em}li{margin:9px 0}.muted{colo
 .empty-state{padding:40px 24px;border:1px dashed #becbd5;border-radius:12px;text-align:center;background:#fafbfd;color:var(--muted)}
 .article-detail{max-width:820px;margin:auto}.article-detail h1{font-size:clamp(1.55rem,3vw,2.15rem)}
 .article-detail p{margin:1.1em 0}.article-detail img{max-width:100%;height:auto}
+.stratovisa-offer{background:#fff8e8;border:1px solid #e0c489;border-left:4px solid #9b691d;border-radius:12px;padding:clamp(16px,4vw,28px);margin:2rem 0;color:#102b47}
+.stratovisa-offer h2{margin:0 0 1rem;border-bottom:1px solid #dec690;padding-bottom:.6rem}
+.stratovisa-offer h3{margin:1.1rem 0 .45rem}
+.stratovisa-offer h3+p{margin-top:0}
+.stratovisa-offer h3+p>strong{display:inline-block;background:#fff;border:1px solid #d2b276;border-radius:6px;padding:.35rem .65rem;color:#102b47;overflow-wrap:anywhere}
+.stratovisa-offer a[href^="https://stratovisa.com/"]{display:inline-block;max-width:100%;background:#102b47;color:#fff;border-radius:7px;padding:.55rem .9rem;font-weight:700;text-decoration:underline;text-underline-offset:.16em;overflow-wrap:anywhere}
+.stratovisa-offer a[href^="https://stratovisa.com/"]:hover{background:#254d73}
+.stratovisa-offer a[href^="https://stratovisa.com/"]:focus-visible{outline:3px solid #9b691d;outline-offset:3px}
+.stratovisa-offer>:last-child{margin-bottom:0}
 .notice{background:#f2f7f8;padding:16px 20px;border-left:3px solid #28788a;border-radius:4px}
 .site-footer{text-align:center;color:#667586;font-size:.8rem;padding:0 20px 36px}
 .site-header .lang-select[data-lang-select]{appearance:none;-webkit-appearance:none;-moz-appearance:none;background-color:#fff;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='14' height='14' viewBox='0 0 14 14'%3E%3Cg fill='none' stroke='%23102b47' stroke-width='1'%3E%3Ccircle cx='7' cy='7' r='6'/%3E%3Cellipse cx='7' cy='7' rx='2.6' ry='6'/%3E%3Cline x1='1' y1='7' x2='13' y2='7'/%3E%3C/g%3E%3C/svg%3E"),url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'%3E%3Cpath fill='none' stroke='%23102b47' stroke-width='1.5' d='M1 1l4 4 4-4'/%3E%3C/svg%3E");background-repeat:no-repeat,no-repeat;background-position:left 6px center,right 6px center;border:1px solid #d6dee7;border-radius:8px;padding:3px 20px 3px 24px;font-size:12px;font-weight:500;color:#102b47;cursor:pointer;font-family:inherit;line-height:1.4;flex-shrink:0}
@@ -483,7 +506,7 @@ for item in items:
     ui = LANGS[lang]
     versions = [(code, absolute(code, f'articles/{item["slug"]}.html')) for code in LANGS if code in by_slug.get(item['slug'], {})]
     canonical = absolute(lang, f'articles/{item["slug"]}.html')
-    safe_body = add_currency_converter(mistune.html(html.escape(item['body'])), lang)
+    safe_body = render_article_body(item['body'], lang)
     if item['source']:
         citation = f'<p><strong>{esc(ui["source_label"])}</strong><a rel="noopener noreferrer" href="{esc(item["source"])}">{esc(ui["source_link"])}</a></p>'
     else:
@@ -499,7 +522,7 @@ for item in items:
                  f'> {ui["md_date"]}: {item["date"]}\n'
                  f'> {ui["md_desc"]}: {item["description"]}\n\n')
     md_footer = f'\n\n---\n{ui["md_change"]}\n' + (f'{ui["md_gov"]}: {item["source"]}\n' if item['source'] else '') + f'{ui["md_html"]}: {canonical}\n'
-    (out_dir / f'{item["slug"]}.md').write_text(md_header + item['body'].replace(GBP_JPY_SHORTCODE, ui['fx']).strip() + md_footer, encoding='utf-8')
+    (out_dir / f'{item["slug"]}.md').write_text(md_header + OFFER_BLOCK.sub(r'\1', item['body']).replace(GBP_JPY_SHORTCODE, ui['fx']).strip() + md_footer, encoding='utf-8')
 
 def listing(lang, group):
     ui = LANGS[lang]

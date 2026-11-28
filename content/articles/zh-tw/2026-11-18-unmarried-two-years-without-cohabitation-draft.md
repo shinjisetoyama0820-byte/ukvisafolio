@@ -35,7 +35,23 @@ free_publish_topic_date: "2026-11-28"
 
 在學證明可能放在學校系統，機票和探訪紀錄又在不同信箱。用 Stratovisa 的文件清單盤點哪些資料已經找齊、哪些還在等譯本，重新檢查某段期間時就不用到處翻找。
 
-在台灣使用時，付款前輸入優惠代碼 **SPECIALOFFER**，即可享 Stratovisa 服務費 65 折（省 35%）。英國政府的簽證申請費及移民醫療附加費（IHS）不適用。
+[[STRATOVISA_OFFER]]
+
+## Stratovisa 服務費 65 折（省 35%）
+
+### 從台灣使用服務
+
+**優惠代碼：SPECIALOFFER**
+
+[開始使用 Stratovisa](https://stratovisa.com/)
+
+### 如何使用優惠代碼
+
+請在註冊時或付款前，在優惠代碼欄位輸入 **SPECIALOFFER**，並確認結帳金額已顯示折扣。每個帳號限用一組代碼，付款後無法補登，也不能與其他優惠併用。
+
+**折扣適用於 Stratovisa 服務費。** 英國政府的簽證申請費與移民醫療附加費（IHS）不適用。
+
+[[/STRATOVISA_OFFER]]
 
 ## 常見問題
 

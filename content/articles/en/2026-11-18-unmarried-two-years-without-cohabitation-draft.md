@@ -33,7 +33,23 @@ Label each record with the period it covers and what it helps explain. If a docu
 
 If your bills, visit records and translations are scattered across inboxes, use Stratovisa’s document checklist to see what you already have and what you still need to collect. Keeping related files together makes it easier to pick up the work where you left off.
 
-If you are in the UK, use [**ISSHONI**](https://stratovisa.com/ja/signup?ref=ISSHONI) before payment for 35% off Stratovisa’s service fee. UK government application fees and the immigration health surcharge are excluded.
+[[STRATOVISA_OFFER]]
+
+## Get 35% off Stratovisa’s service fee
+
+### For readers using Stratovisa from the UK
+
+**Referral code: ISSHONI**
+
+[Get started with Stratovisa and apply the 35% code](https://stratovisa.com/ja/signup?ref=ISSHONI)
+
+### How to use the code
+
+Use the link to apply the code automatically when you sign up. If entering it manually, add it before payment and check the discount at checkout. One code per account. The code cannot be added after payment or combined with another discount.
+
+**The saving applies to Stratovisa’s service fee.** UK government application fees and the immigration health surcharge (IHS) are excluded.
+
+[[/STRATOVISA_OFFER]]
 
 ## Frequently asked questions
 
