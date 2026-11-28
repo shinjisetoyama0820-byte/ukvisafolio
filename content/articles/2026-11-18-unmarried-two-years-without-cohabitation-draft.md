@@ -1,7 +1,7 @@
 ---
 title: "【英国未婚パートナービザ】2年ずっと同居していないとき、関係をどう示す？"
 date: "2026-11-28"
-status: "draft"
+status: published
 category: "guide"
 lang: "ja"
 description: "日本と英国で別々に暮らした期間がある二人へ。2年の関係要件、別居の事情と交際の継続を示す資料、翻訳の確認を整理します。"
@@ -12,6 +12,7 @@ qa_native: "PASS"
 qa_citation: "PASS"
 qa_similarity: "PASS"
 qa_compliance: "PASS"
+free_publish_topic_date: "2026-11-28"
 ---
 
 英国の未婚パートナービザを調べていて、「交際は2年以上だけれど、ずっと一緒には住んでいない」と迷うことがあります。[GOV.UKのパートナー申請案内](https://www.gov.uk/uk-family-visa/partner-spouse)では、申請時に2年以上の関係があり、仕事や学業などで同居できない場合も説明しています。その場合は、離れて暮らしている間も互いへの継続的な関わりがあることを示します。

@@ -1,7 +1,7 @@
 ---
 title: "영국 미혼 파트너 비자, 2년 동안 함께 살지 않았다면 어떤 서류를 준비할까?"
 date: "2026-11-28"
-status: "draft"
+status: published
 category: "guide"
 lang: "ko"
 description: "한국과 영국에서 따로 지낸 경우, 2년 관계 요건과 재학증명서, 방문 기록 등으로 기간을 정리하는 방법을 설명합니다."
@@ -12,6 +12,7 @@ qa_native: "PASS"
 qa_citation: "PASS"
 qa_similarity: "PASS"
 qa_compliance: "PASS"
+free_publish_topic_date: "2026-11-28"
 ---
 
 한 사람은 한국에서 공부하고 다른 사람은 영국에서 일했다면, 두 사람이 같은 주소에서 지낸 기간만으로 관계 전체를 설명하기 어려울 수 있습니다. [영국 정부의 가족 비자 안내](https://www.gov.uk/uk-family-visa/partner-spouse)에는 신청 시점에 관계가 2년 이상 이어졌지만 일이나 학업 등으로 함께 살 수 없었던 경우도 나와 있습니다. 이때는 떨어져 지내는 동안에도 서로에 대한 관계와 책임이 이어졌음을 보여 주어야 합니다.

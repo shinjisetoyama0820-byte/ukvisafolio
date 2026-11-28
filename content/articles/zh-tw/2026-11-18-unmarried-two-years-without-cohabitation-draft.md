@@ -1,7 +1,7 @@
 ---
 title: "英國未婚伴侶簽證｜沒有同住滿兩年，可以整理哪些關係證明？"
 date: "2026-11-28"
-status: "draft"
+status: published
 category: "guide"
 lang: "zh-tw"
 description: "給曾在台灣與英國分開居住的伴侶。整理兩年關係要求、在學證明、見面紀錄與認證翻譯。"
@@ -12,6 +12,7 @@ qa_native: "PASS"
 qa_citation: "PASS"
 qa_similarity: "PASS"
 qa_compliance: "PASS"
+free_publish_topic_date: "2026-11-28"
 ---
 
 如果一方留在台灣念書、一方在英國工作，準備英國未婚伴侶簽證時，可能找不到連續兩年的同地址文件。[英國政府的伴侶簽證說明](https://www.gov.uk/uk-family-visa/partner-spouse)也涵蓋申請時關係已持續至少兩年，但因工作、就學等原因無法同住的情況。這時，要用資料說明分開住的期間，兩人仍有持續的關係與承諾。

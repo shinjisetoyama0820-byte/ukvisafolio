@@ -1,7 +1,7 @@
 ---
 title: "UK unmarried partner visa: how to show your relationship when you live apart"
 date: "2026-11-28"
-status: "draft"
+status: published
 category: "guide"
 lang: "en"
 description: "Find out how to organise evidence of a two-year relationship when you and your partner live apart, including what a UK Council Tax bill can show."
@@ -12,6 +12,7 @@ qa_native: "PASS"
 qa_citation: "PASS"
 qa_similarity: "PASS"
 qa_compliance: "PASS"
+free_publish_topic_date: "2026-11-28"
 ---
 
 When applying as an unmarried partner, a two-year relationship and two years at the same address are different questions. [GOV.UK’s family visa guidance](https://www.gov.uk/uk-family-visa/partner-spouse) covers couples who have been in a relationship for at least two years but cannot live together, for example because they work or study in different places. It asks for evidence of an ongoing commitment to each other.
