@@ -434,7 +434,7 @@ for code in LANGS:
 
 def source_files():
     yield from ((path, None) for path in sorted(CONT.glob('*.md')))
-    for code in ('en', 'hi'):
+    for code in (code for code in LANGS if code != 'ja'):
         folder = CONT / code
         if folder.is_dir():
             yield from ((path, code) for path in sorted(folder.glob('*.md')))
