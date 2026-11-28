@@ -6,7 +6,7 @@ import os
 import re
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
-from urllib.error import URLError
+from urllib.error import HTTPError, URLError
 from urllib.parse import urlsplit
 from urllib.request import Request, urlopen
 
@@ -78,8 +78,18 @@ def call_editor(instructions, material, schema):
         headers={"Authorization": "Bearer " + os.environ["OPENAI_API_KEY"], "Content-Type": "application/json"},
         method="POST",
     )
-    with urlopen(request, timeout=300) as response:
-        result = json.load(response)
+    try:
+        with urlopen(request, timeout=300) as response:
+            result = json.load(response)
+    except HTTPError as error:
+        try:
+            details = json.load(error).get("error", {})
+        except (ValueError, AttributeError):
+            details = {}
+        code = details.get("code") or details.get("type") or "unknown"
+        if not isinstance(code, str) or not re.fullmatch(r"[a-zA-Z0-9_-]+", code):
+            code = "unknown"
+        raise RuntimeError(f"OpenAI API HTTP {error.code}: {code}") from None
     if result.get("status") != "completed" or not any(
         item.get("type") == "web_search_call" and item.get("status") == "completed" for item in result["output"]
     ):
