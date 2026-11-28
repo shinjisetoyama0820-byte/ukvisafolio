@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
     inputs:
       preview:
-        description: 'Generate and review without publishing'
+        description: 'Check reviewed editions without publishing'
         type: boolean
         default: true
       retry_only:
@@ -24,39 +24,21 @@ concurrency:
 
 jobs:
   review-and-publish:
-    if: github.ref == 'refs/heads/main' && (vars.ARTICLE_PUBLISH_ENABLED == 'true' || (github.event_name == 'workflow_dispatch' && inputs.preview))
+    if: github.ref == 'refs/heads/main' && (vars.FREE_ARTICLE_PUBLISH_ENABLED == 'true' || (github.event_name == 'workflow_dispatch' && inputs.preview))
     runs-on: ubuntu-latest
     timeout-minutes: 45
     env:
-      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-      OPENAI_ARTICLE_MODEL: ${{ vars.OPENAI_ARTICLE_MODEL }}
       PREVIEW: ${{ inputs.preview }}
       RETRY_ONLY: ${{ inputs.retry_only || github.event.schedule == '5,20,35,50 * * * *' }}
     steps:
       - uses: actions/checkout@v4
         with:
           ref: main
-      - name: Check for pending editions
-        id: queue
-        run: |
-          if [ "$RETRY_ONLY" != true ] || { [ -s editorial/pending-article-editions.json ] && [ "$(cat editorial/pending-article-editions.json)" != '{}' ]; }; then
-            echo 'run=true' >> "$GITHUB_OUTPUT"
-          fi
-      - name: Verify configuration
-        if: steps.queue.outputs.run == 'true'
-        run: |
-          if [ -z "$OPENAI_API_KEY" ]; then
-            echo "::error::Configure OPENAI_API_KEY in repository Actions secrets."
-            exit 1
-          fi
       - uses: actions/setup-python@v5
-        if: steps.queue.outputs.run == 'true'
         with:
           python-version: '3.13'
       - run: python -m pip install -r requirements.txt
-        if: steps.queue.outputs.run == 'true'
-      - name: Write and independently review one topic
-        if: steps.queue.outputs.run == 'true'
+      - name: Select reviewed language editions
         run: |
           options=()
           if [ "$PREVIEW" = true ]; then
@@ -65,14 +47,11 @@ jobs:
           if [ "$RETRY_ONLY" = true ]; then
             options+=(--retry-only)
           fi
-          python scripts/publish_daily_articles.py "${options[@]}"
+          python scripts/publish_reviewed_articles.py "${options[@]}"
       - name: Verify site build and publish
-        if: steps.queue.outputs.run == 'true' && env.PREVIEW != 'true'
+        if: env.PREVIEW != 'true'
         run: |
           git add -- content/articles
-          if [ -f editorial/pending-article-editions.json ]; then
-            git add -- editorial/pending-article-editions.json
-          fi
           if git diff --cached --quiet; then
             exit 0
           fi
