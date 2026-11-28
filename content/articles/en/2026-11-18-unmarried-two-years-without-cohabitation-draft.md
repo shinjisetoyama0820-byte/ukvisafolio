@@ -29,6 +29,26 @@ For the period apart, make a short timeline. A university letter or a letter fro
 
 Label each record with the period it covers and what it helps explain. If a document you submit is in a language other than English or Welsh, [GOV.UK asks for a certified translation](https://www.gov.uk/uk-family-visa/provide-information). Keep the original and its translation together so that names and dates are easy to compare.
 
+### Worked example: periods apart, a visit and a shared home
+
+Imagine one partner was studying overseas, while the other was working in the UK. This example covers part of their relationship. The dates and documents are illustrative.
+
+| Period | Records to put together | What they help explain |
+| --- | --- | --- |
+| April to June: living apart | A letter confirming enrolment, plus dated call records | Why one partner was based elsewhere and how they kept in touch |
+| July: a brief visit to the UK | The booking confirmation plus a boarding pass, if available | The trip as planned and evidence of travel. Record this period as a visit |
+| August to October: sharing a UK address | A tenancy agreement and Council Tax correspondence covering the shared address and relevant dates | Where and when they lived together. If a document names only one person, note whose address it establishes |
+
+Check what each document actually says. For example, a booking shows what was arranged, while a boarding pass or other travel record can help corroborate that the trip took place. A timeline is easier to follow when each entry points to its supporting document.
+
+### If you do not have a joint account or old messages
+
+- **Separate bank accounts.** If you shared an expense, put the transfer record beside the corresponding bill or message. If you did not share costs, use genuine records of other parts of the relationship, such as visits or regular contact.
+- **Missing messages.** Look for dated travel emails or calendar entries that still exist. Record dates you can support and briefly explain any gap you cannot account for with documents.
+- **No bill in both names.** For periods when you lived together, compare individual letters for the same address and overlapping dates. Keep periods when your records show different addresses separate.
+
+[Home Office caseworker guidance](https://www.gov.uk/government/publications/family-life-as-a-partner-or-parent-private-life-and-exceptional-circumstance/family-life-as-a-partner-or-parent-and-exceptional-circumstances-accessible#specified-evidence) explains that decision makers consider the evidence as a whole. Use this timeline to organise the relationship evidence and check your application instructions for any separately specified documents.
+
 ## Organise your documents with Stratovisa
 
 If your bills, visit records and translations are scattered across inboxes, use Stratovisa’s document checklist to see what you already have and what you still need to collect. Keeping related files together makes it easier to pick up the work where you left off.
